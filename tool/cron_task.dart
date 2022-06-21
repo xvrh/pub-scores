@@ -8,7 +8,7 @@ import 'package:github/github.dart';
 import 'package:pool/pool.dart';
 import 'package:retry/retry.dart';
 
-const _maxPackagesPerTask = 500;
+const _maxPackagesPerTask = 2500;
 final _packagesFile = File('lib/data/all_packages.json');
 
 void main() async {
