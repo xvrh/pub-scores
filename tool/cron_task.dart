@@ -35,14 +35,13 @@ void main() async {
   var pool = Pool(15);
   final retryOptions = RetryOptions(maxAttempts: 3);
 
-
   for (var packageName in slicedPackages) {
     pool.withResource(() async {
       var packageInfo = await retryOptions.retry(
-            () => pubClient.packageInfo(packageName),
+        () => pubClient.packageInfo(packageName),
       );
       var packageScore = await retryOptions.retry(
-            () => pubClient.packageScore(packageName),
+        () => pubClient.packageScore(packageName),
       );
 
       var repositoryUri = packageInfo.latest.pubspec.repository ??
@@ -51,12 +50,18 @@ void main() async {
       if (repositoryUri != null && repositoryUri.host == 'github.com') {
         var segments = repositoryUri.pathSegments;
         if (segments.length >= 2) {
+          var repoName = segments.take(2).join('/');
+          var extensionToRemove = '.git';
+          if (repoName.endsWith(extensionToRemove)) {
+            repoName = repoName.substring(
+                0, repoName.length - extensionToRemove.length);
+          }
+          var slug = RepositorySlug.full(repoName);
           var githubClient = GitHub(auth: findAuthenticationFromEnvironment());
           try {
-            var slug = RepositorySlug(segments[0], segments[1]);
             var repository =
                 await githubClient.repositories.getRepository(slug);
-            github = GitHubInfo(repositoryUri.replace(path: slug.fullName),
+            github = GitHubInfo(repositoryUri.replace(path: repoName),
                 starCount: repository.stargazersCount,
                 forkCount: repository.forksCount);
           } catch (e) {
