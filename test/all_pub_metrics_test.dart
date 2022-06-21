@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'dart:io';
 
-import 'package:all_pub_metrics/all_pub_metrics.dart';
+import 'package:pub_scores/pub_scores.dart';
 import 'package:test/test.dart';
 
 void main() {
