@@ -27,10 +27,20 @@ Package _$PackageFromJson(Map<String, dynamic> json) => Package(
           : GitHubInfo.fromJson(json['github'] as Map<String, dynamic>),
     );
 
-Map<String, dynamic> _$PackageToJson(Package instance) => <String, dynamic>{
-      'pub': instance.pub,
-      'github': instance.github,
-    };
+Map<String, dynamic> _$PackageToJson(Package instance) {
+  final val = <String, dynamic>{
+    'pub': instance.pub,
+  };
+
+  void writeNotNull(String key, dynamic value) {
+    if (value != null) {
+      val[key] = value;
+    }
+  }
+
+  writeNotNull('github', instance.github);
+  return val;
+}
 
 PubInfo _$PubInfoFromJson(Map<String, dynamic> json) => PubInfo(
       likeCount: json['likeCount'] as int,

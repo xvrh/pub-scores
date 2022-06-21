@@ -15,7 +15,7 @@ class Packages {
   Map<String, dynamic> toJson() => _$PackagesToJson(this);
 }
 
-@JsonSerializable()
+@JsonSerializable(includeIfNull: false)
 class Package {
   final PubInfo pub;
   final GitHubInfo? github;

@@ -303,7 +303,7 @@ packages:
     source: hosted
     version: "1.8.2"
   pool:
-    dependency: transitive
+    dependency: "direct dev"
     description:
       name: pool
       url: "https://pub.dartlang.org"
