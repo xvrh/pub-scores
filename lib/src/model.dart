@@ -13,6 +13,8 @@ class PubScores {
       _$PubScoresFromJson(json);
 
   Map<String, dynamic> toJson() => _$PubScoresToJson(this);
+
+  PubScore? operator[](String name) => packages[name];
 }
 
 @JsonSerializable(includeIfNull: false)
