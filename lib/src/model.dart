@@ -33,11 +33,13 @@ class Package {
 
 @JsonSerializable()
 class PubInfo {
+  final int likeCount;
   final int? grantedPoints;
-  final int popularityScore;
+  final double? popularityScore;
   final DateTime lastUpdated;
 
   PubInfo({
+    required this.likeCount,
     required this.grantedPoints,
     required this.popularityScore,
     required this.lastUpdated,
@@ -69,10 +71,10 @@ class GitHubInfo {
 
 @JsonSerializable()
 class Update {
-  final String? endPackageName;
+  final int endIndex;
   final DateTime date;
 
-  Update({required this.endPackageName, required this.date});
+  Update({required this.endIndex, required this.date});
 
   factory Update.fromJson(Map<String, dynamic> json) => _$UpdateFromJson(json);
 

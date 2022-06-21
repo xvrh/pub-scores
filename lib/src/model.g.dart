@@ -33,12 +33,14 @@ Map<String, dynamic> _$PackageToJson(Package instance) => <String, dynamic>{
     };
 
 PubInfo _$PubInfoFromJson(Map<String, dynamic> json) => PubInfo(
+      likeCount: json['likeCount'] as int,
       grantedPoints: json['grantedPoints'] as int?,
-      popularityScore: json['popularityScore'] as int,
+      popularityScore: (json['popularityScore'] as num?)?.toDouble(),
       lastUpdated: DateTime.parse(json['lastUpdated'] as String),
     );
 
 Map<String, dynamic> _$PubInfoToJson(PubInfo instance) => <String, dynamic>{
+      'likeCount': instance.likeCount,
       'grantedPoints': instance.grantedPoints,
       'popularityScore': instance.popularityScore,
       'lastUpdated': instance.lastUpdated.toIso8601String(),
@@ -58,11 +60,11 @@ Map<String, dynamic> _$GitHubInfoToJson(GitHubInfo instance) =>
     };
 
 Update _$UpdateFromJson(Map<String, dynamic> json) => Update(
-      endPackageName: json['endPackageName'] as String?,
+      endIndex: json['endIndex'] as int,
       date: DateTime.parse(json['date'] as String),
     );
 
 Map<String, dynamic> _$UpdateToJson(Update instance) => <String, dynamic>{
-      'endPackageName': instance.endPackageName,
+      'endIndex': instance.endIndex,
       'date': instance.date.toIso8601String(),
     };
