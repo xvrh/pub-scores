@@ -67,7 +67,7 @@ void main() async {
         }
       }
 
-      packageMap[packageName] = Package(
+      packageMap[packageName] = PubScore(
           pub: PubInfo(
               likeCount: packageScore.likeCount,
               grantedPoints: packageScore.grantedPoints,
@@ -79,7 +79,7 @@ void main() async {
 
   await pool.close();
 
-  var newPackages = Packages({
+  var newPackages = PubScores({
     for (var entry in packageMap.entries.sortedBy((e) => e.key))
       entry.key: entry.value
   }, lastUpdate: Update(date: DateTime.now().toUtc(), endIndex: newEndIndex));
@@ -91,8 +91,8 @@ void main() async {
   exit(0);
 }
 
-Future<Packages> _loadPackages() async {
+Future<PubScores> _loadPackages() async {
   var content = await _packagesFile.readAsString();
   var json = jsonDecode(content) as Map<String, dynamic>;
-  return Packages.fromJson(json);
+  return PubScores.fromJson(json);
 }

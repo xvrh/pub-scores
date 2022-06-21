@@ -6,28 +6,28 @@ part of 'model.dart';
 // JsonSerializableGenerator
 // **************************************************************************
 
-Packages _$PackagesFromJson(Map<String, dynamic> json) => Packages(
+PubScores _$PubScoresFromJson(Map<String, dynamic> json) => PubScores(
       (json['packages'] as Map<String, dynamic>).map(
-        (k, e) => MapEntry(k, Package.fromJson(e as Map<String, dynamic>)),
+        (k, e) => MapEntry(k, PubScore.fromJson(e as Map<String, dynamic>)),
       ),
       lastUpdate: json['lastUpdate'] == null
           ? null
           : Update.fromJson(json['lastUpdate'] as Map<String, dynamic>),
     );
 
-Map<String, dynamic> _$PackagesToJson(Packages instance) => <String, dynamic>{
+Map<String, dynamic> _$PubScoresToJson(PubScores instance) => <String, dynamic>{
       'packages': instance.packages,
       'lastUpdate': instance.lastUpdate,
     };
 
-Package _$PackageFromJson(Map<String, dynamic> json) => Package(
+PubScore _$PubScoreFromJson(Map<String, dynamic> json) => PubScore(
       pub: PubInfo.fromJson(json['pub'] as Map<String, dynamic>),
       github: json['github'] == null
           ? null
           : GitHubInfo.fromJson(json['github'] as Map<String, dynamic>),
     );
 
-Map<String, dynamic> _$PackageToJson(Package instance) {
+Map<String, dynamic> _$PubScoreToJson(PubScore instance) {
   final val = <String, dynamic>{
     'pub': instance.pub,
   };
@@ -45,7 +45,7 @@ Map<String, dynamic> _$PackageToJson(Package instance) {
 PubInfo _$PubInfoFromJson(Map<String, dynamic> json) => PubInfo(
       likeCount: json['likeCount'] as int,
       grantedPoints: json['grantedPoints'] as int?,
-      popularityScore: (json['popularityScore'] as num?)?.toDouble(),
+      popularityScore: json['popularityScore'] as num?,
       lastUpdated: DateTime.parse(json['lastUpdated'] as String),
     );
 

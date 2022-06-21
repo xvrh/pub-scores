@@ -3,32 +3,32 @@ import 'package:json_annotation/json_annotation.dart';
 part 'model.g.dart';
 
 @JsonSerializable()
-class Packages {
-  final Map<String, Package> packages;
+class PubScores {
+  final Map<String, PubScore> packages;
   final Update? lastUpdate;
 
-  Packages(this.packages, {this.lastUpdate});
+  PubScores(this.packages, {this.lastUpdate});
 
-  factory Packages.fromJson(Map<String, dynamic> json) =>
-      _$PackagesFromJson(json);
+  factory PubScores.fromJson(Map<String, dynamic> json) =>
+      _$PubScoresFromJson(json);
 
-  Map<String, dynamic> toJson() => _$PackagesToJson(this);
+  Map<String, dynamic> toJson() => _$PubScoresToJson(this);
 }
 
 @JsonSerializable(includeIfNull: false)
-class Package {
+class PubScore {
   final PubInfo pub;
   final GitHubInfo? github;
 
-  Package({
+  PubScore({
     required this.pub,
     required this.github,
   });
 
-  factory Package.fromJson(Map<String, dynamic> json) =>
-      _$PackageFromJson(json);
+  factory PubScore.fromJson(Map<String, dynamic> json) =>
+      _$PubScoreFromJson(json);
 
-  Map<String, dynamic> toJson() => _$PackageToJson(this);
+  Map<String, dynamic> toJson() => _$PubScoreToJson(this);
 }
 
 @JsonSerializable()

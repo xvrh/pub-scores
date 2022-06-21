@@ -10,7 +10,7 @@ void main() {
 
     var content = File(dataPath).readAsStringSync();
     var json = jsonDecode(content) as Map<String, dynamic>;
-    var packages = Packages.fromJson(json);
+    var packages = PubScores.fromJson(json);
 
     expect(packages.packages, isNotEmpty);
   });
