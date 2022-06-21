@@ -7,7 +7,7 @@ import 'package:pub_api_client/pub_api_client.dart';
 import 'package:github/github.dart';
 import 'package:pool/pool.dart';
 
-const _maxPackagesPerTask = 100;
+const _maxPackagesPerTask = 500;
 final _packagesFile = File('data/all_packages.json');
 
 void main() async {
