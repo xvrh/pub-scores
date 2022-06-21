@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'dart:io';
 import 'dart:math';
-
+import 'package:collection/collection.dart';
 import 'package:all_pub_metrics/src/model.dart';
 import 'package:pub_api_client/pub_api_client.dart';
 import 'package:github/github.dart';
@@ -73,8 +73,10 @@ void main() async {
 
   await pool.close();
 
-  var newPackages = Packages(packageMap,
-      lastUpdate: Update(date: DateTime.now().toUtc(), endIndex: newEndIndex));
+  var newPackages = Packages({
+    for (var entry in packageMap.entries.sortedBy((e) => e.key))
+      entry.key: entry.value
+  }, lastUpdate: Update(date: DateTime.now().toUtc(), endIndex: newEndIndex));
 
   await _packagesFile
       .writeAsString(JsonEncoder.withIndent('  ').convert(newPackages));
