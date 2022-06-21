@@ -6,6 +6,7 @@ import 'package:all_pub_metrics/src/model.dart';
 import 'package:pub_api_client/pub_api_client.dart';
 import 'package:github/github.dart';
 import 'package:pool/pool.dart';
+import 'package:retry/retry.dart';
 
 const _maxPackagesPerTask = 500;
 final _packagesFile = File('data/all_packages.json');
@@ -32,11 +33,17 @@ void main() async {
   packageMap.removeWhere((key, value) => !packages.contains(key));
 
   var pool = Pool(15);
+  final retryOptions = RetryOptions(maxAttempts: 3);
+
 
   for (var packageName in slicedPackages) {
     pool.withResource(() async {
-      var packageInfo = await pubClient.packageInfo(packageName);
-      var packageScore = await pubClient.packageScore(packageName);
+      var packageInfo = await retryOptions.retry(
+            () => pubClient.packageInfo(packageName),
+      );
+      var packageScore = await retryOptions.retry(
+            () => pubClient.packageScore(packageName),
+      );
 
       var repositoryUri = packageInfo.latest.pubspec.repository ??
           Uri.tryParse(packageInfo.latest.pubspec.homepage ?? '');
@@ -45,7 +52,6 @@ void main() async {
         var segments = repositoryUri.pathSegments;
         if (segments.length >= 2) {
           var githubClient = GitHub(auth: findAuthenticationFromEnvironment());
-
           try {
             var slug = RepositorySlug(segments[0], segments[1]);
             var repository =

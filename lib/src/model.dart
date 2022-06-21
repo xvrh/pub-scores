@@ -35,7 +35,7 @@ class Package {
 class PubInfo {
   final int likeCount;
   final int? grantedPoints;
-  final double? popularityScore;
+  final num? popularityScore;
   final DateTime lastUpdated;
 
   PubInfo({
