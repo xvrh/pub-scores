@@ -57,11 +57,12 @@ void main() async {
                 0, repoName.length - extensionToRemove.length);
           }
           var slug = RepositorySlug.full(repoName);
+          repositoryUri = repositoryUri.replace(path: repoName);
           var githubClient = GitHub(auth: findAuthenticationFromEnvironment());
           try {
             var repository =
                 await githubClient.repositories.getRepository(slug);
-            github = GitHubInfo(repositoryUri.replace(path: repoName),
+            github = GitHubInfo(repositoryUri,
                 starCount: repository.stargazersCount,
                 forkCount: repository.forksCount);
           } catch (e) {
