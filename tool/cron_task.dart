@@ -2,6 +2,7 @@ import 'dart:convert';
 import 'dart:io';
 import 'dart:math';
 import 'package:collection/collection.dart';
+import 'package:json_annotation/json_annotation.dart';
 import 'package:pub_scores/src/model.dart';
 import 'package:pub_api_client/pub_api_client.dart';
 import 'package:github/github.dart';
@@ -33,53 +34,16 @@ void main() async {
   packageMap.removeWhere((key, value) => !packages.contains(key));
 
   var pool = Pool(15);
-  final retryOptions = RetryOptions(maxAttempts: 3);
 
   for (var packageName in slicedPackages) {
     pool.withResource(() async {
-      var packageInfo = await retryOptions.retry(
-        () => pubClient.packageInfo(packageName),
-      );
-      var packageScore = await retryOptions.retry(
-        () => pubClient.packageScore(packageName),
-      );
-
-      var repositoryUri = packageInfo.latest.pubspec.repository ??
-          Uri.tryParse(packageInfo.latest.pubspec.homepage ?? '');
-      GitHubInfo? github;
-      if (repositoryUri != null && repositoryUri.host == 'github.com') {
-        var segments = repositoryUri.pathSegments;
-        if (segments.length >= 2) {
-          var repoName = segments.take(2).join('/');
-          var extensionToRemove = '.git';
-          if (repoName.endsWith(extensionToRemove)) {
-            repoName = repoName.substring(
-                0, repoName.length - extensionToRemove.length);
-          }
-          var slug = RepositorySlug.full(repoName);
-          repositoryUri = repositoryUri.replace(path: repoName);
-          var githubClient = GitHub(auth: findAuthenticationFromEnvironment());
-          try {
-            var repository =
-                await githubClient.repositories.getRepository(slug);
-            github = GitHubInfo(repositoryUri,
-                starCount: repository.stargazersCount,
-                forkCount: repository.forksCount);
-          } catch (e) {
-            print('Failed to load repository info [$repositoryUri]: $e');
-          } finally {
-            githubClient.client.close();
-          }
-        }
+      try {
+        var score = await _loadPackage(pubClient, packageName);
+        packageMap[packageName] = score;
+      } on CheckedFromJsonException catch (e) {
+        // Some packages can have malformed pubspec
+        print('Failed to load package: $packageName');
       }
-
-      packageMap[packageName] = PubScore(
-          pub: PubInfo(
-              likeCount: packageScore.likeCount,
-              grantedPoints: packageScore.grantedPoints,
-              lastUpdated: packageScore.lastUpdated,
-              popularityScore: packageScore.popularityScore),
-          github: github);
     });
   }
 
@@ -95,6 +59,53 @@ void main() async {
 
   pubClient.close();
   exit(0);
+}
+
+final retryOptions = RetryOptions(maxAttempts: 3);
+
+Future<PubScore> _loadPackage(PubClient pubClient, String packageName) async {
+  var packageInfo = await retryOptions.retry(
+    () => pubClient.packageInfo(packageName),
+  );
+  var packageScore = await retryOptions.retry(
+    () => pubClient.packageScore(packageName),
+  );
+
+  var repositoryUri = packageInfo.latest.pubspec.repository ??
+      Uri.tryParse(packageInfo.latest.pubspec.homepage ?? '');
+  GitHubInfo? github;
+  if (repositoryUri != null && repositoryUri.host == 'github.com') {
+    var segments = repositoryUri.pathSegments;
+    if (segments.length >= 2) {
+      var repoName = segments.take(2).join('/');
+      var extensionToRemove = '.git';
+      if (repoName.endsWith(extensionToRemove)) {
+        repoName =
+            repoName.substring(0, repoName.length - extensionToRemove.length);
+      }
+      var slug = RepositorySlug.full(repoName);
+      repositoryUri = repositoryUri.replace(path: repoName);
+      var githubClient = GitHub(auth: findAuthenticationFromEnvironment());
+      try {
+        var repository = await githubClient.repositories.getRepository(slug);
+        github = GitHubInfo(repositoryUri,
+            starCount: repository.stargazersCount,
+            forkCount: repository.forksCount);
+      } catch (e) {
+        print('Failed to load repository info [$repositoryUri]: $e');
+      } finally {
+        githubClient.client.close();
+      }
+    }
+  }
+
+  return PubScore(
+      pub: PubInfo(
+          likeCount: packageScore.likeCount,
+          grantedPoints: packageScore.grantedPoints,
+          lastUpdated: packageScore.lastUpdated,
+          popularityScore: packageScore.popularityScore),
+      github: github);
 }
 
 Future<PubScores> _loadPackages() async {
