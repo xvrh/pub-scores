@@ -6,7 +6,7 @@ import 'package:test/test.dart';
 
 void main() {
   test('Test read file', () async {
-    var dataPath = 'data/all_packages.json';
+    var dataPath = 'lib/data/all_packages.json';
 
     var content = File(dataPath).readAsStringSync();
     var json = jsonDecode(content) as Map<String, dynamic>;
