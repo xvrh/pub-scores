@@ -57,14 +57,14 @@ Map<String, dynamic> _$PubInfoToJson(PubInfo instance) => <String, dynamic>{
     };
 
 GitHubInfo _$GitHubInfoFromJson(Map<String, dynamic> json) => GitHubInfo(
-      Uri.parse(json['uri'] as String),
+      json['slug'] as String,
       starCount: json['starCount'] as int,
       forkCount: json['forkCount'] as int,
     );
 
 Map<String, dynamic> _$GitHubInfoToJson(GitHubInfo instance) =>
     <String, dynamic>{
-      'uri': instance.uri.toString(),
+      'slug': instance.slug,
       'starCount': instance.starCount,
       'forkCount': instance.forkCount,
     };

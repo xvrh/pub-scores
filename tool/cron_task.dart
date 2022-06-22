@@ -42,7 +42,7 @@ void main() async {
         packageMap[packageName] = score;
       } on CheckedFromJsonException catch (e) {
         // Some packages can have malformed pubspec
-        print('Failed to load package: $packageName');
+        print('Failed to load package: $packageName $e');
       }
     });
   }
@@ -88,7 +88,7 @@ Future<PubScore> _loadPackage(PubClient pubClient, String packageName) async {
       var githubClient = GitHub(auth: findAuthenticationFromEnvironment());
       try {
         var repository = await githubClient.repositories.getRepository(slug);
-        github = GitHubInfo(repositoryUri,
+        github = GitHubInfo(repoName,
             starCount: repository.stargazersCount,
             forkCount: repository.forksCount);
       } catch (e) {

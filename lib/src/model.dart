@@ -55,12 +55,12 @@ class PubInfo {
 
 @JsonSerializable()
 class GitHubInfo {
-  final Uri uri;
+  final String slug;
   final int starCount;
   final int forkCount;
 
   GitHubInfo(
-    this.uri, {
+    this.slug, {
     required this.starCount,
     required this.forkCount,
   });
