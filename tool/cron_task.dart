@@ -9,7 +9,7 @@ import 'package:github/github.dart';
 import 'package:pool/pool.dart';
 import 'package:retry/retry.dart';
 
-const _maxPackagesPerTask = 5000;
+const _maxPackagesPerTask = 2500;
 final _packagesFile = File('lib/data/all_packages.json');
 
 void main() async {
@@ -38,7 +38,8 @@ void main() async {
   for (var packageName in slicedPackages) {
     pool.withResource(() async {
       try {
-        var score = await _loadPackage(pubClient, packageName);
+        var score = await _loadPackage(pubClient, packageName,
+            previousPackage: currentPackages[packageName]);
         packageMap[packageName] = score;
       } on CheckedFromJsonException catch (e) {
         // Some packages can have malformed pubspec
@@ -63,7 +64,8 @@ void main() async {
 
 final retryOptions = RetryOptions(maxAttempts: 3);
 
-Future<PubScore> _loadPackage(PubClient pubClient, String packageName) async {
+Future<PubScore> _loadPackage(PubClient pubClient, String packageName,
+    {required PubScore? previousPackage}) async {
   var packageInfo = await retryOptions.retry(
     () => pubClient.packageInfo(packageName),
   );
@@ -83,6 +85,7 @@ Future<PubScore> _loadPackage(PubClient pubClient, String packageName) async {
         repoName =
             repoName.substring(0, repoName.length - extensionToRemove.length);
       }
+
       var slug = RepositorySlug.full(repoName);
       repositoryUri = repositoryUri.replace(path: repoName);
       var githubClient = GitHub(auth: findAuthenticationFromEnvironment());
@@ -93,6 +96,10 @@ Future<PubScore> _loadPackage(PubClient pubClient, String packageName) async {
             forkCount: repository.forksCount);
       } catch (e) {
         print('Failed to load repository info [$repositoryUri]: $e');
+        var previousGithub = previousPackage?.github;
+        if (previousGithub != null && previousGithub.slug == repoName) {
+          github = previousGithub;
+        }
       } finally {
         githubClient.client.close();
       }
