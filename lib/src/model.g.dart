@@ -45,14 +45,14 @@ Map<String, dynamic> _$PubScoreToJson(PubScore instance) {
 PubInfo _$PubInfoFromJson(Map<String, dynamic> json) => PubInfo(
       likeCount: json['likeCount'] as int,
       grantedPoints: json['grantedPoints'] as int?,
-      popularityScore: json['popularityScore'] as num?,
+      popularity: json['popularity'] as int?,
       lastUpdated: DateTime.parse(json['lastUpdated'] as String),
     );
 
 Map<String, dynamic> _$PubInfoToJson(PubInfo instance) => <String, dynamic>{
       'likeCount': instance.likeCount,
       'grantedPoints': instance.grantedPoints,
-      'popularityScore': instance.popularityScore,
+      'popularity': instance.popularity,
       'lastUpdated': instance.lastUpdated.toIso8601String(),
     };
 

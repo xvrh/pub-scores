@@ -37,13 +37,13 @@ class PubScore {
 class PubInfo {
   final int likeCount;
   final int? grantedPoints;
-  final num? popularityScore;
+  final int? popularity;
   final DateTime lastUpdated;
 
   PubInfo({
     required this.likeCount,
     required this.grantedPoints,
-    required this.popularityScore,
+     required this.popularity,
     required this.lastUpdated,
   });
 

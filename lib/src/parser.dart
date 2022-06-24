@@ -47,7 +47,7 @@ PubInfo _readPubInfo(JsonReader reader) {
 
   int? likeCount;
   int? grantedPoints;
-  num? popularityScore;
+  int? popularity;
 
   while (reader.hasNextKey()) {
     switch (reader.nextKey()!) {
@@ -59,9 +59,9 @@ PubInfo _readPubInfo(JsonReader reader) {
           grantedPoints = reader.expectInt();
         }
         break;
-      case "popularityScore":
+      case "popularity":
         if (!reader.tryNull()) {
-          popularityScore = reader.expectNum();
+          popularity = reader.expectInt();
         }
         break;
       default:
@@ -72,8 +72,8 @@ PubInfo _readPubInfo(JsonReader reader) {
   return PubInfo(
       likeCount: likeCount!,
       grantedPoints: grantedPoints,
-      popularityScore: popularityScore,
-      lastUpdated: DateTime.now());
+      popularity: popularity,
+      lastUpdated: DateTime(1, 1, 2022));
 }
 
 GitHubInfo _readGithubInfo(JsonReader reader) {

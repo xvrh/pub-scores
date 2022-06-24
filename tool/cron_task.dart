@@ -106,12 +106,19 @@ Future<PubScore> _loadPackage(PubClient pubClient, String packageName,
     }
   }
 
+  int? popularity;
+  if (packageScore.popularityScore != null) {
+    popularity = (packageScore.popularityScore! * 100).round();
+  } else {
+    popularity = previousPackage?.pub.popularity;
+  }
+
   return PubScore(
       pub: PubInfo(
           likeCount: packageScore.likeCount,
           grantedPoints: packageScore.grantedPoints,
-          lastUpdated: packageScore.lastUpdated,
-          popularityScore: packageScore.popularityScore),
+          lastUpdated: packageInfo.latest.published,
+          popularity: popularity),
       github: github);
 }
 
