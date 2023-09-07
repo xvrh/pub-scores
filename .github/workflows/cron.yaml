@@ -2,7 +2,7 @@ name: 'Cron task'
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 */2 * * *'
 jobs:
   test:
     name: 'Update file'
