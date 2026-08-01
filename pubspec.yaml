@@ -1,13 +1,12 @@
 name: pub_scores
-description: A sample command-line application.
-version: 1.0.0
-# homepage: https://www.example.com
+description: A periodically refreshed snapshot of pub.dev and GitHub package stats.
+version: 2.0.0
 
 environment:
-  sdk: '^3.1.0'
+  sdk: '^3.8.0'
 
 dependencies:
-  json_annotation:
+  json_annotation: ^4.12.0
   jsontool:
 
 dev_dependencies:
@@ -17,9 +16,6 @@ dev_dependencies:
   github:
   lints:
   pool:
-  pub_api_client:
-    git:
-      url: https://github.com/xvrh/pub_api_client.git
-      ref: '099dbae'
+  pub_api_client: ^3.2.0
   retry:
   test:

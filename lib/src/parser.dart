@@ -47,7 +47,8 @@ PubInfo _readPubInfo(JsonReader reader) {
 
   int? likeCount;
   int? grantedPoints;
-  int? popularity;
+  int? downloadCount30Days;
+  DateTime? lastUpdated;
 
   while (reader.hasNextKey()) {
     switch (reader.nextKey()!) {
@@ -59,10 +60,13 @@ PubInfo _readPubInfo(JsonReader reader) {
           grantedPoints = reader.expectInt();
         }
         break;
-      case "popularity":
+      case "downloadCount30Days":
         if (!reader.tryNull()) {
-          popularity = reader.expectInt();
+          downloadCount30Days = reader.expectInt();
         }
+        break;
+      case "lastUpdated":
+        lastUpdated = DateTime.parse(reader.expectString());
         break;
       default:
         reader.skipAnyValue();
@@ -70,10 +74,11 @@ PubInfo _readPubInfo(JsonReader reader) {
   }
 
   return PubInfo(
-      likeCount: likeCount!,
-      grantedPoints: grantedPoints,
-      popularity: popularity,
-      lastUpdated: DateTime(1, 1, 2022));
+    likeCount: likeCount!,
+    grantedPoints: grantedPoints,
+    downloadCount30Days: downloadCount30Days,
+    lastUpdated: lastUpdated!,
+  );
 }
 
 GitHubInfo _readGithubInfo(JsonReader reader) {
@@ -99,9 +104,5 @@ GitHubInfo _readGithubInfo(JsonReader reader) {
     }
   }
 
-  return GitHubInfo(
-    slug!,
-    starCount: starCount!,
-    forkCount: forkCount!,
-  );
+  return GitHubInfo(slug!, starCount: starCount!, forkCount: forkCount!);
 }

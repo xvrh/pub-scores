@@ -14,7 +14,7 @@ class PubScores {
 
   Map<String, dynamic> toJson() => _$PubScoresToJson(this);
 
-  PubScore? operator[](String name) => packages[name];
+  PubScore? operator [](String name) => packages[name];
 }
 
 @JsonSerializable(includeIfNull: false)
@@ -22,10 +22,7 @@ class PubScore {
   final PubInfo pub;
   final GitHubInfo? github;
 
-  PubScore({
-    required this.pub,
-    required this.github,
-  });
+  PubScore({required this.pub, required this.github});
 
   factory PubScore.fromJson(Map<String, dynamic> json) =>
       _$PubScoreFromJson(json);
@@ -33,17 +30,24 @@ class PubScore {
   Map<String, dynamic> toJson() => _$PubScoreToJson(this);
 }
 
-@JsonSerializable()
+@JsonSerializable(includeIfNull: false)
 class PubInfo {
   final int likeCount;
   final int? grantedPoints;
-  final int? popularity;
+
+  /// Number of downloads over the last 30 days, as reported by pub.dev.
+  ///
+  /// Replaces the former `popularity` percentile, which pub.dev stopped
+  /// serving. Null for entries written before the switch, until the cron task
+  /// visits the package again.
+  final int? downloadCount30Days;
+
   final DateTime lastUpdated;
 
   PubInfo({
     required this.likeCount,
     required this.grantedPoints,
-     required this.popularity,
+    required this.downloadCount30Days,
     required this.lastUpdated,
   });
 
@@ -59,11 +63,7 @@ class GitHubInfo {
   final int starCount;
   final int forkCount;
 
-  GitHubInfo(
-    this.slug, {
-    required this.starCount,
-    required this.forkCount,
-  });
+  GitHubInfo(this.slug, {required this.starCount, required this.forkCount});
 
   factory GitHubInfo.fromJson(Map<String, dynamic> json) =>
       _$GitHubInfoFromJson(json);
