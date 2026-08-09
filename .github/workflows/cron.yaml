@@ -3,6 +3,10 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 */2 * * *'
+permissions:
+  contents: write
+  pull-requests: write
+  actions: write
 jobs:
   test:
     name: 'Update file'
@@ -15,17 +19,32 @@ jobs:
       - run: dart pub get
       - run: dart tool/cron_task.dart
         env:
-          GITHUB_DART_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          GITHUB_DART_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: dart test
       - name: Create Pull Request
         id: cpr
         uses: peter-evans/create-pull-request@v6
         with:
-          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           branch-suffix: timestamp
-      - name: Enable Pull Request Automerge
+          title: Update pub scores data
+      # PRs opened with the default GITHUB_TOKEN don't fire `pull_request`
+      # workflows, and master requires the 'Run tests' check. Dispatch the test
+      # workflow on the PR branch, wait for it, then merge.
+      - name: Run required checks and merge
         if: steps.cpr.outputs.pull-request-operation == 'created'
-        uses: peter-evans/enable-pull-request-automerge@v3
-        with:
-          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-          pull-request-number: ${{ steps.cpr.outputs.pull-request-number }}
-          merge-method: squash
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          branch='${{ steps.cpr.outputs.pull-request-branch }}'
+          gh workflow run test.yaml --ref "$branch"
+          for i in $(seq 1 30); do
+            run_id=$(gh run list --workflow=test.yaml --branch="$branch" --event=workflow_dispatch --json databaseId --jq '.[0].databaseId // empty')
+            [ -n "$run_id" ] && break
+            sleep 5
+          done
+          if [ -z "$run_id" ]; then
+            echo 'Dispatched test run never appeared'
+            exit 1
+          fi
+          gh run watch "$run_id" --exit-status
+          gh pr merge '${{ steps.cpr.outputs.pull-request-number }}' --squash --delete-branch
