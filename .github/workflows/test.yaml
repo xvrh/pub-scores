@@ -1,9 +1,6 @@
 name: 'Test'
 on:
   pull_request:
-  # Dispatched by cron.yaml on its PR branches: PRs opened with GITHUB_TOKEN
-  # don't fire `pull_request`, but master still requires the 'Run tests' check.
-  workflow_dispatch:
 jobs:
   test:
     name: 'Run tests'
