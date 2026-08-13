@@ -509573,8 +509573,9 @@
     },
     "panic": {
       "pub": {
-        "likeCount": 4,
+        "likeCount": 5,
         "grantedPoints": 150,
+        "downloadCount30Days": 5,
         "lastUpdated": "2021-09-26T16:54:28.448751Z"
       },
       "github": {
@@ -509587,61 +509588,88 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 30,
+        "downloadCount30Days": 6,
         "lastUpdated": "2020-08-31T10:46:52.692593Z"
       }
     },
     "pano_rtc": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 140,
+        "grantedPoints": 130,
+        "downloadCount30Days": 118,
         "lastUpdated": "2022-03-25T06:33:43.357644Z"
       },
       "github": {
         "slug": "PanoVideo/PanoRtc-Flutter",
         "starCount": 4,
-        "forkCount": 1
+        "forkCount": 0
+      }
+    },
+    "panoptic_widgets": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 40,
+        "downloadCount30Days": 151,
+        "lastUpdated": "2025-06-16T13:25:19.272383Z"
       }
     },
     "panorama": {
       "pub": {
-        "likeCount": 170,
+        "likeCount": 184,
         "grantedPoints": 140,
+        "downloadCount30Days": 538,
         "lastUpdated": "2021-04-16T14:48:46.470546Z"
       },
       "github": {
         "slug": "zesage/panorama",
-        "starCount": 112,
-        "forkCount": 68
+        "starCount": 117,
+        "forkCount": 77
+      }
+    },
+    "panorama_image": {
+      "pub": {
+        "likeCount": 2,
+        "grantedPoints": 160,
+        "downloadCount30Days": 74,
+        "lastUpdated": "2024-10-28T19:36:49.200730Z"
+      },
+      "github": {
+        "slug": "odd-io/panorama_image",
+        "starCount": 1,
+        "forkCount": 1
       }
     },
     "panorama_viewer": {
       "pub": {
-        "likeCount": 16,
-        "grantedPoints": 150,
-        "lastUpdated": "2024-05-14T13:17:53.328334Z"
+        "likeCount": 36,
+        "grantedPoints": 160,
+        "downloadCount30Days": 17693,
+        "lastUpdated": "2025-08-13T14:35:01.102660Z"
       },
       "github": {
         "slug": "dariocavada/panorama_viewer",
-        "starCount": 5,
-        "forkCount": 1
+        "starCount": 12,
+        "forkCount": 8
       }
     },
     "panorama_viewer_plus": {
       "pub": {
-        "likeCount": 4,
-        "grantedPoints": 140,
+        "likeCount": 7,
+        "grantedPoints": 120,
+        "downloadCount30Days": 19,
         "lastUpdated": "2024-06-29T04:37:29.402786Z"
       },
       "github": {
         "slug": "ShreyaAmbaliya/panorama_viewer_plus",
-        "starCount": 0,
-        "forkCount": 0
+        "starCount": 2,
+        "forkCount": 4
       }
     },
     "pansy_lint": {
       "pub": {
         "likeCount": 1,
         "grantedPoints": 150,
+        "downloadCount30Days": 13,
         "lastUpdated": "2021-08-10T07:35:38.909136Z"
       },
       "github": {
@@ -509653,7 +509681,8 @@
     "pansy_ui": {
       "pub": {
         "likeCount": 3,
-        "grantedPoints": 20,
+        "grantedPoints": 30,
+        "downloadCount30Days": 1,
         "lastUpdated": "2020-05-11T13:21:24.293523Z"
       },
       "github": {
@@ -509666,25 +509695,53 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 140,
+        "downloadCount30Days": 7,
         "lastUpdated": "2021-03-22T15:55:08.500845Z"
+      }
+    },
+    "panteao": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 26,
+        "lastUpdated": "2026-07-02T22:03:28.745838Z"
+      },
+      "github": {
+        "slug": "kkphoenixgx/aop-globalization",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "panthalassa_parsers": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 110,
+        "lastUpdated": "2026-08-11T13:46:13.660367Z"
+      },
+      "github": {
+        "slug": "turkananation/panthalassa_parsers",
+        "starCount": 1,
+        "forkCount": 0
       }
     },
     "pantry": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 150,
+        "grantedPoints": 160,
+        "downloadCount30Days": 5,
         "lastUpdated": "2024-03-04T22:22:23.491062Z"
       },
       "github": {
         "slug": "georges-ph/pantry",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
     "papai_cloud_firestore_api": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 120,
+        "grantedPoints": 110,
+        "downloadCount30Days": 5,
         "lastUpdated": "2023-06-08T07:51:11.749937Z"
       }
     },
@@ -509692,6 +509749,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 120,
+        "downloadCount30Days": 6,
         "lastUpdated": "2023-06-05T03:17:10.097250Z"
       },
       "github": {
@@ -509704,6 +509762,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 130,
+        "downloadCount30Days": 7,
         "lastUpdated": "2023-06-07T11:46:49.001623Z"
       },
       "github": {
@@ -509715,7 +509774,8 @@
     "paparazzi": {
       "pub": {
         "likeCount": 5,
-        "grantedPoints": 10,
+        "grantedPoints": 20,
+        "downloadCount30Days": 5,
         "lastUpdated": "2020-05-04T20:23:38.587460Z"
       },
       "github": {
@@ -509728,6 +509788,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 0,
+        "downloadCount30Days": 6,
         "lastUpdated": "2013-04-29T22:48:07.334550Z"
       },
       "github": {
@@ -509740,37 +509801,67 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 0,
+        "downloadCount30Days": 5,
         "lastUpdated": "2023-08-07T06:21:53.315082Z"
       }
     },
     "papaya_sdk": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 20,
+        "grantedPoints": 15,
+        "downloadCount30Days": 84,
         "lastUpdated": "2023-05-12T03:21:08.277736Z"
+      }
+    },
+    "paper": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 140,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2025-07-15T15:46:25.611850Z"
+      },
+      "github": {
+        "slug": "betta-dev-nest/paper",
+        "starCount": 1,
+        "forkCount": 0
       }
     },
     "paper_3d": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 40,
+        "downloadCount30Days": 123,
         "lastUpdated": "2023-12-18T22:21:48.934209Z"
       },
       "github": {
         "slug": "Zira-Games/paper-3d",
-        "starCount": 4,
+        "starCount": 7,
         "forkCount": 0
       }
     },
     "paper_card": {
       "pub": {
-        "likeCount": 2,
+        "likeCount": 4,
         "grantedPoints": 150,
+        "downloadCount30Days": 38,
         "lastUpdated": "2024-02-07T10:40:38.782920Z"
       },
       "github": {
         "slug": "arashAndroid/paper_card",
-        "starCount": 1,
+        "starCount": 2,
+        "forkCount": 0
+      }
+    },
+    "paper_document_scanner": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 30,
+        "lastUpdated": "2026-06-09T07:09:42.678764Z"
+      },
+      "github": {
+        "slug": "dattm-0301/paper_scanner",
+        "starCount": 0,
         "forkCount": 0
       }
     },
@@ -509778,6 +509869,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 20,
+        "downloadCount30Days": 78,
         "lastUpdated": "2016-01-20T15:56:48.976Z"
       }
     },
@@ -509785,49 +509877,106 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 15,
+        "downloadCount30Days": 7,
         "lastUpdated": "2015-04-09T09:38:58.395900Z"
       }
     },
     "paper_scaffold": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 10,
+        "grantedPoints": 20,
+        "downloadCount30Days": 5,
         "lastUpdated": "2014-10-29T21:42:31.718010Z"
+      }
+    },
+    "paper_scanner_android": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 29,
+        "lastUpdated": "2026-06-09T07:09:29.377637Z"
+      },
+      "github": {
+        "slug": "dattm-0301/paper_scanner",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "paper_scanner_ios": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 31,
+        "lastUpdated": "2026-06-09T07:09:35.082323Z"
+      },
+      "github": {
+        "slug": "dattm-0301/paper_scanner",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "paper_scanner_platform_interface": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 26,
+        "lastUpdated": "2026-06-09T07:09:22.815160Z"
+      },
+      "github": {
+        "slug": "dattm-0301/paper_scanner",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "paper_shaders": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 160,
+        "downloadCount30Days": 97,
+        "lastUpdated": "2026-07-10T20:42:36.264499Z"
+      },
+      "github": {
+        "slug": "AndreFrelicot/paper-shaders-flutter",
+        "starCount": 1,
+        "forkCount": 0
       }
     },
     "papercups_flutter": {
       "pub": {
-        "likeCount": 40,
+        "likeCount": 42,
         "grantedPoints": 140,
+        "downloadCount30Days": 141,
         "lastUpdated": "2023-01-30T00:25:26.208899Z"
       },
       "github": {
         "slug": "aguilaair/papercups_flutter",
-        "starCount": 27,
-        "forkCount": 26
+        "starCount": 30,
+        "forkCount": 28
       }
     },
     "paperfold": {
       "pub": {
-        "likeCount": 27,
+        "likeCount": 34,
         "grantedPoints": 150,
-        "lastUpdated": "2022-12-29T21:08:44.383049Z"
+        "downloadCount30Days": 44,
+        "lastUpdated": "2024-09-22T16:03:28.205668Z"
       },
       "github": {
         "slug": "dasRicardo/flutter_paperfold",
-        "starCount": 14,
+        "starCount": 16,
         "forkCount": 1
       }
     },
     "paperfold_list": {
       "pub": {
-        "likeCount": 3,
-        "grantedPoints": 160,
+        "likeCount": 7,
+        "grantedPoints": 150,
+        "downloadCount30Days": 12,
         "lastUpdated": "2024-07-08T04:43:32.251736Z"
       },
       "github": {
         "slug": "kay-af/paperfold_list",
-        "starCount": 1,
+        "starCount": 2,
         "forkCount": 0
       }
     },
@@ -509835,11 +509984,12 @@
       "pub": {
         "likeCount": 6,
         "grantedPoints": 25,
+        "downloadCount30Days": 74,
         "lastUpdated": "2020-05-09T19:36:56.434077Z"
       },
       "github": {
         "slug": "Nebulino/PaperPlane",
-        "starCount": 5,
+        "starCount": 4,
         "forkCount": 0
       }
     },
@@ -509847,13 +509997,23 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 20,
+        "downloadCount30Days": 3,
         "lastUpdated": "2020-05-19T09:11:20.344721Z"
+      }
+    },
+    "papicons": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 26,
+        "lastUpdated": "2026-06-15T13:12:17.052749Z"
       }
     },
     "papilio": {
       "pub": {
         "likeCount": 8,
-        "grantedPoints": 140,
+        "grantedPoints": 60,
+        "downloadCount30Days": 55,
         "lastUpdated": "2022-08-21T05:22:36.426134Z"
       },
       "github": {
@@ -509866,6 +510026,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 140,
+        "downloadCount30Days": 22,
         "lastUpdated": "2022-04-10T05:38:49.176663Z"
       },
       "github": {
@@ -509877,7 +510038,8 @@
     "pappes_web_utility": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 100,
+        "grantedPoints": 80,
+        "downloadCount30Days": 29,
         "lastUpdated": "2022-04-05T07:43:26.128387Z"
       },
       "github": {
@@ -509890,27 +510052,146 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 40,
+        "downloadCount30Days": 5,
         "lastUpdated": "2020-08-12T12:24:41.760068Z"
+      }
+    },
+    "papyrus": {
+      "pub": {
+        "likeCount": 3,
+        "grantedPoints": 160,
+        "downloadCount30Days": 106,
+        "lastUpdated": "2026-07-18T15:22:51.358211Z"
+      },
+      "github": {
+        "slug": "dizitart/papyrus",
+        "starCount": 9,
+        "forkCount": 1
+      }
+    },
+    "papyrus_android": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 107,
+        "lastUpdated": "2026-07-18T15:13:03.306679Z"
+      },
+      "github": {
+        "slug": "dizitart/papyrus",
+        "starCount": 9,
+        "forkCount": 1
+      }
+    },
+    "papyrus_ios": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 106,
+        "lastUpdated": "2026-07-18T15:00:57.937629Z"
+      },
+      "github": {
+        "slug": "dizitart/papyrus",
+        "starCount": 9,
+        "forkCount": 1
+      }
+    },
+    "papyrus_linux": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 114,
+        "lastUpdated": "2026-07-18T15:01:09.193653Z"
+      },
+      "github": {
+        "slug": "dizitart/papyrus",
+        "starCount": 9,
+        "forkCount": 1
+      }
+    },
+    "papyrus_macos": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 107,
+        "lastUpdated": "2026-07-18T15:01:01.888644Z"
+      },
+      "github": {
+        "slug": "dizitart/papyrus",
+        "starCount": 9,
+        "forkCount": 1
+      }
+    },
+    "papyrus_platform_interface": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 130,
+        "lastUpdated": "2026-07-18T14:57:53.324888Z"
+      },
+      "github": {
+        "slug": "dizitart/papyrus",
+        "starCount": 9,
+        "forkCount": 1
+      }
+    },
+    "papyrus_windows": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 112,
+        "lastUpdated": "2026-07-18T15:01:05.726098Z"
+      },
+      "github": {
+        "slug": "dizitart/papyrus",
+        "starCount": 9,
+        "forkCount": 1
       }
     },
     "paquete1": {
       "pub": {
-        "likeCount": 1,
-        "grantedPoints": 130,
+        "likeCount": 2,
+        "grantedPoints": 140,
+        "downloadCount30Days": 7,
         "lastUpdated": "2023-10-24T19:34:19.193950Z"
       }
     },
     "paquete_fuentes": {
       "pub": {
-        "likeCount": 0,
+        "likeCount": 1,
         "grantedPoints": 140,
+        "downloadCount30Days": 7,
         "lastUpdated": "2024-05-13T14:34:45.911114Z"
+      }
+    },
+    "para": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 120,
+        "downloadCount30Days": 311,
+        "lastUpdated": "2026-07-23T16:51:39.218437Z"
+      }
+    },
+    "para_metamask_connector": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 125,
+        "downloadCount30Days": 17,
+        "lastUpdated": "2025-02-03T20:07:08.184722Z"
+      }
+    },
+    "para_phantom_connector": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 130,
+        "downloadCount30Days": 13,
+        "lastUpdated": "2025-02-03T20:06:47.719203Z"
       }
     },
     "paradox": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 10,
+        "downloadCount30Days": 4,
         "lastUpdated": "2014-01-19T23:10:53.381090Z"
       },
       "github": {
@@ -509923,13 +510204,15 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 20,
+        "downloadCount30Days": 5,
         "lastUpdated": "2020-09-11T09:01:16.609708Z"
       }
     },
     "paralax": {
       "pub": {
         "likeCount": 4,
-        "grantedPoints": 120,
+        "grantedPoints": 115,
+        "downloadCount30Days": 7,
         "lastUpdated": "2021-05-28T08:17:36.030431Z"
       },
       "github": {
@@ -509942,6 +510225,7 @@
       "pub": {
         "likeCount": 34,
         "grantedPoints": 140,
+        "downloadCount30Days": 19,
         "lastUpdated": "2022-02-03T17:46:47.557291Z"
       },
       "github": {
@@ -509952,39 +510236,43 @@
     },
     "parallax_animation": {
       "pub": {
-        "likeCount": 75,
-        "grantedPoints": 120,
+        "likeCount": 85,
+        "grantedPoints": 130,
+        "downloadCount30Days": 291,
         "lastUpdated": "2021-05-31T07:37:41.150997Z"
       }
     },
     "parallax_bg": {
       "pub": {
-        "likeCount": 27,
-        "grantedPoints": 140,
+        "likeCount": 31,
+        "grantedPoints": 130,
+        "downloadCount30Days": 41,
         "lastUpdated": "2023-12-29T12:48:51.363112Z"
       },
       "github": {
         "slug": "kumar-aakash86/parallax_bg",
-        "starCount": 6,
+        "starCount": 7,
         "forkCount": 3
       }
     },
     "parallax_cards": {
       "pub": {
-        "likeCount": 36,
+        "likeCount": 94,
         "grantedPoints": 160,
+        "downloadCount30Days": 492,
         "lastUpdated": "2024-07-15T22:08:20.990033Z"
       },
       "github": {
         "slug": "toseefkhan403/ParallaxCards",
-        "starCount": 3,
-        "forkCount": 0
+        "starCount": 9,
+        "forkCount": 1
       }
     },
     "parallax_effect": {
       "pub": {
-        "likeCount": 38,
-        "grantedPoints": 120,
+        "likeCount": 43,
+        "grantedPoints": 130,
+        "downloadCount30Days": 20,
         "lastUpdated": "2022-06-12T13:38:11.407160Z"
       },
       "github": {
@@ -509997,18 +510285,20 @@
       "pub": {
         "likeCount": 94,
         "grantedPoints": 40,
+        "downloadCount30Days": 21,
         "lastUpdated": "2018-12-30T00:56:17.814832Z"
       },
       "github": {
         "slug": "pulyaevskiy/parallax-image",
-        "starCount": 279,
-        "forkCount": 33
+        "starCount": 280,
+        "forkCount": 31
       }
     },
     "parallax_image_ns": {
       "pub": {
-        "likeCount": 11,
+        "likeCount": 13,
         "grantedPoints": 130,
+        "downloadCount30Days": 15,
         "lastUpdated": "2022-08-17T14:39:52.138508Z"
       },
       "github": {
@@ -510017,34 +510307,50 @@
         "forkCount": 2
       }
     },
+    "parallax_onboarding": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 160,
+        "downloadCount30Days": 9,
+        "lastUpdated": "2026-05-30T09:27:20.989023Z"
+      },
+      "github": {
+        "slug": "NadeemIqbal/parallax_onboarding",
+        "starCount": 2,
+        "forkCount": 0
+      }
+    },
     "parallax_rain": {
       "pub": {
-        "likeCount": 69,
+        "likeCount": 88,
         "grantedPoints": 150,
+        "downloadCount30Days": 110,
         "lastUpdated": "2024-02-14T09:04:41.504762Z"
       },
       "github": {
         "slug": "Zachariah-Abraham/parallax_rain",
-        "starCount": 12,
+        "starCount": 13,
         "forkCount": 3
       }
     },
     "parallax_sensors_bg": {
       "pub": {
-        "likeCount": 93,
-        "grantedPoints": 150,
+        "likeCount": 115,
+        "grantedPoints": 140,
+        "downloadCount30Days": 124,
         "lastUpdated": "2023-01-01T09:48:30.745977Z"
       },
       "github": {
         "slug": "Prayag-X/parallax_sensors_bg",
-        "starCount": 9,
-        "forkCount": 9
+        "starCount": 13,
+        "forkCount": 11
       }
     },
     "parallax_swiper": {
       "pub": {
-        "likeCount": 37,
+        "likeCount": 38,
         "grantedPoints": 40,
+        "downloadCount30Days": 5,
         "lastUpdated": "2019-09-05T05:46:41.777057Z"
       },
       "github": {
@@ -510057,6 +510363,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 110,
+        "downloadCount30Days": 5,
         "lastUpdated": "2022-07-25T18:06:51.140120Z"
       }
     },
@@ -510064,6 +510371,7 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 130,
+        "downloadCount30Days": 15,
         "lastUpdated": "2022-03-30T16:10:09.815136Z"
       },
       "github": {
@@ -510076,6 +510384,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 15,
+        "downloadCount30Days": 17,
         "lastUpdated": "2014-02-20T16:41:17.263400Z"
       }
     },
@@ -510083,18 +510392,20 @@
       "pub": {
         "likeCount": 3,
         "grantedPoints": 140,
+        "downloadCount30Days": 6,
         "lastUpdated": "2022-10-08T06:54:14.869979Z"
       },
       "github": {
         "slug": "ekasetiawans/parallel",
         "starCount": 2,
-        "forkCount": 1
+        "forkCount": 0
       }
     },
     "parallel_scroll_view": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 10,
+        "grantedPoints": 20,
+        "downloadCount30Days": 5,
         "lastUpdated": "2020-04-12T13:28:01.621985Z"
       },
       "github": {
@@ -510103,10 +510414,24 @@
         "forkCount": 1
       }
     },
+    "parallel_timeline": {
+      "pub": {
+        "likeCount": 2,
+        "grantedPoints": 160,
+        "downloadCount30Days": 32,
+        "lastUpdated": "2026-06-02T14:21:26.097112Z"
+      },
+      "github": {
+        "slug": "CodeSagePath/parallel_timeline",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "parallelism": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 130,
+        "grantedPoints": 125,
+        "downloadCount30Days": 5,
         "lastUpdated": "2023-08-22T15:59:22.232563Z"
       },
       "github": {
@@ -510115,10 +510440,19 @@
         "forkCount": 0
       }
     },
+    "parallelize": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 17,
+        "lastUpdated": "2025-06-19T17:06:31.170392Z"
+      }
+    },
     "param": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 140,
+        "downloadCount30Days": 3,
         "lastUpdated": "2021-04-19T18:06:54.450093Z"
       },
       "github": {
@@ -510131,25 +510465,28 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 140,
+        "downloadCount30Days": 8,
         "lastUpdated": "2023-04-20T07:48:25.606626Z"
       }
     },
     "parameterized_test": {
       "pub": {
-        "likeCount": 11,
+        "likeCount": 14,
         "grantedPoints": 160,
-        "lastUpdated": "2024-04-23T07:22:12.518960Z"
+        "downloadCount30Days": 24868,
+        "lastUpdated": "2026-06-18T12:54:47.409568Z"
       }
     },
     "parameters": {
       "pub": {
-        "likeCount": 1,
-        "grantedPoints": 30,
-        "lastUpdated": "2024-06-11T13:10:34.176825Z"
+        "likeCount": 2,
+        "grantedPoints": 50,
+        "downloadCount30Days": 9,
+        "lastUpdated": "2024-06-12T06:42:21.682426Z"
       },
       "github": {
         "slug": "Laszlo11-dev/parameters",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
@@ -510157,6 +510494,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 20,
+        "downloadCount30Days": 23,
         "lastUpdated": "2019-05-31T07:02:56.089013Z"
       },
       "github": {
@@ -510165,10 +510503,24 @@
         "forkCount": 0
       }
     },
-    "parayada_ui_collection": {
+    "parasail_flutter": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 130,
+        "grantedPoints": 150,
+        "downloadCount30Days": 12,
+        "lastUpdated": "2026-03-02T06:17:05.969151Z"
+      },
+      "github": {
+        "slug": "nabil6391/parasail_flutter",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "parayada_ui_collection": {
+      "pub": {
+        "likeCount": 2,
+        "grantedPoints": 125,
+        "downloadCount30Days": 15,
         "lastUpdated": "2024-05-16T15:19:31.302703Z"
       }
     },
@@ -510176,42 +510528,67 @@
       "pub": {
         "likeCount": 11,
         "grantedPoints": 160,
-        "lastUpdated": "2024-05-29T08:45:29.107523Z"
+        "downloadCount30Days": 10417,
+        "lastUpdated": "2026-05-25T19:19:50.266140Z"
       },
       "github": {
         "slug": "fleather-editor/fleather",
-        "starCount": 185,
-        "forkCount": 30
+        "starCount": 310,
+        "forkCount": 70
       }
     },
     "parchment_delta": {
       "pub": {
-        "likeCount": 3,
+        "likeCount": 6,
         "grantedPoints": 140,
+        "downloadCount30Days": 9913,
         "lastUpdated": "2024-01-14T19:51:47.230992Z"
       },
       "github": {
         "slug": "fleather-editor/parchment_delta",
-        "starCount": 0,
+        "starCount": 2,
         "forkCount": 0
       }
     },
     "parchment_to_html": {
       "pub": {
-        "likeCount": 2,
+        "likeCount": 3,
         "grantedPoints": 135,
+        "downloadCount30Days": 1,
         "lastUpdated": "2024-05-11T14:46:48.084094Z"
       },
       "github": {
         "slug": "gboliknow/parachmentToHtml",
-        "starCount": 1,
+        "starCount": 2,
+        "forkCount": 0
+      }
+    },
+    "pardon_dance": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2026-01-22T09:22:22.890598Z"
+      }
+    },
+    "pareidolia": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 7,
+        "lastUpdated": "2025-02-08T04:18:13.797063Z"
+      },
+      "github": {
+        "slug": "tytydraco/pareidolia",
+        "starCount": 2,
         "forkCount": 0
       }
     },
     "parent_child_checkbox": {
       "pub": {
-        "likeCount": 39,
+        "likeCount": 41,
         "grantedPoints": 150,
+        "downloadCount30Days": 102,
         "lastUpdated": "2023-02-27T17:37:23.832836Z"
       },
       "github": {
@@ -510224,7 +510601,8 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 160,
-        "lastUpdated": "2024-08-05T12:45:04.676231Z"
+        "downloadCount30Days": 86,
+        "lastUpdated": "2024-09-09T13:18:07.454733Z"
       },
       "github": {
         "slug": "olerhan/parent_progress",
@@ -510234,74 +510612,96 @@
     },
     "parental_gates": {
       "pub": {
-        "likeCount": 3,
+        "likeCount": 5,
         "grantedPoints": 130,
+        "downloadCount30Days": 24,
         "lastUpdated": "2023-11-29T17:31:01.592748Z"
       },
       "github": {
         "slug": "deep260201/parental_gates",
-        "starCount": 0,
-        "forkCount": 1
+        "starCount": 1,
+        "forkCount": 2
       }
     },
     "parker_sporlan_communication": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 95,
+        "downloadCount30Days": 118,
         "lastUpdated": "2024-01-26T16:26:10.158191Z"
       }
     },
     "parking_printer_plugin": {
       "pub": {
-        "likeCount": 0,
+        "likeCount": 1,
         "grantedPoints": 135,
+        "downloadCount30Days": 11,
         "lastUpdated": "2024-07-29T02:46:01.404666Z"
       }
     },
     "parkzen_core_flutter": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 150,
-        "lastUpdated": "2024-07-29T14:36:43.320853Z"
+        "likeCount": 1,
+        "grantedPoints": 125,
+        "downloadCount30Days": 680,
+        "lastUpdated": "2026-07-27T19:12:45.647006Z"
       }
     },
     "parlour_client": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 20,
+        "downloadCount30Days": 17,
         "lastUpdated": "2020-12-23T13:44:43.032356Z"
+      }
+    },
+    "parmesan": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 160,
+        "downloadCount30Days": 13,
+        "lastUpdated": "2026-05-18T13:56:08.172303Z"
+      },
+      "github": {
+        "slug": "invok3/parmesan",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "parnaam": {
       "pub": {
-        "likeCount": 1,
+        "likeCount": 2,
         "grantedPoints": 130,
+        "downloadCount30Days": 6,
         "lastUpdated": "2024-03-03T17:00:28.008988Z"
       },
       "github": {
         "slug": "syedkumailraza1/parnaam",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
     "parodia": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 140,
+        "likeCount": 1,
+        "grantedPoints": 120,
+        "downloadCount30Days": 72,
         "lastUpdated": "2024-04-29T09:38:11.108736Z"
       }
     },
     "parodia_admin": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 110,
+        "likeCount": 1,
+        "grantedPoints": 105,
+        "downloadCount30Days": 86,
         "lastUpdated": "2024-03-21T12:53:05.261456Z"
       }
     },
     "parrot": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 150,
+        "grantedPoints": 145,
+        "downloadCount30Days": 30,
         "lastUpdated": "2022-10-19T12:50:18.831187Z"
       },
       "github": {
@@ -510313,7 +510713,8 @@
     "parrot_cmd": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 150,
+        "grantedPoints": 145,
+        "downloadCount30Days": 5,
         "lastUpdated": "2022-10-19T12:50:00.946296Z"
       },
       "github": {
@@ -510322,29 +510723,58 @@
         "forkCount": 1
       }
     },
+    "pars_validator": {
+      "pub": {
+        "likeCount": 5,
+        "grantedPoints": 160,
+        "downloadCount30Days": 103,
+        "lastUpdated": "2025-10-20T08:10:24.381982Z"
+      },
+      "github": {
+        "slug": "MohammadTaghipour/pars_validator",
+        "starCount": 15,
+        "forkCount": 0
+      }
+    },
+    "parsable": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 54,
+        "lastUpdated": "2026-03-03T12:57:20.944191Z"
+      },
+      "github": {
+        "slug": "LislaV208/parsable",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "parse": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 20,
+        "downloadCount30Days": 6,
         "lastUpdated": "2018-03-24T15:54:21.010854Z"
       }
     },
     "parse_app_package": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 130,
-        "lastUpdated": "2024-06-23T03:07:34.966651Z"
+        "likeCount": 1,
+        "grantedPoints": 120,
+        "downloadCount30Days": 12258,
+        "lastUpdated": "2025-06-13T01:57:58.844235Z"
       },
       "github": {
-        "slug": "leanflutter/flutter_distributor",
-        "starCount": 781,
-        "forkCount": 112
+        "slug": "fastforgedev/fastforge",
+        "starCount": 1133,
+        "forkCount": 241
       }
     },
     "parse_args": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 160,
+        "downloadCount30Days": 142,
         "lastUpdated": "2024-03-04T13:17:12.129240Z"
       },
       "github": {
@@ -510357,6 +510787,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 130,
+        "downloadCount30Days": 312,
         "lastUpdated": "2022-08-29T18:52:07.308164Z"
       },
       "github": {
@@ -510369,6 +510800,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 35,
+        "downloadCount30Days": 37,
         "lastUpdated": "2018-11-29T17:26:44.591933Z"
       },
       "github": {
@@ -510379,20 +510811,22 @@
     },
     "parse_coordinates": {
       "pub": {
-        "likeCount": 2,
+        "likeCount": 3,
         "grantedPoints": 150,
+        "downloadCount30Days": 926,
         "lastUpdated": "2022-11-24T00:24:25.348498Z"
       },
       "github": {
         "slug": "danielsiwiec/parse-coordinates",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
     "parse_facade": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 40,
+        "grantedPoints": 35,
+        "downloadCount30Days": 9,
         "lastUpdated": "2016-11-22T15:18:12.170Z"
       },
       "github": {
@@ -510405,13 +510839,15 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 10,
+        "downloadCount30Days": 3,
         "lastUpdated": "2018-08-30T14:24:13.136613Z"
       }
     },
     "parse_functions": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 160,
+        "grantedPoints": 150,
+        "downloadCount30Days": 14,
         "lastUpdated": "2021-11-29T19:23:27.286655Z"
       },
       "github": {
@@ -510422,31 +510858,60 @@
     },
     "parse_helper": {
       "pub": {
-        "likeCount": 1,
-        "grantedPoints": 120,
-        "lastUpdated": "2024-06-09T16:08:55.644762Z"
+        "likeCount": 3,
+        "grantedPoints": 115,
+        "downloadCount30Days": 45,
+        "lastUpdated": "2025-03-28T13:34:06.117272Z"
       }
     },
     "parse_json": {
       "pub": {
-        "likeCount": 5,
+        "likeCount": 7,
         "grantedPoints": 160,
+        "downloadCount30Days": 60,
         "lastUpdated": "2024-06-10T01:15:30.584247Z"
       },
       "github": {
         "slug": "JohnSiegel/parse_json",
-        "starCount": 5,
+        "starCount": 6,
+        "forkCount": 0
+      }
+    },
+    "parse_mermaid_dart": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 100,
+        "downloadCount30Days": 7,
+        "lastUpdated": "2026-02-27T00:42:12.748966Z"
+      },
+      "github": {
+        "slug": "elguala9/ParseMermaidDart",
+        "starCount": 0,
         "forkCount": 0
       }
     },
     "parse_mode_setter": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 160,
-        "lastUpdated": "2024-06-26T18:25:28.473888Z"
+        "grantedPoints": 150,
+        "downloadCount30Days": 17,
+        "lastUpdated": "2025-03-08T10:37:23.247165Z"
       },
       "github": {
         "slug": "xooniverse/ParseModeSetter",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "parse_offline_extension": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 12,
+        "lastUpdated": "2026-06-06T06:01:46.532250Z"
+      },
+      "github": {
+        "slug": "pastordee/parse_offline_extension",
         "starCount": 0,
         "forkCount": 0
       }
@@ -510454,7 +510919,8 @@
     "parse_plist": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 140,
+        "grantedPoints": 125,
+        "downloadCount30Days": 11,
         "lastUpdated": "2022-07-21T03:50:47.144554Z"
       },
       "github": {
@@ -510466,7 +510932,8 @@
     "parse_rest_api": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 30,
+        "grantedPoints": 40,
+        "downloadCount30Days": 5,
         "lastUpdated": "2020-12-25T19:23:42.587034Z"
       },
       "github": {
@@ -510477,60 +510944,80 @@
     },
     "parse_route": {
       "pub": {
-        "likeCount": 7,
-        "grantedPoints": 140,
-        "lastUpdated": "2024-03-11T07:54:11.187179Z"
+        "likeCount": 11,
+        "grantedPoints": 160,
+        "downloadCount30Days": 320,
+        "lastUpdated": "2024-08-29T02:14:41.037741Z"
+      },
+      "github": {
+        "slug": "jonataslaw/parse-route",
+        "starCount": 9,
+        "forkCount": 1
       }
     },
     "parse_sdk_dart": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 15,
+        "grantedPoints": 10,
+        "downloadCount30Days": 9,
         "lastUpdated": "2018-12-06T11:43:46.089039Z"
+      }
+    },
+    "parse_sdk_insight_flutter": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 25,
+        "downloadCount30Days": 73,
+        "lastUpdated": "2025-02-07T09:40:04.530280Z"
       }
     },
     "parse_server": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 10,
+        "grantedPoints": 5,
+        "downloadCount30Days": 18,
         "lastUpdated": "2018-03-25T13:43:55.100795Z"
       }
     },
     "parse_server_dart": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 20,
+        "grantedPoints": 15,
+        "downloadCount30Days": 5,
         "lastUpdated": "2018-10-11T13:59:18.637685Z"
       }
     },
     "parse_server_sdk": {
       "pub": {
-        "likeCount": 143,
-        "grantedPoints": 150,
-        "lastUpdated": "2024-04-12T18:11:51.930259Z"
+        "likeCount": 146,
+        "grantedPoints": 160,
+        "downloadCount30Days": 3610,
+        "lastUpdated": "2026-03-29T03:08:50.897015Z"
       },
       "github": {
         "slug": "parse-community/Parse-SDK-Flutter",
-        "starCount": 572,
-        "forkCount": 188
+        "starCount": 587,
+        "forkCount": 216
       }
     },
     "parse_server_sdk_flutter": {
       "pub": {
-        "likeCount": 129,
+        "likeCount": 143,
         "grantedPoints": 150,
-        "lastUpdated": "2024-05-15T20:03:55.493911Z"
+        "downloadCount30Days": 2521,
+        "lastUpdated": "2025-12-12T21:06:01.883296Z"
       },
       "github": {
         "slug": "parse-community/Parse-SDK-Flutter",
-        "starCount": 572,
-        "forkCount": 188
+        "starCount": 587,
+        "forkCount": 216
       }
     },
     "parse_text": {
       "pub": {
         "likeCount": 8,
         "grantedPoints": 40,
+        "downloadCount30Days": 34,
         "lastUpdated": "2021-04-27T07:34:15.542260Z"
       },
       "github": {
@@ -510541,111 +511028,186 @@
     },
     "parsec": {
       "pub": {
-        "likeCount": 4,
+        "likeCount": 5,
         "grantedPoints": 150,
-        "lastUpdated": "2023-04-26T14:19:05.867832Z"
+        "downloadCount30Days": 7825,
+        "lastUpdated": "2025-09-16T22:38:36.702362Z"
       },
       "github": {
         "slug": "oxeanbits/parsec_flutter",
         "starCount": 0,
-        "forkCount": 1
+        "forkCount": 4
       }
     },
     "parsec_android": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 130,
-        "lastUpdated": "2023-04-26T14:04:10.159594Z"
+        "downloadCount30Days": 7781,
+        "lastUpdated": "2025-05-14T07:45:11.676384Z"
       },
       "github": {
         "slug": "oxeanbits/parsec_flutter",
         "starCount": 0,
-        "forkCount": 1
+        "forkCount": 4
       }
     },
     "parsec_linux": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 130,
-        "lastUpdated": "2023-04-26T14:05:20.983765Z"
+        "downloadCount30Days": 7770,
+        "lastUpdated": "2025-05-14T07:45:45.459896Z"
       },
       "github": {
         "slug": "oxeanbits/parsec_flutter",
         "starCount": 0,
-        "forkCount": 1
+        "forkCount": 4
       }
     },
     "parsec_platform_interface": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 140,
-        "lastUpdated": "2023-01-31T01:11:19.509205Z"
+        "grantedPoints": 150,
+        "downloadCount30Days": 7768,
+        "lastUpdated": "2025-09-09T15:41:02.349911Z"
       },
       "github": {
         "slug": "oxeanbits/parsec_flutter",
         "starCount": 0,
-        "forkCount": 1
+        "forkCount": 4
+      }
+    },
+    "parsec_web": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 50,
+        "downloadCount30Days": 7757,
+        "lastUpdated": "2025-09-16T22:34:46.192403Z"
+      },
+      "github": {
+        "slug": "oxeanbits/parsec_flutter",
+        "starCount": 0,
+        "forkCount": 4
+      }
+    },
+    "parsec_windows": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 130,
+        "downloadCount30Days": 7769,
+        "lastUpdated": "2025-05-14T07:46:26.532918Z"
+      },
+      "github": {
+        "slug": "oxeanbits/parsec_flutter",
+        "starCount": 0,
+        "forkCount": 4
       }
     },
     "parsed_readmore": {
       "pub": {
-        "likeCount": 35,
+        "likeCount": 42,
         "grantedPoints": 160,
-        "lastUpdated": "2024-01-08T21:01:16.027153Z"
+        "downloadCount30Days": 355,
+        "lastUpdated": "2025-01-06T13:25:39.859957Z"
       },
       "github": {
         "slug": "aashish2604/parsed_readmore",
-        "starCount": 3,
+        "starCount": 4,
         "forkCount": 6
+      }
+    },
+    "parsed_text": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 135,
+        "downloadCount30Days": 17,
+        "lastUpdated": "2025-11-03T03:41:39.209919Z"
+      },
+      "github": {
+        "slug": "waldo-ha/parsed_text",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "parsejs": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 20,
+        "downloadCount30Days": 25,
         "lastUpdated": "2017-05-06T08:48:48.371610Z"
       },
       "github": {
         "slug": "asgerf/parsejs.dart",
-        "starCount": 25,
+        "starCount": 26,
         "forkCount": 11
+      }
+    },
+    "parsejs_null_safety": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 120,
+        "downloadCount30Days": 1183,
+        "lastUpdated": "2026-07-15T11:27:56.314501Z"
+      },
+      "github": {
+        "slug": "EnsembleUI/ensemble",
+        "starCount": 152,
+        "forkCount": 16
       }
     },
     "parselyzer": {
       "pub": {
-        "likeCount": 0,
+        "likeCount": 1,
         "grantedPoints": 160,
-        "lastUpdated": "2023-07-03T14:11:36.721561Z"
+        "downloadCount30Days": 349,
+        "lastUpdated": "2026-07-28T23:27:30.198846Z"
       },
       "github": {
         "slug": "Rexios80/parselyzer",
-        "starCount": 2,
+        "starCount": 3,
+        "forkCount": 0
+      }
+    },
+    "parsepesa": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 160,
+        "downloadCount30Days": 47,
+        "lastUpdated": "2026-06-11T16:34:59.639771Z"
+      },
+      "github": {
+        "slug": "Iconia7/parsepesa-sdks",
+        "starCount": 1,
         "forkCount": 0
       }
     },
     "parser": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 25,
+        "grantedPoints": 35,
+        "downloadCount30Days": 6,
         "lastUpdated": "2014-07-15T17:42:00.168250Z"
       }
     },
     "parser_apk_info": {
       "pub": {
-        "likeCount": 1,
-        "grantedPoints": 130,
+        "likeCount": 4,
+        "grantedPoints": 140,
+        "downloadCount30Days": 14,
         "lastUpdated": "2024-01-20T22:36:39.382033Z"
       },
       "github": {
         "slug": "Mr4Mike4/parser_apk_info",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
     "parser_builder": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 140,
+        "grantedPoints": 130,
+        "downloadCount30Days": 87,
         "lastUpdated": "2022-06-04T13:38:56.687132Z"
       },
       "github": {
@@ -510658,6 +511220,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 150,
+        "downloadCount30Days": 47,
         "lastUpdated": "2023-09-01T17:36:50.853541Z"
       },
       "github": {
@@ -510670,6 +511233,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 130,
+        "downloadCount30Days": 43,
         "lastUpdated": "2023-08-31T19:12:48.220537Z"
       },
       "github": {
@@ -510678,17 +511242,32 @@
         "forkCount": 0
       }
     },
+    "parser_core": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 168,
+        "lastUpdated": "2026-08-02T06:07:14.688162Z"
+      },
+      "github": {
+        "slug": "Ragibn5/dart-flutter-packages",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
     "parser_error": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 140,
+        "grantedPoints": 130,
+        "downloadCount30Days": 1219,
         "lastUpdated": "2021-03-19T17:21:36.908731Z"
       }
     },
     "parser_interface": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 150,
+        "grantedPoints": 160,
+        "downloadCount30Days": 11,
         "lastUpdated": "2023-05-13T08:52:41.235126Z"
       },
       "github": {
@@ -510701,6 +511280,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 120,
+        "downloadCount30Days": 5,
         "lastUpdated": "2021-05-11T07:39:34.210851Z"
       }
     },
@@ -510708,18 +511288,20 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 15,
+        "downloadCount30Days": 223,
         "lastUpdated": "2018-03-16T15:56:13.585984Z"
       },
       "github": {
         "slug": "polux/parsers",
         "starCount": 23,
-        "forkCount": 10
+        "forkCount": 7
       }
     },
     "parseserver_openid_flutter": {
       "pub": {
         "likeCount": 1,
         "grantedPoints": 130,
+        "downloadCount30Days": 37,
         "lastUpdated": "2021-11-15T22:36:10.481107Z"
       },
       "github": {
@@ -510728,10 +511310,32 @@
         "forkCount": 0
       }
     },
+    "parsi_datetime_picker": {
+      "pub": {
+        "likeCount": 2,
+        "grantedPoints": 160,
+        "downloadCount30Days": 18,
+        "lastUpdated": "2026-02-27T18:20:21.312535Z"
+      }
+    },
+    "parsing_util": {
+      "pub": {
+        "likeCount": 8,
+        "grantedPoints": 150,
+        "downloadCount30Days": 6,
+        "lastUpdated": "2025-09-01T12:21:26.283430Z"
+      },
+      "github": {
+        "slug": "awaisfusion/parsing_utils",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "parsley": {
       "pub": {
         "likeCount": 4,
-        "grantedPoints": 20,
+        "grantedPoints": 15,
+        "downloadCount30Days": 57,
         "lastUpdated": "2020-08-10T14:13:47.640024Z"
       }
     },
@@ -510739,6 +511343,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 30,
+        "downloadCount30Days": 5,
         "lastUpdated": "2014-12-05T15:11:41.201870Z"
       },
       "github": {
@@ -510751,6 +511356,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 15,
+        "downloadCount30Days": 6,
         "lastUpdated": "2017-12-08T19:43:32.857962Z"
       }
     },
@@ -510758,6 +511364,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 20,
+        "downloadCount30Days": 9,
         "lastUpdated": "2022-02-28T14:45:39.022857Z"
       },
       "github": {
@@ -510768,88 +511375,138 @@
     },
     "particle_aa": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 140,
-        "lastUpdated": "2024-07-30T09:22:39.134992Z"
+        "likeCount": 1,
+        "grantedPoints": 130,
+        "downloadCount30Days": 385,
+        "lastUpdated": "2025-11-25T09:02:00.562879Z"
       }
     },
     "particle_auth": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 120,
+        "grantedPoints": 110,
+        "downloadCount30Days": 367,
         "lastUpdated": "2024-06-13T03:44:59.238063Z"
       }
     },
     "particle_auth_core": {
       "pub": {
-        "likeCount": 1,
+        "likeCount": 2,
         "grantedPoints": 140,
-        "lastUpdated": "2024-07-30T09:22:05.614894Z"
+        "downloadCount30Days": 417,
+        "lastUpdated": "2025-11-25T08:47:09.552345Z"
       }
     },
     "particle_auth_flutter_plugin": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 140,
+        "grantedPoints": 120,
+        "downloadCount30Days": 8,
         "lastUpdated": "2022-10-17T12:10:11.506811Z"
       }
     },
     "particle_background": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 120,
+        "likeCount": 1,
+        "grantedPoints": 140,
+        "downloadCount30Days": 26,
         "lastUpdated": "2023-11-18T08:59:15.508304Z"
       },
       "github": {
         "slug": "vuitv/particle_background",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
     "particle_base": {
       "pub": {
-        "likeCount": 0,
+        "likeCount": 2,
         "grantedPoints": 120,
-        "lastUpdated": "2024-07-30T09:20:37.352931Z"
+        "downloadCount30Days": 283,
+        "lastUpdated": "2025-11-25T08:37:34.831226Z"
       }
     },
     "particle_biconomy": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 150,
+        "grantedPoints": 130,
+        "downloadCount30Days": 59,
         "lastUpdated": "2023-09-14T09:58:32.060422Z"
       }
     },
     "particle_chains": {
       "pub": {
-        "likeCount": 1,
-        "grantedPoints": 130,
+        "likeCount": 2,
+        "grantedPoints": 125,
+        "downloadCount30Days": 52,
         "lastUpdated": "2023-11-16T04:18:30.243259Z"
       }
     },
     "particle_connect": {
       "pub": {
-        "likeCount": 1,
-        "grantedPoints": 130,
-        "lastUpdated": "2024-07-30T09:22:23.223408Z"
+        "likeCount": 3,
+        "grantedPoints": 120,
+        "downloadCount30Days": 468,
+        "lastUpdated": "2025-11-25T08:54:18.960991Z"
+      }
+    },
+    "particle_core": {
+      "pub": {
+        "likeCount": 5,
+        "grantedPoints": 160,
+        "downloadCount30Days": 47,
+        "lastUpdated": "2026-03-15T13:51:44.377843Z"
+      },
+      "github": {
+        "slug": "HemangSidapara/particle_packages",
+        "starCount": 4,
+        "forkCount": 1
+      }
+    },
+    "particle_effect": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 29,
+        "lastUpdated": "2025-02-24T10:12:13.172023Z"
+      },
+      "github": {
+        "slug": "AITripleCodeCorp/particle_effect",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "particle_field": {
       "pub": {
-        "likeCount": 125,
-        "grantedPoints": 160,
+        "likeCount": 143,
+        "grantedPoints": 150,
+        "downloadCount30Days": 1161,
         "lastUpdated": "2023-03-12T00:29:02.897638Z"
       },
       "github": {
         "slug": "gskinner/particle_field",
-        "starCount": 21,
-        "forkCount": 4
+        "starCount": 29,
+        "forkCount": 6
+      }
+    },
+    "particle_flow": {
+      "pub": {
+        "likeCount": 3,
+        "grantedPoints": 160,
+        "downloadCount30Days": 150,
+        "lastUpdated": "2025-12-10T17:50:00.749402Z"
+      },
+      "github": {
+        "slug": "SadraKafiri/particle_flow",
+        "starCount": 2,
+        "forkCount": 0
       }
     },
     "particle_forked": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 130,
+        "grantedPoints": 120,
+        "downloadCount30Days": 5,
         "lastUpdated": "2022-05-19T11:21:09.676748Z"
       },
       "github": {
@@ -510861,7 +511518,8 @@
     "particle_fountain": {
       "pub": {
         "likeCount": 4,
-        "grantedPoints": 30,
+        "grantedPoints": 25,
+        "downloadCount30Days": 38,
         "lastUpdated": "2021-02-05T01:12:34.384040Z"
       },
       "github": {
@@ -510870,10 +511528,37 @@
         "forkCount": 0
       }
     },
+    "particle_image": {
+      "pub": {
+        "likeCount": 8,
+        "grantedPoints": 160,
+        "downloadCount30Days": 35,
+        "lastUpdated": "2026-03-15T13:51:56.097695Z"
+      },
+      "github": {
+        "slug": "HemangSidapara/particle_packages",
+        "starCount": 4,
+        "forkCount": 1
+      }
+    },
+    "particle_reform": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 150,
+        "downloadCount30Days": 19,
+        "lastUpdated": "2026-02-08T21:43:58.571827Z"
+      },
+      "github": {
+        "slug": "TimeLord2010/particle_reform",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "particle_setup": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 30,
+        "downloadCount30Days": 27,
         "lastUpdated": "2021-05-03T22:14:32.340577Z"
       },
       "github": {
@@ -510882,10 +511567,24 @@
         "forkCount": 0
       }
     },
+    "particle_text": {
+      "pub": {
+        "likeCount": 13,
+        "grantedPoints": 160,
+        "downloadCount30Days": 44,
+        "lastUpdated": "2026-03-15T13:52:10.023753Z"
+      },
+      "github": {
+        "slug": "HemangSidapara/particle_packages",
+        "starCount": 4,
+        "forkCount": 1
+      }
+    },
     "particle_ui": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 20,
+        "grantedPoints": 15,
+        "downloadCount30Days": 45,
         "lastUpdated": "2020-05-10T14:44:43.360505Z"
       }
     },
@@ -510893,13 +511592,15 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 130,
-        "lastUpdated": "2024-07-30T09:23:43.834480Z"
+        "downloadCount30Days": 537,
+        "lastUpdated": "2025-11-25T09:03:06.434722Z"
       }
     },
     "particles": {
       "pub": {
         "likeCount": 3,
         "grantedPoints": 30,
+        "downloadCount30Days": 19,
         "lastUpdated": "2019-05-29T01:20:41.924784Z"
       },
       "github": {
@@ -510910,44 +511611,61 @@
     },
     "particles_flutter": {
       "pub": {
-        "likeCount": 147,
-        "grantedPoints": 140,
-        "lastUpdated": "2024-07-10T21:48:51.569103Z"
+        "likeCount": 197,
+        "grantedPoints": 150,
+        "downloadCount30Days": 2005,
+        "lastUpdated": "2026-07-07T19:57:57.330405Z"
       },
       "github": {
         "slug": "rajajain08/particles_flutter",
-        "starCount": 99,
-        "forkCount": 10
+        "starCount": 116,
+        "forkCount": 12
       }
     },
     "particles_fly": {
       "pub": {
-        "likeCount": 44,
-        "grantedPoints": 160,
+        "likeCount": 55,
+        "grantedPoints": 150,
+        "downloadCount30Days": 101,
         "lastUpdated": "2024-06-16T13:33:11.272539Z"
       },
       "github": {
         "slug": "mevos19/particles_fly",
-        "starCount": 3,
+        "starCount": 8,
         "forkCount": 0
+      }
+    },
+    "particles_network": {
+      "pub": {
+        "likeCount": 67,
+        "grantedPoints": 160,
+        "downloadCount30Days": 3970,
+        "lastUpdated": "2026-06-14T07:54:54.879022Z"
+      },
+      "github": {
+        "slug": "abod8639/Particles_Network",
+        "starCount": 17,
+        "forkCount": 3
       }
     },
     "particular": {
       "pub": {
-        "likeCount": 26,
+        "likeCount": 50,
         "grantedPoints": 160,
-        "lastUpdated": "2024-06-13T19:03:24.632574Z"
+        "downloadCount30Days": 105,
+        "lastUpdated": "2025-02-09T20:45:16.597067Z"
       },
       "github": {
         "slug": "manjav/particular",
-        "starCount": 8,
+        "starCount": 17,
         "forkCount": 0
       }
     },
     "particules_js": {
       "pub": {
         "likeCount": 11,
-        "grantedPoints": 160,
+        "grantedPoints": 150,
+        "downloadCount30Days": 19,
         "lastUpdated": "2023-02-24T09:23:46.875559Z"
       },
       "github": {
@@ -510960,6 +511678,7 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 150,
+        "downloadCount30Days": 1965,
         "lastUpdated": "2021-05-14T09:28:18.906788Z"
       },
       "github": {
@@ -510972,6 +511691,7 @@
       "pub": {
         "likeCount": 3,
         "grantedPoints": 120,
+        "downloadCount30Days": 5,
         "lastUpdated": "2021-09-16T13:23:52.894312Z"
       },
       "github": {
@@ -510980,65 +511700,95 @@
         "forkCount": 0
       }
     },
+    "pasby": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 70,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2026-02-27T23:22:15.558538Z"
+      }
+    },
     "pascaldart": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 130,
+        "downloadCount30Days": 63,
         "lastUpdated": "2022-01-14T14:29:53.553066Z"
       },
       "github": {
         "slug": "appditto/pascaldart",
         "starCount": 7,
-        "forkCount": 4
+        "forkCount": 5
       }
     },
     "paseto": {
       "pub": {
-        "likeCount": 1,
-        "grantedPoints": 130,
+        "likeCount": 3,
+        "grantedPoints": 120,
+        "downloadCount30Days": 21,
         "lastUpdated": "2023-09-04T04:14:19.165163Z"
       },
       "github": {
         "slug": "plarson/flutter_paseto",
-        "starCount": 3,
-        "forkCount": 1
+        "starCount": 8,
+        "forkCount": 2
+      }
+    },
+    "paseto_dart": {
+      "pub": {
+        "likeCount": 2,
+        "grantedPoints": 150,
+        "downloadCount30Days": 261,
+        "lastUpdated": "2026-02-06T19:20:10.350842Z"
+      },
+      "github": {
+        "slug": "nogipx/paseto_dart",
+        "starCount": 6,
+        "forkCount": 0
       }
     },
     "pass_flutter": {
       "pub": {
-        "likeCount": 33,
-        "grantedPoints": 140,
+        "likeCount": 34,
+        "grantedPoints": 130,
+        "downloadCount30Days": 159,
         "lastUpdated": "2023-08-09T09:26:15.089711Z"
       },
       "github": {
         "slug": "alexeynobody/pass-flutter",
-        "starCount": 22,
+        "starCount": 23,
         "forkCount": 21
       }
     },
     "pass_mtx": {
       "pub": {
         "likeCount": 3,
-        "grantedPoints": 160,
-        "lastUpdated": "2024-06-05T07:22:16.592885Z"
+        "grantedPoints": 150,
+        "downloadCount30Days": 161,
+        "lastUpdated": "2026-06-30T06:57:20.792691Z"
+      }
+    },
+    "passage_flex_flutter": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 40,
+        "downloadCount30Days": 10,
+        "lastUpdated": "2024-12-10T00:08:47.562312Z"
       }
     },
     "passage_flutter": {
       "pub": {
-        "likeCount": 8,
-        "grantedPoints": 110,
-        "lastUpdated": "2024-07-23T05:19:34.324940Z"
-      },
-      "github": {
-        "slug": "passageidentity/passage-flutter",
-        "starCount": 3,
-        "forkCount": 1
+        "likeCount": 9,
+        "grantedPoints": 40,
+        "downloadCount30Days": 43,
+        "lastUpdated": "2025-06-27T21:16:13.877358Z"
       }
     },
     "passaport": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 150,
+        "grantedPoints": 145,
+        "downloadCount30Days": 3,
         "lastUpdated": "2022-07-13T12:05:03.793153Z"
       },
       "github": {
@@ -511050,14 +511800,16 @@
     "passbase_flutter": {
       "pub": {
         "likeCount": 6,
-        "grantedPoints": 150,
+        "grantedPoints": 140,
+        "downloadCount30Days": 209,
         "lastUpdated": "2022-09-15T10:30:51.529571Z"
       }
     },
     "passbase_flutter_v3": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 150,
+        "grantedPoints": 140,
+        "downloadCount30Days": 17,
         "lastUpdated": "2022-11-25T15:51:39.344528Z"
       }
     },
@@ -511065,6 +511817,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 40,
+        "downloadCount30Days": 16,
         "lastUpdated": "2018-11-11T08:21:04.839222Z"
       },
       "github": {
@@ -511075,175 +511828,296 @@
     },
     "passcode_biometric_auth": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 150,
-        "lastUpdated": "2024-03-22T17:34:05.283275Z"
+        "likeCount": 1,
+        "grantedPoints": 140,
+        "downloadCount30Days": 36,
+        "lastUpdated": "2025-04-21T14:43:44.196856Z"
       },
       "github": {
         "slug": "lamnhan066/passcode_biometric_auth",
-        "starCount": 0,
-        "forkCount": 0
+        "starCount": 2,
+        "forkCount": 1
       }
     },
     "passcode_screen": {
       "pub": {
-        "likeCount": 114,
+        "likeCount": 117,
         "grantedPoints": 135,
+        "downloadCount30Days": 2466,
         "lastUpdated": "2022-01-03T09:04:23.714646Z"
       },
       "github": {
         "slug": "xPutnikx/flutter-passcode",
-        "starCount": 164,
-        "forkCount": 60
+        "starCount": 161,
+        "forkCount": 58
       }
     },
     "passikey_flutter_sdk": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 30,
+        "grantedPoints": 25,
+        "downloadCount30Days": 17,
         "lastUpdated": "2020-12-07T08:22:45.534358Z"
       }
     },
     "passive_data": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 15,
+        "grantedPoints": 25,
+        "downloadCount30Days": 47,
         "lastUpdated": "2016-10-17T15:29:04.169Z"
       }
     },
     "passive_face_liveness": {
       "pub": {
         "likeCount": 3,
-        "grantedPoints": 130,
+        "grantedPoints": 115,
+        "downloadCount30Days": 6,
         "lastUpdated": "2022-09-02T19:32:07.995268Z"
       }
     },
     "passive_face_liveness_compatible": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 40,
+        "grantedPoints": 35,
+        "downloadCount30Days": 5,
         "lastUpdated": "2022-09-13T14:18:59.493303Z"
+      }
+    },
+    "passive_liveness": {
+      "pub": {
+        "likeCount": 7,
+        "grantedPoints": 160,
+        "downloadCount30Days": 390,
+        "lastUpdated": "2026-08-04T09:12:39.896025Z"
+      },
+      "github": {
+        "slug": "andikatp/passive_liveness",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "passkey_ui_kit": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 130,
+        "downloadCount30Days": 8,
+        "lastUpdated": "2026-07-02T04:06:57.884160Z"
+      },
+      "github": {
+        "slug": "hassaankhalid225/passkey_ui_kit",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "passkeys": {
       "pub": {
-        "likeCount": 49,
-        "grantedPoints": 140,
-        "lastUpdated": "2024-04-03T08:43:17.865282Z"
+        "likeCount": 111,
+        "grantedPoints": 150,
+        "downloadCount30Days": 149916,
+        "lastUpdated": "2026-08-06T11:50:28.851057Z"
       },
       "github": {
         "slug": "corbado/flutter-passkeys",
-        "starCount": 53,
-        "forkCount": 19
+        "starCount": 185,
+        "forkCount": 58
       }
     },
     "passkeys_android": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 140,
-        "lastUpdated": "2024-04-03T08:43:01.023639Z"
+        "likeCount": 2,
+        "grantedPoints": 150,
+        "downloadCount30Days": 165694,
+        "lastUpdated": "2026-07-17T08:34:35.841349Z"
       },
       "github": {
         "slug": "corbado/flutter-passkeys",
-        "starCount": 53,
-        "forkCount": 19
+        "starCount": 185,
+        "forkCount": 58
       }
     },
     "passkeys_capsule": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 130,
+        "likeCount": 1,
+        "grantedPoints": 0,
+        "downloadCount30Days": 5,
         "lastUpdated": "2024-03-12T19:24:12.104604Z"
       },
       "github": {
         "slug": "corbado/flutter-passkeys",
-        "starCount": 53,
-        "forkCount": 19
+        "starCount": 185,
+        "forkCount": 58
+      }
+    },
+    "passkeys_darwin": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 82334,
+        "lastUpdated": "2026-08-06T11:50:18.562636Z"
+      },
+      "github": {
+        "slug": "corbado/flutter-passkeys",
+        "starCount": 185,
+        "forkCount": 58
+      }
+    },
+    "passkeys_doctor": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 140,
+        "downloadCount30Days": 148005,
+        "lastUpdated": "2026-07-17T08:34:15.325238Z"
+      },
+      "github": {
+        "slug": "corbado/flutter-passkeys",
+        "starCount": 185,
+        "forkCount": 58
       }
     },
     "passkeys_ios": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 140,
-        "lastUpdated": "2024-03-13T16:21:21.597861Z"
+        "grantedPoints": 120,
+        "downloadCount30Days": 82394,
+        "lastUpdated": "2025-09-24T09:47:18.120248Z"
       },
       "github": {
         "slug": "corbado/flutter-passkeys",
-        "starCount": 53,
-        "forkCount": 19
+        "starCount": 185,
+        "forkCount": 58
       }
     },
     "passkeys_ios_capsule": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 130,
+        "grantedPoints": 70,
+        "downloadCount30Days": 8,
         "lastUpdated": "2024-03-12T19:20:50.161696Z"
       },
       "github": {
         "slug": "corbado/flutter-passkeys",
-        "starCount": 53,
-        "forkCount": 19
+        "starCount": 185,
+        "forkCount": 58
       }
     },
     "passkeys_platform_interface": {
       "pub": {
-        "likeCount": 0,
+        "likeCount": 2,
         "grantedPoints": 150,
-        "lastUpdated": "2024-02-01T18:23:49.720766Z"
+        "downloadCount30Days": 543706,
+        "lastUpdated": "2026-07-17T08:34:09.455142Z"
       },
       "github": {
         "slug": "corbado/flutter-passkeys",
-        "starCount": 53,
-        "forkCount": 19
+        "starCount": 185,
+        "forkCount": 58
+      }
+    },
+    "passkeys_server": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 160,
+        "downloadCount30Days": 73327,
+        "lastUpdated": "2025-09-29T12:11:29.547995Z"
+      },
+      "github": {
+        "slug": "LunaONE/passkeys_server",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "passkeys_web": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 120,
-        "lastUpdated": "2024-02-01T18:24:01.713096Z"
+        "likeCount": 1,
+        "grantedPoints": 150,
+        "downloadCount30Days": 160999,
+        "lastUpdated": "2026-07-17T08:34:42.484021Z"
       },
       "github": {
         "slug": "corbado/flutter-passkeys",
-        "starCount": 53,
-        "forkCount": 19
+        "starCount": 185,
+        "forkCount": 58
+      }
+    },
+    "passkeys_windows": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 55248,
+        "lastUpdated": "2026-07-17T08:34:31.245048Z"
+      },
+      "github": {
+        "slug": "corbado/flutter-passkeys",
+        "starCount": 185,
+        "forkCount": 58
       }
     },
     "passkit": {
       "pub": {
-        "likeCount": 5,
-        "grantedPoints": 150,
-        "lastUpdated": "2024-07-21T17:01:15.086957Z"
+        "likeCount": 20,
+        "grantedPoints": 130,
+        "downloadCount30Days": 2033,
+        "lastUpdated": "2024-12-15T18:25:49.547209Z"
       },
       "github": {
         "slug": "ueman/passkit",
-        "starCount": 14,
-        "forkCount": 1
+        "starCount": 26,
+        "forkCount": 3
       }
     },
     "passkit_ui": {
       "pub": {
-        "likeCount": 0,
+        "likeCount": 5,
         "grantedPoints": 160,
-        "lastUpdated": "2024-07-21T17:02:00.818845Z"
+        "downloadCount30Days": 534,
+        "lastUpdated": "2024-11-20T07:22:57.916846Z"
       },
       "github": {
         "slug": "ueman/passkit",
-        "starCount": 14,
-        "forkCount": 1
+        "starCount": 26,
+        "forkCount": 3
+      }
+    },
+    "passphrase": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 160,
+        "downloadCount30Days": 283,
+        "lastUpdated": "2025-05-03T12:29:02.794497Z"
+      },
+      "github": {
+        "slug": "gagik/passphrase",
+        "starCount": 1,
+        "forkCount": 0
       }
     },
     "passphrase_constructor": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 10,
+        "downloadCount30Days": 13,
         "lastUpdated": "2014-08-21T00:30:33.314400Z"
+      }
+    },
+    "passphrase_generator": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 160,
+        "downloadCount30Days": 23,
+        "lastUpdated": "2025-05-20T23:06:51.146064Z"
+      },
+      "github": {
+        "slug": "thecasualdev17/passphrase_generator",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "passport": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 120,
+        "grantedPoints": 115,
+        "downloadCount30Days": 7,
         "lastUpdated": "2022-07-17T15:13:17.810495Z"
       },
       "github": {
@@ -511254,32 +512128,48 @@
     },
     "passport_image": {
       "pub": {
-        "likeCount": 1,
+        "likeCount": 2,
         "grantedPoints": 160,
+        "downloadCount30Days": 13,
         "lastUpdated": "2024-06-03T09:18:35.441454Z"
       },
       "github": {
         "slug": "hosniezzeldin/passport_image",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
     "passport_reader": {
       "pub": {
-        "likeCount": 2,
-        "grantedPoints": 140,
+        "likeCount": 3,
+        "grantedPoints": 120,
+        "downloadCount30Days": 51,
         "lastUpdated": "2024-06-23T12:07:57.465279Z"
       },
       "github": {
         "slug": "skydheere/passport_reader",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
+      }
+    },
+    "passport_scanner": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 120,
+        "downloadCount30Days": 41,
+        "lastUpdated": "2026-02-04T09:01:37.058528Z"
+      },
+      "github": {
+        "slug": "alihusseinalissa/passport_scanner",
+        "starCount": 0,
+        "forkCount": 2
       }
     },
     "passputter": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 130,
+        "grantedPoints": 140,
+        "downloadCount30Days": 15,
         "lastUpdated": "2022-03-21T11:10:09.340083Z"
       },
       "github": {
@@ -511290,13 +512180,14 @@
     },
     "passwd": {
       "pub": {
-        "likeCount": 4,
+        "likeCount": 5,
         "grantedPoints": 160,
+        "downloadCount30Days": 11,
         "lastUpdated": "2024-04-02T17:55:05.241875Z"
       },
       "github": {
         "slug": "shervin-h/passwd",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
@@ -511304,6 +512195,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 140,
+        "downloadCount30Days": 145,
         "lastUpdated": "2022-01-22T21:54:05.490491Z"
       }
     },
@@ -511311,25 +512203,41 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 160,
+        "downloadCount30Days": 23,
         "lastUpdated": "2022-01-02T17:19:21.380549Z"
       }
     },
     "password": {
       "pub": {
-        "likeCount": 22,
+        "likeCount": 23,
         "grantedPoints": 35,
+        "downloadCount30Days": 120,
         "lastUpdated": "2018-12-17T22:30:16.458313Z"
       },
       "github": {
         "slug": "leocavalcante/password-dart",
-        "starCount": 53,
-        "forkCount": 17
+        "starCount": 55,
+        "forkCount": 19
+      }
+    },
+    "password_check": {
+      "pub": {
+        "likeCount": 5,
+        "grantedPoints": 150,
+        "downloadCount30Days": 86,
+        "lastUpdated": "2026-07-27T19:32:18.307465Z"
+      },
+      "github": {
+        "slug": "deyvissoneduardo/password_check",
+        "starCount": 1,
+        "forkCount": 0
       }
     },
     "password_checker": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 20,
+        "downloadCount30Days": 5,
         "lastUpdated": "2021-07-23T20:40:39.485048Z"
       },
       "github": {
@@ -511338,10 +512246,24 @@
         "forkCount": 0
       }
     },
+    "password_checker_pro": {
+      "pub": {
+        "likeCount": 5,
+        "grantedPoints": 160,
+        "downloadCount30Days": 17,
+        "lastUpdated": "2025-10-09T21:06:07.201129Z"
+      },
+      "github": {
+        "slug": "PasswordCheck/Password-Check",
+        "starCount": 6,
+        "forkCount": 2
+      }
+    },
     "password_cipher": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 120,
+        "grantedPoints": 130,
+        "downloadCount30Days": 17,
         "lastUpdated": "2022-09-28T12:07:53.935077Z"
       },
       "github": {
@@ -511354,6 +512276,7 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 40,
+        "downloadCount30Days": 7,
         "lastUpdated": "2019-07-05T07:54:38.801110Z"
       },
       "github": {
@@ -511362,22 +512285,37 @@
         "forkCount": 1
       }
     },
+    "password_confirmation_style": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 160,
+        "downloadCount30Days": 145,
+        "lastUpdated": "2026-07-25T05:04:51.306206Z"
+      },
+      "github": {
+        "slug": "FranckSiyapze/password_confirmation_style",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "password_credential": {
       "pub": {
-        "likeCount": 28,
-        "grantedPoints": 130,
+        "likeCount": 30,
+        "grantedPoints": 60,
+        "downloadCount30Days": 269,
         "lastUpdated": "2022-05-21T11:26:23.671800Z"
       },
       "github": {
         "slug": "irgaly/flutter_password_credential",
-        "starCount": 9,
-        "forkCount": 6
+        "starCount": 10,
+        "forkCount": 7
       }
     },
     "password_criteria": {
       "pub": {
         "likeCount": 19,
-        "grantedPoints": 40,
+        "grantedPoints": 35,
+        "downloadCount30Days": 59,
         "lastUpdated": "2020-05-10T19:31:42.970785Z"
       },
       "github": {
@@ -511388,8 +512326,9 @@
     },
     "password_dart": {
       "pub": {
-        "likeCount": 8,
-        "grantedPoints": 145,
+        "likeCount": 9,
+        "grantedPoints": 135,
+        "downloadCount30Days": 70,
         "lastUpdated": "2021-06-05T04:45:34.977366Z"
       },
       "github": {
@@ -511401,7 +512340,8 @@
     "password_dumb": {
       "pub": {
         "likeCount": 3,
-        "grantedPoints": 150,
+        "grantedPoints": 135,
+        "downloadCount30Days": 15,
         "lastUpdated": "2022-02-21T12:01:25.186230Z"
       },
       "github": {
@@ -511410,10 +512350,37 @@
         "forkCount": 0
       }
     },
+    "password_encryptor": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 140,
+        "downloadCount30Days": 11,
+        "lastUpdated": "2024-08-23T05:08:15.284714Z"
+      },
+      "github": {
+        "slug": "udaykumar-dhokia/password_encryptor",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "password_engine": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 15,
+        "lastUpdated": "2026-06-10T15:59:10.249897Z"
+      },
+      "github": {
+        "slug": "dhruvanbhalara/password_engine",
+        "starCount": 3,
+        "forkCount": 0
+      }
+    },
     "password_entropy": {
       "pub": {
-        "likeCount": 2,
+        "likeCount": 5,
         "grantedPoints": 160,
+        "downloadCount30Days": 27,
         "lastUpdated": "2023-09-01T03:03:00.301260Z"
       },
       "github": {
@@ -511424,20 +512391,22 @@
     },
     "password_field_validator": {
       "pub": {
-        "likeCount": 15,
+        "likeCount": 17,
         "grantedPoints": 150,
+        "downloadCount30Days": 35,
         "lastUpdated": "2022-08-19T18:58:12.409193Z"
       },
       "github": {
         "slug": "rubone/password_field_validator",
         "starCount": 19,
-        "forkCount": 4
+        "forkCount": 5
       }
     },
     "password_generate": {
       "pub": {
         "likeCount": 2,
         "grantedPoints": 130,
+        "downloadCount30Days": 18,
         "lastUpdated": "2022-07-13T06:54:52.914050Z"
       },
       "github": {
@@ -511450,6 +512419,7 @@
       "pub": {
         "likeCount": 4,
         "grantedPoints": 160,
+        "downloadCount30Days": 167,
         "lastUpdated": "2022-02-20T17:33:57.245280Z"
       },
       "github": {
@@ -511460,12 +512430,26 @@
     },
     "password_generator_quoclewkm": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 120,
+        "likeCount": 1,
+        "grantedPoints": 130,
+        "downloadCount30Days": 7,
         "lastUpdated": "2024-07-08T00:30:09.751307Z"
       },
       "github": {
         "slug": "quoclewkm/password_generator",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "password_guard": {
+      "pub": {
+        "likeCount": 3,
+        "grantedPoints": 160,
+        "downloadCount30Days": 53,
+        "lastUpdated": "2026-06-15T11:23:42.600794Z"
+      },
+      "github": {
+        "slug": "pragneshkoli/password_guard",
         "starCount": 0,
         "forkCount": 0
       }
@@ -511474,6 +512458,7 @@
       "pub": {
         "likeCount": 3,
         "grantedPoints": 15,
+        "downloadCount30Days": 466,
         "lastUpdated": "2018-08-06T15:18:38.500849Z"
       },
       "github": {
@@ -511486,6 +512471,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 150,
+        "downloadCount30Days": 399,
         "lastUpdated": "2022-05-16T02:44:41.866378Z"
       },
       "github": {
@@ -511498,6 +512484,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 10,
+        "downloadCount30Days": 11,
         "lastUpdated": "2014-03-13T21:47:02.146330Z"
       },
       "github": {
@@ -511510,6 +512497,7 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 30,
+        "downloadCount30Days": 15,
         "lastUpdated": "2021-07-23T21:50:44.793473Z"
       },
       "github": {
@@ -511521,7 +512509,8 @@
     "password_input": {
       "pub": {
         "likeCount": 16,
-        "grantedPoints": 90,
+        "grantedPoints": 70,
+        "downloadCount30Days": 31,
         "lastUpdated": "2022-02-17T10:48:33.785853Z"
       },
       "github": {
@@ -511534,18 +512523,20 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 130,
+        "downloadCount30Days": 6,
         "lastUpdated": "2022-12-17T18:59:13.122253Z"
       }
     },
     "password_maker": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 140,
+        "likeCount": 1,
+        "grantedPoints": 150,
+        "downloadCount30Days": 15,
         "lastUpdated": "2023-07-06T03:59:08.051258Z"
       },
       "github": {
         "slug": "josephjose1234/password_maker",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
@@ -511553,6 +512544,7 @@
       "pub": {
         "likeCount": 8,
         "grantedPoints": 160,
+        "downloadCount30Days": 57,
         "lastUpdated": "2022-05-27T05:20:19.265107Z"
       },
       "github": {
@@ -511563,20 +512555,22 @@
     },
     "password_protected_pdf_checker": {
       "pub": {
-        "likeCount": 1,
-        "grantedPoints": 150,
+        "likeCount": 2,
+        "grantedPoints": 140,
+        "downloadCount30Days": 787,
         "lastUpdated": "2023-03-27T06:25:47.844841Z"
       },
       "github": {
         "slug": "tarique-khan/flutter_password_protected_pdf_checker",
         "starCount": 0,
-        "forkCount": 0
+        "forkCount": 6
       }
     },
     "password_rule_check": {
       "pub": {
-        "likeCount": 2,
+        "likeCount": 3,
         "grantedPoints": 150,
+        "downloadCount30Days": 71,
         "lastUpdated": "2022-12-09T13:13:37.240776Z"
       },
       "github": {
@@ -511587,8 +512581,9 @@
     },
     "password_stepper": {
       "pub": {
-        "likeCount": 19,
-        "grantedPoints": 150,
+        "likeCount": 18,
+        "grantedPoints": 140,
+        "downloadCount30Days": 13,
         "lastUpdated": "2022-08-24T04:02:40.457405Z"
       },
       "github": {
@@ -511599,8 +512594,9 @@
     },
     "password_strength": {
       "pub": {
-        "likeCount": 113,
+        "likeCount": 157,
         "grantedPoints": 160,
+        "downloadCount30Days": 292074,
         "lastUpdated": "2021-03-31T11:27:37.048525Z"
       },
       "github": {
@@ -511611,99 +512607,121 @@
     },
     "password_strength_checker": {
       "pub": {
-        "likeCount": 27,
-        "grantedPoints": 160,
-        "lastUpdated": "2024-07-18T18:40:35.480892Z"
+        "likeCount": 55,
+        "grantedPoints": 150,
+        "downloadCount30Days": 3627,
+        "lastUpdated": "2025-08-21T19:31:51.330480Z"
       },
       "github": {
         "slug": "dariowskii/password_strength_checker",
-        "starCount": 13,
+        "starCount": 14,
         "forkCount": 7
+      }
+    },
+    "password_strength_checker_plus": {
+      "pub": {
+        "likeCount": 2,
+        "grantedPoints": 120,
+        "downloadCount30Days": 8,
+        "lastUpdated": "2025-06-05T05:00:53.924662Z"
+      },
+      "github": {
+        "slug": "Abhi0929420/password_strength_checker",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "password_strength_indicator": {
       "pub": {
-        "likeCount": 9,
-        "grantedPoints": 150,
+        "likeCount": 12,
+        "grantedPoints": 160,
+        "downloadCount30Days": 62,
         "lastUpdated": "2023-07-21T20:29:38.482957Z"
       },
       "github": {
         "slug": "Thaanu2001/password-strength-indicator",
-        "starCount": 1,
+        "starCount": 2,
         "forkCount": 0
       }
     },
     "password_strength_indicator_plus": {
       "pub": {
-        "likeCount": 2,
-        "grantedPoints": 160,
+        "likeCount": 5,
+        "grantedPoints": 150,
+        "downloadCount30Days": 13,
         "lastUpdated": "2023-10-08T04:09:51.215164Z"
       },
       "github": {
         "slug": "nishalsehan/password_strength_indicator_plus",
-        "starCount": 1,
-        "forkCount": 0
+        "starCount": 2,
+        "forkCount": 2
       }
     },
     "password_strength_validator": {
       "pub": {
-        "likeCount": 3,
+        "likeCount": 5,
         "grantedPoints": 120,
+        "downloadCount30Days": 13,
         "lastUpdated": "2023-09-30T12:58:44.160373Z"
       },
       "github": {
         "slug": "sumit024/password_validator",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
     "password_strength_verificator": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 140,
+        "grantedPoints": 160,
+        "downloadCount30Days": 12,
         "lastUpdated": "2022-01-17T11:43:23.514755Z"
       }
     },
     "password_text_field": {
       "pub": {
         "likeCount": 4,
-        "grantedPoints": 150,
-        "lastUpdated": "2023-10-27T14:57:46.594659Z"
+        "grantedPoints": 160,
+        "downloadCount30Days": 53,
+        "lastUpdated": "2025-09-12T08:58:33.716195Z"
       },
       "github": {
         "slug": "koji-1009/password_text_field",
-        "starCount": 3,
+        "starCount": 4,
         "forkCount": 0
       }
     },
     "password_validated_field": {
       "pub": {
-        "likeCount": 49,
-        "grantedPoints": 160,
+        "likeCount": 54,
+        "grantedPoints": 150,
+        "downloadCount30Days": 82,
         "lastUpdated": "2021-06-08T15:22:20.691917Z"
       },
       "github": {
         "slug": "m-hamzashakeel/password_validated_field",
-        "starCount": 28,
+        "starCount": 27,
         "forkCount": 6
       }
     },
     "password_validation_plus": {
       "pub": {
-        "likeCount": 1,
-        "grantedPoints": 150,
+        "likeCount": 3,
+        "grantedPoints": 135,
+        "downloadCount30Days": 27,
         "lastUpdated": "2023-10-08T03:34:16.876024Z"
       },
       "github": {
         "slug": "nishalsehan/password_validation_plus",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
     "password_validator": {
       "pub": {
-        "likeCount": 6,
+        "likeCount": 7,
         "grantedPoints": 20,
+        "downloadCount30Days": 23,
         "lastUpdated": "2020-10-17T05:33:34.343123Z"
       },
       "github": {
@@ -511712,34 +512730,50 @@
         "forkCount": 0
       }
     },
+    "password_validator_mate": {
+      "pub": {
+        "likeCount": 3,
+        "grantedPoints": 115,
+        "downloadCount30Days": 20,
+        "lastUpdated": "2025-09-23T14:10:42.513911Z"
+      },
+      "github": {
+        "slug": "MIbrahimMushtaq/PasswordValidatorMate",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "password_validator_package": {
       "pub": {
-        "likeCount": 2,
+        "likeCount": 3,
         "grantedPoints": 160,
+        "downloadCount30Days": 10,
         "lastUpdated": "2024-01-19T09:46:56.923698Z"
       },
       "github": {
         "slug": "hello-addweb/password_validator",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
     "passwordfield": {
       "pub": {
-        "likeCount": 57,
+        "likeCount": 61,
         "grantedPoints": 140,
+        "downloadCount30Days": 534,
         "lastUpdated": "2023-06-12T14:00:34.160907Z"
       },
       "github": {
         "slug": "maheshmnj/passwordfield",
-        "starCount": 13,
+        "starCount": 14,
         "forkCount": 5
       }
     },
     "passwordformfield": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 140,
+        "grantedPoints": 150,
+        "downloadCount30Days": 5,
         "lastUpdated": "2022-11-24T02:47:34.004744Z"
       },
       "github": {
@@ -511748,17 +512782,32 @@
         "forkCount": 0
       }
     },
+    "passwordgrid": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 150,
+        "downloadCount30Days": 8,
+        "lastUpdated": "2025-02-18T12:44:46.897701Z"
+      },
+      "github": {
+        "slug": "sundaramkumar/passwordgrid_flutter_package",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "passwordlezz": {
       "pub": {
         "likeCount": 1,
         "grantedPoints": 20,
+        "downloadCount30Days": 5,
         "lastUpdated": "2020-02-29T13:49:53.085711Z"
       }
     },
     "passwordmicrointeraction": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 30,
+        "grantedPoints": 40,
+        "downloadCount30Days": 7,
         "lastUpdated": "2020-03-06T15:38:50.138122Z"
       }
     },
@@ -511766,6 +512815,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 30,
+        "downloadCount30Days": 23,
         "lastUpdated": "2019-08-13T13:04:00.910974Z"
       },
       "github": {
@@ -511778,6 +512828,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 140,
+        "downloadCount30Days": 17,
         "lastUpdated": "2022-05-16T18:42:10.298710Z"
       },
       "github": {
@@ -511788,68 +512839,130 @@
     },
     "pasteboard": {
       "pub": {
-        "likeCount": 83,
-        "grantedPoints": 140,
-        "lastUpdated": "2022-07-22T12:14:13.977436Z"
+        "likeCount": 118,
+        "grantedPoints": 160,
+        "downloadCount30Days": 132691,
+        "lastUpdated": "2026-02-24T03:09:18.426849Z"
       },
       "github": {
         "slug": "MixinNetwork/flutter-plugins",
-        "starCount": 425,
-        "forkCount": 178
+        "starCount": 511,
+        "forkCount": 285
       }
     },
     "pasted_url_toast": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 85,
+        "likeCount": 1,
+        "grantedPoints": 95,
+        "downloadCount30Days": 14,
         "lastUpdated": "2024-04-26T01:01:03.394363Z"
       },
       "github": {
         "slug": "juneview-songdo/pasted_url_toast",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
     "pastel": {
       "pub": {
-        "likeCount": 2,
+        "likeCount": 3,
         "grantedPoints": 140,
+        "downloadCount30Days": 63,
         "lastUpdated": "2023-10-12T11:11:55.615780Z"
       },
       "github": {
         "slug": "snowmerak/pastel",
-        "starCount": 2,
+        "starCount": 3,
         "forkCount": 0
       }
     },
     "pastel_flutter": {
       "pub": {
-        "likeCount": 2,
-        "grantedPoints": 140,
+        "likeCount": 3,
+        "grantedPoints": 130,
+        "downloadCount30Days": 6,
         "lastUpdated": "2023-10-09T14:10:08.821677Z"
       },
       "github": {
         "slug": "snowmerak/pastel_flutter",
-        "starCount": 1,
+        "starCount": 2,
         "forkCount": 0
       }
     },
     "pastel_widget": {
       "pub": {
-        "likeCount": 1,
-        "grantedPoints": 150,
+        "likeCount": 2,
+        "grantedPoints": 160,
+        "downloadCount30Days": 6,
         "lastUpdated": "2023-10-26T14:38:52.769461Z"
       },
       "github": {
         "slug": "snowmerak/pastel_widget",
-        "starCount": 1,
+        "starCount": 2,
         "forkCount": 0
+      }
+    },
+    "pasubot": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 130,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2024-08-06T06:04:13.209367Z"
+      }
+    },
+    "pasubot_flutter": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 120,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2024-08-06T06:06:14.729166Z"
+      }
+    },
+    "pasubot_functions_client": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 130,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2024-08-06T05:55:12.285782Z"
+      }
+    },
+    "pasubot_gotrue": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 8,
+        "lastUpdated": "2024-08-06T05:59:06.780961Z"
+      }
+    },
+    "pasubot_json_isolate": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 125,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2024-08-06T05:50:31.325091Z"
+      }
+    },
+    "pasubot_realtime_client": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 130,
+        "downloadCount30Days": 7,
+        "lastUpdated": "2024-08-06T05:57:24.581060Z"
+      }
+    },
+    "pasubot_storage_client": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 120,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2024-08-06T05:56:38.788805Z"
       }
     },
     "pataa_autofill_view": {
       "pub": {
         "likeCount": 7,
-        "grantedPoints": 140,
+        "grantedPoints": 130,
+        "downloadCount30Days": 29,
         "lastUpdated": "2022-06-09T11:38:14.982485Z"
       },
       "github": {
@@ -511861,60 +512974,78 @@
     "patapata_apple_push_notifications": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 160,
-        "lastUpdated": "2024-06-12T07:42:39.683735Z"
+        "grantedPoints": 150,
+        "downloadCount30Days": 48,
+        "lastUpdated": "2026-04-14T02:16:51.884782Z"
       },
       "github": {
         "slug": "gree/patapata",
-        "starCount": 47,
+        "starCount": 60,
+        "forkCount": 5
+      }
+    },
+    "patapata_builder": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 130,
+        "downloadCount30Days": 27,
+        "lastUpdated": "2026-04-14T02:16:05.084737Z"
+      },
+      "github": {
+        "slug": "gree/patapata",
+        "starCount": 60,
         "forkCount": 5
       }
     },
     "patapata_core": {
       "pub": {
-        "likeCount": 7,
-        "grantedPoints": 130,
-        "lastUpdated": "2024-05-19T23:59:37.110051Z"
+        "likeCount": 8,
+        "grantedPoints": 100,
+        "downloadCount30Days": 126,
+        "lastUpdated": "2026-04-14T02:16:11.352348Z"
       },
       "github": {
         "slug": "gree/patapata",
-        "starCount": 47,
+        "starCount": 60,
         "forkCount": 5
       }
     },
     "patapata_firebase_analytics": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 140,
-        "lastUpdated": "2024-06-12T07:42:29.529839Z"
+        "grantedPoints": 130,
+        "downloadCount30Days": 47,
+        "lastUpdated": "2026-04-14T02:16:20.722842Z"
       },
       "github": {
         "slug": "gree/patapata",
-        "starCount": 47,
+        "starCount": 60,
         "forkCount": 5
       }
     },
     "patapata_firebase_auth": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 140,
-        "lastUpdated": "2024-05-19T23:59:52.792948Z"
+        "grantedPoints": 130,
+        "downloadCount30Days": 49,
+        "lastUpdated": "2026-04-14T02:16:38.909863Z"
       },
       "github": {
         "slug": "gree/patapata",
-        "starCount": 47,
+        "starCount": 60,
         "forkCount": 5
       }
     },
     "patapata_firebase_core": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 140,
-        "lastUpdated": "2024-06-12T07:42:09.072465Z"
+        "grantedPoints": 130,
+        "downloadCount30Days": 86,
+        "lastUpdated": "2026-04-14T02:16:16.476782Z"
       },
       "github": {
         "slug": "gree/patapata",
-        "starCount": 47,
+        "starCount": 60,
         "forkCount": 5
       }
     },
@@ -511922,11 +513053,12 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 140,
-        "lastUpdated": "2024-06-12T07:42:14.338868Z"
+        "downloadCount30Days": 50,
+        "lastUpdated": "2026-04-14T02:16:25.169446Z"
       },
       "github": {
         "slug": "gree/patapata",
-        "starCount": 47,
+        "starCount": 60,
         "forkCount": 5
       }
     },
@@ -511934,54 +513066,85 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 140,
-        "lastUpdated": "2024-06-12T07:42:34.773592Z"
+        "downloadCount30Days": 50,
+        "lastUpdated": "2026-04-14T02:16:47.464246Z"
       },
       "github": {
         "slug": "gree/patapata",
-        "starCount": 47,
+        "starCount": 60,
         "forkCount": 5
       }
     },
     "patapata_firebase_remote_config": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 140,
-        "lastUpdated": "2024-06-12T07:42:19.324618Z"
+        "grantedPoints": 130,
+        "downloadCount30Days": 48,
+        "lastUpdated": "2026-04-14T02:16:43.031273Z"
       },
       "github": {
         "slug": "gree/patapata",
-        "starCount": 47,
+        "starCount": 60,
         "forkCount": 5
       }
     },
     "patapata_riverpod": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 150,
-        "lastUpdated": "2024-05-20T00:00:21.320482Z"
+        "likeCount": 1,
+        "grantedPoints": 130,
+        "downloadCount30Days": 46,
+        "lastUpdated": "2026-04-14T02:16:34.640877Z"
       },
       "github": {
         "slug": "gree/patapata",
-        "starCount": 47,
+        "starCount": 60,
         "forkCount": 5
       }
     },
     "patapata_sentry": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 140,
-        "lastUpdated": "2024-06-12T07:42:24.601237Z"
+        "grantedPoints": 130,
+        "downloadCount30Days": 52,
+        "lastUpdated": "2026-04-14T02:16:30.081750Z"
       },
       "github": {
         "slug": "gree/patapata",
-        "starCount": 47,
+        "starCount": 60,
         "forkCount": 5
+      }
+    },
+    "patata_responsive": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 7,
+        "lastUpdated": "2025-01-20T08:57:33.287315Z"
+      },
+      "github": {
+        "slug": "niypoo/patata_responsive",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "patch_app": {
+      "pub": {
+        "likeCount": 7,
+        "grantedPoints": 150,
+        "downloadCount30Days": 286,
+        "lastUpdated": "2026-05-17T07:20:47.073415Z"
+      },
+      "github": {
+        "slug": "lamnhan066/patch_app",
+        "starCount": 1,
+        "forkCount": 0
       }
     },
     "patch_mirrors": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 25,
+        "downloadCount30Days": 11,
         "lastUpdated": "2015-02-28T15:01:02.388690Z"
       },
       "github": {
@@ -511992,25 +513155,27 @@
     },
     "patch_package": {
       "pub": {
-        "likeCount": 1,
+        "likeCount": 5,
         "grantedPoints": 150,
+        "downloadCount30Days": 716,
         "lastUpdated": "2024-04-08T02:07:31.934987Z"
       },
       "github": {
         "slug": "yahyamokaied/patch_package",
-        "starCount": 2,
-        "forkCount": 1
+        "starCount": 5,
+        "forkCount": 5
       }
     },
     "patch_pal": {
       "pub": {
-        "likeCount": 2,
+        "likeCount": 4,
         "grantedPoints": 160,
+        "downloadCount30Days": 13,
         "lastUpdated": "2023-10-26T14:44:51.728432Z"
       },
       "github": {
         "slug": "yeasin50/patch_pal",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
@@ -512018,49 +513183,67 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 30,
+        "downloadCount30Days": 1,
         "lastUpdated": "2019-10-28T14:30:20.830861Z"
       },
       "github": {
         "slug": "flutter/plugins",
-        "starCount": 17417,
-        "forkCount": 9825
+        "starCount": 17711,
+        "forkCount": 9619
+      }
+    },
+    "patchwork": {
+      "pub": {
+        "likeCount": 5,
+        "grantedPoints": 160,
+        "downloadCount30Days": 166,
+        "lastUpdated": "2026-07-10T09:45:39.101697Z"
+      },
+      "github": {
+        "slug": "medz/patchwork",
+        "starCount": 20,
+        "forkCount": 1
       }
     },
     "pateo": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 10,
+        "grantedPoints": 5,
+        "downloadCount30Days": 8,
         "lastUpdated": "2019-07-11T08:24:49.892035Z"
       }
     },
     "path": {
       "pub": {
-        "likeCount": 1471,
+        "likeCount": 1735,
         "grantedPoints": 160,
-        "lastUpdated": "2023-12-05T20:58:17.822039Z"
+        "downloadCount30Days": 8489627,
+        "lastUpdated": "2024-10-17T08:37:58.135322Z"
       },
       "github": {
-        "slug": "dart-lang/path",
-        "starCount": 223,
+        "slug": "dart-lang/core",
+        "starCount": 72,
         "forkCount": 45
       }
     },
     "path_animation": {
       "pub": {
-        "likeCount": 12,
-        "grantedPoints": 140,
-        "lastUpdated": "2024-04-10T07:15:04.640349Z"
+        "likeCount": 28,
+        "grantedPoints": 150,
+        "downloadCount30Days": 73,
+        "lastUpdated": "2025-04-09T16:36:47.717261Z"
       },
       "github": {
         "slug": "haishuangsu/path_animation",
-        "starCount": 5,
+        "starCount": 9,
         "forkCount": 0
       }
     },
     "path_animator": {
       "pub": {
         "likeCount": 15,
-        "grantedPoints": 140,
+        "grantedPoints": 150,
+        "downloadCount30Days": 35,
         "lastUpdated": "2022-04-10T05:48:24.491418Z"
       },
       "github": {
@@ -512073,6 +513256,7 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 130,
+        "downloadCount30Days": 16,
         "lastUpdated": "2021-10-09T11:24:33.191947Z"
       },
       "github": {
@@ -512085,6 +513269,7 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 120,
+        "downloadCount30Days": 6,
         "lastUpdated": "2022-08-08T09:20:10.098078Z"
       },
       "github": {
@@ -512095,27 +513280,43 @@
     },
     "path_drawing": {
       "pub": {
-        "likeCount": 193,
+        "likeCount": 222,
         "grantedPoints": 140,
+        "downloadCount30Days": 754047,
         "lastUpdated": "2022-08-04T00:38:48.321603Z"
       },
       "github": {
         "slug": "dnfield/flutter_path_drawing",
-        "starCount": 163,
-        "forkCount": 26
+        "starCount": 170,
+        "forkCount": 32
+      }
+    },
+    "path_editor": {
+      "pub": {
+        "likeCount": 2,
+        "grantedPoints": 160,
+        "downloadCount30Days": 15,
+        "lastUpdated": "2025-02-25T16:24:26.441714Z"
+      },
+      "github": {
+        "slug": "NicolaVerbeeck/flutter_path_editor",
+        "starCount": 3,
+        "forkCount": 1
       }
     },
     "path_finding": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 20,
+        "downloadCount30Days": 22,
         "lastUpdated": "2015-11-05T00:08:10.588Z"
       }
     },
     "path_for_server": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 20,
+        "grantedPoints": 25,
+        "downloadCount30Days": 9,
         "lastUpdated": "2015-02-27T21:07:15.119010Z"
       },
       "github": {
@@ -512126,20 +513327,22 @@
     },
     "path_icon": {
       "pub": {
-        "likeCount": 9,
-        "grantedPoints": 130,
+        "likeCount": 12,
+        "grantedPoints": 120,
+        "downloadCount30Days": 31984,
         "lastUpdated": "2022-10-17T12:52:15.672488Z"
       },
       "github": {
         "slug": "aloisdeniel/path_icon",
-        "starCount": 47,
-        "forkCount": 3
+        "starCount": 49,
+        "forkCount": 4
       }
     },
     "path_im_core_flutter": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 130,
+        "grantedPoints": 140,
+        "downloadCount30Days": 24,
         "lastUpdated": "2022-08-04T07:48:04.749533Z"
       },
       "github": {
@@ -512152,6 +513355,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 130,
+        "downloadCount30Days": 19,
         "lastUpdated": "2022-08-04T08:02:27.420219Z"
       },
       "github": {
@@ -512163,24 +513367,39 @@
     "path_maker": {
       "pub": {
         "likeCount": 4,
-        "grantedPoints": 100,
+        "grantedPoints": 90,
+        "downloadCount30Days": 11,
         "lastUpdated": "2023-02-05T15:26:58.670533Z"
       },
       "github": {
         "slug": "sdycode/path_maker",
+        "starCount": 2,
+        "forkCount": 0
+      }
+    },
+    "path_manager": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 155,
+        "downloadCount30Days": 69,
+        "lastUpdated": "2026-08-07T08:32:44.717963Z"
+      },
+      "github": {
+        "slug": "maranix/path_manager",
         "starCount": 1,
         "forkCount": 0
       }
     },
     "path_morph": {
       "pub": {
-        "likeCount": 58,
+        "likeCount": 61,
         "grantedPoints": 150,
+        "downloadCount30Days": 70,
         "lastUpdated": "2023-05-20T21:01:46.564809Z"
       },
       "github": {
         "slug": "hathibelagal-dev/path_morph_for_flutter",
-        "starCount": 38,
+        "starCount": 39,
         "forkCount": 8
       }
     },
@@ -512188,6 +513407,7 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 30,
+        "downloadCount30Days": 5,
         "lastUpdated": "2020-12-27T12:53:18.139516Z"
       },
       "github": {
@@ -512198,159 +513418,251 @@
     },
     "path_parsing": {
       "pub": {
-        "likeCount": 39,
+        "likeCount": 51,
         "grantedPoints": 140,
-        "lastUpdated": "2022-08-04T00:32:57.525511Z"
+        "downloadCount30Days": 4796188,
+        "lastUpdated": "2024-11-01T17:24:48.436798Z"
       },
       "github": {
-        "slug": "dnfield/dart_path_parsing",
-        "starCount": 28,
-        "forkCount": 7
+        "slug": "flutter/packages",
+        "starCount": 5277,
+        "forkCount": 3842
       }
     },
     "path_provider": {
       "pub": {
-        "likeCount": 4845,
+        "likeCount": 5552,
         "grantedPoints": 160,
-        "lastUpdated": "2024-07-30T18:41:24.090488Z"
+        "downloadCount30Days": 6704062,
+        "lastUpdated": "2026-06-15T13:51:07.158561Z"
       },
       "github": {
         "slug": "flutter/packages",
-        "starCount": 4198,
-        "forkCount": 2688
+        "starCount": 5277,
+        "forkCount": 3842
       }
     },
     "path_provider_android": {
       "pub": {
-        "likeCount": 14,
-        "grantedPoints": 150,
-        "lastUpdated": "2024-07-29T16:54:26.652494Z"
+        "likeCount": 22,
+        "grantedPoints": 160,
+        "downloadCount30Days": 7144593,
+        "lastUpdated": "2026-04-08T15:51:02.596058Z"
       },
       "github": {
         "slug": "flutter/packages",
-        "starCount": 4198,
-        "forkCount": 2688
+        "starCount": 5277,
+        "forkCount": 3842
       }
     },
     "path_provider_ex": {
       "pub": {
         "likeCount": 25,
-        "grantedPoints": 40,
+        "grantedPoints": 35,
+        "downloadCount30Days": 13,
         "lastUpdated": "2019-02-28T18:05:59.311573Z"
       },
       "github": {
         "slug": "AmudAnan/flutter_path_provider_ex",
-        "starCount": 3,
-        "forkCount": 16
+        "starCount": 4,
+        "forkCount": 17
       }
     },
     "path_provider_ex2": {
       "pub": {
-        "likeCount": 5,
-        "grantedPoints": 120,
+        "likeCount": 6,
+        "grantedPoints": 130,
+        "downloadCount30Days": 58,
         "lastUpdated": "2022-12-15T15:10:06.391013Z"
       },
       "github": {
         "slug": "AmudAnan/flutter_path_provider_ex",
-        "starCount": 3,
-        "forkCount": 16
+        "starCount": 4,
+        "forkCount": 17
       }
     },
     "path_provider_extention": {
       "pub": {
         "likeCount": 1,
         "grantedPoints": 130,
+        "downloadCount30Days": 13,
         "lastUpdated": "2021-09-27T05:03:57.321398Z"
+      }
+    },
+    "path_provider_ffi": {
+      "pub": {
+        "likeCount": 14,
+        "grantedPoints": 120,
+        "downloadCount30Days": 10,
+        "lastUpdated": "2025-04-23T18:05:57.214150Z"
+      },
+      "github": {
+        "slug": "dickermoshe/path_provider_ffi",
+        "starCount": 8,
+        "forkCount": 0
       }
     },
     "path_provider_foundation": {
       "pub": {
-        "likeCount": 5,
-        "grantedPoints": 150,
-        "lastUpdated": "2024-05-07T20:31:36.742091Z"
+        "likeCount": 9,
+        "grantedPoints": 160,
+        "downloadCount30Days": 6704660,
+        "lastUpdated": "2026-01-15T03:24:38.117161Z"
       },
       "github": {
         "slug": "flutter/packages",
-        "starCount": 4198,
-        "forkCount": 2688
+        "starCount": 5277,
+        "forkCount": 3842
+      }
+    },
+    "path_provider_harmonyos": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 89,
+        "lastUpdated": "2025-08-26T13:57:10.872828Z"
+      },
+      "github": {
+        "slug": "Wayaer/harmony_flutter_packages",
+        "starCount": 5,
+        "forkCount": 2
       }
     },
     "path_provider_ios": {
       "pub": {
         "likeCount": 5,
-        "grantedPoints": 150,
+        "grantedPoints": 140,
+        "downloadCount30Days": 21544,
         "lastUpdated": "2022-07-27T17:54:17.196872Z"
       },
       "github": {
         "slug": "flutter/plugins",
-        "starCount": 17417,
-        "forkCount": 9825
+        "starCount": 17711,
+        "forkCount": 9619
       }
     },
     "path_provider_linux": {
       "pub": {
         "likeCount": 12,
         "grantedPoints": 150,
-        "lastUpdated": "2023-08-30T14:59:22.063065Z"
+        "downloadCount30Days": 6843356,
+        "lastUpdated": "2026-06-24T13:45:05.533595Z"
       },
       "github": {
         "slug": "flutter/packages",
-        "starCount": 4198,
-        "forkCount": 2688
+        "starCount": 5277,
+        "forkCount": 3842
       }
     },
     "path_provider_macos": {
       "pub": {
         "likeCount": 10,
-        "grantedPoints": 150,
+        "grantedPoints": 140,
+        "downloadCount30Days": 37435,
         "lastUpdated": "2023-01-13T11:17:05.371885Z"
       },
       "github": {
         "slug": "flutter/plugins",
-        "starCount": 17417,
-        "forkCount": 9825
+        "starCount": 17711,
+        "forkCount": 9619
+      }
+    },
+    "path_provider_master": {
+      "pub": {
+        "likeCount": 3,
+        "grantedPoints": 150,
+        "downloadCount30Days": 33,
+        "lastUpdated": "2026-02-15T19:54:08.301896Z"
+      },
+      "github": {
+        "slug": "SwanFlutter/path_provider_master",
+        "starCount": 1,
+        "forkCount": 0
       }
     },
     "path_provider_platform_interface": {
       "pub": {
-        "likeCount": 8,
-        "grantedPoints": 140,
-        "lastUpdated": "2024-01-09T02:36:07.418460Z"
+        "likeCount": 9,
+        "grantedPoints": 150,
+        "downloadCount30Days": 6861353,
+        "lastUpdated": "2026-06-15T13:51:13.010437Z"
       },
       "github": {
         "slug": "flutter/packages",
-        "starCount": 4198,
-        "forkCount": 2688
+        "starCount": 5277,
+        "forkCount": 3842
+      }
+    },
+    "path_provider_riverpod": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 41995,
+        "lastUpdated": "2025-09-14T12:26:12.345231Z"
+      },
+      "github": {
+        "slug": "eaglesakura/path_provider_riverpod",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "path_provider_tizen": {
       "pub": {
-        "likeCount": 2,
+        "likeCount": 3,
         "grantedPoints": 120,
-        "lastUpdated": "2024-07-22T05:38:44.857763Z"
+        "downloadCount30Days": 5595,
+        "lastUpdated": "2026-04-24T02:54:24.079181Z"
       },
       "github": {
         "slug": "flutter-tizen/plugins",
-        "starCount": 65,
-        "forkCount": 43
+        "starCount": 79,
+        "forkCount": 53
+      }
+    },
+    "path_provider_tvos": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 36646,
+        "lastUpdated": "2026-07-21T12:58:20.023202Z"
+      },
+      "github": {
+        "slug": "fluttertv/plugins",
+        "starCount": 0,
+        "forkCount": 3
+      }
+    },
+    "path_provider_watchos": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 98,
+        "lastUpdated": "2026-07-17T16:43:27.066851Z"
+      },
+      "github": {
+        "slug": "flutterwatch/plugins",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "path_provider_windows": {
       "pub": {
-        "likeCount": 42,
-        "grantedPoints": 150,
+        "likeCount": 43,
+        "grantedPoints": 160,
+        "downloadCount30Days": 6309653,
         "lastUpdated": "2024-07-09T11:10:27.506341Z"
       },
       "github": {
         "slug": "flutter/packages",
-        "starCount": 4198,
-        "forkCount": 2688
+        "starCount": 5277,
+        "forkCount": 3842
       }
     },
     "path_selector": {
       "pub": {
-        "likeCount": 5,
-        "grantedPoints": 160,
+        "likeCount": 6,
+        "grantedPoints": 150,
+        "downloadCount30Days": 17,
         "lastUpdated": "2022-01-17T08:17:45.988227Z"
       },
       "github": {
@@ -512363,25 +513675,28 @@
       "pub": {
         "likeCount": 6,
         "grantedPoints": 130,
+        "downloadCount30Days": 42,
         "lastUpdated": "2021-05-27T17:20:40.207281Z"
       }
     },
     "path_to_regexp": {
       "pub": {
-        "likeCount": 44,
-        "grantedPoints": 150,
+        "likeCount": 46,
+        "grantedPoints": 160,
+        "downloadCount30Days": 59653,
         "lastUpdated": "2021-03-06T20:39:05.505615Z"
       },
       "github": {
         "slug": "leonsenft/path_to_regexp",
-        "starCount": 30,
+        "starCount": 31,
         "forkCount": 11
       }
     },
     "path_to_regexp_port": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 110,
+        "grantedPoints": 105,
+        "downloadCount30Days": 13,
         "lastUpdated": "2021-07-06T06:51:38.533549Z"
       },
       "github": {
@@ -512393,38 +513708,68 @@
     "path_tree": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 130,
+        "grantedPoints": 140,
+        "downloadCount30Days": 6283,
         "lastUpdated": "2021-03-18T18:24:31.954981Z"
       }
     },
     "path_type": {
       "pub": {
-        "likeCount": 3,
-        "grantedPoints": 160,
-        "lastUpdated": "2024-07-05T15:52:19.968490Z"
+        "likeCount": 6,
+        "grantedPoints": 150,
+        "downloadCount30Days": 42,
+        "lastUpdated": "2024-12-12T22:55:38.391285Z"
       },
       "github": {
         "slug": "mcmah309/path_type",
-        "starCount": 4,
+        "starCount": 8,
         "forkCount": 1
       }
     },
     "path_url_strategy_module": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 95,
+        "likeCount": 1,
+        "grantedPoints": 85,
+        "downloadCount30Days": 179,
         "lastUpdated": "2024-04-25T06:02:55.870422Z"
       },
       "github": {
         "slug": "juneflow-songdo/path_url_strategy_module",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "path_utils": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 160,
+        "downloadCount30Days": 148,
+        "lastUpdated": "2026-07-17T17:24:46.075822Z"
+      },
+      "github": {
+        "slug": "barneysspeedshop/path_utils",
         "starCount": 0,
         "forkCount": 0
       }
     },
+    "pathfinder": {
+      "pub": {
+        "likeCount": 3,
+        "grantedPoints": 140,
+        "downloadCount30Days": 6,
+        "lastUpdated": "2025-04-10T04:38:10.867784Z"
+      },
+      "github": {
+        "slug": "BrayFlex/pathfinder",
+        "starCount": 6,
+        "forkCount": 1
+      }
+    },
     "pathfinding": {
       "pub": {
-        "likeCount": 6,
+        "likeCount": 7,
         "grantedPoints": 140,
+        "downloadCount30Days": 294,
         "lastUpdated": "2022-10-06T14:03:11.512424Z"
       },
       "github": {
@@ -512436,7 +513781,8 @@
     "pathfinding_dart": {
       "pub": {
         "likeCount": 3,
-        "grantedPoints": 30,
+        "grantedPoints": 40,
+        "downloadCount30Days": 6,
         "lastUpdated": "2019-04-09T20:10:11.985606Z"
       },
       "github": {
@@ -512445,10 +513791,32 @@
         "forkCount": 0
       }
     },
+    "pathify": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 160,
+        "downloadCount30Days": 34,
+        "lastUpdated": "2026-05-31T16:13:25.050625Z"
+      },
+      "github": {
+        "slug": "ganeshrvel/pub-pathify",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "pathkit": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2025-04-08T05:26:14.566456Z"
+      }
+    },
     "pathlib": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 30,
+        "downloadCount30Days": 25,
         "lastUpdated": "2018-10-24T22:30:31.877420Z"
       },
       "github": {
@@ -512461,6 +513829,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 20,
+        "downloadCount30Days": 119,
         "lastUpdated": "2014-02-05T21:05:11.956750Z"
       }
     },
@@ -512468,6 +513837,7 @@
       "pub": {
         "likeCount": 4,
         "grantedPoints": 40,
+        "downloadCount30Days": 13,
         "lastUpdated": "2020-06-12T15:23:58.957512Z"
       },
       "github": {
@@ -512479,78 +513849,189 @@
     "pathxp": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 150,
+        "grantedPoints": 160,
+        "downloadCount30Days": 82,
         "lastUpdated": "2023-10-31T12:34:05.343551Z"
       },
       "github": {
         "slug": "erickzanardo/pathxp",
-        "starCount": 2,
+        "starCount": 4,
         "forkCount": 0
       }
     },
     "patrick_util": {
       "pub": {
-        "likeCount": 0,
+        "likeCount": 1,
         "grantedPoints": 140,
+        "downloadCount30Days": 17,
         "lastUpdated": "2023-12-18T19:38:24.993310Z"
       },
       "github": {
         "slug": "patrickhammond/patrick_util",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
     "patrol": {
       "pub": {
-        "likeCount": 473,
-        "grantedPoints": 160,
-        "lastUpdated": "2024-06-25T11:57:06.490191Z"
+        "likeCount": 710,
+        "grantedPoints": 150,
+        "downloadCount30Days": 432731,
+        "lastUpdated": "2026-08-12T14:26:47.697537Z"
       },
       "github": {
         "slug": "leancodepl/patrol",
-        "starCount": 836,
-        "forkCount": 121
+        "starCount": 1404,
+        "forkCount": 231
       }
     },
     "patrol_cli": {
       "pub": {
-        "likeCount": 56,
-        "grantedPoints": 140,
-        "lastUpdated": "2024-07-15T10:32:44.593147Z"
+        "likeCount": 71,
+        "grantedPoints": 150,
+        "downloadCount30Days": 104611,
+        "lastUpdated": "2026-08-12T14:25:17.796314Z"
       },
       "github": {
         "slug": "leancodepl/patrol",
-        "starCount": 836,
-        "forkCount": 121
+        "starCount": 1404,
+        "forkCount": 231
+      }
+    },
+    "patrol_cli_plus": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 130,
+        "downloadCount30Days": 5202,
+        "lastUpdated": "2026-08-01T15:32:27.713046Z"
+      },
+      "github": {
+        "slug": "Bdaya-Dev/patrol",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "patrol_finders": {
       "pub": {
-        "likeCount": 34,
+        "likeCount": 56,
         "grantedPoints": 150,
-        "lastUpdated": "2024-05-23T14:28:46.541827Z"
+        "downloadCount30Days": 470572,
+        "lastUpdated": "2026-07-09T14:46:54.162294Z"
       },
       "github": {
         "slug": "leancodepl/patrol",
-        "starCount": 836,
-        "forkCount": 121
+        "starCount": 1404,
+        "forkCount": 231
+      }
+    },
+    "patrol_finders_plus": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 5413,
+        "lastUpdated": "2026-07-05T21:16:17.359700Z"
+      },
+      "github": {
+        "slug": "Bdaya-Dev/patrol",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "patrol_log": {
+      "pub": {
+        "likeCount": 7,
+        "grantedPoints": 130,
+        "downloadCount30Days": 491663,
+        "lastUpdated": "2026-08-12T13:58:18.273423Z"
+      },
+      "github": {
+        "slug": "leancodepl/patrol",
+        "starCount": 1404,
+        "forkCount": 231
+      }
+    },
+    "patrol_log_plus": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 5435,
+        "lastUpdated": "2026-07-05T21:15:56.244425Z"
+      },
+      "github": {
+        "slug": "Bdaya-Dev/patrol",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "patrol_mcp": {
+      "pub": {
+        "likeCount": 29,
+        "grantedPoints": 160,
+        "downloadCount30Days": 28519,
+        "lastUpdated": "2026-07-28T11:42:52.241482Z"
+      },
+      "github": {
+        "slug": "leancodepl/patrol",
+        "starCount": 1404,
+        "forkCount": 231
+      }
+    },
+    "patrol_plus": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 140,
+        "downloadCount30Days": 5541,
+        "lastUpdated": "2026-08-01T15:32:40.911612Z"
+      },
+      "github": {
+        "slug": "Bdaya-Dev/patrol",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "pats_file_handeling": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 120,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2025-03-18T06:24:47.339343Z"
+      },
+      "github": {
+        "slug": "tutul123-sudo/file-package",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "patsubst": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 30,
+        "downloadCount30Days": 13,
         "lastUpdated": "2018-08-13T11:43:09.095542Z"
       }
     },
     "pattern_background": {
       "pub": {
-        "likeCount": 2,
+        "likeCount": 4,
         "grantedPoints": 160,
+        "downloadCount30Days": 84,
         "lastUpdated": "2023-09-08T04:54:26.572913Z"
       },
       "github": {
         "slug": "OmarHosamCodes/pattern-background-package",
+        "starCount": 2,
+        "forkCount": 0
+      }
+    },
+    "pattern_box": {
+      "pub": {
+        "likeCount": 13,
+        "grantedPoints": 150,
+        "downloadCount30Days": 111,
+        "lastUpdated": "2025-05-01T18:34:02.332043Z"
+      },
+      "github": {
+        "slug": "thisisprabhat/pattern_box",
         "starCount": 0,
         "forkCount": 0
       }
@@ -512558,12 +514039,13 @@
     "pattern_dots": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 160,
+        "grantedPoints": 150,
+        "downloadCount30Days": 52,
         "lastUpdated": "2024-04-16T13:03:41.375512Z"
       },
       "github": {
         "slug": "dash-chan/packages",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
@@ -512571,6 +514053,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 30,
+        "downloadCount30Days": 21,
         "lastUpdated": "2021-10-15T06:22:10.673886Z"
       },
       "github": {
@@ -512581,32 +514064,61 @@
     },
     "pattern_formatter": {
       "pub": {
-        "likeCount": 281,
+        "likeCount": 309,
         "grantedPoints": 150,
-        "lastUpdated": "2024-06-25T10:55:07.425425Z"
+        "downloadCount30Days": 22142,
+        "lastUpdated": "2025-08-21T10:08:51.847699Z"
       },
       "github": {
         "slug": "hnvn/flutter_pattern_formatter",
-        "starCount": 214,
-        "forkCount": 85
+        "starCount": 213,
+        "forkCount": 96
+      }
+    },
+    "pattern_input_formatter": {
+      "pub": {
+        "likeCount": 8,
+        "grantedPoints": 160,
+        "downloadCount30Days": 217,
+        "lastUpdated": "2025-09-17T16:40:51.235100Z"
+      },
+      "github": {
+        "slug": "paooxide/pattern_input_formatter",
+        "starCount": 6,
+        "forkCount": 1
       }
     },
     "pattern_lock": {
       "pub": {
-        "likeCount": 33,
-        "grantedPoints": 150,
+        "likeCount": 39,
+        "grantedPoints": 160,
+        "downloadCount30Days": 1640,
         "lastUpdated": "2021-03-08T12:41:38.177046Z"
       },
       "github": {
         "slug": "qwert2603/pattern_lock",
         "starCount": 18,
-        "forkCount": 9
+        "forkCount": 10
+      }
+    },
+    "patternedinput": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 7,
+        "lastUpdated": "2025-06-24T18:42:20.093674Z"
+      },
+      "github": {
+        "slug": "tmplabs/patternedInput",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "patterns": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 15,
+        "downloadCount30Days": 9,
         "lastUpdated": "2013-11-08T00:11:57.849880Z"
       },
       "github": {
@@ -512617,32 +514129,35 @@
     },
     "patterns_canvas": {
       "pub": {
-        "likeCount": 86,
-        "grantedPoints": 150,
-        "lastUpdated": "2022-05-30T15:19:55.960295Z"
+        "likeCount": 115,
+        "grantedPoints": 160,
+        "downloadCount30Days": 41810,
+        "lastUpdated": "2026-03-26T09:19:35.583321Z"
       },
       "github": {
         "slug": "whiplashoo/patterns_canvas",
-        "starCount": 18,
+        "starCount": 22,
         "forkCount": 6
       }
     },
     "paulonia_cache_image": {
       "pub": {
         "likeCount": 35,
-        "grantedPoints": 80,
+        "grantedPoints": 60,
+        "downloadCount30Days": 47,
         "lastUpdated": "2023-10-14T19:10:39.433272Z"
       },
       "github": {
         "slug": "PauloniaAQP/paulonia_cache_image",
         "starCount": 8,
-        "forkCount": 10
+        "forkCount": 11
       }
     },
     "paulonia_document_service": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 140,
+        "grantedPoints": 130,
+        "downloadCount30Days": 21,
         "lastUpdated": "2023-09-22T16:54:09.996679Z"
       },
       "github": {
@@ -512654,7 +514169,8 @@
     "paulonia_error_service": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 150,
+        "grantedPoints": 140,
+        "downloadCount30Days": 36,
         "lastUpdated": "2023-09-21T15:33:37.434628Z"
       },
       "github": {
@@ -512666,7 +514182,8 @@
     "paulonia_image_service": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 120,
+        "grantedPoints": 110,
+        "downloadCount30Days": 9,
         "lastUpdated": "2022-01-26T23:29:38.251755Z"
       },
       "github": {
@@ -512678,7 +514195,8 @@
     "paulonia_remote_conf": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 140,
+        "grantedPoints": 130,
+        "downloadCount30Days": 31,
         "lastUpdated": "2023-09-21T16:26:21.458081Z"
       },
       "github": {
@@ -512690,7 +514208,8 @@
     "paulonia_repository": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 130,
+        "grantedPoints": 120,
+        "downloadCount30Days": 29,
         "lastUpdated": "2023-10-11T13:59:56.681598Z"
       },
       "github": {
@@ -512702,7 +514221,8 @@
     "paulonia_utils": {
       "pub": {
         "likeCount": 6,
-        "grantedPoints": 140,
+        "grantedPoints": 130,
+        "downloadCount30Days": 36,
         "lastUpdated": "2023-09-20T14:05:04.178653Z"
       },
       "github": {
@@ -512711,22 +514231,37 @@
         "forkCount": 0
       }
     },
+    "pausable_behavior_subject": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 160,
+        "downloadCount30Days": 19,
+        "lastUpdated": "2025-12-09T10:59:26.137320Z"
+      },
+      "github": {
+        "slug": "Kanyade/pausable-behavior-subject",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "pausable_timer": {
       "pub": {
-        "likeCount": 79,
-        "grantedPoints": 160,
+        "likeCount": 93,
+        "grantedPoints": 150,
+        "downloadCount30Days": 124,
         "lastUpdated": "2023-10-30T00:08:02.753058Z"
       },
       "github": {
         "slug": "llucax/pausable_timer",
-        "starCount": 27,
-        "forkCount": 6
+        "starCount": 36,
+        "forkCount": 8
       }
     },
     "paused_secret": {
       "pub": {
-        "likeCount": 1,
-        "grantedPoints": 140,
+        "likeCount": 2,
+        "grantedPoints": 120,
+        "downloadCount30Days": 11,
         "lastUpdated": "2024-05-13T12:32:49.697052Z"
       },
       "github": {
@@ -512739,6 +514274,7 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 120,
+        "downloadCount30Days": 6,
         "lastUpdated": "2022-12-19T17:52:12.629998Z"
       },
       "github": {
@@ -512747,120 +514283,309 @@
         "forkCount": 0
       }
     },
+    "pavans_first_package": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 130,
+        "downloadCount30Days": 6,
+        "lastUpdated": "2024-12-26T11:29:09.057263Z"
+      }
+    },
+    "pavluke_lints": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 18,
+        "lastUpdated": "2026-05-24T19:14:58.766188Z"
+      },
+      "github": {
+        "slug": "pavluke/pavluke_lints",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "paw": {
       "pub": {
-        "likeCount": 11,
+        "likeCount": 12,
         "grantedPoints": 160,
+        "downloadCount30Days": 20,
         "lastUpdated": "2024-04-08T12:24:04.804371Z"
       },
       "github": {
         "slug": "AdityaMotale/paw",
-        "starCount": 2,
+        "starCount": 3,
         "forkCount": 0
       }
     },
     "pawa_pay_flutter": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 115,
+        "likeCount": 4,
+        "grantedPoints": 125,
+        "downloadCount30Days": 6,
         "lastUpdated": "2024-07-10T00:28:08.424260Z"
       },
       "github": {
         "slug": "KanyantaM/pawa_pay_flutter",
+        "starCount": 3,
+        "forkCount": 0
+      }
+    },
+    "pawapay": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 52,
+        "lastUpdated": "2026-03-07T14:53:38.069499Z"
+      }
+    },
+    "pax_date_picker": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 27,
+        "lastUpdated": "2025-04-15T03:45:15.049360Z"
+      }
+    },
+    "pax_detector": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 11,
+        "lastUpdated": "2026-04-16T08:50:52.824881Z"
+      },
+      "github": {
+        "slug": "dialog-72/pax_detector",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "pax_nfc": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 40,
+        "lastUpdated": "2026-04-10T08:22:03.083717Z"
+      },
+      "github": {
+        "slug": "dialog-72/pax_nfc",
         "starCount": 0,
         "forkCount": 0
       }
     },
     "pax_player": {
       "pub": {
-        "likeCount": 14,
+        "likeCount": 16,
         "grantedPoints": 150,
+        "downloadCount30Days": 57,
         "lastUpdated": "2023-11-15T13:19:54.536388Z"
       },
       "github": {
         "slug": "Mahmoudmv91/pax_player",
-        "starCount": 2,
+        "starCount": 3,
+        "forkCount": 1
+      }
+    },
+    "pax_sdk": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 273,
+        "lastUpdated": "2025-08-28T00:12:15.060638Z"
+      },
+      "github": {
+        "slug": "Fuelin-net/pax_sdk",
+        "starCount": 0,
         "forkCount": 0
+      }
+    },
+    "paxity": {
+      "pub": {
+        "likeCount": 2,
+        "grantedPoints": 70,
+        "downloadCount30Days": 9,
+        "lastUpdated": "2024-09-27T15:58:07.679306Z"
       }
     },
     "pay": {
       "pub": {
-        "likeCount": 934,
-        "grantedPoints": 160,
-        "lastUpdated": "2024-02-27T17:11:41.857133Z"
+        "likeCount": 1109,
+        "grantedPoints": 150,
+        "downloadCount30Days": 117748,
+        "lastUpdated": "2025-11-21T15:29:18.985777Z"
       },
       "github": {
         "slug": "google-pay/flutter-plugin",
-        "starCount": 139,
-        "forkCount": 128
+        "starCount": 175,
+        "forkCount": 147
       }
     },
     "pay_android": {
       "pub": {
-        "likeCount": 4,
+        "likeCount": 5,
         "grantedPoints": 150,
-        "lastUpdated": "2024-02-27T17:04:24.579628Z"
+        "downloadCount30Days": 117015,
+        "lastUpdated": "2025-11-21T15:22:12.342504Z"
       },
       "github": {
         "slug": "google-pay/flutter-plugin",
-        "starCount": 139,
-        "forkCount": 128
+        "starCount": 175,
+        "forkCount": 147
       }
     },
     "pay_by_bank": {
       "pub": {
+        "likeCount": 1,
+        "grantedPoints": 130,
+        "downloadCount30Days": 17,
+        "lastUpdated": "2023-07-21T18:06:02.664760Z"
+      }
+    },
+    "pay_digitalwallets_sdk": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 130,
+        "downloadCount30Days": 16,
+        "lastUpdated": "2025-12-18T21:24:52.613709Z"
+      },
+      "github": {
+        "slug": "ololabs/pay-digitalwallets-flutter-sdk-releases",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "pay_digitalwallets_sdk_android": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 16,
+        "lastUpdated": "2025-12-18T21:24:12.436547Z"
+      },
+      "github": {
+        "slug": "ololabs/pay-digitalwallets-flutter-sdk-releases",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "pay_digitalwallets_sdk_ios": {
+      "pub": {
         "likeCount": 0,
         "grantedPoints": 140,
-        "lastUpdated": "2023-07-21T18:06:02.664760Z"
+        "downloadCount30Days": 16,
+        "lastUpdated": "2025-12-18T21:24:17.107829Z"
+      },
+      "github": {
+        "slug": "ololabs/pay-digitalwallets-flutter-sdk-releases",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "pay_digitalwallets_sdk_platform_interface": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 18,
+        "lastUpdated": "2025-12-18T21:23:35.358652Z"
+      },
+      "github": {
+        "slug": "ololabs/pay-digitalwallets-flutter-sdk-releases",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "pay_djizhub": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2026-03-28T19:16:50.202739Z"
       }
     },
     "pay_express_proto_api": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 120,
+        "likeCount": 1,
+        "grantedPoints": 110,
+        "downloadCount30Days": 1,
         "lastUpdated": "2023-11-24T20:00:19.036360Z"
       }
     },
     "pay_hyj": {
       "pub": {
-        "likeCount": 0,
+        "likeCount": 1,
         "grantedPoints": 150,
+        "downloadCount30Days": 15,
         "lastUpdated": "2024-06-13T10:05:39.237942Z"
       },
       "github": {
         "slug": "abcabq/pay_hyj",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
     "pay_ios": {
       "pub": {
-        "likeCount": 1,
+        "likeCount": 2,
         "grantedPoints": 150,
-        "lastUpdated": "2024-01-21T12:28:11.017541Z"
+        "downloadCount30Days": 121025,
+        "lastUpdated": "2026-06-19T12:38:41.637103Z"
       },
       "github": {
         "slug": "google-pay/flutter-plugin",
-        "starCount": 139,
-        "forkCount": 128
+        "starCount": 175,
+        "forkCount": 147
+      }
+    },
+    "pay_kit": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 135,
+        "downloadCount30Days": 13,
+        "lastUpdated": "2026-03-30T11:49:51.943577Z"
+      },
+      "github": {
+        "slug": "WeiLanRobot/pay_kit",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "pay_orc_flutter": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 80,
+        "downloadCount30Days": 6,
+        "lastUpdated": "2025-03-18T18:48:48.123388Z"
       }
     },
     "pay_platform_interface": {
       "pub": {
         "likeCount": 1,
         "grantedPoints": 150,
-        "lastUpdated": "2024-01-19T11:36:47.436017Z"
+        "downloadCount30Days": 117281,
+        "lastUpdated": "2024-10-10T10:58:06.788308Z"
       },
       "github": {
         "slug": "google-pay/flutter-plugin",
-        "starCount": 139,
-        "forkCount": 128
+        "starCount": 175,
+        "forkCount": 147
+      }
+    },
+    "pay_plugin": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 115,
+        "downloadCount30Days": 4,
+        "lastUpdated": "2026-03-26T12:38:28.831443Z"
+      },
+      "github": {
+        "slug": "WeiLanRobot/pay_kit",
+        "starCount": 1,
+        "forkCount": 0
       }
     },
     "pay_pwd": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 60,
+        "grantedPoints": 40,
+        "downloadCount30Days": 10,
         "lastUpdated": "2021-06-18T01:35:16.676489Z"
       },
       "github": {
@@ -512869,29 +514594,97 @@
         "forkCount": 0
       }
     },
+    "pay_success_alert": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 130,
+        "downloadCount30Days": 15,
+        "lastUpdated": "2025-02-10T10:28:12.921541Z"
+      }
+    },
     "pay_unit_sdk": {
       "pub": {
-        "likeCount": 12,
+        "likeCount": 13,
         "grantedPoints": 110,
+        "downloadCount30Days": 354,
         "lastUpdated": "2022-10-27T17:39:26.726352Z"
       },
       "github": {
         "slug": "ndemeyvan/pay_unit_sdk",
-        "starCount": 4,
+        "starCount": 5,
         "forkCount": 1
+      }
+    },
+    "pay_with_paymob": {
+      "pub": {
+        "likeCount": 80,
+        "grantedPoints": 140,
+        "downloadCount30Days": 89,
+        "lastUpdated": "2024-11-27T21:39:37.788021Z"
+      },
+      "github": {
+        "slug": "dev-KarimAhmed/paymob_payment_package",
+        "starCount": 10,
+        "forkCount": 3
+      }
+    },
+    "pay_with_paymob_flutter": {
+      "pub": {
+        "likeCount": 2,
+        "grantedPoints": 75,
+        "downloadCount30Days": 25,
+        "lastUpdated": "2026-03-29T11:44:02.075387Z"
+      },
+      "github": {
+        "slug": "Sragsakr/pay_with_paymob_flutter",
+        "starCount": 1,
+        "forkCount": 0
       }
     },
     "pay_with_paystack": {
       "pub": {
-        "likeCount": 39,
-        "grantedPoints": 160,
-        "lastUpdated": "2024-07-06T16:23:06.539014Z"
+        "likeCount": 66,
+        "grantedPoints": 150,
+        "downloadCount30Days": 1727,
+        "lastUpdated": "2026-07-16T06:38:53.053374Z"
+      },
+      "github": {
+        "slug": "popekabu/pay_with_paystack",
+        "starCount": 15,
+        "forkCount": 36
+      }
+    },
+    "pay_with_strip": {
+      "pub": {
+        "likeCount": 4,
+        "grantedPoints": 120,
+        "downloadCount30Days": 4,
+        "lastUpdated": "2025-02-11T18:02:47.678978Z"
+      },
+      "github": {
+        "slug": "mohamdelbehairy/pay_with_strip",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "pay_with_stripe": {
+      "pub": {
+        "likeCount": 14,
+        "grantedPoints": 125,
+        "downloadCount30Days": 26,
+        "lastUpdated": "2025-11-02T14:02:42.337988Z"
+      },
+      "github": {
+        "slug": "mohamdelbehairy/pay_with_stripe",
+        "starCount": 1,
+        "forkCount": 0
       }
     },
     "payable_ipg": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 110,
+        "downloadCount30Days": 53,
         "lastUpdated": "2022-08-23T12:43:03.351039Z"
       },
       "github": {
@@ -512903,8 +514696,9 @@
     "payable_ipg_flutter": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 140,
-        "lastUpdated": "2024-06-10T07:41:33.414539Z"
+        "grantedPoints": 120,
+        "downloadCount30Days": 15,
+        "lastUpdated": "2025-10-10T10:55:33.791696Z"
       },
       "github": {
         "slug": "payable/flutter-ipg",
@@ -512914,15 +514708,17 @@
     },
     "payaza": {
       "pub": {
-        "likeCount": 1,
-        "grantedPoints": 140,
-        "lastUpdated": "2023-10-16T22:44:18.632845Z"
+        "likeCount": 2,
+        "grantedPoints": 150,
+        "downloadCount30Days": 86,
+        "lastUpdated": "2026-03-17T09:47:19.209765Z"
       }
     },
     "paybox": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 135,
+        "grantedPoints": 115,
+        "downloadCount30Days": 25,
         "lastUpdated": "2021-06-06T11:08:31.746264Z"
       }
     },
@@ -512930,46 +514726,115 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 90,
+        "downloadCount30Days": 18,
         "lastUpdated": "2022-05-21T17:02:07.477275Z"
+      }
+    },
+    "paychangu_flutter": {
+      "pub": {
+        "likeCount": 6,
+        "grantedPoints": 120,
+        "downloadCount30Days": 42,
+        "lastUpdated": "2024-11-03T18:41:39.498416Z"
       }
     },
     "paydala_flutter_sdk": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 130,
+        "grantedPoints": 115,
+        "downloadCount30Days": 75,
         "lastUpdated": "2024-04-12T08:47:31.559010Z"
       }
     },
     "paydala_flutter_widget": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 110,
+        "likeCount": 1,
+        "grantedPoints": 120,
+        "downloadCount30Days": 15,
         "lastUpdated": "2023-08-29T03:58:06.182973Z"
       }
     },
     "paydunya": {
       "pub": {
-        "likeCount": 9,
-        "grantedPoints": 160,
+        "likeCount": 12,
+        "grantedPoints": 150,
+        "downloadCount30Days": 25,
         "lastUpdated": "2024-07-23T20:48:02.398132Z"
       },
       "github": {
         "slug": "devmagatte/paydunya",
         "starCount": 2,
-        "forkCount": 1
+        "forkCount": 2
+      }
+    },
+    "paye": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 150,
+        "downloadCount30Days": 34,
+        "lastUpdated": "2025-08-29T17:35:42.364636Z"
+      },
+      "github": {
+        "slug": "gilbert-amo/flutter_paye",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "payengine": {
       "pub": {
         "likeCount": 2,
+        "grantedPoints": 130,
+        "downloadCount30Days": 130,
+        "lastUpdated": "2026-03-05T02:05:29.262737Z"
+      }
+    },
+    "payfast": {
+      "pub": {
+        "likeCount": 5,
+        "grantedPoints": 160,
+        "downloadCount30Days": 114,
+        "lastUpdated": "2025-12-06T22:40:11.037509Z"
+      },
+      "github": {
+        "slug": "youngcet/payfast",
+        "starCount": 4,
+        "forkCount": 4
+      }
+    },
+    "payfast_flutter": {
+      "pub": {
+        "likeCount": 6,
+        "grantedPoints": 145,
+        "downloadCount30Days": 37,
+        "lastUpdated": "2026-03-17T16:13:34.920981Z"
+      }
+    },
+    "payfast_pakistan": {
+      "pub": {
+        "likeCount": 0,
         "grantedPoints": 150,
-        "lastUpdated": "2024-06-26T20:37:57.853368Z"
+        "downloadCount30Days": 5,
+        "lastUpdated": "2026-03-17T12:06:24.656770Z"
+      }
+    },
+    "payfast_web": {
+      "pub": {
+        "likeCount": 3,
+        "grantedPoints": 140,
+        "downloadCount30Days": 24,
+        "lastUpdated": "2025-08-05T20:23:54.679627Z"
+      },
+      "github": {
+        "slug": "youngcet/payfast_web",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "payfort_plugin": {
       "pub": {
         "likeCount": 12,
-        "grantedPoints": 160,
+        "grantedPoints": 150,
+        "downloadCount30Days": 83,
         "lastUpdated": "2021-11-17T00:30:19.054682Z"
       },
       "github": {
@@ -512978,17 +514843,66 @@
         "forkCount": 5
       }
     },
-    "paygilant_plugin": {
+    "paygate": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 130,
+        "downloadCount30Days": 7,
+        "lastUpdated": "2026-03-30T05:54:11.386648Z"
+      },
+      "github": {
+        "slug": "build-context/paygate-flutter",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "paygate_flutter": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 140,
-        "lastUpdated": "2024-02-28T13:32:12.156263Z"
+        "downloadCount30Days": 5,
+        "lastUpdated": "2026-03-30T06:28:27.053932Z"
+      },
+      "github": {
+        "slug": "build-context/paygate-flutter",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "payghaam_flutter": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 0,
+        "downloadCount30Days": 54,
+        "lastUpdated": "2026-08-12T20:06:25.382017Z"
+      },
+      "github": {
+        "slug": "payghaam/payghaam-flutter",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "paygic": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 120,
+        "downloadCount30Days": 20,
+        "lastUpdated": "2025-12-31T07:56:40.870058Z"
+      }
+    },
+    "paygilant_plugin": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 130,
+        "downloadCount30Days": 599,
+        "lastUpdated": "2026-07-09T12:48:38.385717Z"
       }
     },
     "paygo_sdk": {
       "pub": {
         "likeCount": 6,
         "grantedPoints": 130,
+        "downloadCount30Days": 141,
         "lastUpdated": "2023-05-26T02:21:16.259230Z"
       }
     },
@@ -512996,6 +514910,7 @@
       "pub": {
         "likeCount": 16,
         "grantedPoints": 160,
+        "downloadCount30Days": 31,
         "lastUpdated": "2021-10-30T12:44:45.013578Z"
       },
       "github": {
@@ -513006,8 +514921,9 @@
     },
     "payhere_flutter": {
       "pub": {
-        "likeCount": 13,
-        "grantedPoints": 40,
+        "likeCount": 14,
+        "grantedPoints": 0,
+        "downloadCount30Days": 42,
         "lastUpdated": "2020-09-10T15:10:07.681608Z"
       },
       "github": {
@@ -513018,44 +514934,74 @@
     },
     "payhere_mobilesdk_flutter": {
       "pub": {
-        "likeCount": 29,
+        "likeCount": 38,
         "grantedPoints": 140,
-        "lastUpdated": "2024-06-13T11:40:27.897987Z"
+        "downloadCount30Days": 519,
+        "lastUpdated": "2026-05-12T08:52:27.113548Z"
       },
       "github": {
         "slug": "PayHereLK/payhere-mobilesdk-flutter",
         "starCount": 5,
-        "forkCount": 14
+        "forkCount": 20
+      }
+    },
+    "payisland": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2026-05-22T05:43:59.596471Z"
+      },
+      "github": {
+        "slug": "payislandsng/payisland-flutter",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "payjoin": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 95,
+        "downloadCount30Days": 275,
+        "lastUpdated": "2026-08-06T14:35:35.388363Z"
+      },
+      "github": {
+        "slug": "payjoin/rust-payjoin",
+        "starCount": 159,
+        "forkCount": 104
       }
     },
     "payjoin_flutter": {
       "pub": {
-        "likeCount": 0,
+        "likeCount": 5,
         "grantedPoints": 140,
-        "lastUpdated": "2024-06-24T18:55:12.374185Z"
+        "downloadCount30Days": 22,
+        "lastUpdated": "2025-06-25T16:56:04.343766Z"
       },
       "github": {
         "slug": "LtbLightning/payjoin-flutter",
-        "starCount": 3,
-        "forkCount": 3
+        "starCount": 7,
+        "forkCount": 10
       }
     },
     "payjp_flutter": {
       "pub": {
-        "likeCount": 2,
-        "grantedPoints": 120,
-        "lastUpdated": "2022-11-04T02:48:11.488266Z"
+        "likeCount": 3,
+        "grantedPoints": 125,
+        "downloadCount30Days": 624,
+        "lastUpdated": "2026-06-17T01:52:45.722179Z"
       },
       "github": {
         "slug": "payjp/payjp-flutter-plugin",
         "starCount": 10,
-        "forkCount": 5
+        "forkCount": 9
       }
     },
     "paylike_currencies": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 160,
+        "downloadCount30Days": 35,
         "lastUpdated": "2022-05-26T11:24:56.907753Z"
       }
     },
@@ -513063,6 +515009,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 150,
+        "downloadCount30Days": 34,
         "lastUpdated": "2022-05-25T09:10:16.901063Z"
       }
     },
@@ -513070,6 +515017,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 150,
+        "downloadCount30Days": 49,
         "lastUpdated": "2022-05-24T15:48:43.087479Z"
       }
     },
@@ -513077,6 +515025,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 140,
+        "downloadCount30Days": 13,
         "lastUpdated": "2022-06-28T12:39:41.307126Z"
       }
     },
@@ -513084,6 +515033,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 160,
+        "downloadCount30Days": 25,
         "lastUpdated": "2022-05-05T13:29:13.253646Z"
       }
     },
@@ -513091,39 +515041,52 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 160,
+        "downloadCount30Days": 17,
         "lastUpdated": "2022-06-28T12:31:24.987201Z"
       }
     },
     "paylink_payment": {
       "pub": {
-        "likeCount": 7,
-        "grantedPoints": 160,
-        "lastUpdated": "2024-04-29T08:48:11.346366Z"
+        "likeCount": 11,
+        "grantedPoints": 150,
+        "downloadCount30Days": 163,
+        "lastUpdated": "2025-02-18T13:33:28.757080Z"
       },
       "github": {
-        "slug": "sultan-algarbi-paylink/paylink-flutter-package",
-        "starCount": 1,
-        "forkCount": 0
+        "slug": "sultan-algarbi/paylink-flutter-package",
+        "starCount": 3,
+        "forkCount": 1
       }
     },
     "paylink_payment_sdk": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 120,
+        "grantedPoints": 130,
+        "downloadCount30Days": 15,
         "lastUpdated": "2024-01-08T20:08:03.709528Z"
+      }
+    },
+    "paylisher_flutter": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 15,
+        "lastUpdated": "2025-12-01T15:52:57.566611Z"
       }
     },
     "paymaya": {
       "pub": {
         "likeCount": 2,
         "grantedPoints": 20,
+        "downloadCount30Days": 6,
         "lastUpdated": "2021-02-07T13:54:00.936531Z"
       }
     },
     "paymaya_flutter": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 130,
+        "grantedPoints": 120,
+        "downloadCount30Days": 7,
         "lastUpdated": "2021-04-03T08:23:36.893621Z"
       },
       "github": {
@@ -513135,7 +515098,8 @@
     "payme": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 20,
+        "grantedPoints": 15,
+        "downloadCount30Days": 9,
         "lastUpdated": "2020-04-19T19:07:45.216404Z"
       },
       "github": {
@@ -513148,25 +515112,28 @@
       "pub": {
         "likeCount": 3,
         "grantedPoints": 130,
+        "downloadCount30Days": 7,
         "lastUpdated": "2022-06-09T02:10:59.465862Z"
       }
     },
     "payme_miniapp_flutter": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 130,
-        "lastUpdated": "2024-07-30T04:58:45.144734Z"
+        "grantedPoints": 120,
+        "downloadCount30Days": 287,
+        "lastUpdated": "2026-07-29T09:38:07.024858Z"
       },
       "github": {
         "slug": "PayME-Miniapp/payme-miniapp-flutter",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
     "payme_sdk_flutter": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 140,
+        "grantedPoints": 130,
+        "downloadCount30Days": 63,
         "lastUpdated": "2022-04-08T01:35:12.082701Z"
       },
       "github": {
@@ -513178,7 +515145,8 @@
     "payme_sdk_offical": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 140,
+        "grantedPoints": 125,
+        "downloadCount30Days": 9,
         "lastUpdated": "2022-01-18T08:50:45.379942Z"
       },
       "github": {
@@ -513190,7 +515158,8 @@
     "payme_sdk_official": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 130,
+        "grantedPoints": 115,
+        "downloadCount30Days": 6,
         "lastUpdated": "2022-01-18T08:58:27.841643Z"
       },
       "github": {
@@ -513203,13 +515172,15 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 130,
+        "downloadCount30Days": 7,
         "lastUpdated": "2022-07-19T19:25:28.646146Z"
       }
     },
     "payment_base": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 130,
+        "grantedPoints": 140,
+        "downloadCount30Days": 6,
         "lastUpdated": "2022-11-17T06:44:50.992138Z"
       },
       "github": {
@@ -513222,13 +515193,15 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 130,
+        "downloadCount30Days": 6,
         "lastUpdated": "2022-07-19T19:28:51.480122Z"
       }
     },
     "payment_bridge": {
       "pub": {
         "likeCount": 4,
-        "grantedPoints": 140,
+        "grantedPoints": 130,
+        "downloadCount30Days": 13,
         "lastUpdated": "2023-02-21T09:51:27.183139Z"
       },
       "github": {
@@ -513237,22 +515210,45 @@
         "forkCount": 0
       }
     },
+    "payment_calculation": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 6,
+        "lastUpdated": "2025-07-29T09:18:17.197724Z"
+      }
+    },
     "payment_card": {
       "pub": {
-        "likeCount": 4,
-        "grantedPoints": 140,
+        "likeCount": 11,
+        "grantedPoints": 130,
+        "downloadCount30Days": 11,
         "lastUpdated": "2024-02-23T14:21:39.194360Z"
       },
       "github": {
         "slug": "kenresoft/payment_card",
-        "starCount": 2,
+        "starCount": 4,
+        "forkCount": 0
+      }
+    },
+    "payment_dialog": {
+      "pub": {
+        "likeCount": 3,
+        "grantedPoints": 130,
+        "downloadCount30Days": 28,
+        "lastUpdated": "2025-08-12T07:55:17.394168Z"
+      },
+      "github": {
+        "slug": "programmerhasan/payment_dialog",
+        "starCount": 1,
         "forkCount": 0
       }
     },
     "payment_flutter": {
       "pub": {
-        "likeCount": 0,
+        "likeCount": 1,
         "grantedPoints": 130,
+        "downloadCount30Days": 18,
         "lastUpdated": "2022-06-15T07:55:19.659349Z"
       }
     },
@@ -513260,6 +515256,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 140,
+        "downloadCount30Days": 5,
         "lastUpdated": "2022-11-20T06:38:18.971152Z"
       },
       "github": {
@@ -513271,14 +515268,24 @@
     "payment_gateway": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 50,
+        "grantedPoints": 40,
+        "downloadCount30Days": 3,
         "lastUpdated": "2021-07-15T12:56:27.784566Z"
+      }
+    },
+    "payment_gateway_amorio": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 120,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2026-01-12T07:17:55.255474Z"
       }
     },
     "payment_gateway_demo": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 60,
+        "grantedPoints": 35,
+        "downloadCount30Days": 83,
         "lastUpdated": "2023-09-22T07:28:02.877723Z"
       }
     },
@@ -513286,6 +515293,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 130,
+        "downloadCount30Days": 24,
         "lastUpdated": "2021-10-13T18:09:31.778607Z"
       },
       "github": {
@@ -513296,36 +515304,49 @@
     },
     "payment_gateway_plugin": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 140,
-        "lastUpdated": "2024-07-30T08:14:54.472505Z"
+        "likeCount": 1,
+        "grantedPoints": 130,
+        "downloadCount30Days": 135,
+        "lastUpdated": "2025-07-14T11:44:16.908489Z"
       }
     },
     "payment_helper": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 10,
+        "grantedPoints": 5,
+        "downloadCount30Days": 5,
         "lastUpdated": "2020-06-10T15:48:21.293181Z"
       }
     },
     "payment_integration_oorjaa": {
       "pub": {
-        "likeCount": 0,
+        "likeCount": 1,
         "grantedPoints": 120,
+        "downloadCount30Days": 9,
         "lastUpdated": "2023-08-25T04:15:03.278033Z"
+      }
+    },
+    "payment_invoice_app": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 20,
+        "downloadCount30Days": 110,
+        "lastUpdated": "2025-03-28T09:26:46.698076Z"
       }
     },
     "payment_lib": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 55,
+        "grantedPoints": 45,
+        "downloadCount30Days": 24,
         "lastUpdated": "2022-03-23T04:08:56.887437Z"
       }
     },
     "payment_page_package": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 50,
+        "grantedPoints": 30,
+        "downloadCount30Days": 5,
         "lastUpdated": "2021-09-28T09:24:47.243777Z"
       }
     },
@@ -689183,7 +691204,7 @@
     }
   },
   "lastUpdate": {
-    "endIndex": 60015,
-    "date": "2026-08-12T22:29:53.235171Z"
+    "endIndex": 60515,
+    "date": "2026-08-13T01:02:43.169487Z"
   }
 }
