@@ -579094,7 +579094,7 @@
     "remote_in_app_update": {
       "pub": {
         "likeCount": 5,
-        "grantedPoints": 140,
+        "grantedPoints": 150,
         "downloadCount30Days": 5,
         "lastUpdated": "2025-04-10T11:03:43.125170Z"
       }
@@ -579116,6 +579116,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 20,
+        "downloadCount30Days": 9,
         "lastUpdated": "2019-09-27T21:22:19.582875Z"
       },
       "github": {
@@ -579126,20 +579127,30 @@
     },
     "remote_logger": {
       "pub": {
-        "likeCount": 2,
-        "grantedPoints": 150,
-        "lastUpdated": "2023-06-28T12:44:29.079474Z"
+        "likeCount": 3,
+        "grantedPoints": 160,
+        "downloadCount30Days": 86,
+        "lastUpdated": "2026-06-04T11:09:20.902941Z"
       },
       "github": {
         "slug": "MewsSystems/mews-flutter",
-        "starCount": 58,
-        "forkCount": 20
+        "starCount": 79,
+        "forkCount": 41
+      }
+    },
+    "remote_logging": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 173,
+        "lastUpdated": "2026-07-29T14:27:57.730747Z"
       }
     },
     "remote_logging_handlers": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 20,
+        "downloadCount30Days": 7,
         "lastUpdated": "2019-11-07T15:33:45.489580Z"
       },
       "github": {
@@ -579148,10 +579159,24 @@
         "forkCount": 0
       }
     },
+    "remote_network_inspector": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 207,
+        "lastUpdated": "2026-07-20T11:37:38.716487Z"
+      },
+      "github": {
+        "slug": "afaq35202/remote_network_inspector",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "remote_player": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 20,
+        "grantedPoints": 15,
+        "downloadCount30Days": 17,
         "lastUpdated": "2019-04-26T05:00:34.871399Z"
       },
       "github": {
@@ -579162,32 +579187,48 @@
     },
     "remote_preferences": {
       "pub": {
-        "likeCount": 1,
-        "grantedPoints": 130,
+        "likeCount": 2,
+        "grantedPoints": 120,
+        "downloadCount30Days": 5,
         "lastUpdated": "2021-10-22T20:22:06.739576Z"
       },
       "github": {
         "slug": "brenoasm/remote_preferences",
         "starCount": 2,
-        "forkCount": 1
+        "forkCount": 3
       }
     },
     "remote_province": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 140,
+        "grantedPoints": 125,
+        "downloadCount30Days": 24,
         "lastUpdated": "2023-12-01T19:08:49.718805Z"
       },
       "github": {
         "slug": "agmoss/remote_province",
-        "starCount": 1,
+        "starCount": 3,
+        "forkCount": 0
+      }
+    },
+    "remote_registry": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 20,
+        "lastUpdated": "2026-04-22T09:48:09.325813Z"
+      },
+      "github": {
+        "slug": "cooolinx/remote_registry",
+        "starCount": 0,
         "forkCount": 0
       }
     },
     "remote_request": {
       "pub": {
-        "likeCount": 8,
-        "grantedPoints": 160,
+        "likeCount": 9,
+        "grantedPoints": 145,
+        "downloadCount30Days": 20,
         "lastUpdated": "2024-05-22T07:46:22.296188Z"
       },
       "github": {
@@ -579200,11 +579241,12 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 15,
+        "downloadCount30Days": 17,
         "lastUpdated": "2014-05-14T13:29:43.243060Z"
       },
       "github": {
         "slug": "enyo/remote-services",
-        "starCount": 11,
+        "starCount": 10,
         "forkCount": 6
       }
     },
@@ -579212,6 +579254,7 @@
       "pub": {
         "likeCount": 7,
         "grantedPoints": 130,
+        "downloadCount30Days": 51,
         "lastUpdated": "2021-03-04T17:30:09.073793Z"
       },
       "github": {
@@ -579220,22 +579263,37 @@
         "forkCount": 4
       }
     },
+    "remote_tmdb_kit": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 16,
+        "lastUpdated": "2026-07-02T02:51:29.583281Z"
+      },
+      "github": {
+        "slug": "vmgarciahurtado/remote_tmdb_kit",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "remote_ui": {
       "pub": {
         "likeCount": 8,
         "grantedPoints": 40,
+        "downloadCount30Days": 49,
         "lastUpdated": "2021-09-11T10:33:23.853815Z"
       },
       "github": {
         "slug": "jaumard/remote_ui",
         "starCount": 11,
-        "forkCount": 6
+        "forkCount": 5
       }
     },
     "remote_value": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 120,
+        "grantedPoints": 130,
+        "downloadCount30Days": 23,
         "lastUpdated": "2022-01-12T07:31:40.000486Z"
       },
       "github": {
@@ -579244,17 +579302,40 @@
         "forkCount": 0
       }
     },
+    "remote_widget_hideable": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 140,
+        "downloadCount30Days": 7,
+        "lastUpdated": "2026-01-17T17:08:02.255479Z"
+      },
+      "github": {
+        "slug": "kedirinesia/remote-hideable-widget-",
+        "starCount": 5,
+        "forkCount": 0
+      }
+    },
     "remotecall": {
       "pub": {
         "likeCount": 2,
         "grantedPoints": 20,
+        "downloadCount30Days": 5,
         "lastUpdated": "2021-04-22T02:10:42.591398Z"
+      }
+    },
+    "remotex_sdk": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 130,
+        "downloadCount30Days": 9,
+        "lastUpdated": "2026-01-19T03:11:07.524955Z"
       }
     },
     "remove": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 160,
+        "grantedPoints": 150,
+        "downloadCount30Days": 944,
         "lastUpdated": "2023-04-11T13:28:46.387812Z"
       },
       "github": {
@@ -579267,6 +579348,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 40,
+        "downloadCount30Days": 5,
         "lastUpdated": "2021-01-07T17:26:15.065527Z"
       },
       "github": {
@@ -579278,38 +579360,42 @@
     "remove_app": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 20,
+        "grantedPoints": 15,
+        "downloadCount30Days": 9,
         "lastUpdated": "2020-07-25T14:38:56.988582Z"
       }
     },
     "remove_background": {
       "pub": {
-        "likeCount": 34,
-        "grantedPoints": 130,
+        "likeCount": 35,
+        "grantedPoints": 120,
+        "downloadCount30Days": 10,
         "lastUpdated": "2022-02-06T17:45:57.792204Z"
       },
       "github": {
         "slug": "DakshDB/remove_background",
         "starCount": 4,
-        "forkCount": 2
+        "forkCount": 3
       }
     },
     "remove_bg": {
       "pub": {
-        "likeCount": 8,
+        "likeCount": 12,
         "grantedPoints": 140,
+        "downloadCount30Days": 89,
         "lastUpdated": "2023-02-25T03:41:08.559698Z"
       },
       "github": {
         "slug": "Deepjyoti120/remove_bg",
-        "starCount": 1,
+        "starCount": 2,
         "forkCount": 0
       }
     },
     "remove_diacritic": {
       "pub": {
         "likeCount": 11,
-        "grantedPoints": 140,
+        "grantedPoints": 160,
+        "downloadCount30Days": 2662,
         "lastUpdated": "2023-01-07T17:57:51.809610Z"
       },
       "github": {
@@ -579320,32 +579406,35 @@
     },
     "remove_emoji": {
       "pub": {
-        "likeCount": 36,
+        "likeCount": 41,
         "grantedPoints": 160,
+        "downloadCount30Days": 6247,
         "lastUpdated": "2023-08-21T18:07:24.285691Z"
       },
       "github": {
         "slug": "n4ze3m/remove-emoji",
-        "starCount": 8,
+        "starCount": 9,
         "forkCount": 5
       }
     },
     "remove_emoji_input_formatter": {
       "pub": {
-        "likeCount": 6,
+        "likeCount": 8,
         "grantedPoints": 150,
+        "downloadCount30Days": 5,
         "lastUpdated": "2023-01-13T09:16:10.000348Z"
       },
       "github": {
         "slug": "duocnguyen6799/remove_emoji_input_formatter",
-        "starCount": 4,
+        "starCount": 5,
         "forkCount": 0
       }
     },
     "remove_from_coverage": {
       "pub": {
-        "likeCount": 34,
-        "grantedPoints": 160,
+        "likeCount": 37,
+        "grantedPoints": 140,
+        "downloadCount30Days": 60006,
         "lastUpdated": "2021-04-17T19:21:03.575098Z"
       },
       "github": {
@@ -579356,13 +579445,14 @@
     },
     "remove_markdown": {
       "pub": {
-        "likeCount": 5,
+        "likeCount": 8,
         "grantedPoints": 150,
+        "downloadCount30Days": 5901,
         "lastUpdated": "2023-05-10T10:56:37.815314Z"
       },
       "github": {
         "slug": "wizlif/remove_markdown",
-        "starCount": 10,
+        "starCount": 13,
         "forkCount": 0
       }
     },
@@ -579370,6 +579460,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 30,
+        "downloadCount30Days": 3,
         "lastUpdated": "2020-08-28T08:03:08.380778Z"
       },
       "github": {
@@ -579378,10 +579469,24 @@
         "forkCount": 0
       }
     },
+    "remove_print_cli": {
+      "pub": {
+        "likeCount": 2,
+        "grantedPoints": 150,
+        "downloadCount30Days": 12,
+        "lastUpdated": "2025-02-10T03:32:44.155053Z"
+      },
+      "github": {
+        "slug": "Rk-Thakur/remove_print_cli",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "remove_transformer": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 30,
+        "downloadCount30Days": 15,
         "lastUpdated": "2018-02-14T18:45:33.972315Z"
       },
       "github": {
@@ -579390,89 +579495,165 @@
         "forkCount": 0
       }
     },
+    "remove_unused_localizations": {
+      "pub": {
+        "likeCount": 12,
+        "grantedPoints": 160,
+        "downloadCount30Days": 2624,
+        "lastUpdated": "2026-03-24T16:34:17.317464Z"
+      },
+      "github": {
+        "slug": "OsamaAssaf/remove_unused_localizations",
+        "starCount": 6,
+        "forkCount": 5
+      }
+    },
+    "remove_unused_localizations_keys": {
+      "pub": {
+        "likeCount": 19,
+        "grantedPoints": 155,
+        "downloadCount30Days": 825,
+        "lastUpdated": "2025-04-11T12:03:32.895749Z"
+      },
+      "github": {
+        "slug": "abdoelmorap/remove_unused_localizations_keys",
+        "starCount": 2,
+        "forkCount": 2
+      }
+    },
+    "remove_video_location": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 140,
+        "downloadCount30Days": 7,
+        "lastUpdated": "2025-10-06T21:03:59.312363Z"
+      },
+      "github": {
+        "slug": "Shawn-sudo/remove_video_location",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "ren": {
+      "pub": {
+        "likeCount": 2,
+        "grantedPoints": 150,
+        "downloadCount30Days": 204,
+        "lastUpdated": "2026-06-11T06:01:44.107554Z"
+      },
+      "github": {
+        "slug": "gearscrafter/ren",
+        "starCount": 3,
+        "forkCount": 0
+      }
+    },
     "rename": {
       "pub": {
-        "likeCount": 1087,
+        "likeCount": 1305,
         "grantedPoints": 140,
-        "lastUpdated": "2024-03-07T21:14:38.057914Z"
+        "downloadCount30Days": 45964,
+        "lastUpdated": "2025-05-07T09:05:03.943114Z"
       },
       "github": {
         "slug": "onatcipli/rename",
-        "starCount": 164,
-        "forkCount": 39
+        "starCount": 183,
+        "forkCount": 41
       }
     },
     "rename_app": {
       "pub": {
-        "likeCount": 123,
-        "grantedPoints": 150,
-        "lastUpdated": "2024-06-26T05:33:37.148847Z"
+        "likeCount": 356,
+        "grantedPoints": 140,
+        "downloadCount30Days": 19426,
+        "lastUpdated": "2026-05-05T06:02:18.824409Z"
       },
       "github": {
         "slug": "Syed-Waleed-Shah/rename_app",
-        "starCount": 10,
-        "forkCount": 4
+        "starCount": 39,
+        "forkCount": 8
       }
     },
     "rename_app_plus": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 130,
+        "grantedPoints": 115,
+        "downloadCount30Days": 17,
         "lastUpdated": "2023-04-05T08:38:49.939671Z"
       },
       "github": {
         "slug": "anvu69/rename_app_plus",
-        "starCount": 1,
+        "starCount": 2,
         "forkCount": 1
+      }
+    },
+    "rename_flutter_project": {
+      "pub": {
+        "likeCount": 4,
+        "grantedPoints": 125,
+        "downloadCount30Days": 37,
+        "lastUpdated": "2025-05-06T07:58:45.596443Z"
       }
     },
     "rename_plus": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 120,
+        "downloadCount30Days": 17,
         "lastUpdated": "2024-07-25T12:37:14.437160Z"
       },
       "github": {
         "slug": "onatcipli/rename",
-        "starCount": 164,
-        "forkCount": 39
+        "starCount": 183,
+        "forkCount": 41
+      }
+    },
+    "renamer": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 120,
+        "downloadCount30Days": 10,
+        "lastUpdated": "2025-12-07T07:44:18.320521Z"
       }
     },
     "renato_button": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 15,
+        "grantedPoints": 25,
+        "downloadCount30Days": 5,
         "lastUpdated": "2019-06-06T17:37:25.533524Z"
       }
     },
     "rencode": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 130,
+        "grantedPoints": 140,
+        "downloadCount30Days": 58,
         "lastUpdated": "2021-03-18T08:19:51.590110Z"
       },
       "github": {
         "slug": "teal77/dart-rencode",
-        "starCount": 2,
+        "starCount": 3,
         "forkCount": 0
       }
     },
     "render": {
       "pub": {
-        "likeCount": 79,
+        "likeCount": 92,
         "grantedPoints": 140,
+        "downloadCount30Days": 383,
         "lastUpdated": "2024-05-25T11:19:24.677459Z"
       },
       "github": {
         "slug": "polarby/render",
-        "starCount": 48,
-        "forkCount": 24
+        "starCount": 59,
+        "forkCount": 36
       }
     },
     "render2d": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 120,
+        "downloadCount30Days": 5,
         "lastUpdated": "2022-10-22T23:05:21.802630Z"
       },
       "github": {
@@ -579485,6 +579666,7 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 150,
+        "downloadCount30Days": 13,
         "lastUpdated": "2022-10-26T12:20:44.507169Z"
       },
       "github": {
@@ -579495,27 +579677,64 @@
     },
     "render_core": {
       "pub": {
-        "likeCount": 0,
+        "likeCount": 1,
         "grantedPoints": 140,
+        "downloadCount30Days": 5,
         "lastUpdated": "2023-10-05T15:06:33.098814Z"
+      }
+    },
+    "render_kit_flutter": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 135,
+        "downloadCount30Days": 153,
+        "lastUpdated": "2026-07-12T17:52:58.146657Z"
+      },
+      "github": {
+        "slug": "mohammed-fawaz-cp/render_kit_flutter",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "render_metrics": {
       "pub": {
-        "likeCount": 119,
+        "likeCount": 122,
         "grantedPoints": 160,
+        "downloadCount30Days": 528,
         "lastUpdated": "2021-12-13T15:00:18.589596Z"
       },
       "github": {
         "slug": "surfstudio/flutter-render-metrics",
-        "starCount": 17,
+        "starCount": 22,
         "forkCount": 4
+      }
+    },
+    "render_pro": {
+      "pub": {
+        "likeCount": 6,
+        "grantedPoints": 160,
+        "downloadCount30Days": 61,
+        "lastUpdated": "2026-05-20T06:32:33.376101Z"
+      },
+      "github": {
+        "slug": "RanaSharjeelAli/render_pro",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "render_proof": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 150,
+        "downloadCount30Days": 252,
+        "lastUpdated": "2026-07-17T02:08:47.985866Z"
       }
     },
     "render_stats": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 25,
+        "downloadCount30Days": 5,
         "lastUpdated": "2013-03-11T23:55:30.329140Z"
       }
     },
@@ -579523,6 +579742,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 20,
+        "downloadCount30Days": 5,
         "lastUpdated": "2015-12-15T12:50:03.521Z"
       },
       "github": {
@@ -579534,7 +579754,8 @@
     "renderable": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 30,
+        "grantedPoints": 40,
+        "downloadCount30Days": 44,
         "lastUpdated": "2019-12-29T09:05:29.249673Z"
       }
     },
@@ -579542,6 +579763,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 120,
+        "downloadCount30Days": 77,
         "lastUpdated": "2022-02-02T14:23:38.142257Z"
       },
       "github": {
@@ -579553,12 +579775,13 @@
     "renderer_switcher": {
       "pub": {
         "likeCount": 3,
-        "grantedPoints": 120,
+        "grantedPoints": 110,
+        "downloadCount30Days": 6,
         "lastUpdated": "2021-10-20T15:50:51.635223Z"
       },
       "github": {
         "slug": "wilsonowilson/renderer_switcher",
-        "starCount": 12,
+        "starCount": 13,
         "forkCount": 1
       }
     },
@@ -579566,11 +579789,54 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 140,
+        "downloadCount30Days": 9,
         "lastUpdated": "2023-05-31T01:45:01.369185Z"
       },
       "github": {
         "slug": "Novak-Fenocchio/RenderIf",
-        "starCount": 1,
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "renderkit": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 26,
+        "lastUpdated": "2026-07-12T07:00:25.775140Z"
+      }
+    },
+    "renderkit_annotations": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 27,
+        "lastUpdated": "2026-07-12T06:57:55.004373Z"
+      }
+    },
+    "renderkit_cli": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 74,
+        "lastUpdated": "2026-07-12T15:16:20.235985Z"
+      },
+      "github": {
+        "slug": "mohammed-fawaz-cp/render_kit_flutter",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "renderkit_generator": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 221,
+        "lastUpdated": "2026-07-14T15:20:23.538844Z"
+      },
+      "github": {
+        "slug": "mohammed-fawaz-cp/render_kit_flutter",
+        "starCount": 0,
         "forkCount": 0
       }
     },
@@ -579578,92 +579844,141 @@
       "pub": {
         "likeCount": 7,
         "grantedPoints": 40,
+        "downloadCount30Days": 76,
         "lastUpdated": "2020-10-05T08:53:43.580800Z"
       },
       "github": {
         "slug": "leam-tech/renovation_core.dart",
-        "starCount": 18,
-        "forkCount": 19
+        "starCount": 17,
+        "forkCount": 17
+      }
+    },
+    "renpy_core": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 19,
+        "lastUpdated": "2026-06-09T00:03:33.145904Z"
+      }
+    },
+    "renpy_flutter": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 6,
+        "lastUpdated": "2026-06-09T00:07:32.471708Z"
+      }
+    },
+    "renpy_parser": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 145,
+        "downloadCount30Days": 14,
+        "lastUpdated": "2026-06-08T23:49:47.273051Z"
+      }
+    },
+    "rental_car_system": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 100,
+        "downloadCount30Days": 6,
+        "lastUpdated": "2024-11-07T06:41:51.696623Z"
       }
     },
     "rentalworks": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 120,
-        "lastUpdated": "2023-04-25T23:50:32.339289Z"
+        "grantedPoints": 140,
+        "downloadCount30Days": 69,
+        "lastUpdated": "2026-04-20T07:27:29.408668Z"
       },
       "github": {
         "slug": "point-source/dart_rentalworks",
         "starCount": 2,
-        "forkCount": 0
+        "forkCount": 1
       }
     },
     "reorder_tree_list": {
       "pub": {
         "likeCount": 4,
         "grantedPoints": 20,
+        "downloadCount30Days": 21,
         "lastUpdated": "2019-09-06T06:42:42.832098Z"
+      }
+    },
+    "reorderable_anim": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 3,
+        "lastUpdated": "2025-07-11T09:54:44.520899Z"
       }
     },
     "reorderable_carousel": {
       "pub": {
-        "likeCount": 16,
+        "likeCount": 17,
         "grantedPoints": 140,
+        "downloadCount30Days": 36,
         "lastUpdated": "2022-08-24T17:46:27.121331Z"
       },
       "github": {
         "slug": "TNorbury/reorderable_carousel",
         "starCount": 4,
-        "forkCount": 5
+        "forkCount": 4
       }
     },
     "reorderable_grid": {
       "pub": {
-        "likeCount": 113,
+        "likeCount": 136,
         "grantedPoints": 150,
-        "lastUpdated": "2023-11-20T10:32:49.423063Z"
+        "downloadCount30Days": 15998,
+        "lastUpdated": "2026-01-20T08:31:04.108123Z"
       },
       "github": {
         "slug": "casvanluijtelaar/reorderable_grid",
-        "starCount": 58,
-        "forkCount": 16
+        "starCount": 66,
+        "forkCount": 25
       }
     },
     "reorderable_grid_view": {
       "pub": {
-        "likeCount": 146,
+        "likeCount": 164,
         "grantedPoints": 120,
+        "downloadCount30Days": 69415,
         "lastUpdated": "2023-11-20T08:46:48.825592Z"
       },
       "github": {
         "slug": "huhuang03/reorderable_grid_view",
-        "starCount": 44,
-        "forkCount": 31
+        "starCount": 1,
+        "forkCount": 1
       }
     },
     "reorderable_grid_view_header": {
       "pub": {
         "likeCount": 1,
         "grantedPoints": 120,
+        "downloadCount30Days": 5,
         "lastUpdated": "2022-06-07T11:17:52.709808Z"
       },
       "github": {
         "slug": "huhuang03/reorderable_grid_view",
-        "starCount": 44,
-        "forkCount": 31
+        "starCount": 1,
+        "forkCount": 1
       }
     },
     "reorderable_griditem_view": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 130,
+        "grantedPoints": 120,
+        "downloadCount30Days": 5,
         "lastUpdated": "2021-08-12T09:19:07.603937Z"
       }
     },
     "reorderable_list": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 130,
+        "grantedPoints": 120,
+        "downloadCount30Days": 202,
         "lastUpdated": "2022-12-19T20:13:18.826122Z"
       }
     },
@@ -579671,6 +579986,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 90,
+        "downloadCount30Days": 5,
         "lastUpdated": "2024-07-28T07:15:05.632267Z"
       },
       "github": {
@@ -579681,87 +579997,121 @@
     },
     "reorderable_plus": {
       "pub": {
-        "likeCount": 1,
-        "grantedPoints": 140,
+        "likeCount": 3,
+        "grantedPoints": 135,
+        "downloadCount30Days": 882,
         "lastUpdated": "2023-10-29T03:05:59.091052Z"
       },
       "github": {
         "slug": "sososdk/reorderable",
-        "starCount": 2,
+        "starCount": 3,
+        "forkCount": 2
+      }
+    },
+    "reorderable_staggered_grid_view": {
+      "pub": {
+        "likeCount": 14,
+        "grantedPoints": 160,
+        "downloadCount30Days": 94,
+        "lastUpdated": "2025-08-19T10:37:46.998268Z"
+      },
+      "github": {
+        "slug": "socrat-mniirs/reorderable_staggered_grid_view",
+        "starCount": 11,
         "forkCount": 1
       }
     },
     "reorderable_staggered_scroll_view": {
       "pub": {
-        "likeCount": 21,
+        "likeCount": 36,
         "grantedPoints": 160,
+        "downloadCount30Days": 133,
         "lastUpdated": "2024-03-06T14:28:11.318626Z"
       },
       "github": {
         "slug": "itisnajim/reorderable_staggered_scroll_view",
-        "starCount": 3,
-        "forkCount": 5
+        "starCount": 8,
+        "forkCount": 21
       }
     },
     "reorderable_tabbar": {
       "pub": {
-        "likeCount": 31,
-        "grantedPoints": 150,
+        "likeCount": 38,
+        "grantedPoints": 70,
+        "downloadCount30Days": 32651,
         "lastUpdated": "2023-12-24T12:27:03.574385Z"
       },
       "github": {
         "slug": "OrtakProje-1/reorderable_tabbar",
-        "starCount": 7,
-        "forkCount": 4
+        "starCount": 8,
+        "forkCount": 17
       }
     },
     "reorderable_tree": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 140,
+        "downloadCount30Days": 5,
         "lastUpdated": "2022-11-27T09:42:19.700384Z"
+      }
+    },
+    "reorderable_tree_list_view": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 140,
+        "downloadCount30Days": 7,
+        "lastUpdated": "2025-11-03T06:14:41.081188Z"
+      },
+      "github": {
+        "slug": "ashish030298/reorderable_tree_list_view",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "reorderableitemsview": {
       "pub": {
         "likeCount": 55,
-        "grantedPoints": 80,
+        "grantedPoints": 60,
+        "downloadCount30Days": 86,
         "lastUpdated": "2021-07-18T04:51:40.963014Z"
       },
       "github": {
         "slug": "PonnamKarthik/reorderableitemsview",
         "starCount": 16,
-        "forkCount": 25
+        "forkCount": 26
       }
     },
     "reorderables": {
       "pub": {
-        "likeCount": 931,
+        "likeCount": 1021,
         "grantedPoints": 150,
+        "downloadCount30Days": 109654,
         "lastUpdated": "2023-01-25T21:55:18.313299Z"
       },
       "github": {
         "slug": "hanshengchiu/reorderables",
-        "starCount": 719,
-        "forkCount": 166
+        "starCount": 767,
+        "forkCount": 177
       }
     },
     "reorderables2": {
       "pub": {
-        "likeCount": 9,
-        "grantedPoints": 80,
+        "likeCount": 10,
+        "grantedPoints": 55,
+        "downloadCount30Days": 6,
         "lastUpdated": "2021-03-21T19:08:53.258938Z"
       },
       "github": {
         "slug": "hanshengchiu/reorderables",
-        "starCount": 719,
-        "forkCount": 166
+        "starCount": 767,
+        "forkCount": 177
       }
     },
     "reorderwrap": {
       "pub": {
         "likeCount": 1,
         "grantedPoints": 20,
+        "downloadCount30Days": 3,
         "lastUpdated": "2020-02-22T10:43:50.412986Z"
       },
       "github": {
@@ -579770,18 +580120,137 @@
         "forkCount": 1
       }
     },
+    "reown_appkit": {
+      "pub": {
+        "likeCount": 19,
+        "grantedPoints": 140,
+        "downloadCount30Days": 7566,
+        "lastUpdated": "2026-08-04T13:39:21.969675Z"
+      },
+      "github": {
+        "slug": "reown-com/reown_flutter",
+        "starCount": 64,
+        "forkCount": 75
+      }
+    },
+    "reown_cli": {
+      "pub": {
+        "likeCount": 2,
+        "grantedPoints": 140,
+        "downloadCount30Days": 114,
+        "lastUpdated": "2026-08-04T13:34:02.896752Z"
+      },
+      "github": {
+        "slug": "reown-com/reown_flutter",
+        "starCount": 64,
+        "forkCount": 75
+      }
+    },
+    "reown_core": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 120,
+        "downloadCount30Days": 10740,
+        "lastUpdated": "2026-08-04T13:35:18.581219Z"
+      },
+      "github": {
+        "slug": "reown-com/reown_flutter",
+        "starCount": 64,
+        "forkCount": 75
+      }
+    },
+    "reown_sign": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 150,
+        "downloadCount30Days": 10766,
+        "lastUpdated": "2025-12-10T10:15:29.611245Z"
+      },
+      "github": {
+        "slug": "reown-com/reown_flutter",
+        "starCount": 64,
+        "forkCount": 75
+      }
+    },
+    "reown_walletkit": {
+      "pub": {
+        "likeCount": 19,
+        "grantedPoints": 150,
+        "downloadCount30Days": 3462,
+        "lastUpdated": "2026-01-21T14:44:42.766003Z"
+      },
+      "github": {
+        "slug": "reown-com/reown_flutter",
+        "starCount": 64,
+        "forkCount": 75
+      }
+    },
+    "reown_yttrium": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 109,
+        "lastUpdated": "2025-08-22T16:31:11.285840Z"
+      },
+      "github": {
+        "slug": "reown-com/reown_flutter",
+        "starCount": 64,
+        "forkCount": 75
+      }
+    },
+    "repack": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 23,
+        "lastUpdated": "2025-10-15T07:23:07.113784Z"
+      },
+      "github": {
+        "slug": "riaj53/repack",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "repaint": {
+      "pub": {
+        "likeCount": 21,
+        "grantedPoints": 160,
+        "downloadCount30Days": 48,
+        "lastUpdated": "2025-03-09T13:45:07.331864Z"
+      },
+      "github": {
+        "slug": "PlugFox/repaint",
+        "starCount": 23,
+        "forkCount": 1
+      }
+    },
     "repl": {
       "pub": {
         "likeCount": 10,
         "grantedPoints": 100,
+        "downloadCount30Days": 15,
         "lastUpdated": "2022-12-23T05:38:12.876583Z"
+      }
+    },
+    "repl_view": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 16,
+        "lastUpdated": "2026-06-28T14:30:19.395129Z"
+      },
+      "github": {
+        "slug": "repentsinner/flutter_scroll_kit",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "replace": {
       "pub": {
         "likeCount": 4,
-        "grantedPoints": 130,
-        "lastUpdated": "2022-05-12T00:12:31.280583Z"
+        "grantedPoints": 140,
+        "downloadCount30Days": 577,
+        "lastUpdated": "2026-05-27T03:29:11.627778Z"
       },
       "github": {
         "slug": "robrbecker/replace",
@@ -579793,6 +580262,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 30,
+        "downloadCount30Days": 5,
         "lastUpdated": "2017-02-18T14:34:08.752Z"
       },
       "github": {
@@ -579805,6 +580275,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 30,
+        "downloadCount30Days": 5,
         "lastUpdated": "2016-10-20T01:34:49.907Z"
       },
       "github": {
@@ -579817,6 +580288,7 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 140,
+        "downloadCount30Days": 10,
         "lastUpdated": "2024-01-09T14:59:41.521272Z"
       },
       "github": {
@@ -579827,13 +580299,14 @@
     },
     "replace_palette": {
       "pub": {
-        "likeCount": 2,
+        "likeCount": 5,
         "grantedPoints": 160,
-        "lastUpdated": "2024-05-01T17:34:59.846248Z"
+        "downloadCount30Days": 21,
+        "lastUpdated": "2024-09-26T14:51:24.834063Z"
       },
       "github": {
         "slug": "signmotion/replace_palette",
-        "starCount": 1,
+        "starCount": 2,
         "forkCount": 0
       }
     },
@@ -579841,6 +580314,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 15,
+        "downloadCount30Days": 9,
         "lastUpdated": "2014-06-24T13:56:05.550530Z"
       }
     },
@@ -579848,6 +580322,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 10,
+        "downloadCount30Days": 9,
         "lastUpdated": "2014-01-11T19:42:19.947Z"
       },
       "github": {
@@ -579856,46 +580331,63 @@
         "forkCount": 2
       }
     },
+    "replay": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 14,
+        "lastUpdated": "2026-01-01T15:55:40.068043Z"
+      },
+      "github": {
+        "slug": "michasng/replay",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "replay_bloc": {
       "pub": {
-        "likeCount": 165,
+        "likeCount": 189,
         "grantedPoints": 160,
-        "lastUpdated": "2024-03-24T20:38:55.768436Z"
+        "downloadCount30Days": 22737,
+        "lastUpdated": "2025-01-12T21:50:27.559100Z"
       },
       "github": {
         "slug": "felangel/bloc",
-        "starCount": 11587,
-        "forkCount": 3370
+        "starCount": 12481,
+        "forkCount": 3419
       }
     },
     "replay_cubit": {
       "pub": {
         "likeCount": 11,
         "grantedPoints": 40,
+        "downloadCount30Days": 10,
         "lastUpdated": "2020-07-03T23:56:40.662541Z"
       },
       "github": {
         "slug": "felangel/cubit",
-        "starCount": 593,
-        "forkCount": 27
+        "starCount": 597,
+        "forkCount": 25
       }
     },
     "replay_kit_launcher": {
       "pub": {
-        "likeCount": 11,
-        "grantedPoints": 150,
+        "likeCount": 12,
+        "grantedPoints": 140,
+        "downloadCount30Days": 1244,
         "lastUpdated": "2022-02-09T07:53:22.780907Z"
       },
       "github": {
         "slug": "patrick-fu/flutter_replay_kit_launcher",
-        "starCount": 13,
-        "forkCount": 6
+        "starCount": 14,
+        "forkCount": 5
       }
     },
     "replay_riverpod": {
       "pub": {
-        "likeCount": 3,
+        "likeCount": 4,
         "grantedPoints": 150,
+        "downloadCount30Days": 13,
         "lastUpdated": "2022-09-18T10:03:26.919851Z"
       },
       "github": {
@@ -579904,34 +580396,58 @@
         "forkCount": 0
       }
     },
+    "replayfy_flutter": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 160,
+        "downloadCount30Days": 187,
+        "lastUpdated": "2026-08-04T01:09:24.841331Z"
+      },
+      "github": {
+        "slug": "replayfy/flutter",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
     "replica": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 110,
+        "grantedPoints": 120,
+        "downloadCount30Days": 16,
         "lastUpdated": "2021-07-07T11:17:18.244247Z"
       }
     },
     "replicate": {
       "pub": {
-        "likeCount": 7,
+        "likeCount": 9,
         "grantedPoints": 110,
+        "downloadCount30Days": 25,
         "lastUpdated": "2023-02-13T17:01:25.317049Z"
       },
       "github": {
         "slug": "anasfik/replicate",
-        "starCount": 9,
-        "forkCount": 9
+        "starCount": 10,
+        "forkCount": 11
+      }
+    },
+    "replicate_interceptor": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 120,
+        "downloadCount30Days": 6,
+        "lastUpdated": "2026-04-16T14:40:45.110234Z"
       }
     },
     "replicate_json": {
       "pub": {
         "likeCount": 2,
         "grantedPoints": 140,
+        "downloadCount30Days": 6,
         "lastUpdated": "2024-01-06T21:49:43.550099Z"
       },
       "github": {
         "slug": "Samffprice/replicate-json",
-        "starCount": 2,
+        "starCount": 3,
         "forkCount": 0
       }
     },
@@ -579939,18 +580455,28 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 110,
+        "downloadCount30Days": 14,
         "lastUpdated": "2023-08-03T05:37:43.634365Z"
       },
       "github": {
         "slug": "anasfik/replicate",
-        "starCount": 9,
-        "forkCount": 9
+        "starCount": 10,
+        "forkCount": 11
+      }
+    },
+    "replog_icons": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 22,
+        "lastUpdated": "2024-10-12T06:48:46.782969Z"
       }
     },
     "reply": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 20,
+        "grantedPoints": 30,
+        "downloadCount30Days": 34,
         "lastUpdated": "2016-11-14T05:03:59.652Z"
       },
       "github": {
@@ -579963,13 +580489,15 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 15,
+        "downloadCount30Days": 4,
         "lastUpdated": "2019-10-22T13:34:39.703406Z"
       }
     },
     "repo_annotation": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 120,
+        "grantedPoints": 130,
+        "downloadCount30Days": 5,
         "lastUpdated": "2022-07-23T03:48:27.494808Z"
       },
       "github": {
@@ -579982,30 +580510,33 @@
       "pub": {
         "likeCount": 7,
         "grantedPoints": 40,
+        "downloadCount30Days": 12,
         "lastUpdated": "2020-11-20T18:07:43.565350Z"
       },
       "github": {
         "slug": "SandroMaglione/repo_case.dart",
         "starCount": 6,
-        "forkCount": 2
+        "forkCount": 3
       }
     },
     "repo_case_generator": {
       "pub": {
         "likeCount": 1,
         "grantedPoints": 40,
+        "downloadCount30Days": 12,
         "lastUpdated": "2020-11-20T18:11:20.820439Z"
       },
       "github": {
         "slug": "SandroMaglione/repo_case.dart",
         "starCount": 6,
-        "forkCount": 2
+        "forkCount": 3
       }
     },
     "repo_generator": {
       "pub": {
         "likeCount": 2,
         "grantedPoints": 100,
+        "downloadCount30Days": 17,
         "lastUpdated": "2022-09-21T01:42:27.604115Z"
       },
       "github": {
@@ -580014,10 +580545,19 @@
         "forkCount": 0
       }
     },
+    "repo_notifier": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 160,
+        "downloadCount30Days": 3,
+        "lastUpdated": "2025-01-05T10:21:10.128775Z"
+      }
+    },
     "repo_on_pub": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 20,
+        "grantedPoints": 30,
+        "downloadCount30Days": 13,
         "lastUpdated": "2020-01-13T14:51:21.656608Z"
       }
     },
@@ -580025,6 +580565,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 130,
+        "downloadCount30Days": 13,
         "lastUpdated": "2022-03-24T07:03:22.991789Z"
       }
     },
@@ -580032,6 +580573,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 130,
+        "downloadCount30Days": 9,
         "lastUpdated": "2022-01-20T10:25:22.010028Z"
       },
       "github": {
@@ -580043,50 +580585,92 @@
     "report": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 20,
+        "grantedPoints": 15,
+        "downloadCount30Days": 28,
         "lastUpdated": "2021-05-20T01:33:30.721863Z"
+      }
+    },
+    "report_data_table_2": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 11,
+        "lastUpdated": "2026-01-26T18:21:14.481569Z"
+      },
+      "github": {
+        "slug": "Fahad-mia/report_data_table_2",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "report_previewer": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 45,
+        "downloadCount30Days": 148,
+        "lastUpdated": "2026-02-27T08:52:37.947642Z"
+      }
+    },
+    "report_table_builder": {
+      "pub": {
+        "likeCount": 2,
+        "grantedPoints": 115,
+        "downloadCount30Days": 45,
+        "lastUpdated": "2025-06-29T18:35:04.775616Z"
       }
     },
     "reporter": {
       "pub": {
-        "likeCount": 2,
+        "likeCount": 3,
         "grantedPoints": 140,
+        "downloadCount30Days": 140,
         "lastUpdated": "2023-08-20T09:12:08.429418Z"
       },
       "github": {
         "slug": "Bdaya-Dev/reporter",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
     "reporter_html": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 150,
+        "grantedPoints": 160,
+        "downloadCount30Days": 47,
         "lastUpdated": "2023-08-20T09:12:14.074496Z"
       },
       "github": {
         "slug": "Bdaya-Dev/reporter",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
     "reporter_syncfusion_flutter_xlsio": {
       "pub": {
-        "likeCount": 1,
+        "likeCount": 2,
         "grantedPoints": 140,
+        "downloadCount30Days": 130,
         "lastUpdated": "2023-08-20T09:12:21.552021Z"
       },
       "github": {
         "slug": "Bdaya-Dev/reporter",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
+      }
+    },
+    "reportify": {
+      "pub": {
+        "likeCount": 6,
+        "grantedPoints": 115,
+        "downloadCount30Days": 42,
+        "lastUpdated": "2024-08-10T23:43:27.246571Z"
       }
     },
     "reports": {
       "pub": {
         "likeCount": 1,
         "grantedPoints": 30,
+        "downloadCount30Days": 5,
         "lastUpdated": "2020-03-21T11:17:05.064762Z"
       }
     },
@@ -580094,11 +580678,12 @@
       "pub": {
         "likeCount": 9,
         "grantedPoints": 140,
+        "downloadCount30Days": 36,
         "lastUpdated": "2023-05-22T21:14:28.879933Z"
       },
       "github": {
         "slug": "yanncabral/repository",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 1
       }
     },
@@ -580106,6 +580691,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 150,
+        "downloadCount30Days": 1,
         "lastUpdated": "2023-06-14T12:14:03.842859Z"
       },
       "github": {
@@ -580118,6 +580704,7 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 20,
+        "downloadCount30Days": 18,
         "lastUpdated": "2019-10-02T20:17:00.569908Z"
       },
       "github": {
@@ -580126,10 +580713,24 @@
         "forkCount": 0
       }
     },
+    "repository_kit": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 154,
+        "lastUpdated": "2026-07-13T11:54:02.556500Z"
+      },
+      "github": {
+        "slug": "landxcape/repository_kit",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "repository_shared_preferences": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 20,
+        "downloadCount30Days": 12,
         "lastUpdated": "2019-10-02T20:17:15.809461Z"
       },
       "github": {
@@ -580141,7 +580742,8 @@
     "repository_url": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 150,
+        "grantedPoints": 160,
+        "downloadCount30Days": 13,
         "lastUpdated": "2023-06-04T12:40:27.112170Z"
       },
       "github": {
@@ -580154,20 +580756,23 @@
       "pub": {
         "likeCount": 6,
         "grantedPoints": 140,
-        "lastUpdated": "2024-07-11T05:17:32.223365Z"
+        "downloadCount30Days": 3794,
+        "lastUpdated": "2026-08-03T14:48:02.835737Z"
       }
     },
     "repub": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 25,
+        "downloadCount30Days": 12,
         "lastUpdated": "2017-03-20T19:53:46.472838Z"
       }
     },
     "req": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 140,
+        "grantedPoints": 145,
+        "downloadCount30Days": 18,
         "lastUpdated": "2021-10-19T02:57:23.758243Z"
       },
       "github": {
@@ -580179,7 +580784,8 @@
     "req_fun": {
       "pub": {
         "likeCount": 4,
-        "grantedPoints": 140,
+        "grantedPoints": 130,
+        "downloadCount30Days": 89,
         "lastUpdated": "2024-05-15T06:04:53.812069Z"
       }
     },
@@ -580187,6 +580793,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 140,
+        "downloadCount30Days": 9,
         "lastUpdated": "2021-06-05T00:01:38.332301Z"
       },
       "github": {
@@ -580197,12 +580804,39 @@
     },
     "request_ad_permission_page": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 85,
+        "likeCount": 1,
+        "grantedPoints": 115,
+        "downloadCount30Days": 14,
         "lastUpdated": "2024-04-26T00:59:47.855200Z"
       },
       "github": {
         "slug": "juneview-songdo/request_ad_permission_page",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "request_ad_permission_page_lego": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 125,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2024-08-06T01:44:05.526379Z"
+      },
+      "github": {
+        "slug": "flutter-lego/insta_style_feed_lego",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "request_ad_permission_page_ui": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 105,
+        "downloadCount30Days": 11,
+        "lastUpdated": "2024-08-19T23:11:56.319131Z"
+      },
+      "github": {
+        "slug": "flutter-uihub/request_ad_permission_page_ui",
         "starCount": 0,
         "forkCount": 0
       }
@@ -580211,6 +580845,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 115,
+        "downloadCount30Days": 5,
         "lastUpdated": "2021-12-08T05:33:22.695208Z"
       }
     },
@@ -580218,7 +580853,8 @@
       "pub": {
         "likeCount": 6,
         "grantedPoints": 120,
-        "lastUpdated": "2024-05-02T06:32:08.390262Z"
+        "downloadCount30Days": 291,
+        "lastUpdated": "2025-11-14T04:36:39.169399Z"
       },
       "github": {
         "slug": "FDhunterz/Request-Api-Helper-Flutter-V-2.0.2",
@@ -580226,10 +580862,37 @@
         "forkCount": 0
       }
     },
+    "request_api_services": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2026-04-12T15:42:09.313348Z"
+      },
+      "github": {
+        "slug": "waiyanhtet1/request_api_services",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "request_client": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 75,
+        "downloadCount30Days": 9,
+        "lastUpdated": "2025-02-13T07:29:21.828062Z"
+      },
+      "github": {
+        "slug": "wangchunjie00/request_client",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "request_easy_loading": {
       "pub": {
         "likeCount": 5,
-        "grantedPoints": 160,
+        "grantedPoints": 150,
+        "downloadCount30Days": 39,
         "lastUpdated": "2022-09-04T14:00:05.506522Z"
       },
       "github": {
@@ -580241,7 +580904,8 @@
     "request_extras": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 15,
+        "grantedPoints": 25,
+        "downloadCount30Days": 5,
         "lastUpdated": "2019-10-24T23:12:13.489987Z"
       },
       "github": {
@@ -580253,14 +580917,37 @@
     "request_html": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 100,
+        "grantedPoints": 95,
+        "downloadCount30Days": 9,
         "lastUpdated": "2022-07-14T18:36:20.956412Z"
+      }
+    },
+    "request_location": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 20,
+        "downloadCount30Days": 13,
+        "lastUpdated": "2024-10-16T03:52:24.200113Z"
+      }
+    },
+    "request_mate": {
+      "pub": {
+        "likeCount": 4,
+        "grantedPoints": 160,
+        "downloadCount30Days": 26,
+        "lastUpdated": "2026-06-16T10:52:02.536612Z"
+      },
+      "github": {
+        "slug": "kamranibrahim/request-mate",
+        "starCount": 1,
+        "forkCount": 0
       }
     },
     "request_model": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 120,
+        "grantedPoints": 110,
+        "downloadCount30Days": 13,
         "lastUpdated": "2022-12-15T13:05:11.907976Z"
       },
       "github": {
@@ -580271,27 +580958,69 @@
     },
     "request_notification_permission_page": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 85,
+        "likeCount": 1,
+        "grantedPoints": 95,
+        "downloadCount30Days": 16,
         "lastUpdated": "2024-04-26T00:58:44.626310Z"
       },
       "github": {
         "slug": "juneview-songdo/request_notification_permission_page",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "request_notification_permission_page_lego": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 130,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2024-08-06T01:54:41.357875Z"
+      },
+      "github": {
+        "slug": "flutter-lego/request_notification_permission_page_lego",
         "starCount": 0,
         "forkCount": 0
       }
     },
     "request_permission": {
       "pub": {
-        "likeCount": 8,
-        "grantedPoints": 140,
+        "likeCount": 6,
+        "grantedPoints": 150,
+        "downloadCount30Days": 26,
         "lastUpdated": "2021-11-13T16:24:53.872419Z"
+      }
+    },
+    "request_scope": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2026-05-23T16:08:03.014774Z"
+      },
+      "github": {
+        "slug": "idonuntius/request_scope",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "request_scope_dio": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2026-05-23T16:08:30.989476Z"
+      },
+      "github": {
+        "slug": "idonuntius/request_scope",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "request_sender": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 140,
+        "grantedPoints": 150,
+        "downloadCount30Days": 25,
         "lastUpdated": "2022-12-15T13:06:11.681716Z"
       },
       "github": {
@@ -580304,6 +581033,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 40,
+        "downloadCount30Days": 10,
         "lastUpdated": "2019-11-21T08:53:57.781333Z"
       },
       "github": {
@@ -580312,22 +581042,37 @@
         "forkCount": 0
       }
     },
+    "request_tracker_logger": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 160,
+        "downloadCount30Days": 13,
+        "lastUpdated": "2026-02-12T13:40:10.655463Z"
+      },
+      "github": {
+        "slug": "DivyanshVish/request_tracker_logger",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "request_validator": {
       "pub": {
-        "likeCount": 2,
+        "likeCount": 4,
         "grantedPoints": 160,
+        "downloadCount30Days": 13,
         "lastUpdated": "2024-06-14T16:16:31.743324Z"
       },
       "github": {
         "slug": "thecodexhub/request-validator",
-        "starCount": 1,
+        "starCount": 2,
         "forkCount": 0
       }
     },
     "requester": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 30,
+        "grantedPoints": 25,
+        "downloadCount30Days": 9,
         "lastUpdated": "2018-08-15T23:12:53.687740Z"
       }
     },
@@ -580335,6 +581080,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 10,
+        "downloadCount30Days": 17,
         "lastUpdated": "2014-09-25T18:13:23.699050Z"
       },
       "github": {
@@ -580346,55 +581092,73 @@
     "requestor": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 140,
+        "grantedPoints": 130,
+        "downloadCount30Days": 69,
         "lastUpdated": "2023-11-09T15:07:41.453024Z"
       }
     },
     "requests": {
       "pub": {
-        "likeCount": 102,
-        "grantedPoints": 150,
+        "likeCount": 104,
+        "grantedPoints": 140,
+        "downloadCount30Days": 7820,
         "lastUpdated": "2022-09-26T14:51:53.694665Z"
       },
       "github": {
         "slug": "jossef/requests",
-        "starCount": 139,
-        "forkCount": 53
+        "starCount": 143,
+        "forkCount": 52
       }
     },
     "requests_inspector": {
       "pub": {
-        "likeCount": 108,
-        "grantedPoints": 115,
-        "lastUpdated": "2024-07-13T19:53:25.037384Z"
+        "likeCount": 166,
+        "grantedPoints": 130,
+        "downloadCount30Days": 5899,
+        "lastUpdated": "2026-01-27T14:31:11.875005Z"
       },
       "github": {
         "slug": "Abdelazeem777/requests_inspector",
-        "starCount": 11,
-        "forkCount": 17
+        "starCount": 21,
+        "forkCount": 47
+      }
+    },
+    "requests_inspector_plus": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 117,
+        "lastUpdated": "2026-07-24T14:44:47.991594Z"
+      },
+      "github": {
+        "slug": "dwikyhardi/requests_inspector",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "requests_plus": {
       "pub": {
-        "likeCount": 2,
-        "grantedPoints": 160,
+        "likeCount": 4,
+        "grantedPoints": 150,
+        "downloadCount30Days": 57,
         "lastUpdated": "2024-01-12T11:34:01.857254Z"
       },
       "github": {
         "slug": "onyx-lyon1/requests_plus",
-        "starCount": 3,
-        "forkCount": 1
+        "starCount": 4,
+        "forkCount": 0
       }
     },
     "requests_signature_dart": {
       "pub": {
-        "likeCount": 3,
+        "likeCount": 4,
         "grantedPoints": 160,
-        "lastUpdated": "2024-04-30T20:23:48.462370Z"
+        "downloadCount30Days": 43,
+        "lastUpdated": "2026-01-12T14:57:03.527222Z"
       },
       "github": {
         "slug": "nventive/RequestsSignature-Dart",
-        "starCount": 1,
+        "starCount": 2,
         "forkCount": 0
       }
     },
@@ -580402,25 +581166,99 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 15,
+        "downloadCount30Days": 5,
         "lastUpdated": "2021-02-04T11:13:32.869343Z"
+      }
+    },
+    "require_trailing_commas_custom": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 110,
+        "downloadCount30Days": 11,
+        "lastUpdated": "2025-09-25T04:34:52.035599Z"
+      },
+      "github": {
+        "slug": "chika3742/require_trailing_commas_custom",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "reqwest": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 135,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2024-12-22T01:58:18.461350Z"
+      },
+      "github": {
+        "slug": "mcmah309/reqwest",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "rerout": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 92,
+        "lastUpdated": "2026-07-13T10:02:06.699896Z"
+      },
+      "github": {
+        "slug": "ModestNerds-Co/rerout-sdks",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "rerune": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 1034,
+        "lastUpdated": "2026-08-05T14:52:32.433499Z"
+      }
+    },
+    "rerune_core": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 130,
+        "downloadCount30Days": 21,
+        "lastUpdated": "2026-03-05T09:57:46.430397Z"
+      }
+    },
+    "rerune_flutter_ota": {
+      "pub": {
+        "likeCount": 2,
+        "grantedPoints": 150,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2026-02-17T19:14:28.193682Z"
+      }
+    },
+    "rerune_gen": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 100,
+        "downloadCount30Days": 21,
+        "lastUpdated": "2026-03-05T09:58:00.942799Z"
       }
     },
     "reruner": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 10,
+        "downloadCount30Days": 21,
         "lastUpdated": "2021-08-29T09:20:07.704848Z"
       }
     },
     "res": {
       "pub": {
-        "likeCount": 1,
+        "likeCount": 2,
         "grantedPoints": 160,
-        "lastUpdated": "2024-05-17T00:05:46.574798Z"
+        "downloadCount30Days": 1094,
+        "lastUpdated": "2026-07-23T21:12:55.027685Z"
       },
       "github": {
         "slug": "mohiuddinm/res",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
@@ -580428,6 +581266,7 @@
       "pub": {
         "likeCount": 5,
         "grantedPoints": 150,
+        "downloadCount30Days": 17,
         "lastUpdated": "2022-01-28T09:21:19.652483Z"
       },
       "github": {
@@ -580440,6 +581279,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 100,
+        "downloadCount30Days": 31,
         "lastUpdated": "2024-03-22T16:11:19.616435Z"
       },
       "github": {
@@ -580448,10 +581288,37 @@
         "forkCount": 1
       }
     },
+    "res_generator": {
+      "pub": {
+        "likeCount": 3,
+        "grantedPoints": 140,
+        "downloadCount30Days": 215,
+        "lastUpdated": "2026-08-05T08:23:24.736820Z"
+      },
+      "github": {
+        "slug": "abbos2101/assets_generator",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "res_generator_annotation": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 115,
+        "downloadCount30Days": 11,
+        "lastUpdated": "2024-08-13T05:45:19.754763Z"
+      },
+      "github": {
+        "slug": "abbos2101/assets_generator",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "resample_plugin": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 20,
+        "grantedPoints": 15,
+        "downloadCount30Days": 25,
         "lastUpdated": "2021-05-07T09:23:57.335509Z"
       }
     },
@@ -580459,6 +581326,7 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 130,
+        "downloadCount30Days": 13,
         "lastUpdated": "2022-01-11T00:31:40.384047Z"
       },
       "github": {
@@ -580470,7 +581338,8 @@
     "resdk": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 110,
+        "grantedPoints": 100,
+        "downloadCount30Days": 5,
         "lastUpdated": "2023-04-14T11:23:31.101738Z"
       },
       "github": {
@@ -580479,58 +581348,92 @@
         "forkCount": 0
       }
     },
+    "research": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2026-02-17T10:03:10.385438Z"
+      }
+    },
     "research_package": {
       "pub": {
-        "likeCount": 27,
+        "likeCount": 40,
         "grantedPoints": 140,
-        "lastUpdated": "2024-07-09T10:28:51.141594Z"
+        "downloadCount30Days": 1245,
+        "lastUpdated": "2026-08-10T08:20:56.610840Z"
       },
       "github": {
         "slug": "cph-cachet/research.package",
-        "starCount": 50,
-        "forkCount": 42
+        "starCount": 52,
+        "forkCount": 47
       }
     },
     "reselect": {
       "pub": {
         "likeCount": 19,
         "grantedPoints": 140,
+        "downloadCount30Days": 7629,
         "lastUpdated": "2021-04-01T14:24:46.147805Z"
       },
       "github": {
         "slug": "brianegan/reselect_dart",
         "starCount": 39,
-        "forkCount": 8
+        "forkCount": 7
       }
     },
     "resend": {
       "pub": {
-        "likeCount": 3,
+        "likeCount": 8,
         "grantedPoints": 140,
+        "downloadCount30Days": 296,
         "lastUpdated": "2023-09-20T16:31:24.142636Z"
       },
       "github": {
         "slug": "slimpotatoboy/resend",
-        "starCount": 3,
-        "forkCount": 0
+        "starCount": 5,
+        "forkCount": 3
       }
     },
     "resend_dart": {
       "pub": {
         "likeCount": 9,
         "grantedPoints": 130,
+        "downloadCount30Days": 10,
         "lastUpdated": "2023-07-18T20:48:14.545423Z"
       },
       "github": {
         "slug": "devasidmi/resend-dart",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "resend_timer_button": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 145,
+        "downloadCount30Days": 28,
+        "lastUpdated": "2025-07-09T09:15:21.960058Z"
+      },
+      "github": {
+        "slug": "altwaireb/resend_timer_button",
         "starCount": 0,
         "forkCount": 0
+      }
+    },
+    "reservation_fox": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 120,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2025-05-09T16:46:18.720213Z"
       }
     },
     "reservoir": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 125,
+        "grantedPoints": 115,
+        "downloadCount30Days": 50,
         "lastUpdated": "2021-10-27T02:54:32.377983Z"
       },
       "github": {
@@ -580539,65 +581442,310 @@
         "forkCount": 0
       }
     },
+    "reset_provider": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 130,
+        "downloadCount30Days": 14,
+        "lastUpdated": "2025-09-18T07:58:45.993966Z"
+      },
+      "github": {
+        "slug": "martinsellergren/reset_provider",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
     "resfluttersdk": {
       "pub": {
+        "likeCount": 1,
+        "grantedPoints": 100,
+        "downloadCount30Days": 33,
+        "lastUpdated": "2025-09-29T16:59:35.694321Z"
+      }
+    },
+    "resfluttersdkautomation": {
+      "pub": {
         "likeCount": 0,
-        "grantedPoints": 110,
-        "lastUpdated": "2024-05-11T04:58:44.911903Z"
+        "grantedPoints": 95,
+        "downloadCount30Days": 9,
+        "lastUpdated": "2025-12-09T09:07:52.974101Z"
+      }
+    },
+    "resfluttersdkautomation_11efc8a6_23_4md5_a948_bd52d352b182": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 95,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2025-12-11T14:22:46.110649Z"
+      }
+    },
+    "resfluttersdkautomation_50efc8a6_23_4md5_a948_bd52d352b182": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 95,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2025-12-11T11:19:37.716457Z"
+      }
+    },
+    "resfluttersdkautomation_53efc8a6_23_4md5_a818_bd52d352b182": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 95,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2025-12-09T08:52:57.807377Z"
+      }
+    },
+    "resfluttersdkautomation_67efc8a6_23_4md5_a948_bd52d352b182": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 95,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2025-12-11T07:03:53.391143Z"
+      }
+    },
+    "resfluttersdkautomation_78efc8a6_23_4md5_a948_bd52d352b182": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 95,
+        "downloadCount30Days": 9,
+        "lastUpdated": "2025-12-10T10:54:31.955813Z"
+      }
+    },
+    "resfluttersdkautomation_97efc8a6_23_4md5_a948_bd52d352b182": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 95,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2025-12-11T09:18:01.058177Z"
+      }
+    },
+    "resfluttersdkautomation_dfc8a6_23_4md5_a948_bd52d352b182": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 95,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2025-12-22T08:51:25.195594Z"
+      }
+    },
+    "resfluttersdkautomation_tyc8a6_23_4md5_a948_bd52d352b182": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 95,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2025-12-22T10:34:59.058334Z"
+      }
+    },
+    "resgate_client": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 150,
+        "downloadCount30Days": 535,
+        "lastUpdated": "2026-07-16T10:07:26.787987Z"
+      }
+    },
+    "reshub_flutter": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 115,
+        "downloadCount30Days": 8197,
+        "lastUpdated": "2026-06-26T09:02:04.660867Z"
       }
     },
     "residemenu": {
       "pub": {
         "likeCount": 12,
         "grantedPoints": 30,
+        "downloadCount30Days": 86,
         "lastUpdated": "2019-07-31T08:36:30.072271Z"
       },
       "github": {
         "slug": "peng8350/flutter_residemenu",
         "starCount": 30,
-        "forkCount": 4
+        "forkCount": 5
+      }
+    },
+    "resilience": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 869,
+        "lastUpdated": "2026-08-10T12:51:50.927618Z"
+      },
+      "github": {
+        "slug": "Yusufihsangorgel/resilience",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "resilient_http": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 150,
+        "downloadCount30Days": 7,
+        "lastUpdated": "2026-06-27T16:47:22.238702Z"
+      },
+      "github": {
+        "slug": "RanveerSingh1997/resilient_http",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "resilient_web_bootstrap_for_flutter": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 140,
+        "downloadCount30Days": 73,
+        "lastUpdated": "2026-07-28T09:21:28.247354Z"
+      },
+      "github": {
+        "slug": "Alexqwesa/resilient_web_bootstrap_for_flutter",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "resilify": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 90,
+        "downloadCount30Days": 45,
+        "lastUpdated": "2026-05-30T10:41:51.666543Z"
+      },
+      "github": {
+        "slug": "himanshulahoti20/resilify",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "resizable_bottom_sheet": {
+      "pub": {
+        "likeCount": 4,
+        "grantedPoints": 150,
+        "downloadCount30Days": 27,
+        "lastUpdated": "2025-07-14T17:49:44.368206Z"
+      },
+      "github": {
+        "slug": "dharmik117/resizable_bottom_sheet",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "resizable_columns": {
+      "pub": {
+        "likeCount": 9,
+        "grantedPoints": 140,
+        "downloadCount30Days": 199,
+        "lastUpdated": "2024-11-03T11:50:10.258964Z"
+      },
+      "github": {
+        "slug": "SERDUN/resizable_columns",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "resizable_container_box": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 115,
+        "downloadCount30Days": 9,
+        "lastUpdated": "2025-06-30T11:09:46.152850Z"
+      }
+    },
+    "resizable_dialog": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 105,
+        "downloadCount30Days": 40,
+        "lastUpdated": "2024-09-29T12:33:43.058489Z"
+      },
+      "github": {
+        "slug": "utkucelebii/Resizable-Dialog",
+        "starCount": 1,
+        "forkCount": 2
       }
     },
     "resizable_draggable_widget": {
       "pub": {
-        "likeCount": 10,
-        "grantedPoints": 130,
+        "likeCount": 11,
+        "grantedPoints": 110,
+        "downloadCount30Days": 6,
         "lastUpdated": "2022-10-25T01:09:06.282726Z"
       },
       "github": {
         "slug": "zhangweihong/resize_drag_widget",
-        "starCount": 11,
+        "starCount": 12,
         "forkCount": 2
+      }
+    },
+    "resizable_row": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2025-10-21T17:36:55.366767Z"
+      },
+      "github": {
+        "slug": "Anandhu5/resizable-row",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "resizable_splitter": {
+      "pub": {
+        "likeCount": 4,
+        "grantedPoints": 160,
+        "downloadCount30Days": 56,
+        "lastUpdated": "2026-07-06T14:04:02.675416Z"
+      },
+      "github": {
+        "slug": "omar-hanafy/resizable_splitter",
+        "starCount": 1,
+        "forkCount": 0
       }
     },
     "resizable_stack_image": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 140,
+        "likeCount": 1,
+        "grantedPoints": 130,
+        "downloadCount30Days": 9,
         "lastUpdated": "2024-01-09T05:39:24.940325Z"
       },
       "github": {
         "slug": "Smit-71/Resizable_Stack_Image_Example",
-        "starCount": 0,
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "resizable_tabs": {
+      "pub": {
+        "likeCount": 2,
+        "grantedPoints": 130,
+        "downloadCount30Days": 11,
+        "lastUpdated": "2025-10-16T14:46:31.683189Z"
+      },
+      "github": {
+        "slug": "MBarkouchHub/resizable_tabs",
+        "starCount": 1,
         "forkCount": 0
       }
     },
     "resizable_widget": {
       "pub": {
-        "likeCount": 158,
-        "grantedPoints": 150,
+        "likeCount": 187,
+        "grantedPoints": 160,
+        "downloadCount30Days": 486843,
         "lastUpdated": "2021-05-31T16:42:21.336432Z"
       },
       "github": {
         "slug": "ibako/resizable_widget",
-        "starCount": 51,
-        "forkCount": 34
+        "starCount": 53,
+        "forkCount": 40
       }
     },
     "resize": {
       "pub": {
-        "likeCount": 40,
+        "likeCount": 41,
         "grantedPoints": 140,
+        "downloadCount30Days": 268,
         "lastUpdated": "2021-09-27T11:13:19.534403Z"
       },
       "github": {
@@ -580610,18 +581758,20 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 0,
+        "downloadCount30Days": 17,
         "lastUpdated": "2022-10-25T01:06:11.474422Z"
       },
       "github": {
         "slug": "zhangweihong/resize_drag_widget",
-        "starCount": 11,
+        "starCount": 12,
         "forkCount": 2
       }
     },
     "resize_media": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 150,
+        "grantedPoints": 140,
+        "downloadCount30Days": 5,
         "lastUpdated": "2022-01-12T14:50:17.802855Z"
       },
       "github": {
@@ -580632,8 +581782,9 @@
     },
     "resize_observer": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 160,
+        "likeCount": 1,
+        "grantedPoints": 140,
+        "downloadCount30Days": 60,
         "lastUpdated": "2021-03-08T16:18:42.394588Z"
       },
       "github": {
@@ -580646,6 +581797,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 40,
+        "downloadCount30Days": 6,
         "lastUpdated": "2017-12-17T23:18:06.689633Z"
       },
       "github": {
@@ -580654,10 +581806,37 @@
         "forkCount": 0
       }
     },
+    "resize_rotatable_images": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 115,
+        "downloadCount30Days": 3,
+        "lastUpdated": "2025-01-06T16:39:08.646627Z"
+      },
+      "github": {
+        "slug": "LuReich/resize_rotate_image",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "resize_rotate_image": {
+      "pub": {
+        "likeCount": 3,
+        "grantedPoints": 115,
+        "downloadCount30Days": 34,
+        "lastUpdated": "2025-01-07T12:09:10.114177Z"
+      },
+      "github": {
+        "slug": "LuReich/resize_rotate_image",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
     "resize_sensor_component": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 25,
+        "downloadCount30Days": 5,
         "lastUpdated": "2017-04-16T17:14:58.040777Z"
       },
       "github": {
@@ -580666,15 +581845,37 @@
         "forkCount": 0
       }
     },
-    "resolution_detector": {
+    "resizeable_bottom_sheet": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 0,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2025-06-27T11:30:30.947922Z"
+      },
+      "github": {
+        "slug": "dharmik117/resizable_bottom_sheet",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "resizer": {
       "pub": {
         "likeCount": 1,
         "grantedPoints": 150,
+        "downloadCount30Days": 12,
+        "lastUpdated": "2024-09-28T23:07:41.316182Z"
+      }
+    },
+    "resolution_detector": {
+      "pub": {
+        "likeCount": 2,
+        "grantedPoints": 140,
+        "downloadCount30Days": 27,
         "lastUpdated": "2023-11-30T09:46:39.793764Z"
       },
       "github": {
         "slug": "t0uh33d/resolution_detector",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 1
       }
     },
@@ -580682,6 +581883,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 25,
+        "downloadCount30Days": 21,
         "lastUpdated": "2018-12-19T22:26:29.305925Z"
       },
       "github": {
@@ -580694,6 +581896,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 150,
+        "downloadCount30Days": 20,
         "lastUpdated": "2022-07-25T11:06:01.071559Z"
       },
       "github": {
@@ -580702,10 +581905,24 @@
         "forkCount": 0
       }
     },
+    "resolve_tilde": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 12,
+        "lastUpdated": "2025-08-25T20:27:25.677761Z"
+      },
+      "github": {
+        "slug": "Calebh101/dart_resolve_tilde",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "resolve_windows_shortcut": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 120,
+        "grantedPoints": 130,
+        "downloadCount30Days": 411,
         "lastUpdated": "2023-03-26T22:00:08.537386Z"
       },
       "github": {
@@ -580718,6 +581935,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 20,
+        "downloadCount30Days": 11,
         "lastUpdated": "2016-12-20T23:18:25.527Z"
       },
       "github": {
@@ -580729,19 +581947,21 @@
     "resonance": {
       "pub": {
         "likeCount": 11,
-        "grantedPoints": 150,
-        "lastUpdated": "2023-04-16T16:40:15.579031Z"
+        "grantedPoints": 140,
+        "downloadCount30Days": 26,
+        "lastUpdated": "2025-03-09T18:49:39.217341Z"
       },
       "github": {
         "slug": "suganda8/resonance",
         "starCount": 6,
-        "forkCount": 1
+        "forkCount": 3
       }
     },
     "resonant_ui": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 130,
+        "grantedPoints": 140,
+        "downloadCount30Days": 5,
         "lastUpdated": "2022-09-24T21:15:29.607320Z"
       },
       "github": {
@@ -580753,19 +581973,21 @@
     "resource": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 20,
+        "grantedPoints": 30,
+        "downloadCount30Days": 4238,
         "lastUpdated": "2020-06-26T11:03:21.512512Z"
       },
       "github": {
         "slug": "dart-lang/resource",
         "starCount": 16,
-        "forkCount": 16
+        "forkCount": 11
       }
     },
     "resource_bloc": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 130,
+        "downloadCount30Days": 30,
         "lastUpdated": "2021-12-10T00:02:48.062843Z"
       },
       "github": {
@@ -580778,6 +582000,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 150,
+        "downloadCount30Days": 13,
         "lastUpdated": "2021-11-11T08:21:23.506363Z"
       },
       "github": {
@@ -580790,18 +582013,20 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 40,
+        "downloadCount30Days": 21,
         "lastUpdated": "2019-08-13T02:42:45.792287Z"
       },
       "github": {
         "slug": "mikechambers/resource_cache",
         "starCount": 1,
-        "forkCount": 2
+        "forkCount": 0
       }
     },
     "resource_cubits": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 110,
+        "grantedPoints": 120,
+        "downloadCount30Days": 5,
         "lastUpdated": "2022-08-22T08:24:17.490718Z"
       }
     },
@@ -580809,6 +582034,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 10,
+        "downloadCount30Days": 6,
         "lastUpdated": "2015-04-28T15:30:52.069780Z"
       },
       "github": {
@@ -580820,26 +582046,42 @@
     "resource_future": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 120,
+        "grantedPoints": 110,
+        "downloadCount30Days": 5,
         "lastUpdated": "2022-01-20T16:31:34.620220Z"
+      }
+    },
+    "resource_id": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 160,
+        "downloadCount30Days": 11,
+        "lastUpdated": "2026-01-15T09:10:05.683719Z"
+      },
+      "github": {
+        "slug": "dropbear-software/resource_id",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "resource_importer": {
       "pub": {
-        "likeCount": 4,
+        "likeCount": 7,
         "grantedPoints": 150,
+        "downloadCount30Days": 2468,
         "lastUpdated": "2023-03-14T19:06:41.903021Z"
       },
       "github": {
         "slug": "jamesderlin/dart_resource_importer",
-        "starCount": 4,
-        "forkCount": 1
+        "starCount": 7,
+        "forkCount": 2
       }
     },
     "resource_manager": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 30,
+        "downloadCount30Days": 17,
         "lastUpdated": "2020-03-04T11:04:38.666579Z"
       },
       "github": {
@@ -580851,43 +582093,47 @@
     "resource_monitor": {
       "pub": {
         "likeCount": 7,
-        "grantedPoints": 150,
+        "grantedPoints": 140,
+        "downloadCount30Days": 30,
         "lastUpdated": "2022-01-04T15:58:28.551676Z"
       },
       "github": {
         "slug": "sikandernoori/resource_monitor",
         "starCount": 1,
-        "forkCount": 2
+        "forkCount": 3
       }
     },
     "resource_monitor_haoxin": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 135,
+        "grantedPoints": 125,
+        "downloadCount30Days": 32,
         "lastUpdated": "2023-04-28T02:45:03.003777Z"
       }
     },
     "resource_network_fetcher": {
       "pub": {
-        "likeCount": 8,
-        "grantedPoints": 140,
-        "lastUpdated": "2022-05-27T15:06:31.987401Z"
+        "likeCount": 10,
+        "grantedPoints": 150,
+        "downloadCount30Days": 76,
+        "lastUpdated": "2026-01-14T22:50:22.478123Z"
       },
       "github": {
         "slug": "LucazzP/resource_network_fetcher",
         "starCount": 3,
-        "forkCount": 1
+        "forkCount": 2
       }
     },
     "resource_portable": {
       "pub": {
-        "likeCount": 7,
-        "grantedPoints": 160,
-        "lastUpdated": "2023-07-26T18:08:33.438385Z"
+        "likeCount": 8,
+        "grantedPoints": 150,
+        "downloadCount30Days": 3483,
+        "lastUpdated": "2025-02-24T02:32:44.025800Z"
       },
       "github": {
         "slug": "gmpassos/resource_portable",
-        "starCount": 2,
+        "starCount": 3,
         "forkCount": 0
       }
     },
@@ -580895,6 +582141,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 150,
+        "downloadCount30Days": 5,
         "lastUpdated": "2022-07-14T14:46:06.017511Z"
       },
       "github": {
@@ -580903,10 +582150,24 @@
         "forkCount": 0
       }
     },
+    "resource_reaper": {
+      "pub": {
+        "likeCount": 3,
+        "grantedPoints": 160,
+        "downloadCount30Days": 25,
+        "lastUpdated": "2025-02-14T02:55:13.122392Z"
+      },
+      "github": {
+        "slug": "DevXpressInc/resource_reaper",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "resource_repository": {
       "pub": {
         "likeCount": 1,
         "grantedPoints": 150,
+        "downloadCount30Days": 23,
         "lastUpdated": "2022-06-05T04:59:44.414204Z"
       },
       "github": {
@@ -580918,7 +582179,8 @@
     "resource_repository_hive": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 130,
+        "grantedPoints": 120,
+        "downloadCount30Days": 9,
         "lastUpdated": "2022-09-27T13:55:51.626847Z"
       },
       "github": {
@@ -580930,7 +582192,8 @@
     "resource_repository_objectbox": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 80,
+        "grantedPoints": 70,
+        "downloadCount30Days": 6,
         "lastUpdated": "2022-06-03T05:07:37.065337Z"
       },
       "github": {
@@ -580943,6 +582206,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 150,
+        "downloadCount30Days": 9,
         "lastUpdated": "2022-06-02T08:30:29.462655Z"
       },
       "github": {
@@ -580954,31 +582218,47 @@
     "resource_result": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 120,
-        "lastUpdated": "2022-01-21T09:44:16.758677Z"
+        "grantedPoints": 130,
+        "downloadCount30Days": 49,
+        "lastUpdated": "2025-01-11T12:03:27.583125Z"
       }
     },
     "resource_state": {
       "pub": {
-        "likeCount": 0,
+        "likeCount": 1,
         "grantedPoints": 130,
+        "downloadCount30Days": 9,
         "lastUpdated": "2024-06-06T10:41:30.322830Z"
       },
       "github": {
         "slug": "boginni/resource_state",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "resource_state_builder": {
+      "pub": {
+        "likeCount": 4,
+        "grantedPoints": 160,
+        "downloadCount30Days": 50,
+        "lastUpdated": "2026-05-10T15:17:54.436820Z"
+      },
+      "github": {
+        "slug": "Moo-Meshrif/resource_State_builder",
         "starCount": 0,
         "forkCount": 0
       }
     },
     "resource_storage": {
       "pub": {
-        "likeCount": 0,
+        "likeCount": 1,
         "grantedPoints": 160,
+        "downloadCount30Days": 870,
         "lastUpdated": "2024-02-17T22:54:59.897545Z"
       },
       "github": {
         "slug": "drstranges/resource_storage",
-        "starCount": 1,
+        "starCount": 2,
         "forkCount": 0
       }
     },
@@ -580986,38 +582266,55 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 160,
+        "downloadCount30Days": 862,
         "lastUpdated": "2024-02-17T22:57:14.742755Z"
       },
       "github": {
         "slug": "drstranges/resource_storage_hive",
-        "starCount": 1,
+        "starCount": 2,
         "forkCount": 0
       }
     },
     "resource_storage_secure": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 160,
+        "grantedPoints": 140,
+        "downloadCount30Days": 16,
         "lastUpdated": "2024-02-17T22:59:23.152654Z"
       },
       "github": {
         "slug": "drstranges/resource_storage_secure",
-        "starCount": 1,
+        "starCount": 2,
         "forkCount": 0
       }
     },
     "resource_widget": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 120,
-        "lastUpdated": "2023-06-06T17:15:37.027938Z"
+        "grantedPoints": 140,
+        "downloadCount30Days": 45,
+        "lastUpdated": "2025-01-18T21:26:51.166993Z"
+      }
+    },
+    "resourcegen": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 7,
+        "lastUpdated": "2025-10-28T11:26:33.934348Z"
+      },
+      "github": {
+        "slug": "MTtankkeo/resourcegen",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "resources_generator": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 120,
-        "lastUpdated": "2024-07-25T03:41:27.153092Z"
+        "downloadCount30Days": 45,
+        "lastUpdated": "2024-11-05T07:32:43.147126Z"
       },
       "github": {
         "slug": "anhquan7826/resources_generator",
@@ -581025,24 +582322,40 @@
         "forkCount": 0
       }
     },
+    "resources_used_lints": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 125,
+        "downloadCount30Days": 18,
+        "lastUpdated": "2025-10-02T00:24:14.812518Z"
+      },
+      "github": {
+        "slug": "jszh/Resources-Used-Lints",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "resourcetest": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 25,
+        "grantedPoints": 30,
+        "downloadCount30Days": 9,
         "lastUpdated": "2015-08-10T16:06:55.717Z"
       }
     },
     "resp_client": {
       "pub": {
-        "likeCount": 6,
+        "likeCount": 7,
         "grantedPoints": 140,
+        "downloadCount30Days": 37991,
         "lastUpdated": "2021-04-06T15:42:52.428339Z"
       }
     },
     "respect_24_hour": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 30,
+        "grantedPoints": 25,
+        "downloadCount30Days": 9,
         "lastUpdated": "2019-01-01T16:47:24.403032Z"
       },
       "github": {
@@ -581051,10 +582364,58 @@
         "forkCount": 3
       }
     },
+    "respectlytics_flutter": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 29,
+        "lastUpdated": "2026-02-27T08:23:43.875081Z"
+      },
+      "github": {
+        "slug": "respectlytics/respectlytics-flutter",
+        "starCount": 3,
+        "forkCount": 0
+      }
+    },
+    "respix": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 160,
+        "downloadCount30Days": 9,
+        "lastUpdated": "2025-11-22T08:07:31.921179Z"
+      },
+      "github": {
+        "slug": "Nikhill437/respix",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "respo_text": {
+      "pub": {
+        "likeCount": 3,
+        "grantedPoints": 150,
+        "downloadCount30Days": 9,
+        "lastUpdated": "2025-05-17T15:44:38.446529Z"
+      },
+      "github": {
+        "slug": "stephanekonan/respo_text",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "respond_io_sdk": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 17,
+        "lastUpdated": "2026-01-16T22:39:26.770416Z"
+      }
+    },
     "responder": {
       "pub": {
         "likeCount": 8,
         "grantedPoints": 30,
+        "downloadCount30Days": 30,
         "lastUpdated": "2020-04-29T11:20:48.014720Z"
       },
       "github": {
@@ -581063,10 +582424,19 @@
         "forkCount": 0
       }
     },
+    "respondo_sdk": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 181,
+        "lastUpdated": "2026-07-25T21:32:19.356779Z"
+      }
+    },
     "response": {
       "pub": {
         "likeCount": 26,
-        "grantedPoints": 150,
+        "grantedPoints": 145,
+        "downloadCount30Days": 26,
         "lastUpdated": "2021-04-05T23:02:11.671057Z"
       },
       "github": {
@@ -581079,6 +582449,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 30,
+        "downloadCount30Days": 25,
         "lastUpdated": "2020-11-19T23:31:00.014662Z"
       },
       "github": {
@@ -581089,25 +582460,27 @@
     },
     "response_parser": {
       "pub": {
-        "likeCount": 5,
+        "likeCount": 7,
         "grantedPoints": 160,
+        "downloadCount30Days": 21,
         "lastUpdated": "2023-07-30T11:29:05.693640Z"
       },
       "github": {
         "slug": "Maksimka101/response_parser",
-        "starCount": 2,
+        "starCount": 3,
         "forkCount": 1
       }
     },
     "response_wrapper": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 130,
+        "grantedPoints": 115,
+        "downloadCount30Days": 10,
         "lastUpdated": "2023-06-26T09:03:18.469877Z"
       },
       "github": {
         "slug": "officialsukh728/response_wrapper",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
@@ -581115,6 +582488,7 @@
       "pub": {
         "likeCount": 7,
         "grantedPoints": 160,
+        "downloadCount30Days": 13,
         "lastUpdated": "2023-03-26T14:25:00.639716Z"
       },
       "github": {
@@ -581125,13 +582499,14 @@
     },
     "responsibility_chain": {
       "pub": {
-        "likeCount": 3,
+        "likeCount": 6,
         "grantedPoints": 160,
-        "lastUpdated": "2023-10-27T22:07:16.961065Z"
+        "downloadCount30Days": 33,
+        "lastUpdated": "2026-01-13T13:10:36.289497Z"
       },
       "github": {
         "slug": "mitryp/responsibility_chain",
-        "starCount": 2,
+        "starCount": 3,
         "forkCount": 0
       }
     },
@@ -581139,6 +582514,7 @@
       "pub": {
         "likeCount": 9,
         "grantedPoints": 150,
+        "downloadCount30Days": 11,
         "lastUpdated": "2023-06-05T19:10:43.814930Z"
       },
       "github": {
@@ -581149,37 +582525,69 @@
     },
     "responsive": {
       "pub": {
-        "likeCount": 64,
+        "likeCount": 66,
         "grantedPoints": 140,
+        "downloadCount30Days": 134,
         "lastUpdated": "2021-11-28T21:04:17.426574Z"
       },
       "github": {
         "slug": "flutter-es/responsive",
-        "starCount": 14,
-        "forkCount": 3
+        "starCount": 15,
+        "forkCount": 4
+      }
+    },
+    "responsive_adaptive": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 10,
+        "lastUpdated": "2025-06-27T23:57:06.461744Z"
+      }
+    },
+    "responsive_adaptive_ui": {
+      "pub": {
+        "likeCount": 4,
+        "grantedPoints": 160,
+        "downloadCount30Days": 9,
+        "lastUpdated": "2025-09-07T22:10:59.500241Z"
+      },
+      "github": {
+        "slug": "noumanzindani/responsive_adaptive_ui",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "responsive_addons": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 160,
+        "downloadCount30Days": 10,
+        "lastUpdated": "2025-06-18T13:54:44.863718Z"
       }
     },
     "responsive_annotation": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 150,
+        "grantedPoints": 140,
+        "downloadCount30Days": 15,
         "lastUpdated": "2022-07-05T22:58:18.594636Z"
       },
       "github": {
         "slug": "eterkit/flutter-packages",
-        "starCount": 3,
-        "forkCount": 2
+        "starCount": 4,
+        "forkCount": 6
       }
     },
     "responsive_any": {
       "pub": {
         "likeCount": 3,
-        "grantedPoints": 120,
+        "grantedPoints": 125,
+        "downloadCount30Days": 13,
         "lastUpdated": "2023-06-04T07:52:10.283082Z"
       },
       "github": {
         "slug": "Gokul2728/responsive_any",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
@@ -581187,6 +582595,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 30,
+        "downloadCount30Days": 17,
         "lastUpdated": "2020-06-23T06:58:59.333136Z"
       },
       "github": {
@@ -581195,10 +582604,24 @@
         "forkCount": 0
       }
     },
+    "responsive_bootstrap_ui": {
+      "pub": {
+        "likeCount": 2,
+        "grantedPoints": 160,
+        "downloadCount30Days": 27,
+        "lastUpdated": "2025-11-20T05:15:29.594859Z"
+      },
+      "github": {
+        "slug": "manojprajapati1999/responsive_bootstrap_ui",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "responsive_bottom_bar": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 70,
+        "grantedPoints": 40,
+        "downloadCount30Days": 17,
         "lastUpdated": "2021-11-03T16:06:48.632496Z"
       },
       "github": {
@@ -581211,6 +582634,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 150,
+        "downloadCount30Days": 5,
         "lastUpdated": "2021-06-26T19:25:08.884928Z"
       },
       "github": {
@@ -581219,34 +582643,76 @@
         "forkCount": 0
       }
     },
+    "responsive_breakpoints": {
+      "pub": {
+        "likeCount": 6,
+        "grantedPoints": 160,
+        "downloadCount30Days": 131,
+        "lastUpdated": "2026-05-12T07:53:58.675549Z"
+      },
+      "github": {
+        "slug": "AlexHCJP/responsive_breakpoints",
+        "starCount": 4,
+        "forkCount": 0
+      }
+    },
     "responsive_builder": {
       "pub": {
-        "likeCount": 1591,
-        "grantedPoints": 160,
+        "likeCount": 1733,
+        "grantedPoints": 150,
+        "downloadCount30Days": 83898,
         "lastUpdated": "2024-07-03T16:02:38.891368Z"
       },
       "github": {
         "slug": "FilledStacks/responsive_builder",
-        "starCount": 491,
-        "forkCount": 81
+        "starCount": 524,
+        "forkCount": 90
+      }
+    },
+    "responsive_builder2": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 180,
+        "lastUpdated": "2026-02-09T10:03:01.897571Z"
+      },
+      "github": {
+        "slug": "Corkscrews/responsive_builder",
+        "starCount": 2,
+        "forkCount": 3
+      }
+    },
+    "responsive_builder_kit": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 150,
+        "downloadCount30Days": 29,
+        "lastUpdated": "2026-01-20T17:04:22.176971Z"
+      },
+      "github": {
+        "slug": "rzrasel/flutter-responsive-builder-kit",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "responsive_card": {
       "pub": {
-        "likeCount": 0,
+        "likeCount": 1,
         "grantedPoints": 130,
+        "downloadCount30Days": 33,
         "lastUpdated": "2023-08-08T16:21:50.256665Z"
       },
       "github": {
         "slug": "RaddN/flutter_responsive_card",
-        "starCount": 1,
+        "starCount": 2,
         "forkCount": 0
       }
     },
     "responsive_class": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 140,
+        "grantedPoints": 130,
+        "downloadCount30Days": 9,
         "lastUpdated": "2023-04-11T11:26:01.751968Z"
       },
       "github": {
@@ -581255,22 +582721,37 @@
         "forkCount": 0
       }
     },
+    "responsive_cloud_image": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 160,
+        "downloadCount30Days": 30,
+        "lastUpdated": "2026-07-11T05:18:39.318373Z"
+      },
+      "github": {
+        "slug": "hbsgujjar111/responsive_cloud_image",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "responsive_config": {
       "pub": {
         "likeCount": 3,
         "grantedPoints": 140,
+        "downloadCount30Days": 19,
         "lastUpdated": "2022-07-05T22:59:00.671253Z"
       },
       "github": {
         "slug": "eterkit/flutter-packages",
-        "starCount": 3,
-        "forkCount": 2
+        "starCount": 4,
+        "forkCount": 6
       }
     },
     "responsive_container": {
       "pub": {
         "likeCount": 5,
         "grantedPoints": 10,
+        "downloadCount30Days": 13,
         "lastUpdated": "2018-11-03T04:25:50.370787Z"
       },
       "github": {
@@ -581282,19 +582763,21 @@
     "responsive_container_ns": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 120,
+        "grantedPoints": 125,
+        "downloadCount30Days": 9,
         "lastUpdated": "2022-02-14T13:08:23.763988Z"
       }
     },
     "responsive_content": {
       "pub": {
-        "likeCount": 0,
+        "likeCount": 1,
         "grantedPoints": 140,
+        "downloadCount30Days": 5,
         "lastUpdated": "2023-10-31T20:28:36.042732Z"
       },
       "github": {
         "slug": "JuanDavidQuiceno/responsive_content",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
@@ -581302,6 +582785,7 @@
       "pub": {
         "likeCount": 3,
         "grantedPoints": 140,
+        "downloadCount30Days": 104,
         "lastUpdated": "2021-03-12T05:52:37.683353Z"
       },
       "github": {
@@ -581310,11 +582794,38 @@
         "forkCount": 1
       }
     },
+    "responsive_cs": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 130,
+        "downloadCount30Days": 9,
+        "lastUpdated": "2025-06-04T07:13:14.229677Z"
+      },
+      "github": {
+        "slug": "Cagdassrgl/responsive_cs",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "responsive_dashboard": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 140,
+        "downloadCount30Days": 17,
+        "lastUpdated": "2025-07-29T11:11:14.668692Z"
+      },
+      "github": {
+        "slug": "romulorodrigues/responsive_dashboard",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "responsive_data_grid": {
       "pub": {
         "likeCount": 7,
-        "grantedPoints": 60,
-        "lastUpdated": "2022-05-18T13:30:29.591658Z"
+        "grantedPoints": 130,
+        "downloadCount30Days": 105,
+        "lastUpdated": "2025-03-24T19:18:56.593171Z"
       },
       "github": {
         "slug": "4D-Technologies/responsive_data_grid",
@@ -581326,6 +582837,7 @@
       "pub": {
         "likeCount": 4,
         "grantedPoints": 155,
+        "downloadCount30Days": 148,
         "lastUpdated": "2022-05-29T21:33:29.999806Z"
       },
       "github": {
@@ -581334,22 +582846,45 @@
         "forkCount": 0
       }
     },
+    "responsive_design_helper": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 160,
+        "downloadCount30Days": 9,
+        "lastUpdated": "2024-09-28T22:03:15.147103Z"
+      },
+      "github": {
+        "slug": "RensithUdara/responsive_design_helper_package",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "responsive_deva": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 120,
-        "lastUpdated": "2022-09-09T11:52:00.803632Z"
+        "grantedPoints": 105,
+        "downloadCount30Days": 31,
+        "lastUpdated": "2025-02-18T06:07:05.923714Z"
+      }
+    },
+    "responsive_display": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 6,
+        "lastUpdated": "2026-02-05T21:07:09.581282Z"
       },
       "github": {
-        "slug": "SachinFlutterDeveloper/responsive-deva-example",
-        "starCount": 0,
+        "slug": "AflahShadilk/responsive_display",
+        "starCount": 1,
         "forkCount": 0
       }
     },
     "responsive_elements": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 140,
+        "grantedPoints": 135,
+        "downloadCount30Days": 13,
         "lastUpdated": "2021-08-27T18:25:55.484108Z"
       },
       "github": {
@@ -581358,10 +582893,24 @@
         "forkCount": 0
       }
     },
+    "responsive_flex_list": {
+      "pub": {
+        "likeCount": 7,
+        "grantedPoints": 160,
+        "downloadCount30Days": 61,
+        "lastUpdated": "2026-06-04T15:36:14.683834Z"
+      },
+      "github": {
+        "slug": "awais305/responsive_flex_list",
+        "starCount": 3,
+        "forkCount": 0
+      }
+    },
     "responsive_flutter": {
       "pub": {
         "likeCount": 18,
         "grantedPoints": 25,
+        "downloadCount30Days": 29,
         "lastUpdated": "2019-10-05T16:21:59.423275Z"
       },
       "github": {
@@ -581374,6 +582923,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 20,
+        "downloadCount30Days": 5,
         "lastUpdated": "2023-03-14T17:53:56.726283Z"
       },
       "github": {
@@ -581384,73 +582934,92 @@
     },
     "responsive_fonts": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 140,
+        "likeCount": 2,
+        "grantedPoints": 145,
+        "downloadCount30Days": 20,
         "lastUpdated": "2024-07-09T06:20:43.188374Z"
       },
       "github": {
         "slug": "TamilSelvanRaja/Responsive_font_flutter",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
     "responsive_framework": {
       "pub": {
-        "likeCount": 2936,
-        "grantedPoints": 160,
-        "lastUpdated": "2024-02-25T03:39:11.580447Z"
+        "likeCount": 3360,
+        "grantedPoints": 150,
+        "downloadCount30Days": 137721,
+        "lastUpdated": "2024-08-26T16:35:44.517480Z"
       },
       "github": {
         "slug": "Codelessly/ResponsiveFramework",
-        "starCount": 1237,
-        "forkCount": 150
+        "starCount": 1403,
+        "forkCount": 160
       }
     },
     "responsive_framework_v2": {
       "pub": {
-        "likeCount": 2,
-        "grantedPoints": 150,
+        "likeCount": 3,
+        "grantedPoints": 140,
+        "downloadCount30Days": 5,
         "lastUpdated": "2024-05-28T06:10:39.581478Z"
       },
       "github": {
         "slug": "shiwam77/responsive_framework_v2",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
     "responsive_grid": {
       "pub": {
-        "likeCount": 237,
-        "grantedPoints": 120,
+        "likeCount": 272,
+        "grantedPoints": 115,
+        "downloadCount30Days": 13372,
         "lastUpdated": "2023-08-25T17:53:33.515569Z"
       },
       "github": {
         "slug": "muhammad369/ResponsiveGrid_Flutter",
-        "starCount": 85,
-        "forkCount": 24
+        "starCount": 92,
+        "forkCount": 33
+      }
+    },
+    "responsive_grid_layout": {
+      "pub": {
+        "likeCount": 3,
+        "grantedPoints": 160,
+        "downloadCount30Days": 13,
+        "lastUpdated": "2026-03-30T08:55:27.499242Z"
+      },
+      "github": {
+        "slug": "Amar-singh-123/responsive_grid_layout",
+        "starCount": 1,
+        "forkCount": 0
       }
     },
     "responsive_grid_list": {
       "pub": {
-        "likeCount": 116,
-        "grantedPoints": 160,
-        "lastUpdated": "2023-09-30T15:37:44.624516Z"
+        "likeCount": 150,
+        "grantedPoints": 150,
+        "downloadCount30Days": 8992,
+        "lastUpdated": "2025-09-20T19:22:37.841520Z"
       },
       "github": {
         "slug": "hauketoenjes/responsive_grid_list",
-        "starCount": 20,
-        "forkCount": 10
+        "starCount": 23,
+        "forkCount": 8
       }
     },
     "responsive_gridview": {
       "pub": {
-        "likeCount": 5,
-        "grantedPoints": 140,
-        "lastUpdated": "2024-07-01T10:55:36.696269Z"
+        "likeCount": 11,
+        "grantedPoints": 160,
+        "downloadCount30Days": 93,
+        "lastUpdated": "2025-04-22T04:46:01.598556Z"
       },
       "github": {
         "slug": "rohitsoni9/responsive_gridview",
-        "starCount": 0,
+        "starCount": 2,
         "forkCount": 0
       }
     },
@@ -581458,30 +583027,41 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 30,
+        "downloadCount30Days": 13,
         "lastUpdated": "2020-08-07T20:45:48.314334Z"
       },
       "github": {
         "slug": "XeniacDev/responsive_helper",
-        "starCount": 2,
-        "forkCount": 2
+        "starCount": 3,
+        "forkCount": 1
       }
     },
     "responsive_image": {
       "pub": {
-        "likeCount": 14,
+        "likeCount": 15,
         "grantedPoints": 40,
+        "downloadCount30Days": 10,
         "lastUpdated": "2019-11-09T16:08:10.187746Z"
       },
       "github": {
         "slug": "theochampion/responsive_image",
         "starCount": 5,
-        "forkCount": 2
+        "forkCount": 4
+      }
+    },
+    "responsive_kakapo": {
+      "pub": {
+        "likeCount": 10,
+        "grantedPoints": 140,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2024-09-08T01:22:23.482591Z"
       }
     },
     "responsive_kit": {
       "pub": {
-        "likeCount": 4,
+        "likeCount": 5,
         "grantedPoints": 130,
+        "downloadCount30Days": 14,
         "lastUpdated": "2023-05-09T12:24:44.556363Z"
       },
       "github": {
@@ -581490,10 +583070,24 @@
         "forkCount": 0
       }
     },
+    "responsive_kit_flutter": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 160,
+        "downloadCount30Days": 11,
+        "lastUpdated": "2025-09-07T11:20:27.679760Z"
+      },
+      "github": {
+        "slug": "FadyFayezYounan/responsive_kit_flutter",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "responsive_klutter": {
       "pub": {
-        "likeCount": 0,
+        "likeCount": 1,
         "grantedPoints": 140,
+        "downloadCount30Days": 9,
         "lastUpdated": "2023-10-23T03:13:47.832449Z"
       },
       "github": {
@@ -581506,6 +583100,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 30,
+        "downloadCount30Days": 5,
         "lastUpdated": "2020-09-27T13:57:46.872078Z"
       },
       "github": {
@@ -581516,51 +583111,124 @@
     },
     "responsive_layout_builder": {
       "pub": {
-        "likeCount": 23,
-        "grantedPoints": 150,
+        "likeCount": 24,
+        "grantedPoints": 140,
+        "downloadCount30Days": 155,
         "lastUpdated": "2021-03-04T12:58:09.648606Z"
       },
       "github": {
         "slug": "marchdev-tk/responsive_layout_builder",
-        "starCount": 7,
-        "forkCount": 1
+        "starCount": 8,
+        "forkCount": 2
       }
     },
     "responsive_layout_grid": {
       "pub": {
-        "likeCount": 9,
-        "grantedPoints": 160,
+        "likeCount": 13,
+        "grantedPoints": 150,
+        "downloadCount30Days": 716,
         "lastUpdated": "2023-09-11T13:49:01.265179Z"
       },
       "github": {
         "slug": "domain-centric/responsive_layout_grid",
-        "starCount": 4,
-        "forkCount": 1
+        "starCount": 5,
+        "forkCount": 2
+      }
+    },
+    "responsive_layout_kit": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 160,
+        "downloadCount30Days": 18,
+        "lastUpdated": "2026-01-31T19:45:37.316681Z"
       }
     },
     "responsive_layout_screen": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 120,
+        "grantedPoints": 115,
+        "downloadCount30Days": 15,
         "lastUpdated": "2023-03-25T05:13:04.336598Z"
+      }
+    },
+    "responsive_layout_thrive": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 6,
+        "lastUpdated": "2024-12-15T18:41:01.227358Z"
       }
     },
     "responsive_loader_button": {
       "pub": {
-        "likeCount": 2,
+        "likeCount": 3,
         "grantedPoints": 130,
+        "downloadCount30Days": 8,
         "lastUpdated": "2023-07-03T21:24:00.880751Z"
       },
       "github": {
         "slug": "usama-cowlar/home-page-for-package",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "responsive_magic_ui": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 6,
+        "lastUpdated": "2026-05-30T18:21:39.336903Z"
+      },
+      "github": {
+        "slug": "NPM-Packages-Modules/flutter",
         "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "responsive_master": {
+      "pub": {
+        "likeCount": 2,
+        "grantedPoints": 130,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2025-06-18T13:25:48.884301Z"
+      },
+      "github": {
+        "slug": "arrahmanbd/responsive_master",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "responsive_mate": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 140,
+        "downloadCount30Days": 13,
+        "lastUpdated": "2025-01-07T07:22:41.458231Z"
+      },
+      "github": {
+        "slug": "mangukianisarg/responsive_mate",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "responsive_media": {
+      "pub": {
+        "likeCount": 5,
+        "grantedPoints": 150,
+        "downloadCount30Days": 40,
+        "lastUpdated": "2025-05-02T04:59:52.234247Z"
+      },
+      "github": {
+        "slug": "techfoon/responsive_media",
+        "starCount": 4,
         "forkCount": 0
       }
     },
     "responsive_mediaquery": {
       "pub": {
         "likeCount": 11,
-        "grantedPoints": 130,
+        "grantedPoints": 140,
+        "downloadCount30Days": 45,
         "lastUpdated": "2022-05-09T04:26:20.486372Z"
       },
       "github": {
@@ -581571,20 +583239,22 @@
     },
     "responsive_mixin_layout": {
       "pub": {
-        "likeCount": 3,
-        "grantedPoints": 150,
-        "lastUpdated": "2024-06-22T00:04:34.496165Z"
+        "likeCount": 6,
+        "grantedPoints": 160,
+        "downloadCount30Days": 81,
+        "lastUpdated": "2026-04-09T00:10:45.954851Z"
       },
       "github": {
         "slug": "detextre4/responsive_mixin_layout",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
     "responsive_mobile": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 110,
+        "grantedPoints": 115,
+        "downloadCount30Days": 57,
         "lastUpdated": "2022-12-26T16:13:55.209430Z"
       },
       "github": {
@@ -581595,28 +583265,44 @@
     },
     "responsive_mpa_web": {
       "pub": {
-        "likeCount": 0,
+        "likeCount": 1,
         "grantedPoints": 150,
+        "downloadCount30Days": 17,
         "lastUpdated": "2023-10-02T07:34:52.214735Z"
       },
       "github": {
         "slug": "ozaenzenzen/responsive_mpa_web",
-        "starCount": 2,
+        "starCount": 3,
+        "forkCount": 0
+      }
+    },
+    "responsive_nav_barx": {
+      "pub": {
+        "likeCount": 3,
+        "grantedPoints": 160,
+        "downloadCount30Days": 92,
+        "lastUpdated": "2026-08-08T01:53:26.446545Z"
+      },
+      "github": {
+        "slug": "Flexxxlab/responsive_nav_bar",
+        "starCount": 0,
         "forkCount": 0
       }
     },
     "responsive_navbar": {
       "pub": {
         "likeCount": 4,
-        "grantedPoints": 120,
+        "grantedPoints": 130,
+        "downloadCount30Days": 33,
         "lastUpdated": "2023-03-28T07:52:46.249573Z"
       }
     },
     "responsive_navigation": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 150,
-        "lastUpdated": "2022-08-18T19:20:45.716357Z"
+        "grantedPoints": 160,
+        "downloadCount30Days": 14,
+        "lastUpdated": "2024-08-01T18:08:46.174691Z"
       },
       "github": {
         "slug": "OutdatedGuy/responsive_navigation",
@@ -581626,21 +583312,23 @@
     },
     "responsive_navigation_bar": {
       "pub": {
-        "likeCount": 56,
+        "likeCount": 83,
         "grantedPoints": 160,
-        "lastUpdated": "2024-06-06T19:23:36.997736Z"
+        "downloadCount30Days": 618,
+        "lastUpdated": "2025-12-09T13:44:49.566214Z"
       },
       "github": {
         "slug": "nohli/responsive_navigation_bar",
-        "starCount": 15,
-        "forkCount": 3
+        "starCount": 16,
+        "forkCount": 5
       }
     },
     "responsive_notebook_background": {
       "pub": {
-        "likeCount": 17,
+        "likeCount": 21,
         "grantedPoints": 160,
-        "lastUpdated": "2023-12-21T16:56:43.968691Z"
+        "downloadCount30Days": 360,
+        "lastUpdated": "2026-03-16T12:38:04.931077Z"
       },
       "github": {
         "slug": "cosee/responsive_notebook_background",
@@ -581651,7 +583339,8 @@
     "responsive_one": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 150,
+        "grantedPoints": 140,
+        "downloadCount30Days": 6,
         "lastUpdated": "2022-02-11T09:28:18.424894Z"
       },
       "github": {
@@ -581660,10 +583349,19 @@
         "forkCount": 0
       }
     },
+    "responsive_package": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 130,
+        "downloadCount30Days": 3,
+        "lastUpdated": "2024-09-23T06:05:48.760341Z"
+      }
+    },
     "responsive_page": {
       "pub": {
         "likeCount": 3,
-        "grantedPoints": 150,
+        "grantedPoints": 140,
+        "downloadCount30Days": 17,
         "lastUpdated": "2021-03-27T07:28:03.977474Z"
       },
       "github": {
@@ -581672,21 +583370,49 @@
         "forkCount": 2
       }
     },
+    "responsive_phk": {
+      "pub": {
+        "likeCount": 27,
+        "grantedPoints": 155,
+        "downloadCount30Days": 120,
+        "lastUpdated": "2025-06-06T04:29:12.148221Z"
+      },
+      "github": {
+        "slug": "pyaehtookyaw/responsive_phk",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "responsive_pixel": {
       "pub": {
         "likeCount": 4,
-        "grantedPoints": 20,
+        "grantedPoints": 30,
+        "downloadCount30Days": 30,
         "lastUpdated": "2020-03-18T19:22:26.819545Z"
       }
     },
     "responsive_priority_list": {
       "pub": {
-        "likeCount": 1,
+        "likeCount": 2,
         "grantedPoints": 140,
+        "downloadCount30Days": 13,
         "lastUpdated": "2024-05-31T19:38:44.128252Z"
       },
       "github": {
         "slug": "Jaaco/responsive_priority_list",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "responsive_pro": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 160,
+        "downloadCount30Days": 1543,
+        "lastUpdated": "2026-03-24T21:08:10.464541Z"
+      },
+      "github": {
+        "slug": "takeodev/responsive_pro",
         "starCount": 0,
         "forkCount": 0
       }
@@ -581694,7 +583420,8 @@
     "responsive_property": {
       "pub": {
         "likeCount": 10,
-        "grantedPoints": 140,
+        "grantedPoints": 60,
+        "downloadCount30Days": 32,
         "lastUpdated": "2023-05-12T23:52:42.197854Z"
       },
       "github": {
@@ -581703,10 +583430,24 @@
         "forkCount": 2
       }
     },
+    "responsive_reflow": {
+      "pub": {
+        "likeCount": 7,
+        "grantedPoints": 160,
+        "downloadCount30Days": 107,
+        "lastUpdated": "2026-07-23T16:32:55.204174Z"
+      },
+      "github": {
+        "slug": "Sreeraj9764/responsive_reflow",
+        "starCount": 1,
+        "forkCount": 1
+      }
+    },
     "responsive_row": {
       "pub": {
         "likeCount": 2,
         "grantedPoints": 150,
+        "downloadCount30Days": 10,
         "lastUpdated": "2022-02-08T02:28:57.143793Z"
       },
       "github": {
@@ -581717,8 +583458,9 @@
     },
     "responsive_s": {
       "pub": {
-        "likeCount": 5,
+        "likeCount": 4,
         "grantedPoints": 150,
+        "downloadCount30Days": 19,
         "lastUpdated": "2021-12-20T08:40:37.941710Z"
       },
       "github": {
@@ -581729,20 +583471,22 @@
     },
     "responsive_scaffold": {
       "pub": {
-        "likeCount": 176,
+        "likeCount": 174,
         "grantedPoints": 40,
+        "downloadCount30Days": 39,
         "lastUpdated": "2020-02-07T19:36:52.868719Z"
       },
       "github": {
         "slug": "fluttercommunity/responsive_scaffold",
-        "starCount": 362,
-        "forkCount": 42
+        "starCount": 360,
+        "forkCount": 43
       }
     },
     "responsive_scaffold_card": {
       "pub": {
         "likeCount": 1,
         "grantedPoints": 10,
+        "downloadCount30Days": 5,
         "lastUpdated": "2020-06-29T16:04:17.299817Z"
       },
       "github": {
@@ -581751,22 +583495,58 @@
         "forkCount": 0
       }
     },
+    "responsive_scaffold_navigation": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 130,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2025-06-06T10:25:53.474935Z"
+      }
+    },
     "responsive_scaffold_nullsafe": {
       "pub": {
         "likeCount": 23,
         "grantedPoints": 120,
+        "downloadCount30Days": 20,
         "lastUpdated": "2021-07-03T18:56:55.852352Z"
       },
       "github": {
         "slug": "vanshg395/responsive_scaffold_nullsafe",
         "starCount": 3,
-        "forkCount": 5
+        "forkCount": 4
+      }
+    },
+    "responsive_scale": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 9,
+        "lastUpdated": "2025-08-25T06:09:10.162606Z"
+      },
+      "github": {
+        "slug": "parham-pourheidar/responsive_scale",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "responsive_scaler": {
+      "pub": {
+        "likeCount": 4,
+        "grantedPoints": 160,
+        "downloadCount30Days": 118,
+        "lastUpdated": "2026-07-13T09:15:32.340563Z"
+      },
+      "github": {
+        "slug": "Mudit200408/responsive_scaler",
+        "starCount": 2,
+        "forkCount": 1
       }
     },
     "responsive_screen": {
       "pub": {
         "likeCount": 4,
-        "grantedPoints": 20,
+        "grantedPoints": 30,
+        "downloadCount30Days": 9,
         "lastUpdated": "2019-02-20T18:17:55.987880Z"
       }
     },
@@ -581774,6 +583554,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 140,
+        "downloadCount30Days": 13,
         "lastUpdated": "2024-03-05T15:10:54.368735Z"
       },
       "github": {
@@ -581782,30 +583563,46 @@
         "forkCount": 0
       }
     },
+    "responsive_screen_master": {
+      "pub": {
+        "likeCount": 6,
+        "grantedPoints": 160,
+        "downloadCount30Days": 16,
+        "lastUpdated": "2026-03-01T20:47:06.600342Z"
+      },
+      "github": {
+        "slug": "MohamedKhaled8/responsive_master",
+        "starCount": 2,
+        "forkCount": 0
+      }
+    },
     "responsive_screen_size": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 140,
+        "downloadCount30Days": 5,
         "lastUpdated": "2022-12-02T14:51:49.709209Z"
       }
     },
     "responsive_screen_type": {
       "pub": {
-        "likeCount": 1,
-        "grantedPoints": 150,
+        "likeCount": 2,
+        "grantedPoints": 160,
+        "downloadCount30Days": 23,
         "lastUpdated": "2023-08-29T11:05:31.499820Z"
       },
       "github": {
         "slug": "MohamedGhoneem/responsive_screens",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
     "responsive_screen_utils": {
       "pub": {
-        "likeCount": 4,
-        "grantedPoints": 130,
-        "lastUpdated": "2021-02-03T09:37:15.691406Z"
+        "likeCount": 5,
+        "grantedPoints": 125,
+        "downloadCount30Days": 69,
+        "lastUpdated": "2025-05-24T09:55:34.424208Z"
       },
       "github": {
         "slug": "infoskillstechnology/responsive_screen_utils",
@@ -581813,10 +583610,24 @@
         "forkCount": 0
       }
     },
+    "responsive_sheet": {
+      "pub": {
+        "likeCount": 5,
+        "grantedPoints": 160,
+        "downloadCount30Days": 36,
+        "lastUpdated": "2025-10-29T23:17:15.090784Z"
+      },
+      "github": {
+        "slug": "dannndi/responsive_sheet",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
     "responsive_sidebar": {
       "pub": {
         "likeCount": 1,
         "grantedPoints": 130,
+        "downloadCount30Days": 17,
         "lastUpdated": "2023-05-29T17:51:20.401198Z"
       },
       "github": {
@@ -581829,6 +583640,7 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 120,
+        "downloadCount30Days": 13,
         "lastUpdated": "2023-06-01T04:10:32.331252Z"
       },
       "github": {
@@ -581840,7 +583652,8 @@
     "responsive_size": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 120,
+        "grantedPoints": 115,
+        "downloadCount30Days": 33,
         "lastUpdated": "2021-06-10T15:25:37.566224Z"
       },
       "github": {
@@ -581849,22 +583662,53 @@
         "forkCount": 0
       }
     },
+    "responsive_size_builder": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2026-05-14T11:54:03.986144Z"
+      },
+      "github": {
+        "slug": "ericwimp8/responsive_size_builder",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "responsive_size_extension": {
       "pub": {
-        "likeCount": 2,
+        "likeCount": 4,
         "grantedPoints": 160,
+        "downloadCount30Days": 13,
         "lastUpdated": "2024-07-11T04:23:51.717678Z"
       },
       "github": {
         "slug": "Van-They/responsive_size_extension",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
+      }
+    },
+    "responsive_size_helper": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2025-01-05T20:57:35.956688Z"
+      }
+    },
+    "responsive_size_helper_plus": {
+      "pub": {
+        "likeCount": 5,
+        "grantedPoints": 160,
+        "downloadCount30Days": 31,
+        "lastUpdated": "2025-12-03T21:48:08.044883Z"
       }
     },
     "responsive_size_utils": {
       "pub": {
         "likeCount": 4,
         "grantedPoints": 140,
+        "downloadCount30Days": 33,
         "lastUpdated": "2021-08-25T17:16:52.126766Z"
       }
     },
@@ -581872,6 +583716,7 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 140,
+        "downloadCount30Days": 9,
         "lastUpdated": "2023-05-06T15:37:25.967622Z"
       },
       "github": {
@@ -581882,20 +583727,61 @@
     },
     "responsive_sizer": {
       "pub": {
-        "likeCount": 548,
+        "likeCount": 595,
         "grantedPoints": 160,
+        "downloadCount30Days": 15810,
         "lastUpdated": "2024-03-24T08:17:07.092780Z"
       },
       "github": {
         "slug": "CoderUni/responsive_sizer",
-        "starCount": 123,
-        "forkCount": 19
+        "starCount": 133,
+        "forkCount": 21
+      }
+    },
+    "responsive_sizer_plus": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 130,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2025-07-14T18:32:29.427992Z"
+      },
+      "github": {
+        "slug": "vinayparihar26/responsive_sizer_plus",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "responsive_sliding_drawer": {
+      "pub": {
+        "likeCount": 4,
+        "grantedPoints": 160,
+        "downloadCount30Days": 1123,
+        "lastUpdated": "2025-04-26T17:18:31.166704Z"
+      },
+      "github": {
+        "slug": "hruzgar/flutter_responsive_sliding_drawer",
+        "starCount": 4,
+        "forkCount": 1
+      }
+    },
+    "responsive_smart_grid": {
+      "pub": {
+        "likeCount": 15,
+        "grantedPoints": 140,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2024-12-26T09:01:34.970606Z"
+      },
+      "github": {
+        "slug": "Gajendra99/responsive_smart_grid",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "responsive_soul": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 120,
+        "grantedPoints": 130,
+        "downloadCount30Days": 33,
         "lastUpdated": "2022-07-30T17:14:04.672716Z"
       },
       "github": {
@@ -581907,14 +583793,16 @@
     "responsive_space": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 10,
+        "grantedPoints": 20,
+        "downloadCount30Days": 5,
         "lastUpdated": "2019-07-20T16:41:57.250412Z"
       }
     },
     "responsive_spacing": {
       "pub": {
-        "likeCount": 26,
+        "likeCount": 27,
         "grantedPoints": 150,
+        "downloadCount30Days": 61,
         "lastUpdated": "2023-06-02T12:45:24.205595Z"
       },
       "github": {
@@ -581923,10 +583811,37 @@
         "forkCount": 1
       }
     },
+    "responsive_spacing_plus": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 160,
+        "downloadCount30Days": 13,
+        "lastUpdated": "2025-10-26T06:17:05.385715Z"
+      },
+      "github": {
+        "slug": "prog-hussain5/responsive_spacing_plus",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "responsive_spacing_v2": {
+      "pub": {
+        "likeCount": 4,
+        "grantedPoints": 160,
+        "downloadCount30Days": 21,
+        "lastUpdated": "2025-05-27T06:39:29.835399Z"
+      },
+      "github": {
+        "slug": "Nishan-Pradhan06/responsive_spacing_v2",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "responsive_staggered_grid": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 110,
+        "grantedPoints": 120,
+        "downloadCount30Days": 63,
         "lastUpdated": "2023-11-23T16:18:53.306737Z"
       },
       "github": {
@@ -581935,34 +583850,45 @@
         "forkCount": 0
       }
     },
+    "responsive_standard_tool": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 13,
+        "lastUpdated": "2025-05-13T14:12:00.086221Z"
+      }
+    },
     "responsive_styled_widget": {
       "pub": {
         "likeCount": 4,
-        "grantedPoints": 60,
+        "grantedPoints": 40,
+        "downloadCount30Days": 41,
         "lastUpdated": "2021-04-03T19:39:31.282532Z"
       },
       "github": {
         "slug": "KevinVan720/styled_widget",
-        "starCount": 24,
-        "forkCount": 5
+        "starCount": 26,
+        "forkCount": 6
       }
     },
     "responsive_styles": {
       "pub": {
-        "likeCount": 13,
+        "likeCount": 14,
         "grantedPoints": 140,
+        "downloadCount30Days": 105,
         "lastUpdated": "2022-11-27T22:00:51.387558Z"
       },
       "github": {
         "slug": "DisplayKit/responsive_styles",
-        "starCount": 67,
-        "forkCount": 2
+        "starCount": 65,
+        "forkCount": 3
       }
     },
     "responsive_svg_icons": {
       "pub": {
         "likeCount": 1,
         "grantedPoints": 150,
+        "downloadCount30Days": 5,
         "lastUpdated": "2021-11-10T17:00:18.320848Z"
       },
       "github": {
@@ -581973,20 +583899,22 @@
     },
     "responsive_table": {
       "pub": {
-        "likeCount": 160,
-        "grantedPoints": 150,
+        "likeCount": 164,
+        "grantedPoints": 160,
+        "downloadCount30Days": 27,
         "lastUpdated": "2022-02-18T15:52:42.678456Z"
       },
       "github": {
         "slug": "kechankrisna/flutter_responsive_table",
         "starCount": 60,
-        "forkCount": 25
+        "forkCount": 26
       }
     },
     "responsive_text": {
       "pub": {
         "likeCount": 3,
-        "grantedPoints": 120,
+        "grantedPoints": 105,
+        "downloadCount30Days": 9,
         "lastUpdated": "2021-11-04T08:53:02.249255Z"
       },
       "github": {
@@ -581999,61 +583927,93 @@
       "pub": {
         "likeCount": 4,
         "grantedPoints": 40,
+        "downloadCount30Days": 25,
         "lastUpdated": "2020-05-26T07:44:07.397034Z"
       },
       "github": {
         "slug": "vikram25897/fluttter_responsive_text_field",
-        "starCount": 4,
+        "starCount": 3,
         "forkCount": 4
+      }
+    },
+    "responsive_text_plus": {
+      "pub": {
+        "likeCount": 3,
+        "grantedPoints": 160,
+        "downloadCount30Days": 21,
+        "lastUpdated": "2025-10-25T09:28:29.220321Z"
+      },
+      "github": {
+        "slug": "muhammednajeebay/responsive_text",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "responsive_text_widget": {
       "pub": {
-        "likeCount": 1,
+        "likeCount": 2,
         "grantedPoints": 160,
+        "downloadCount30Days": 24,
         "lastUpdated": "2023-12-15T12:41:00.848687Z"
       },
       "github": {
         "slug": "hello-addweb/responsive_text",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
     "responsive_textview": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 20,
+        "grantedPoints": 30,
+        "downloadCount30Days": 9,
         "lastUpdated": "2019-07-15T12:59:57.109811Z"
+      }
+    },
+    "responsive_theme": {
+      "pub": {
+        "likeCount": 3,
+        "grantedPoints": 130,
+        "downloadCount30Days": 25,
+        "lastUpdated": "2025-05-30T05:32:45.682826Z"
+      },
+      "github": {
+        "slug": "Parmar24c/responsive_theme",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "responsive_toolkit": {
       "pub": {
-        "likeCount": 19,
+        "likeCount": 29,
         "grantedPoints": 150,
+        "downloadCount30Days": 456,
         "lastUpdated": "2024-01-02T03:29:27.972120Z"
       },
       "github": {
         "slug": "Calpoog/responsive_toolkit",
-        "starCount": 11,
-        "forkCount": 1
+        "starCount": 15,
+        "forkCount": 4
       }
     },
     "responsive_ui": {
       "pub": {
-        "likeCount": 99,
-        "grantedPoints": 150,
+        "likeCount": 104,
+        "grantedPoints": 160,
+        "downloadCount30Days": 414,
         "lastUpdated": "2023-04-02T14:43:57.490856Z"
       },
       "github": {
         "slug": "bharathraj-e/responsive_ui",
-        "starCount": 15,
-        "forkCount": 7
+        "starCount": 16,
+        "forkCount": 8
       }
     },
     "responsive_ui_builder": {
       "pub": {
-        "likeCount": 3,
-        "grantedPoints": 160,
+        "likeCount": 4,
+        "grantedPoints": 140,
+        "downloadCount30Days": 18,
         "lastUpdated": "2022-02-04T03:38:42.911581Z"
       },
       "github": {
@@ -582065,7 +584025,8 @@
     "responsive_ui_by_default": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 20,
+        "grantedPoints": 15,
+        "downloadCount30Days": 13,
         "lastUpdated": "2020-04-12T11:54:16.452098Z"
       },
       "github": {
@@ -582074,10 +584035,24 @@
         "forkCount": 0
       }
     },
+    "responsive_ui_kit": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 10,
+        "lastUpdated": "2025-07-21T17:59:12.604393Z"
+      },
+      "github": {
+        "slug": "kFasih132/flutter_responsive_ui",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "responsive_ui_layout": {
       "pub": {
         "likeCount": 2,
         "grantedPoints": 150,
+        "downloadCount30Days": 5,
         "lastUpdated": "2021-08-26T05:47:30.890661Z"
       },
       "github": {
@@ -582090,6 +584065,7 @@
       "pub": {
         "likeCount": 6,
         "grantedPoints": 150,
+        "downloadCount30Days": 13,
         "lastUpdated": "2021-08-12T03:50:33.835512Z"
       },
       "github": {
@@ -582100,8 +584076,9 @@
     },
     "responsive_util": {
       "pub": {
-        "likeCount": 51,
+        "likeCount": 50,
         "grantedPoints": 120,
+        "downloadCount30Days": 36,
         "lastUpdated": "2021-08-01T06:54:16.779372Z"
       },
       "github": {
@@ -582112,21 +584089,36 @@
     },
     "responsive_utility": {
       "pub": {
-        "likeCount": 3,
-        "grantedPoints": 130,
+        "likeCount": 4,
+        "grantedPoints": 140,
+        "downloadCount30Days": 9,
         "lastUpdated": "2024-06-07T13:48:47.185771Z"
       },
       "github": {
         "slug": "ashwinsevak1808/flutter_responsive_utils",
-        "starCount": 0,
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "responsive_ux": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 160,
+        "downloadCount30Days": 57,
+        "lastUpdated": "2026-03-04T08:36:11.147605Z"
+      },
+      "github": {
+        "slug": "YukiAttano/responsive_ux",
+        "starCount": 6,
         "forkCount": 0
       }
     },
     "responsive_value": {
       "pub": {
-        "likeCount": 2,
-        "grantedPoints": 30,
-        "lastUpdated": "2019-04-08T21:53:33.746962Z"
+        "likeCount": 3,
+        "grantedPoints": 160,
+        "downloadCount30Days": 13,
+        "lastUpdated": "2026-04-09T08:26:49.044220Z"
       },
       "github": {
         "slug": "arsen/responsive_value",
@@ -582136,15 +584128,22 @@
     },
     "responsive_view": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 150,
-        "lastUpdated": "2024-05-17T16:01:54.686121Z"
+        "likeCount": 1,
+        "grantedPoints": 140,
+        "downloadCount30Days": 9,
+        "lastUpdated": "2024-08-11T20:25:54.996312Z"
+      },
+      "github": {
+        "slug": "DrDejaVuNG/responsive_view",
+        "starCount": 2,
+        "forkCount": 0
       }
     },
     "responsive_widget": {
       "pub": {
         "likeCount": 2,
         "grantedPoints": 40,
+        "downloadCount30Days": 18,
         "lastUpdated": "2020-11-03T02:05:31.483850Z"
       },
       "github": {
@@ -582155,40 +584154,44 @@
     },
     "responsive_widget_wrapper": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 130,
+        "likeCount": 1,
+        "grantedPoints": 150,
+        "downloadCount30Days": 9,
         "lastUpdated": "2023-10-04T07:24:03.871365Z"
       }
     },
     "responsive_widgets": {
       "pub": {
-        "likeCount": 64,
+        "likeCount": 65,
         "grantedPoints": 40,
+        "downloadCount30Days": 48,
         "lastUpdated": "2020-04-02T06:24:00.531436Z"
       },
       "github": {
         "slug": "LucazzP/responsive_widgets",
-        "starCount": 46,
-        "forkCount": 14
+        "starCount": 47,
+        "forkCount": 12
       }
     },
     "responsive_widgets2": {
       "pub": {
-        "likeCount": 1,
-        "grantedPoints": 80,
+        "likeCount": 2,
+        "grantedPoints": 60,
+        "downloadCount30Days": 5,
         "lastUpdated": "2024-04-16T20:11:23.312824Z"
       },
       "github": {
         "slug": "eududalim/responsive_widgets_nullsafety",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
     "responsive_widgets_prefix": {
       "pub": {
         "likeCount": 9,
-        "grantedPoints": 90,
-        "lastUpdated": "2024-04-01T10:18:17.440923Z"
+        "grantedPoints": 150,
+        "downloadCount30Days": 29,
+        "lastUpdated": "2025-01-07T04:46:58.299294Z"
       },
       "github": {
         "slug": "the-mac/responsive_widgets_prefix",
@@ -582196,14 +584199,54 @@
         "forkCount": 1
       }
     },
+    "responsive_window": {
+      "pub": {
+        "likeCount": 5,
+        "grantedPoints": 160,
+        "downloadCount30Days": 116,
+        "lastUpdated": "2026-07-12T18:53:02.110425Z"
+      },
+      "github": {
+        "slug": "gabriel-x-duarte/responsive_window",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "responsive_wrap": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 160,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2026-06-09T08:01:31.739105Z"
+      },
+      "github": {
+        "slug": "flutkitcom/responsive_wrap",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
     "responsive_wrap_container": {
       "pub": {
-        "likeCount": 2,
+        "likeCount": 4,
         "grantedPoints": 160,
+        "downloadCount30Days": 26,
         "lastUpdated": "2023-12-14T17:43:30.421597Z"
       },
       "github": {
         "slug": "ziadhassan7/responsive_wrap_container",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "responsive_wrapper": {
+      "pub": {
+        "likeCount": 6,
+        "grantedPoints": 160,
+        "downloadCount30Days": 23,
+        "lastUpdated": "2026-03-01T03:51:24.773192Z"
+      },
+      "github": {
+        "slug": "sinan-aktepe/responsive_wrapper",
         "starCount": 0,
         "forkCount": 0
       }
@@ -582212,6 +584255,7 @@
       "pub": {
         "likeCount": 14,
         "grantedPoints": 40,
+        "downloadCount30Days": 41,
         "lastUpdated": "2020-08-04T16:34:11.320507Z"
       },
       "github": {
@@ -582220,10 +584264,27 @@
         "forkCount": 1
       }
     },
+    "responsive_x_toolkit": {
+      "pub": {
+        "likeCount": 4,
+        "grantedPoints": 150,
+        "downloadCount30Days": 32,
+        "lastUpdated": "2025-11-27T14:39:01.949059Z"
+      }
+    },
+    "responsiveapp": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 125,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2024-11-12T07:31:37.891411Z"
+      }
+    },
     "responsivebar": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 130,
+        "grantedPoints": 120,
+        "downloadCount30Days": 3,
         "lastUpdated": "2021-08-10T14:53:54.444737Z"
       }
     },
@@ -582231,6 +584292,7 @@
       "pub": {
         "likeCount": 3,
         "grantedPoints": 140,
+        "downloadCount30Days": 9,
         "lastUpdated": "2023-06-08T23:48:29.474677Z"
       },
       "github": {
@@ -582243,6 +584305,7 @@
       "pub": {
         "likeCount": 5,
         "grantedPoints": 30,
+        "downloadCount30Days": 13,
         "lastUpdated": "2020-06-19T23:50:12.347107Z"
       },
       "github": {
@@ -582253,25 +584316,40 @@
     },
     "responsiveness": {
       "pub": {
-        "likeCount": 8,
-        "grantedPoints": 150,
+        "likeCount": 13,
+        "grantedPoints": 160,
+        "downloadCount30Days": 300,
         "lastUpdated": "2023-12-06T14:52:40.893864Z"
       },
       "github": {
         "slug": "TheUltimateOptimist/responsiveness",
-        "starCount": 1,
+        "starCount": 2,
         "forkCount": 0
       }
     },
     "responsiveness_handler": {
       "pub": {
-        "likeCount": 2,
-        "grantedPoints": 160,
+        "likeCount": 10,
+        "grantedPoints": 150,
+        "downloadCount30Days": 13,
         "lastUpdated": "2024-05-30T16:57:38.028757Z"
       },
       "github": {
         "slug": "seyifunmi92/responsivenesshandler",
-        "starCount": 1,
+        "starCount": 2,
+        "forkCount": 0
+      }
+    },
+    "responsiveplus": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 140,
+        "downloadCount30Days": 27,
+        "lastUpdated": "2024-08-13T23:19:41.844594Z"
+      },
+      "github": {
+        "slug": "RillaStudios/responsiveplus",
+        "starCount": 0,
         "forkCount": 0
       }
     },
@@ -582279,6 +584357,7 @@
       "pub": {
         "likeCount": 5,
         "grantedPoints": 140,
+        "downloadCount30Days": 5,
         "lastUpdated": "2021-06-01T06:01:16.796315Z"
       },
       "github": {
@@ -582290,7 +584369,8 @@
     "resposiveness": {
       "pub": {
         "likeCount": 3,
-        "grantedPoints": 20,
+        "grantedPoints": 30,
+        "downloadCount30Days": 9,
         "lastUpdated": "2020-03-03T19:53:12.125116Z"
       },
       "github": {
@@ -582299,10 +584379,63 @@
         "forkCount": 0
       }
     },
+    "respozen": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 140,
+        "downloadCount30Days": 6,
+        "lastUpdated": "2025-07-28T16:32:39.122101Z"
+      },
+      "github": {
+        "slug": "jaiprakash274/respozen",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "resqlite": {
+      "pub": {
+        "likeCount": 8,
+        "grantedPoints": 140,
+        "downloadCount30Days": 98,
+        "lastUpdated": "2026-06-30T13:15:42.696875Z"
+      },
+      "github": {
+        "slug": "danReynolds/resqlite",
+        "starCount": 22,
+        "forkCount": 3
+      }
+    },
+    "resqlite_js": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 120,
+        "downloadCount30Days": 21,
+        "lastUpdated": "2026-06-30T13:16:45.726850Z"
+      },
+      "github": {
+        "slug": "danReynolds/resqlite",
+        "starCount": 22,
+        "forkCount": 3
+      }
+    },
+    "resqlite_vector": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 120,
+        "downloadCount30Days": 28,
+        "lastUpdated": "2026-06-30T13:16:27.591265Z"
+      },
+      "github": {
+        "slug": "danReynolds/resqlite",
+        "starCount": 22,
+        "forkCount": 3
+      }
+    },
     "rest": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 20,
+        "downloadCount30Days": 76,
         "lastUpdated": "2015-05-26T14:47:04.346Z"
       },
       "github": {
@@ -582315,6 +584448,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 15,
+        "downloadCount30Days": 37,
         "lastUpdated": "2019-11-20T09:29:38.493604Z"
       }
     },
@@ -582322,18 +584456,20 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 15,
+        "downloadCount30Days": 83,
         "lastUpdated": "2020-01-09T05:48:02.589154Z"
       }
     },
     "rest_api_client": {
       "pub": {
-        "likeCount": 31,
-        "grantedPoints": 150,
-        "lastUpdated": "2024-05-14T13:30:13.631308Z"
+        "likeCount": 34,
+        "grantedPoints": 160,
+        "downloadCount30Days": 783,
+        "lastUpdated": "2026-05-25T09:17:40.300074Z"
       },
       "github": {
         "slug": "salihagic/rest_api_client",
-        "starCount": 13,
+        "starCount": 12,
         "forkCount": 8
       }
     },
@@ -582341,6 +584477,7 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 30,
+        "downloadCount30Days": 9,
         "lastUpdated": "2022-10-17T19:06:45.620111Z"
       },
       "github": {
@@ -582352,26 +584489,42 @@
     "rest_api_helper": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 120,
+        "grantedPoints": 130,
+        "downloadCount30Days": 21,
         "lastUpdated": "2021-11-12T17:49:55.509479Z"
+      }
+    },
+    "rest_api_impl": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 55,
+        "lastUpdated": "2026-08-09T18:41:09.805216Z"
+      },
+      "github": {
+        "slug": "GenieCoderSrc/rest_api_impl",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "rest_api_package": {
       "pub": {
-        "likeCount": 3,
-        "grantedPoints": 150,
+        "likeCount": 4,
+        "grantedPoints": 130,
+        "downloadCount30Days": 6,
         "lastUpdated": "2023-12-17T20:16:42.113744Z"
       },
       "github": {
         "slug": "ramazanyigitt/rest-api-package",
-        "starCount": 6,
+        "starCount": 7,
         "forkCount": 1
       }
     },
     "rest_client": {
       "pub": {
-        "likeCount": 12,
+        "likeCount": 13,
         "grantedPoints": 140,
+        "downloadCount30Days": 2282,
         "lastUpdated": "2023-11-16T00:35:40.721266Z"
       },
       "github": {
@@ -582380,10 +584533,37 @@
         "forkCount": 4
       }
     },
+    "rest_client_builder": {
+      "pub": {
+        "likeCount": 2,
+        "grantedPoints": 0,
+        "downloadCount30Days": 172,
+        "lastUpdated": "2026-08-13T05:12:23.458052Z"
+      },
+      "github": {
+        "slug": "corevantdev/rest_client_builder",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "rest_countries_data": {
+      "pub": {
+        "likeCount": 29,
+        "grantedPoints": 150,
+        "downloadCount30Days": 13,
+        "lastUpdated": "2025-07-25T10:49:11.943298Z"
+      },
+      "github": {
+        "slug": "Frankdroid7/rest_countries_package",
+        "starCount": 30,
+        "forkCount": 2
+      }
+    },
     "rest_dart": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 5,
+        "downloadCount30Days": 9,
         "lastUpdated": "2014-05-08T16:16:58.508600Z"
       },
       "github": {
@@ -582396,13 +584576,23 @@
       "pub": {
         "likeCount": 8,
         "grantedPoints": 110,
+        "downloadCount30Days": 68,
         "lastUpdated": "2021-10-07T11:01:35.959357Z"
+      }
+    },
+    "rest_ez": {
+      "pub": {
+        "likeCount": 2,
+        "grantedPoints": 140,
+        "downloadCount30Days": 7,
+        "lastUpdated": "2025-07-03T12:09:32.872484Z"
       }
     },
     "rest_frame": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 20,
+        "downloadCount30Days": 5,
         "lastUpdated": "2015-04-04T17:07:55.010450Z"
       },
       "github": {
@@ -582415,6 +584605,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 15,
+        "downloadCount30Days": 21,
         "lastUpdated": "2014-08-09T19:34:40.985290Z"
       },
       "github": {
@@ -582425,13 +584616,14 @@
     },
     "rest_login": {
       "pub": {
-        "likeCount": 2,
-        "grantedPoints": 150,
+        "likeCount": 3,
+        "grantedPoints": 145,
+        "downloadCount30Days": 5,
         "lastUpdated": "2023-07-29T19:39:07.248174Z"
       },
       "github": {
         "slug": "MosaabBleik/rest_login",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
@@ -582439,6 +584631,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 140,
+        "downloadCount30Days": 30,
         "lastUpdated": "2023-10-31T00:27:32.336336Z"
       },
       "github": {
@@ -582447,10 +584640,24 @@
         "forkCount": 0
       }
     },
+    "rest_route": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 160,
+        "downloadCount30Days": 21,
+        "lastUpdated": "2025-03-20T07:00:19.642351Z"
+      },
+      "github": {
+        "slug": "drnxloc/rest_route",
+        "starCount": 2,
+        "forkCount": 1
+      }
+    },
     "rest_router": {
       "pub": {
         "likeCount": 1,
         "grantedPoints": 40,
+        "downloadCount30Days": 5,
         "lastUpdated": "2019-09-28T13:50:20.802812Z"
       },
       "github": {
@@ -582463,6 +584670,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 10,
+        "downloadCount30Days": 3,
         "lastUpdated": "2019-07-30T03:11:25.979257Z"
       }
     },
@@ -582470,6 +584678,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 150,
+        "downloadCount30Days": 72,
         "lastUpdated": "2023-10-01T09:01:09.701837Z"
       },
       "github": {
@@ -582478,46 +584687,154 @@
         "forkCount": 0
       }
     },
+    "restage": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 111,
+        "lastUpdated": "2026-07-13T01:17:52.093865Z"
+      },
+      "github": {
+        "slug": "restage-dev/restage",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "restage_a2ui": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 150,
+        "downloadCount30Days": 114,
+        "lastUpdated": "2026-07-13T01:24:09.418433Z"
+      },
+      "github": {
+        "slug": "restage-dev/restage",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "restage_codegen": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 145,
+        "downloadCount30Days": 118,
+        "lastUpdated": "2026-07-13T01:24:17.498617Z"
+      },
+      "github": {
+        "slug": "restage-dev/restage",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "restage_core": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 51,
+        "lastUpdated": "2026-07-03T00:27:11.005343Z"
+      },
+      "github": {
+        "slug": "restage-dev/restage",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "restage_cupertino": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 31,
+        "lastUpdated": "2026-07-03T00:29:42.168479Z"
+      },
+      "github": {
+        "slug": "restage-dev/restage",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "restage_material": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 34,
+        "lastUpdated": "2026-07-03T00:30:14.664764Z"
+      },
+      "github": {
+        "slug": "restage-dev/restage",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "restage_shared": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 80,
+        "lastUpdated": "2026-07-03T00:25:37.936228Z"
+      },
+      "github": {
+        "slug": "restage-dev/restage",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
     "restapi_services": {
       "pub": {
-        "likeCount": 2,
+        "likeCount": 3,
         "grantedPoints": 140,
+        "downloadCount30Days": 21,
         "lastUpdated": "2024-03-22T07:59:38.927146Z"
       },
       "github": {
         "slug": "mohammadAtaullahBD/restapi_services_package",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
     "restart": {
       "pub": {
-        "likeCount": 6,
-        "grantedPoints": 160,
+        "likeCount": 22,
+        "grantedPoints": 150,
+        "downloadCount30Days": 724,
         "lastUpdated": "2024-07-16T13:11:47.604856Z"
       },
       "github": {
         "slug": "farmako/flutter_restart",
-        "starCount": 6,
-        "forkCount": 0
+        "starCount": 14,
+        "forkCount": 3
       }
     },
     "restart_app": {
       "pub": {
-        "likeCount": 355,
+        "likeCount": 523,
         "grantedPoints": 160,
-        "lastUpdated": "2023-05-29T18:48:04.765888Z"
+        "downloadCount30Days": 132085,
+        "lastUpdated": "2026-08-08T10:27:16.137801Z"
       },
       "github": {
         "slug": "gabrimatic/restart_app",
-        "starCount": 64,
-        "forkCount": 49
+        "starCount": 126,
+        "forkCount": 99
+      }
+    },
+    "restart_widget": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 26,
+        "lastUpdated": "2025-08-13T19:16:06.118667Z"
+      },
+      "github": {
+        "slug": "Diaglyonok/restart_widget",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "restartatos": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 130,
+        "likeCount": 1,
+        "grantedPoints": 140,
+        "downloadCount30Days": 29,
         "lastUpdated": "2023-09-09T09:54:26.666230Z"
       },
       "github": {
@@ -582530,6 +584847,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 40,
+        "downloadCount30Days": 9,
         "lastUpdated": "2020-04-04T08:55:15.842851Z"
       },
       "github": {
@@ -582540,8 +584858,9 @@
     },
     "restartfromos": {
       "pub": {
-        "likeCount": 2,
-        "grantedPoints": 120,
+        "likeCount": 15,
+        "grantedPoints": 130,
+        "downloadCount30Days": 67,
         "lastUpdated": "2023-09-09T10:19:12.975196Z"
       },
       "github": {
@@ -582550,10 +584869,76 @@
         "forkCount": 0
       }
     },
+    "restash": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 26,
+        "lastUpdated": "2026-06-08T04:46:16.294173Z"
+      },
+      "github": {
+        "slug": "liemvu/restash",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "restash_memory": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 27,
+        "lastUpdated": "2026-06-08T04:46:44.943451Z"
+      },
+      "github": {
+        "slug": "liemvu/restash",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "restash_objectbox": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 26,
+        "lastUpdated": "2026-06-08T04:46:53.821294Z"
+      },
+      "github": {
+        "slug": "liemvu/restash",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "restash_secure_storage": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 26,
+        "lastUpdated": "2026-06-08T04:52:21.288514Z"
+      },
+      "github": {
+        "slug": "liemvu/restash",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "restash_test": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 6,
+        "lastUpdated": "2026-06-08T04:46:33.110193Z"
+      },
+      "github": {
+        "slug": "liemvu/restash",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "restate": {
       "pub": {
         "likeCount": 4,
-        "grantedPoints": 160,
+        "grantedPoints": 150,
+        "downloadCount30Days": 60,
         "lastUpdated": "2022-04-15T01:54:56.598212Z"
       },
       "github": {
@@ -582562,10 +584947,24 @@
         "forkCount": 0
       }
     },
+    "restaurant_local_server": {
+      "pub": {
+        "likeCount": 2,
+        "grantedPoints": 140,
+        "downloadCount30Days": 93,
+        "lastUpdated": "2025-07-25T03:40:28.790118Z"
+      },
+      "github": {
+        "slug": "naseefcr/restaurant_local_server",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "restaurantnavbar": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 20,
+        "downloadCount30Days": 9,
         "lastUpdated": "2020-11-08T07:31:04.988610Z"
       },
       "github": {
@@ -582576,8 +584975,9 @@
     },
     "restaurants_website": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 110,
+        "likeCount": 1,
+        "grantedPoints": 100,
+        "downloadCount30Days": 5,
         "lastUpdated": "2024-04-23T17:38:04.158409Z"
       }
     },
@@ -582585,11 +584985,12 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 0,
+        "downloadCount30Days": 6,
         "lastUpdated": "2022-02-07T14:21:04.091316Z"
       },
       "github": {
         "slug": "deriegle/dart-express",
-        "starCount": 37,
+        "starCount": 38,
         "forkCount": 7
       }
     },
@@ -582597,6 +584998,7 @@
       "pub": {
         "likeCount": 8,
         "grantedPoints": 120,
+        "downloadCount30Days": 95,
         "lastUpdated": "2021-08-23T18:51:07.850667Z"
       },
       "github": {
@@ -582609,6 +585011,7 @@
       "pub": {
         "likeCount": 9,
         "grantedPoints": 40,
+        "downloadCount30Days": 13,
         "lastUpdated": "2020-11-25T13:33:42.337614Z"
       },
       "github": {
@@ -582620,7 +585023,8 @@
     "rester": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 130,
+        "grantedPoints": 125,
+        "downloadCount30Days": 34,
         "lastUpdated": "2023-06-21T06:39:22.840286Z"
       },
       "github": {
@@ -582633,6 +585037,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 120,
+        "downloadCount30Days": 5,
         "lastUpdated": "2022-12-20T12:07:34.834869Z"
       }
     },
@@ -716551,7 +718956,7 @@
     }
   },
   "lastUpdate": {
-    "endIndex": 66015,
-    "date": "2026-08-13T22:31:04.943677Z"
+    "endIndex": 66515,
+    "date": "2026-08-14T01:01:45.894001Z"
   }
 }
