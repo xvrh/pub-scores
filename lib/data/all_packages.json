@@ -771329,32 +771329,48 @@
     },
     "video_compress_plus": {
       "pub": {
-        "likeCount": 20,
-        "grantedPoints": 160,
+        "likeCount": 23,
+        "grantedPoints": 140,
+        "downloadCount30Days": 31,
         "lastUpdated": "2023-06-12T03:24:22.949913Z"
       },
       "github": {
         "slug": "kamaravichow/VideoCompressPlus",
-        "starCount": 4,
-        "forkCount": 9
+        "starCount": 5,
+        "forkCount": 12
       }
     },
     "video_compress_v2": {
       "pub": {
-        "likeCount": 7,
-        "grantedPoints": 150,
+        "likeCount": 9,
+        "grantedPoints": 140,
+        "downloadCount30Days": 2,
         "lastUpdated": "2024-01-30T08:44:05.169024Z"
       },
       "github": {
         "slug": "thangpn0207/video_compress_v2",
-        "starCount": 3,
-        "forkCount": 1
+        "starCount": 5,
+        "forkCount": 5
+      }
+    },
+    "video_compress_zero": {
+      "pub": {
+        "likeCount": 2,
+        "grantedPoints": 130,
+        "downloadCount30Days": 1,
+        "lastUpdated": "2025-11-20T08:17:15.818693Z"
+      },
+      "github": {
+        "slug": "zq0flaz/VideoCompressZero",
+        "starCount": 1,
+        "forkCount": 0
       }
     },
     "video_compressor": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 150,
+        "grantedPoints": 140,
+        "downloadCount30Days": 26,
         "lastUpdated": "2022-06-29T05:06:37.111936Z"
       },
       "github": {
@@ -771363,22 +771379,40 @@
         "forkCount": 2
       }
     },
+    "video_compressor_kit": {
+      "pub": {
+        "likeCount": 4,
+        "grantedPoints": 140,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2026-03-18T19:46:25.579974Z"
+      }
+    },
     "video_confi": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 50,
+        "grantedPoints": 25,
+        "downloadCount30Days": 15,
         "lastUpdated": "2022-02-02T04:52:54.851969Z"
       },
       "github": {
         "slug": "edumeet/edumeet",
-        "starCount": 1215,
-        "forkCount": 414
+        "starCount": 1349,
+        "forkCount": 429
+      }
+    },
+    "video_control_bar": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 11,
+        "lastUpdated": "2024-08-28T07:01:46.733478Z"
       }
     },
     "video_controls": {
       "pub": {
         "likeCount": 7,
-        "grantedPoints": 150,
+        "grantedPoints": 140,
+        "downloadCount30Days": 100,
         "lastUpdated": "2023-03-24T03:25:06.285823Z"
       },
       "github": {
@@ -771390,7 +771424,8 @@
     "video_creator": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 40,
+        "grantedPoints": 35,
+        "downloadCount30Days": 7,
         "lastUpdated": "2015-10-09T12:36:44.157Z"
       },
       "github": {
@@ -771403,6 +771438,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 110,
+        "downloadCount30Days": 4,
         "lastUpdated": "2021-11-18T10:04:34.256600Z"
       }
     },
@@ -771410,6 +771446,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 150,
+        "downloadCount30Days": 5,
         "lastUpdated": "2022-05-24T08:52:55.876313Z"
       },
       "github": {
@@ -771420,96 +771457,244 @@
     },
     "video_downloader_pro": {
       "pub": {
-        "likeCount": 2,
+        "likeCount": 3,
         "grantedPoints": 120,
+        "downloadCount30Days": 4,
         "lastUpdated": "2023-08-20T08:46:28.648374Z"
+      }
+    },
+    "video_duration": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 160,
+        "downloadCount30Days": 36,
+        "lastUpdated": "2025-04-29T10:57:54.345506Z"
+      },
+      "github": {
+        "slug": "stephane-archer/video_duration",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "video_duration_native": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 155,
+        "downloadCount30Days": 276,
+        "lastUpdated": "2025-10-08T14:10:09.571254Z"
+      },
+      "github": {
+        "slug": "Ddarkbooked/video_duration_native",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "video_duration_native_android": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 145,
+        "downloadCount30Days": 276,
+        "lastUpdated": "2025-10-08T14:05:15.212221Z"
+      },
+      "github": {
+        "slug": "Ddarkbooked/video_duration_native",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "video_duration_native_ios": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 145,
+        "downloadCount30Days": 207,
+        "lastUpdated": "2025-10-08T14:05:28.412534Z"
+      },
+      "github": {
+        "slug": "Ddarkbooked/video_duration_native",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "video_duration_native_platform_interface": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 0,
+        "lastUpdated": "2025-10-08T13:45:46.117624Z"
+      },
+      "github": {
+        "slug": "Ddarkbooked/video_duration_native",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "video_edit_factory": {
       "pub": {
         "likeCount": 12,
         "grantedPoints": 130,
+        "downloadCount30Days": 13,
         "lastUpdated": "2022-01-04T09:25:31.397992Z"
       },
       "github": {
         "slug": "xiaojieonly/Flutter_Video_Edit_Factory",
-        "starCount": 9,
-        "forkCount": 1
+        "starCount": 14,
+        "forkCount": 3
       }
     },
     "video_editor": {
       "pub": {
-        "likeCount": 514,
-        "grantedPoints": 160,
+        "likeCount": 599,
+        "grantedPoints": 150,
+        "downloadCount30Days": 31080,
         "lastUpdated": "2023-06-26T12:27:39.179988Z"
       },
       "github": {
         "slug": "LeGoffMael/video_editor",
-        "starCount": 369,
-        "forkCount": 219
+        "starCount": 495,
+        "forkCount": 305
       }
     },
     "video_editor_2": {
       "pub": {
-        "likeCount": 13,
+        "likeCount": 36,
         "grantedPoints": 140,
-        "lastUpdated": "2023-08-21T20:35:37.569753Z"
+        "downloadCount30Days": 564,
+        "lastUpdated": "2024-09-02T13:01:40.385973Z"
       },
       "github": {
         "slug": "Alberto-Monteiro/video_editor",
-        "starCount": 1,
-        "forkCount": 3
+        "starCount": 9,
+        "forkCount": 25
+      }
+    },
+    "video_editor_3": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 150,
+        "downloadCount30Days": 20,
+        "lastUpdated": "2026-01-27T19:21:26.525655Z"
+      },
+      "github": {
+        "slug": "Alberto-Monteiro/video_editor",
+        "starCount": 9,
+        "forkCount": 25
       }
     },
     "video_editor_bem": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 120,
+        "grantedPoints": 110,
+        "downloadCount30Days": 4,
         "lastUpdated": "2023-02-20T11:59:13.368446Z"
+      }
+    },
+    "video_editor_free": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 145,
+        "downloadCount30Days": 14,
+        "lastUpdated": "2026-07-10T10:14:45.069042Z"
+      }
+    },
+    "video_editor_gold": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 45,
+        "downloadCount30Days": 11,
+        "lastUpdated": "2024-10-05T06:25:19.040126Z"
+      },
+      "github": {
+        "slug": "Developer-ritesh/video_editor_gold",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "video_editor_pits": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 145,
+        "downloadCount30Days": 40,
+        "lastUpdated": "2024-09-25T11:24:16.713449Z"
+      },
+      "github": {
+        "slug": "kariot/video_editor",
+        "starCount": 0,
+        "forkCount": 2
       }
     },
     "video_editor_plus": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 140,
+        "grantedPoints": 130,
+        "downloadCount30Days": 4,
         "lastUpdated": "2024-01-13T05:38:20.119059Z"
       }
     },
     "video_editor_pro": {
       "pub": {
-        "likeCount": 7,
+        "likeCount": 9,
         "grantedPoints": 120,
+        "downloadCount30Days": 4,
         "lastUpdated": "2024-04-27T09:43:13.615647Z"
+      }
+    },
+    "video_editor_repack": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 150,
+        "downloadCount30Days": 37,
+        "lastUpdated": "2025-04-19T12:22:53.680634Z"
+      },
+      "github": {
+        "slug": "lunigy/video_editor_repack",
+        "starCount": 1,
+        "forkCount": 0
       }
     },
     "video_editor_sdk": {
       "pub": {
-        "likeCount": 48,
-        "grantedPoints": 150,
-        "lastUpdated": "2024-06-26T09:56:53.893907Z"
+        "likeCount": 60,
+        "grantedPoints": 140,
+        "downloadCount30Days": 4812,
+        "lastUpdated": "2025-10-01T11:02:16.503799Z"
       },
       "github": {
         "slug": "imgly/vesdk-flutter",
-        "starCount": 21,
-        "forkCount": 29
+        "starCount": 25,
+        "forkCount": 31
+      }
+    },
+    "video_forge": {
+      "pub": {
+        "likeCount": 2,
+        "grantedPoints": 140,
+        "downloadCount30Days": 57,
+        "lastUpdated": "2026-06-06T15:15:25.842479Z"
+      },
+      "github": {
+        "slug": "iamudesharma/mediaforge",
+        "starCount": 4,
+        "forkCount": 0
       }
     },
     "video_frame_extractor": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 150,
+        "grantedPoints": 140,
+        "downloadCount30Days": 14,
         "lastUpdated": "2023-06-24T13:49:25.107261Z"
       },
       "github": {
         "slug": "punit1111/video_frame_extractor",
         "starCount": 2,
-        "forkCount": 0
+        "forkCount": 1
       }
     },
     "video_info": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 20,
+        "downloadCount30Days": 4,
         "lastUpdated": "2019-11-22T05:26:53.656323Z"
       },
       "github": {
@@ -771518,10 +771703,37 @@
         "forkCount": 0
       }
     },
+    "video_info_plus": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 160,
+        "downloadCount30Days": 22,
+        "lastUpdated": "2025-02-18T04:38:26.039069Z"
+      },
+      "github": {
+        "slug": "Digvijaysinh2204/video_info_plus",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "video_info_plush": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 2,
+        "lastUpdated": "2025-02-13T10:11:36.138659Z"
+      },
+      "github": {
+        "slug": "Digvijaysinh2204/video_info_plush",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "video_js": {
       "pub": {
-        "likeCount": 24,
-        "grantedPoints": 150,
+        "likeCount": 26,
+        "grantedPoints": 140,
+        "downloadCount30Days": 61,
         "lastUpdated": "2022-03-30T10:40:24.395036Z"
       },
       "github": {
@@ -771532,80 +771744,121 @@
     },
     "video_js_player": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 120,
-        "lastUpdated": "2024-07-17T08:13:45.794659Z"
+        "likeCount": 4,
+        "grantedPoints": 140,
+        "downloadCount30Days": 63,
+        "lastUpdated": "2025-02-17T12:59:32.267686Z"
       },
       "github": {
         "slug": "emintolgahanpolat/video_js_player",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
     "video_js_themed": {
       "pub": {
-        "likeCount": 1,
-        "grantedPoints": 150,
+        "likeCount": 2,
+        "grantedPoints": 140,
+        "downloadCount30Days": 18,
         "lastUpdated": "2023-02-20T15:04:29.344443Z"
       },
       "github": {
         "slug": "PROGrand/video_js",
-        "starCount": 1,
-        "forkCount": 3
+        "starCount": 2,
+        "forkCount": 2
       }
     },
     "video_kit": {
       "pub": {
-        "likeCount": 2,
-        "grantedPoints": 130,
+        "likeCount": 4,
+        "grantedPoints": 120,
+        "downloadCount30Days": 4,
         "lastUpdated": "2024-03-20T20:01:53.679694Z"
       },
       "github": {
         "slug": "walikhan226/video_kit",
-        "starCount": 1,
-        "forkCount": 0
+        "starCount": 2,
+        "forkCount": 1
       }
     },
     "video_launcher": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 25,
+        "downloadCount30Days": 5,
         "lastUpdated": "2017-09-06T10:26:54.578818Z"
       },
       "github": {
         "slug": "rxlabz/flutter_video_launcher",
         "starCount": 26,
-        "forkCount": 12
+        "forkCount": 10
+      }
+    },
+    "video_list_player": {
+      "pub": {
+        "likeCount": 2,
+        "grantedPoints": 150,
+        "downloadCount30Days": 32,
+        "lastUpdated": "2025-08-29T15:18:03.817443Z"
+      },
+      "github": {
+        "slug": "mohammadwadhodev/video_list_player",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "video_liveness": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 130,
+        "downloadCount30Days": 0,
+        "lastUpdated": "2026-05-29T07:14:35.190232Z"
+      }
+    },
+    "video_maestro": {
+      "pub": {
+        "likeCount": 3,
+        "grantedPoints": 125,
+        "downloadCount30Days": 10,
+        "lastUpdated": "2026-05-22T18:50:28.644261Z"
+      },
+      "github": {
+        "slug": "ibrahimEltayfe/video_maestro",
+        "starCount": 3,
+        "forkCount": 0
       }
     },
     "video_manipulation": {
       "pub": {
         "likeCount": 33,
         "grantedPoints": 30,
+        "downloadCount30Days": 26,
         "lastUpdated": "2019-06-08T16:47:31.273061Z"
       },
       "github": {
         "slug": "hofmannfelix/video_manipulation",
         "starCount": 10,
-        "forkCount": 9
+        "forkCount": 8
       }
     },
     "video_meta_info": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 150,
+        "downloadCount30Days": 11,
         "lastUpdated": "2022-06-28T08:21:37.529202Z"
       },
       "github": {
         "slug": "DSTKCA/video_meta_info",
         "starCount": 1,
-        "forkCount": 2
+        "forkCount": 3
       }
     },
     "video_native_preview": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 130,
+        "grantedPoints": 120,
+        "downloadCount30Days": 53,
         "lastUpdated": "2023-04-24T02:10:48.498514Z"
       },
       "github": {
@@ -771618,6 +771871,7 @@
       "pub": {
         "likeCount": 4,
         "grantedPoints": 160,
+        "downloadCount30Days": 17,
         "lastUpdated": "2021-03-21T20:30:37.908688Z"
       },
       "github": {
@@ -771628,56 +771882,61 @@
     },
     "video_player": {
       "pub": {
-        "likeCount": 3163,
+        "likeCount": 3715,
         "grantedPoints": 150,
-        "lastUpdated": "2024-06-29T10:17:54.653785Z"
+        "downloadCount30Days": 2884640,
+        "lastUpdated": "2026-08-11T18:46:12.558899Z"
       },
       "github": {
         "slug": "flutter/packages",
-        "starCount": 4184,
-        "forkCount": 2669
+        "starCount": 5284,
+        "forkCount": 3854
       }
     },
     "video_player_360": {
       "pub": {
         "likeCount": 23,
         "grantedPoints": 40,
+        "downloadCount30Days": 46,
         "lastUpdated": "2020-03-05T16:02:09.260036Z"
       },
       "github": {
         "slug": "innovationmauritiustelecom/video_player_360",
-        "starCount": 22,
+        "starCount": 20,
         "forkCount": 12
       }
     },
     "video_player_adaptive": {
       "pub": {
-        "likeCount": 1,
-        "grantedPoints": 140,
+        "likeCount": 2,
+        "grantedPoints": 120,
+        "downloadCount30Days": 5,
         "lastUpdated": "2024-07-02T15:07:26.467261Z"
       },
       "github": {
         "slug": "raunaqkalra/video_player_adaptive",
-        "starCount": 0,
-        "forkCount": 0
+        "starCount": 2,
+        "forkCount": 1
       }
     },
     "video_player_android": {
       "pub": {
-        "likeCount": 16,
-        "grantedPoints": 150,
-        "lastUpdated": "2024-07-29T20:38:09.648375Z"
+        "likeCount": 30,
+        "grantedPoints": 160,
+        "downloadCount30Days": 2969411,
+        "lastUpdated": "2026-07-20T19:47:25.487307Z"
       },
       "github": {
         "slug": "flutter/packages",
-        "starCount": 4184,
-        "forkCount": 2669
+        "starCount": 5284,
+        "forkCount": 3854
       }
     },
     "video_player_android_mux": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 140,
+        "grantedPoints": 160,
+        "downloadCount30Days": 14,
         "lastUpdated": "2023-06-11T04:31:26.801167Z"
       },
       "github": {
@@ -771688,147 +771947,186 @@
     },
     "video_player_avfoundation": {
       "pub": {
-        "likeCount": 6,
-        "grantedPoints": 150,
-        "lastUpdated": "2024-05-08T20:49:03.746009Z"
+        "likeCount": 8,
+        "grantedPoints": 160,
+        "downloadCount30Days": 3082343,
+        "lastUpdated": "2026-07-09T22:08:28.798459Z"
       },
       "github": {
         "slug": "flutter/packages",
-        "starCount": 4184,
-        "forkCount": 2669
+        "starCount": 5284,
+        "forkCount": 3854
       }
     },
     "video_player_avplay": {
       "pub": {
-        "likeCount": 1,
+        "likeCount": 8,
         "grantedPoints": 130,
-        "lastUpdated": "2024-07-24T02:29:41.331689Z"
+        "downloadCount30Days": 1309,
+        "lastUpdated": "2026-07-03T08:27:09.625753Z"
       },
       "github": {
         "slug": "flutter-tizen/plugins",
-        "starCount": 65,
-        "forkCount": 43
+        "starCount": 79,
+        "forkCount": 54
       }
     },
     "video_player_cached_plus": {
       "pub": {
-        "likeCount": 1,
-        "grantedPoints": 140,
+        "likeCount": 3,
+        "grantedPoints": 135,
+        "downloadCount30Days": 14,
         "lastUpdated": "2024-01-30T09:50:06.745102Z"
       }
     },
     "video_player_control_panel": {
       "pub": {
-        "likeCount": 13,
-        "grantedPoints": 150,
-        "lastUpdated": "2023-10-21T11:45:56.539346Z"
+        "likeCount": 17,
+        "grantedPoints": 140,
+        "downloadCount30Days": 818,
+        "lastUpdated": "2025-05-27T05:30:46.812152Z"
       },
       "github": {
         "slug": "jakky1/video_player_control_panel",
-        "starCount": 4,
-        "forkCount": 3
+        "starCount": 7,
+        "forkCount": 5
       }
     },
     "video_player_controls": {
       "pub": {
         "likeCount": 17,
         "grantedPoints": 40,
+        "downloadCount30Days": 19,
         "lastUpdated": "2020-11-17T08:44:40.844114Z"
       },
       "github": {
         "slug": "Athanax/video_player_controls",
-        "starCount": 10,
+        "starCount": 9,
         "forkCount": 7
       }
     },
     "video_player_dart_vlc": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 100,
+        "grantedPoints": 70,
+        "downloadCount30Days": 20,
         "lastUpdated": "2023-03-29T23:30:15.429595Z"
       },
       "github": {
         "slug": "zezo357/video_player_dart_vlc",
-        "starCount": 2,
+        "starCount": 3,
         "forkCount": 2
       }
     },
     "video_player_extra": {
       "pub": {
         "likeCount": 11,
-        "grantedPoints": 130,
+        "grantedPoints": 120,
+        "downloadCount30Days": 3,
         "lastUpdated": "2022-02-23T20:49:10.506688Z"
       },
       "github": {
         "slug": "Eittipat/plugins",
         "starCount": 0,
-        "forkCount": 1
+        "forkCount": 2
       }
     },
     "video_player_flutter": {
       "pub": {
         "likeCount": 7,
         "grantedPoints": 40,
+        "downloadCount30Days": 7,
         "lastUpdated": "2020-06-29T14:36:59.970192Z"
       },
       "github": {
         "slug": "jesintharnold/flutter_video_player",
         "starCount": 6,
-        "forkCount": 1
+        "forkCount": 2
       }
     },
     "video_player_for_x": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 140,
+        "grantedPoints": 130,
+        "downloadCount30Days": 0,
         "lastUpdated": "2022-10-14T09:55:15.817474Z"
       },
       "github": {
         "slug": "flutter/plugins",
-        "starCount": 17413,
-        "forkCount": 9828
+        "starCount": 17712,
+        "forkCount": 9617
+      }
+    },
+    "video_player_harmonyos": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 38,
+        "lastUpdated": "2025-08-29T02:59:44.161993Z"
+      },
+      "github": {
+        "slug": "Wayaer/harmony_flutter_packages",
+        "starCount": 5,
+        "forkCount": 2
+      }
+    },
+    "video_player_hdr": {
+      "pub": {
+        "likeCount": 6,
+        "grantedPoints": 130,
+        "downloadCount30Days": 470,
+        "lastUpdated": "2026-08-10T11:38:18.674493Z"
+      },
+      "github": {
+        "slug": "rubengmlp/video_player_hdr",
+        "starCount": 4,
+        "forkCount": 2
       }
     },
     "video_player_header": {
       "pub": {
         "likeCount": 4,
         "grantedPoints": 40,
+        "downloadCount30Days": 0,
         "lastUpdated": "2019-10-09T02:24:01.576995Z"
       },
       "github": {
         "slug": "sanrixue/videoPlayerWithHeader",
-        "starCount": 5,
-        "forkCount": 8
+        "starCount": 6,
+        "forkCount": 9
       }
     },
     "video_player_header_c_b": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 30,
+        "downloadCount30Days": 9,
         "lastUpdated": "2020-06-30T15:25:33.395596Z"
       },
       "github": {
         "slug": "sanrixue/videoPlayerWithHeader",
-        "starCount": 5,
-        "forkCount": 8
+        "starCount": 6,
+        "forkCount": 9
       }
     },
     "video_player_m3_exo": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 160,
+        "downloadCount30Days": 6,
         "lastUpdated": "2024-04-03T07:37:45.094009Z"
       },
       "github": {
         "slug": "mfirmansyahidris/video_player_m3_exo",
-        "starCount": 2,
+        "starCount": 3,
         "forkCount": 0
       }
     },
     "video_player_macos": {
       "pub": {
-        "likeCount": 32,
-        "grantedPoints": 130,
+        "likeCount": 31,
+        "grantedPoints": 125,
+        "downloadCount30Days": 1140,
         "lastUpdated": "2023-03-23T10:03:03.182722Z"
       },
       "github": {
@@ -771837,27 +772135,42 @@
         "forkCount": 16
       }
     },
+    "video_player_manager": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 140,
+        "downloadCount30Days": 13,
+        "lastUpdated": "2026-02-13T05:45:43.617657Z"
+      },
+      "github": {
+        "slug": "Yogesh-droid/video_player_manager",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "video_player_media_kit": {
       "pub": {
-        "likeCount": 51,
-        "grantedPoints": 150,
-        "lastUpdated": "2023-11-16T12:37:50.279616Z"
+        "likeCount": 109,
+        "grantedPoints": 160,
+        "downloadCount30Days": 62039,
+        "lastUpdated": "2025-11-14T21:58:27.459652Z"
       },
       "github": {
         "slug": "media-kit/media-kit",
-        "starCount": 1012,
-        "forkCount": 157
+        "starCount": 1796,
+        "forkCount": 452
       }
     },
     "video_player_mux": {
       "pub": {
-        "likeCount": 3,
-        "grantedPoints": 150,
+        "likeCount": 4,
+        "grantedPoints": 160,
+        "downloadCount30Days": 11,
         "lastUpdated": "2023-06-11T04:44:40.684810Z"
       },
       "github": {
         "slug": "hungryemon/video_player_mux",
-        "starCount": 0,
+        "starCount": 2,
         "forkCount": 0
       }
     },
@@ -771865,54 +772178,72 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 130,
+        "downloadCount30Days": 11,
         "lastUpdated": "2023-10-19T18:15:20.208354Z"
       },
       "github": {
         "slug": "dipottor/video_player_native",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
     "video_player_oneplusdream": {
       "pub": {
         "likeCount": 6,
-        "grantedPoints": 140,
+        "grantedPoints": 130,
+        "downloadCount30Days": 11,
         "lastUpdated": "2023-12-13T02:08:40.732349Z"
       },
       "github": {
         "slug": "likeconan/flutter_video_player",
-        "starCount": 3,
-        "forkCount": 2
+        "starCount": 4,
+        "forkCount": 3
+      }
+    },
+    "video_player_pip": {
+      "pub": {
+        "likeCount": 4,
+        "grantedPoints": 115,
+        "downloadCount30Days": 517,
+        "lastUpdated": "2025-05-13T11:59:57.211265Z"
+      },
+      "github": {
+        "slug": "AkmaljonAbdirakhimov/video_player_pip",
+        "starCount": 1,
+        "forkCount": 7
       }
     },
     "video_player_platform_interface": {
       "pub": {
-        "likeCount": 20,
-        "grantedPoints": 140,
-        "lastUpdated": "2024-01-09T02:37:44.326749Z"
+        "likeCount": 21,
+        "grantedPoints": 150,
+        "downloadCount30Days": 2991141,
+        "lastUpdated": "2026-07-06T15:45:32.078162Z"
       },
       "github": {
         "slug": "flutter/packages",
-        "starCount": 4184,
-        "forkCount": 2669
+        "starCount": 5284,
+        "forkCount": 3854
       }
     },
     "video_player_platform_interface_extra": {
       "pub": {
         "likeCount": 1,
         "grantedPoints": 130,
+        "downloadCount30Days": 5,
         "lastUpdated": "2022-01-22T10:32:09.083666Z"
       },
       "github": {
         "slug": "Eittipat/plugins",
         "starCount": 0,
-        "forkCount": 1
+        "forkCount": 2
       }
     },
     "video_player_platform_interface_mux": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 130,
+        "grantedPoints": 150,
+        "downloadCount30Days": 6,
         "lastUpdated": "2023-06-01T03:13:01.630649Z"
       },
       "github": {
@@ -771924,86 +772255,128 @@
     "video_player_plus": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 30,
+        "grantedPoints": 40,
+        "downloadCount30Days": 9,
         "lastUpdated": "2020-11-20T06:41:48.964978Z"
       }
     },
     "video_player_rtmp_ext": {
       "pub": {
-        "likeCount": 7,
+        "likeCount": 10,
         "grantedPoints": 120,
-        "lastUpdated": "2024-02-05T02:43:02.648516Z"
+        "downloadCount30Days": 57,
+        "lastUpdated": "2025-10-29T01:37:47.272566Z"
       },
       "github": {
         "slug": "mdddj/video_player_rtmp_ext",
-        "starCount": 1,
-        "forkCount": 1
+        "starCount": 3,
+        "forkCount": 2
+      }
+    },
+    "video_player_sdk": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 95,
+        "downloadCount30Days": 7,
+        "lastUpdated": "2025-08-18T07:43:33.251400Z"
       }
     },
     "video_player_sharara": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 130,
+        "likeCount": 1,
+        "grantedPoints": 115,
+        "downloadCount30Days": 10,
         "lastUpdated": "2024-04-24T01:40:07.969240Z"
       },
       "github": {
         "slug": "HassanSharara/sharara_video_player_flutter",
-        "starCount": 0,
+        "starCount": 3,
         "forkCount": 0
       }
     },
     "video_player_tizen": {
       "pub": {
-        "likeCount": 6,
-        "grantedPoints": 110,
-        "lastUpdated": "2023-10-31T07:30:25.138529Z"
+        "likeCount": 12,
+        "grantedPoints": 130,
+        "downloadCount30Days": 3330,
+        "lastUpdated": "2026-06-17T08:39:47.549374Z"
       },
       "github": {
         "slug": "flutter-tizen/plugins",
-        "starCount": 65,
-        "forkCount": 43
+        "starCount": 79,
+        "forkCount": 54
+      }
+    },
+    "video_player_tvos": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 220,
+        "lastUpdated": "2026-05-24T05:10:01.393111Z"
+      },
+      "github": {
+        "slug": "fluttertv/plugins",
+        "starCount": 0,
+        "forkCount": 3
       }
     },
     "video_player_videohole": {
       "pub": {
-        "likeCount": 4,
+        "likeCount": 6,
         "grantedPoints": 130,
-        "lastUpdated": "2024-01-05T05:58:07.068074Z"
+        "downloadCount30Days": 121,
+        "lastUpdated": "2026-06-30T02:32:20.729939Z"
       },
       "github": {
         "slug": "flutter-tizen/plugins",
-        "starCount": 65,
-        "forkCount": 43
+        "starCount": 79,
+        "forkCount": 54
+      }
+    },
+    "video_player_watchos": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 78,
+        "lastUpdated": "2026-07-19T07:24:01.477842Z"
+      },
+      "github": {
+        "slug": "flutterwatch/plugins",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "video_player_web": {
       "pub": {
-        "likeCount": 60,
-        "grantedPoints": 140,
-        "lastUpdated": "2024-05-29T21:44:49.645410Z"
+        "likeCount": 72,
+        "grantedPoints": 150,
+        "downloadCount30Days": 2563234,
+        "lastUpdated": "2025-07-09T15:42:58.098259Z"
       },
       "github": {
         "slug": "flutter/packages",
-        "starCount": 4184,
-        "forkCount": 2669
+        "starCount": 5284,
+        "forkCount": 3854
       }
     },
     "video_player_web_hls": {
       "pub": {
-        "likeCount": 70,
+        "likeCount": 79,
         "grantedPoints": 150,
-        "lastUpdated": "2024-05-06T15:44:55.129197Z"
+        "downloadCount30Days": 21738,
+        "lastUpdated": "2024-08-11T14:05:32.525749Z"
       },
       "github": {
         "slug": "balvinderz/video_player_web_hls",
-        "starCount": 50,
-        "forkCount": 57
+        "starCount": 56,
+        "forkCount": 65
       }
     },
     "video_player_web_hls_swarm_cloud": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 130,
+        "grantedPoints": 60,
+        "downloadCount30Days": 22,
         "lastUpdated": "2022-06-11T03:37:31.041489Z"
       },
       "github": {
@@ -772014,43 +772387,73 @@
     },
     "video_player_win": {
       "pub": {
-        "likeCount": 46,
-        "grantedPoints": 140,
-        "lastUpdated": "2024-07-04T17:46:37.629555Z"
+        "likeCount": 69,
+        "grantedPoints": 150,
+        "downloadCount30Days": 57687,
+        "lastUpdated": "2025-11-23T15:31:41.716930Z"
       },
       "github": {
         "slug": "jakky1/video_player_win",
-        "starCount": 26,
-        "forkCount": 9
+        "starCount": 42,
+        "forkCount": 19
       }
     },
     "video_player_with_controls": {
       "pub": {
-        "likeCount": 1,
-        "grantedPoints": 130,
+        "likeCount": 2,
+        "grantedPoints": 120,
+        "downloadCount30Days": 16,
         "lastUpdated": "2023-11-17T04:50:36.894754Z"
       },
       "github": {
         "slug": "Trend74X/Video-Player-With-Controls",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 1
       }
     },
     "video_plugin": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 30,
+        "grantedPoints": 25,
+        "downloadCount30Days": 68,
         "lastUpdated": "2019-01-03T18:33:42.548325Z"
+      }
+    },
+    "video_pool": {
+      "pub": {
+        "likeCount": 22,
+        "grantedPoints": 150,
+        "downloadCount30Days": 252,
+        "lastUpdated": "2026-06-24T11:12:36.229187Z"
+      },
+      "github": {
+        "slug": "abdullahtas0/video-pool",
+        "starCount": 19,
+        "forkCount": 7
       }
     },
     "video_preview_thumbnails": {
       "pub": {
-        "likeCount": 3,
+        "likeCount": 8,
         "grantedPoints": 160,
-        "lastUpdated": "2024-07-14T08:35:58.491192Z"
+        "downloadCount30Days": 45,
+        "lastUpdated": "2025-01-15T06:09:04.733510Z"
       },
       "github": {
         "slug": "mbfakourii/video_preview_thumbnails",
+        "starCount": 1,
+        "forkCount": 1
+      }
+    },
+    "video_progress_player": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 160,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2026-06-19T10:55:39.138129Z"
+      },
+      "github": {
+        "slug": "Coderkube-App/video_progress_player",
         "starCount": 0,
         "forkCount": 0
       }
@@ -772058,115 +772461,224 @@
     "video_provider": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 40,
+        "grantedPoints": 35,
+        "downloadCount30Days": 27,
         "lastUpdated": "2020-09-24T08:23:47.728398Z"
       },
       "github": {
         "slug": "StefanLobbenmeier/video_provider",
-        "starCount": 4,
+        "starCount": 5,
         "forkCount": 3
+      }
+    },
+    "video_query": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 135,
+        "downloadCount30Days": 3,
+        "lastUpdated": "2025-04-05T18:57:19.893528Z"
+      }
+    },
+    "video_reels": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 120,
+        "downloadCount30Days": 25,
+        "lastUpdated": "2026-01-27T11:32:11.993649Z"
+      },
+      "github": {
+        "slug": "mohammedjaf96/video_reels",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "video_shop_flutter": {
       "pub": {
-        "likeCount": 18,
-        "grantedPoints": 150,
+        "likeCount": 26,
+        "grantedPoints": 140,
+        "downloadCount30Days": 65,
         "lastUpdated": "2023-08-07T02:44:01.655204Z"
       },
       "github": {
         "slug": "AppCheap/flutter_shopping_video",
         "starCount": 8,
-        "forkCount": 7
+        "forkCount": 8
+      }
+    },
+    "video_skimmer": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 150,
+        "downloadCount30Days": 7,
+        "lastUpdated": "2025-04-18T18:07:19.728750Z"
+      },
+      "github": {
+        "slug": "stephane-archer/video_skimmer",
+        "starCount": 1,
+        "forkCount": 0
       }
     },
     "video_slider": {
       "pub": {
-        "likeCount": 14,
-        "grantedPoints": 130,
+        "likeCount": 16,
+        "grantedPoints": 140,
+        "downloadCount30Days": 9,
         "lastUpdated": "2021-07-17T06:46:44.527447Z"
       },
       "github": {
         "slug": "YuheiNakasaka/flutter_video_slider",
-        "starCount": 1,
+        "starCount": 2,
         "forkCount": 8
+      }
+    },
+    "video_snapshot_generator": {
+      "pub": {
+        "likeCount": 3,
+        "grantedPoints": 150,
+        "downloadCount30Days": 33,
+        "lastUpdated": "2025-12-10T06:16:13.549102Z"
+      },
+      "github": {
+        "slug": "Dhia-Bechattaoui/video_snapshot_generator",
+        "starCount": 3,
+        "forkCount": 0
       }
     },
     "video_storage_query": {
       "pub": {
-        "likeCount": 4,
-        "grantedPoints": 150,
+        "likeCount": 5,
+        "grantedPoints": 160,
+        "downloadCount30Days": 3,
         "lastUpdated": "2023-12-21T12:50:36.047661Z"
       },
       "github": {
         "slug": "rans-rans/video_storage_query",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
     "video_stream": {
       "pub": {
         "likeCount": 41,
-        "grantedPoints": 140,
+        "grantedPoints": 70,
+        "downloadCount30Days": 580,
         "lastUpdated": "2021-07-28T04:01:30.838808Z"
       },
       "github": {
         "slug": "MarshallTechnology/video_stream",
         "starCount": 9,
-        "forkCount": 25
+        "forkCount": 24
       }
     },
     "video_subtitle": {
       "pub": {
         "likeCount": 5,
         "grantedPoints": 30,
+        "downloadCount30Days": 5,
         "lastUpdated": "2021-01-12T08:32:07.022500Z"
       },
       "github": {
         "slug": "surfstudio/SurfGear",
-        "starCount": 359,
+        "starCount": 358,
         "forkCount": 50
+      }
+    },
+    "video_subtitle_editor": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 105,
+        "downloadCount30Days": 11,
+        "lastUpdated": "2024-11-14T09:38:21.660111Z"
+      },
+      "github": {
+        "slug": "wxkly8888/video_subtitle_editor",
+        "starCount": 7,
+        "forkCount": 1
+      }
+    },
+    "video_telemetry": {
+      "pub": {
+        "likeCount": 4,
+        "grantedPoints": 160,
+        "downloadCount30Days": 41,
+        "lastUpdated": "2026-05-26T07:17:41.963764Z"
+      },
+      "github": {
+        "slug": "jayeshbhole7/flutter_video_telemetry",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "video_thumb_getter": {
       "pub": {
-        "likeCount": 3,
-        "grantedPoints": 150,
-        "lastUpdated": "2024-04-15T06:50:05.882099Z"
+        "likeCount": 4,
+        "grantedPoints": 140,
+        "downloadCount30Days": 178,
+        "lastUpdated": "2024-08-07T05:34:04.284701Z"
       },
       "github": {
         "slug": "gabrielginter/video_thumb_getter",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 4
       }
     },
     "video_thumbnail": {
       "pub": {
-        "likeCount": 524,
-        "grantedPoints": 150,
-        "lastUpdated": "2022-09-12T12:44:56.316452Z"
+        "likeCount": 617,
+        "grantedPoints": 140,
+        "downloadCount30Days": 183377,
+        "lastUpdated": "2025-05-14T02:35:13.711279Z"
       },
       "github": {
         "slug": "justsoft/video_thumbnail",
-        "starCount": 183,
-        "forkCount": 215
+        "starCount": 218,
+        "forkCount": 498
+      }
+    },
+    "video_thumbnail_gdx_plus": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 361,
+        "lastUpdated": "2026-07-28T08:17:02.928337Z"
+      },
+      "github": {
+        "slug": "47gurvinder/video_thumbnail",
+        "starCount": 1,
+        "forkCount": 1
+      }
+    },
+    "video_thumbnail_gen": {
+      "pub": {
+        "likeCount": 3,
+        "grantedPoints": 150,
+        "downloadCount30Days": 395,
+        "lastUpdated": "2026-06-09T05:44:54.354631Z"
+      },
+      "github": {
+        "slug": "Itsxhadi/video_thumbnail_gen",
+        "starCount": 1,
+        "forkCount": 1
       }
     },
     "video_thumbnail_generator": {
       "pub": {
-        "likeCount": 22,
-        "grantedPoints": 40,
+        "likeCount": 21,
+        "grantedPoints": 35,
+        "downloadCount30Days": 26,
         "lastUpdated": "2021-02-18T20:49:30.493913Z"
       },
       "github": {
         "slug": "realdiganta/video-thumbnail-generator",
-        "starCount": 5,
-        "forkCount": 17
+        "starCount": 4,
+        "forkCount": 18
       }
     },
     "video_thumbnail_imageview": {
       "pub": {
-        "likeCount": 17,
+        "likeCount": 20,
         "grantedPoints": 130,
+        "downloadCount30Days": 260,
         "lastUpdated": "2024-04-18T10:15:21.339716Z"
       },
       "github": {
@@ -772175,29 +772687,92 @@
         "forkCount": 3
       }
     },
+    "video_thumbnail_ohos": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 130,
+        "downloadCount30Days": 26,
+        "lastUpdated": "2024-12-04T06:46:44.814347Z"
+      }
+    },
+    "video_thumbnail_plugin": {
+      "pub": {
+        "likeCount": 2,
+        "grantedPoints": 150,
+        "downloadCount30Days": 34,
+        "lastUpdated": "2025-08-30T11:35:34.510310Z"
+      },
+      "github": {
+        "slug": "sumitsharansatsangi/video_thumbnail_plugin",
+        "starCount": 3,
+        "forkCount": 1
+      }
+    },
+    "video_thumbnail_plus": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 130,
+        "downloadCount30Days": 706,
+        "lastUpdated": "2026-01-19T14:15:37.962497Z"
+      },
+      "github": {
+        "slug": "WutangNailao/video_thumbnail_plus",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "video_thumbnail_pro": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 140,
+        "downloadCount30Days": 13,
+        "lastUpdated": "2024-12-31T07:13:23.054273Z"
+      },
+      "github": {
+        "slug": "arsarsars1/video_thumbnail_pro",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "video_thumbnail_slider": {
       "pub": {
-        "likeCount": 10,
+        "likeCount": 20,
         "grantedPoints": 160,
+        "downloadCount30Days": 60,
         "lastUpdated": "2024-03-31T15:44:43.170387Z"
       },
       "github": {
         "slug": "nguyenchiemdu/flutter-video-thumbnail-slider",
-        "starCount": 7,
+        "starCount": 9,
+        "forkCount": 3
+      }
+    },
+    "video_toolbox": {
+      "pub": {
+        "likeCount": 2,
+        "grantedPoints": 140,
+        "downloadCount30Days": 9,
+        "lastUpdated": "2025-04-30T00:41:24.406974Z"
+      },
+      "github": {
+        "slug": "stephane-archer/flutter_video_toolbox",
+        "starCount": 3,
         "forkCount": 1
       }
     },
     "video_transcode_platform_interface": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 140,
+        "likeCount": 1,
+        "grantedPoints": 130,
+        "downloadCount30Days": 6,
         "lastUpdated": "2023-07-28T13:04:30.604716Z"
       }
     },
     "video_trim": {
       "pub": {
         "likeCount": 5,
-        "grantedPoints": 150,
+        "grantedPoints": 140,
+        "downloadCount30Days": 11,
         "lastUpdated": "2021-10-01T17:14:03.468876Z"
       },
       "github": {
@@ -772206,70 +772781,178 @@
         "forkCount": 1
       }
     },
+    "video_trim_editor": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 150,
+        "downloadCount30Days": 9,
+        "lastUpdated": "2025-10-20T08:44:50.661256Z"
+      },
+      "github": {
+        "slug": "Priyanshu-Mallick/video_trim_editor",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "video_trim_flutter": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 130,
+        "downloadCount30Days": 2,
+        "lastUpdated": "2024-12-26T17:24:55.639218Z"
+      }
+    },
     "video_trimmer": {
       "pub": {
-        "likeCount": 439,
-        "grantedPoints": 150,
-        "lastUpdated": "2023-10-01T20:14:28.787755Z"
+        "likeCount": 504,
+        "grantedPoints": 160,
+        "downloadCount30Days": 10118,
+        "lastUpdated": "2025-04-27T09:05:57.999755Z"
       },
       "github": {
         "slug": "sbis04/video_trimmer",
-        "starCount": 424,
-        "forkCount": 247
+        "starCount": 491,
+        "forkCount": 366
+      }
+    },
+    "video_trimmer_2": {
+      "pub": {
+        "likeCount": 4,
+        "grantedPoints": 140,
+        "downloadCount30Days": 116,
+        "lastUpdated": "2025-07-11T16:34:52.893006Z"
+      },
+      "github": {
+        "slug": "mokshchadha/video_trimmer_2",
+        "starCount": 4,
+        "forkCount": 4
+      }
+    },
+    "video_trimmer_plus": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 10,
+        "lastUpdated": "2025-08-29T17:02:25.847706Z"
+      },
+      "github": {
+        "slug": "mahfuzmunna/video_trimmer_plus",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "video_trimmer_pro": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 140,
+        "downloadCount30Days": 10,
+        "lastUpdated": "2024-09-28T13:36:23.957743Z"
+      }
+    },
+    "video_ultra_player": {
+      "pub": {
+        "likeCount": 5,
+        "grantedPoints": 150,
+        "downloadCount30Days": 349,
+        "lastUpdated": "2026-08-13T23:34:32.952067Z"
+      },
+      "github": {
+        "slug": "andrelucassvt/video-ultra-player",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "video_upload_sdk": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 120,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2025-05-28T10:25:47.429973Z"
       }
     },
     "video_uploader": {
       "pub": {
         "likeCount": 16,
-        "grantedPoints": 160,
-        "lastUpdated": "2024-07-09T08:54:36.269110Z"
+        "grantedPoints": 60,
+        "downloadCount30Days": 98,
+        "lastUpdated": "2024-10-29T09:39:05.120431Z"
       },
       "github": {
         "slug": "apivideo/api.video-flutter-uploader",
-        "starCount": 24,
-        "forkCount": 2
+        "starCount": 27,
+        "forkCount": 3
       }
     },
     "video_url_validator": {
       "pub": {
-        "likeCount": 12,
+        "likeCount": 16,
         "grantedPoints": 160,
-        "lastUpdated": "2023-02-17T09:59:21.437898Z"
+        "downloadCount30Days": 973,
+        "lastUpdated": "2025-07-18T08:11:44.677720Z"
       },
       "github": {
         "slug": "7span/video-url-validator-dart",
-        "starCount": 2,
+        "starCount": 4,
         "forkCount": 1
+      }
+    },
+    "video_view": {
+      "pub": {
+        "likeCount": 15,
+        "grantedPoints": 160,
+        "downloadCount30Days": 224,
+        "lastUpdated": "2026-07-06T08:16:33.684416Z"
+      },
+      "github": {
+        "slug": "xxoo/flutter_video_view",
+        "starCount": 14,
+        "forkCount": 5
+      }
+    },
+    "video_view_player": {
+      "pub": {
+        "likeCount": 12,
+        "grantedPoints": 160,
+        "downloadCount30Days": 109,
+        "lastUpdated": "2026-07-18T16:51:02.257881Z"
+      },
+      "github": {
+        "slug": "Narukarudra10/video_view_player",
+        "starCount": 4,
+        "forkCount": 0
       }
     },
     "video_viewer": {
       "pub": {
-        "likeCount": 214,
+        "likeCount": 219,
         "grantedPoints": 130,
+        "downloadCount30Days": 62,
         "lastUpdated": "2021-11-03T18:24:21.828788Z"
       },
       "github": {
         "slug": "seel-channel/video_viewer",
-        "starCount": 51,
-        "forkCount": 55
+        "starCount": 54,
+        "forkCount": 60
       }
     },
     "video_viewer_updated": {
       "pub": {
-        "likeCount": 1,
-        "grantedPoints": 120,
+        "likeCount": 2,
+        "grantedPoints": 115,
+        "downloadCount30Days": 10,
         "lastUpdated": "2023-03-03T13:10:29.073594Z"
       },
       "github": {
         "slug": "dukesx/video_viewer_updated",
-        "starCount": 0,
-        "forkCount": 5
+        "starCount": 1,
+        "forkCount": 6
       }
     },
     "video_walkthrough": {
       "pub": {
         "likeCount": 12,
-        "grantedPoints": 80,
+        "grantedPoints": 60,
+        "downloadCount30Days": 29,
         "lastUpdated": "2022-09-03T14:41:14.825335Z"
       },
       "github": {
@@ -772280,20 +772963,59 @@
     },
     "video_watermark": {
       "pub": {
-        "likeCount": 20,
+        "likeCount": 23,
         "grantedPoints": 150,
+        "downloadCount30Days": 36,
         "lastUpdated": "2022-12-27T16:51:08.856535Z"
       },
       "github": {
         "slug": "EDEDIN-Solutions/video_watermark",
-        "starCount": 2,
-        "forkCount": 6
+        "starCount": 4,
+        "forkCount": 9
+      }
+    },
+    "video_watermark_plus": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 19,
+        "lastUpdated": "2025-08-29T15:29:29.721749Z"
+      },
+      "github": {
+        "slug": "mahfuzmunna/video_watermark_plus",
+        "starCount": 0,
+        "forkCount": 1
+      }
+    },
+    "video_web_compressor": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 140,
+        "downloadCount30Days": 6,
+        "lastUpdated": "2026-02-03T14:32:20.557023Z"
+      }
+    },
+    "video_windows_live": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 135,
+        "downloadCount30Days": 21,
+        "lastUpdated": "2026-06-09T16:01:41.040889Z"
+      }
+    },
+    "video_windows_webrtc": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 145,
+        "downloadCount30Days": 21,
+        "lastUpdated": "2026-06-09T15:33:45.740224Z"
       }
     },
     "videoframecapture": {
       "pub": {
-        "likeCount": 1,
+        "likeCount": 2,
         "grantedPoints": 120,
+        "downloadCount30Days": 7,
         "lastUpdated": "2024-04-17T02:52:47.579480Z"
       }
     },
@@ -772301,13 +773023,31 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 130,
+        "downloadCount30Days": 16,
         "lastUpdated": "2022-03-10T10:29:12.898618Z"
+      }
+    },
+    "videokyc_flutter": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 183,
+        "lastUpdated": "2026-08-08T07:48:05.517916Z"
+      }
+    },
+    "videokyc_flutter_sdk": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 115,
+        "downloadCount30Days": 7,
+        "lastUpdated": "2026-02-25T10:29:05.712049Z"
       }
     },
     "videoplay": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 35,
+        "downloadCount30Days": 22,
         "lastUpdated": "2014-10-30T14:43:02.724360Z"
       },
       "github": {
@@ -772318,8 +773058,9 @@
     },
     "videoplayer_pkg": {
       "pub": {
-        "likeCount": 1,
-        "grantedPoints": 50,
+        "likeCount": 2,
+        "grantedPoints": 30,
+        "downloadCount30Days": 4,
         "lastUpdated": "2023-10-18T13:26:29.809350Z"
       }
     },
@@ -772327,6 +773068,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 30,
+        "downloadCount30Days": 10,
         "lastUpdated": "2014-09-29T00:28:25.516670Z"
       },
       "github": {
@@ -772337,8 +773079,9 @@
     },
     "videos_player": {
       "pub": {
-        "likeCount": 51,
+        "likeCount": 50,
         "grantedPoints": 40,
+        "downloadCount30Days": 24,
         "lastUpdated": "2020-04-28T12:19:06.684669Z"
       },
       "github": {
@@ -772349,74 +773092,178 @@
     },
     "videosdk": {
       "pub": {
-        "likeCount": 110,
-        "grantedPoints": 105,
-        "lastUpdated": "2024-07-17T14:58:18.028665Z"
-      },
-      "github": {
-        "slug": "videosdk-live/videosdk-rtc-flutter-sdk-example",
-        "starCount": 78,
-        "forkCount": 28
+        "likeCount": 138,
+        "grantedPoints": 130,
+        "downloadCount30Days": 1500,
+        "lastUpdated": "2026-08-11T11:39:28.316704Z"
       }
     },
     "videosdk_media_effects": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 135,
-        "lastUpdated": "2024-07-17T14:30:40.557413Z"
+        "grantedPoints": 145,
+        "downloadCount30Days": 58,
+        "lastUpdated": "2026-05-26T09:51:59.953621Z"
       }
     },
     "videosdk_otel": {
       "pub": {
-        "likeCount": 0,
+        "likeCount": 2,
         "grantedPoints": 110,
-        "lastUpdated": "2023-07-13T09:02:39.739710Z"
+        "downloadCount30Days": 747,
+        "lastUpdated": "2025-08-01T14:01:36.083265Z"
       }
     },
     "videosdk_room_stats": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 105,
-        "lastUpdated": "2024-05-31T12:05:03.044603Z"
+        "grantedPoints": 115,
+        "downloadCount30Days": 917,
+        "lastUpdated": "2026-07-24T09:45:24.794991Z"
       },
       "github": {
         "slug": "videosdk-live/videosdk-rtc-flutter-sdk-example",
-        "starCount": 78,
-        "forkCount": 28
+        "starCount": 89,
+        "forkCount": 32
       }
     },
     "videosdk_webrtc": {
       "pub": {
+        "likeCount": 3,
+        "grantedPoints": 130,
+        "downloadCount30Days": 846,
+        "lastUpdated": "2026-03-09T15:09:23.776109Z"
+      }
+    },
+    "vidhaan_toast": {
+      "pub": {
+        "likeCount": 4,
+        "grantedPoints": 130,
+        "downloadCount30Days": 4,
+        "lastUpdated": "2025-10-21T09:35:09.028078Z"
+      }
+    },
+    "vidinfra_player": {
+      "pub": {
         "likeCount": 1,
-        "grantedPoints": 150,
-        "lastUpdated": "2024-07-17T13:59:50.297908Z"
+        "grantedPoints": 55,
+        "downloadCount30Days": 17,
+        "lastUpdated": "2025-12-29T11:25:14.711091Z"
+      },
+      "github": {
+        "slug": "vidinfra/VidinfraPlayerFlutter",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "vidipress_core": {
+      "pub": {
+        "likeCount": 2,
+        "grantedPoints": 160,
+        "downloadCount30Days": 4,
+        "lastUpdated": "2025-03-22T16:13:48.472841Z"
+      },
+      "github": {
+        "slug": "nathfavour/vidipress_core",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "vidkit": {
+      "pub": {
+        "likeCount": 2,
+        "grantedPoints": 140,
+        "downloadCount30Days": 11,
+        "lastUpdated": "2026-02-19T06:49:47.854702Z"
+      },
+      "github": {
+        "slug": "Sanaullah49/vidkit",
+        "starCount": 1,
+        "forkCount": 0
       }
     },
     "vido_analysis": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 120,
+        "downloadCount30Days": 7,
         "lastUpdated": "2022-10-17T09:53:03.593449Z"
       }
     },
     "vido_toast": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 140,
-        "lastUpdated": "2023-10-30T02:55:06.893468Z"
+        "grantedPoints": 160,
+        "downloadCount30Days": 28,
+        "lastUpdated": "2025-10-30T03:48:33.636528Z"
+      }
+    },
+    "vido_ultra": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 160,
+        "downloadCount30Days": 7,
+        "lastUpdated": "2026-02-18T08:15:02.513754Z"
+      }
+    },
+    "vidsqueeze": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 150,
+        "downloadCount30Days": 31,
+        "lastUpdated": "2026-06-17T07:49:03.357341Z"
+      },
+      "github": {
+        "slug": "wat97/media3-compressi",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "vidvliveness_flutter_plugin": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 125,
+        "downloadCount30Days": 338,
+        "lastUpdated": "2026-07-22T13:42:35.545802Z"
+      }
+    },
+    "vidvocr_flutter_plugin": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 135,
+        "downloadCount30Days": 165,
+        "lastUpdated": "2026-04-21T14:39:59.203928Z"
+      }
+    },
+    "vidvotp_flutter": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 135,
+        "downloadCount30Days": 129,
+        "lastUpdated": "2026-08-10T13:20:59.802655Z"
+      }
+    },
+    "vie_app_ads_manager": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 120,
+        "downloadCount30Days": 82,
+        "lastUpdated": "2026-03-12T09:25:21.771619Z"
       }
     },
     "vieaura_camera_plugin": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 130,
+        "grantedPoints": 140,
+        "downloadCount30Days": 106,
         "lastUpdated": "2022-05-06T18:01:23.586876Z"
       }
     },
     "vieaura_ocr_plugin": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 130,
+        "grantedPoints": 140,
+        "downloadCount30Days": 29,
         "lastUpdated": "2022-08-30T17:14:34.121261Z"
       }
     },
@@ -772424,6 +773271,7 @@
       "pub": {
         "likeCount": 4,
         "grantedPoints": 160,
+        "downloadCount30Days": 175,
         "lastUpdated": "2023-09-26T19:40:15.457301Z"
       },
       "github": {
@@ -772435,7 +773283,8 @@
     "viet_date_time": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 150,
+        "grantedPoints": 140,
+        "downloadCount30Days": 18,
         "lastUpdated": "2024-02-05T03:08:26.772364Z"
       },
       "github": {
@@ -772447,7 +773296,8 @@
     "vietinfo_core": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 20,
+        "grantedPoints": 25,
+        "downloadCount30Days": 13,
         "lastUpdated": "2020-12-27T09:11:26.608399Z"
       }
     },
@@ -772455,6 +773305,7 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 30,
+        "downloadCount30Days": 31,
         "lastUpdated": "2021-04-16T11:01:31.699137Z"
       },
       "github": {
@@ -772463,84 +773314,139 @@
         "forkCount": 0
       }
     },
+    "vietmap_automotive_flutter": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 16,
+        "lastUpdated": "2024-12-12T02:39:43.754855Z"
+      },
+      "github": {
+        "slug": "vietmap-company/vietmap_automotive_flutter",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "vietmap_flutter_alert_plugin": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 0,
+        "downloadCount30Days": 86,
+        "lastUpdated": "2026-07-16T09:05:41.273429Z"
+      }
+    },
     "vietmap_flutter_gl": {
       "pub": {
-        "likeCount": 4,
-        "grantedPoints": 150,
-        "lastUpdated": "2024-06-10T07:47:12.795905Z"
+        "likeCount": 10,
+        "grantedPoints": 140,
+        "downloadCount30Days": 783,
+        "lastUpdated": "2026-08-05T11:21:39.045743Z"
       },
       "github": {
         "slug": "vietmap-company/vietmap_flutter_gl",
-        "starCount": 2,
-        "forkCount": 0
+        "starCount": 5,
+        "forkCount": 5
+      }
+    },
+    "vietmap_flutter_gl_web": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 35,
+        "downloadCount30Days": 311,
+        "lastUpdated": "2025-03-21T04:49:04.253555Z"
+      },
+      "github": {
+        "slug": "vietmap-company/vietmap_flutter_gl",
+        "starCount": 5,
+        "forkCount": 5
       }
     },
     "vietmap_flutter_navigation": {
       "pub": {
-        "likeCount": 4,
-        "grantedPoints": 160,
-        "lastUpdated": "2024-07-29T06:44:48.419269Z"
+        "likeCount": 11,
+        "grantedPoints": 140,
+        "downloadCount30Days": 551,
+        "lastUpdated": "2026-04-22T04:36:55.217949Z"
       },
       "github": {
         "slug": "vietmap-company/vietmap-flutter-navigation",
-        "starCount": 0,
-        "forkCount": 0
+        "starCount": 1,
+        "forkCount": 3
       }
     },
     "vietmap_flutter_plugin": {
       "pub": {
-        "likeCount": 1,
+        "likeCount": 2,
         "grantedPoints": 150,
-        "lastUpdated": "2024-06-10T07:36:39.404276Z"
+        "downloadCount30Days": 123,
+        "lastUpdated": "2025-10-27T10:10:16.524765Z"
       },
       "github": {
         "slug": "vietmap-company/vietmap_flutter_plugin",
-        "starCount": 0,
-        "forkCount": 0
+        "starCount": 1,
+        "forkCount": 3
       }
     },
     "vietmap_gl_platform_interface": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 120,
-        "lastUpdated": "2024-06-10T07:03:13.033670Z"
+        "likeCount": 1,
+        "grantedPoints": 140,
+        "downloadCount30Days": 582,
+        "lastUpdated": "2025-03-21T04:41:13.717219Z"
       }
     },
     "vietmap_iee_gl_platform_interface": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 130,
+        "downloadCount30Days": 2,
         "lastUpdated": "2023-10-26T02:45:31.419914Z"
       }
     },
     "vietmap_iee_map": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 130,
+        "grantedPoints": 120,
+        "downloadCount30Days": 3,
         "lastUpdated": "2023-10-26T03:07:59.586597Z"
       },
       "github": {
         "slug": "vietmap-company/flutter-map-sdk",
-        "starCount": 2,
-        "forkCount": 0
+        "starCount": 5,
+        "forkCount": 5
       }
     },
     "vietmap_navigation_platform_interface": {
       "pub": {
-        "likeCount": 0,
+        "likeCount": 1,
         "grantedPoints": 130,
+        "downloadCount30Days": 7,
         "lastUpdated": "2023-09-25T06:34:47.915148Z"
       }
     },
     "vietmap_reorderable_list": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 140,
+        "likeCount": 1,
+        "grantedPoints": 135,
+        "downloadCount30Days": 19,
         "lastUpdated": "2024-03-22T03:19:23.550054Z"
       },
       "github": {
         "slug": "vietmap-company/flutter-map-sdk",
-        "starCount": 2,
+        "starCount": 5,
+        "forkCount": 5
+      }
+    },
+    "vietmap_tracking_plugin": {
+      "pub": {
+        "likeCount": 3,
+        "grantedPoints": 130,
+        "downloadCount30Days": 285,
+        "lastUpdated": "2026-08-12T03:36:11.857632Z"
+      },
+      "github": {
+        "slug": "vietmap-company/vietmap_tracking_plugin",
+        "starCount": 1,
         "forkCount": 0
       }
     },
@@ -772548,18 +773454,33 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 10,
+        "downloadCount30Days": 3,
         "lastUpdated": "2020-03-25T06:45:07.589406Z"
       },
       "github": {
         "slug": "duongvanson/vietnam_holidays",
+        "starCount": 2,
+        "forkCount": 1
+      }
+    },
+    "vietnam_provinces": {
+      "pub": {
+        "likeCount": 5,
+        "grantedPoints": 160,
+        "downloadCount30Days": 29,
+        "lastUpdated": "2025-11-07T16:05:06.941151Z"
+      },
+      "github": {
+        "slug": "14h4i/vietnam_provinces",
         "starCount": 1,
-        "forkCount": 0
+        "forkCount": 1
       }
     },
     "vietnamese_number_reader": {
       "pub": {
         "likeCount": 2,
         "grantedPoints": 20,
+        "downloadCount30Days": 4,
         "lastUpdated": "2020-03-17T16:53:42.550840Z"
       }
     },
@@ -772567,13 +773488,127 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 15,
+        "downloadCount30Days": 7,
         "lastUpdated": "2022-01-08T16:35:20.306734Z"
+      }
+    },
+    "vietqr_core": {
+      "pub": {
+        "likeCount": 12,
+        "grantedPoints": 160,
+        "downloadCount30Days": 23,
+        "lastUpdated": "2025-09-16T07:44:13.393024Z"
+      },
+      "github": {
+        "slug": "vanvixi/vietqr.dart",
+        "starCount": 5,
+        "forkCount": 1
+      }
+    },
+    "vietqr_flutter": {
+      "pub": {
+        "likeCount": 6,
+        "grantedPoints": 160,
+        "downloadCount30Days": 15,
+        "lastUpdated": "2025-06-21T14:53:18.755575Z"
+      },
+      "github": {
+        "slug": "daturit/vietqr_flutter",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "vietqr_gen": {
+      "pub": {
+        "likeCount": 11,
+        "grantedPoints": 160,
+        "downloadCount30Days": 182,
+        "lastUpdated": "2025-09-04T03:57:18.147331Z"
+      },
+      "github": {
+        "slug": "duymainek/vietqr_gen",
+        "starCount": 5,
+        "forkCount": 4
+      }
+    },
+    "vietqr_generator": {
+      "pub": {
+        "likeCount": 7,
+        "grantedPoints": 140,
+        "downloadCount30Days": 7,
+        "lastUpdated": "2025-01-21T08:17:34.988524Z"
+      },
+      "github": {
+        "slug": "huongrealest/vietqr",
+        "starCount": 2,
+        "forkCount": 1
+      }
+    },
+    "vietqr_widget": {
+      "pub": {
+        "likeCount": 3,
+        "grantedPoints": 160,
+        "downloadCount30Days": 6,
+        "lastUpdated": "2025-09-16T07:44:44.189979Z"
+      },
+      "github": {
+        "slug": "vanvixi/vietqr.dart",
+        "starCount": 5,
+        "forkCount": 1
+      }
+    },
+    "view360_call": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 80,
+        "downloadCount30Days": 4,
+        "lastUpdated": "2025-12-22T08:37:16.374016Z"
+      }
+    },
+    "view360_chat": {
+      "pub": {
+        "likeCount": 2,
+        "grantedPoints": 115,
+        "downloadCount30Days": 116,
+        "lastUpdated": "2026-07-06T11:53:07.983036Z"
+      },
+      "github": {
+        "slug": "sahad-systech/v360chat_package",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "view360directchat": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 130,
+        "downloadCount30Days": 0,
+        "lastUpdated": "2026-08-15T09:55:27.044500Z"
+      },
+      "github": {
+        "slug": "sahad-systech/view360directchat",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "view_app_share_option": {
+      "pub": {
+        "likeCount": 2,
+        "grantedPoints": 130,
+        "downloadCount30Days": 4,
+        "lastUpdated": "2025-07-14T13:42:46.790741Z"
+      },
+      "github": {
+        "slug": "enesogulmus/view_app_share_option",
+        "starCount": 3,
+        "forkCount": 0
       }
     },
     "view_bind_adapter": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 130,
+        "grantedPoints": 135,
+        "downloadCount30Days": 7,
         "lastUpdated": "2021-09-13T09:17:25.478896Z"
       },
       "github": {
@@ -772584,8 +773619,9 @@
     },
     "view_builder": {
       "pub": {
-        "likeCount": 2,
-        "grantedPoints": 140,
+        "likeCount": 3,
+        "grantedPoints": 130,
+        "downloadCount30Days": 13,
         "lastUpdated": "2023-06-27T07:59:13.923144Z"
       },
       "github": {
@@ -772598,37 +773634,93 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 10,
+        "downloadCount30Days": 8,
         "lastUpdated": "2020-06-11T14:44:45.659941Z"
+      }
+    },
+    "view_matrix": {
+      "pub": {
+        "likeCount": 3,
+        "grantedPoints": 160,
+        "downloadCount30Days": 11,
+        "lastUpdated": "2025-11-24T12:25:42.715008Z"
       }
     },
     "view_model": {
       "pub": {
+        "likeCount": 12,
+        "grantedPoints": 160,
+        "downloadCount30Days": 1486,
+        "lastUpdated": "2026-07-28T06:18:27.099879Z"
+      },
+      "github": {
+        "slug": "lwj1994/flutter_view_model",
+        "starCount": 22,
+        "forkCount": 2
+      }
+    },
+    "view_model_annotation": {
+      "pub": {
         "likeCount": 0,
-        "grantedPoints": 30,
-        "lastUpdated": "2018-07-30T07:13:14.601449Z"
+        "grantedPoints": 160,
+        "downloadCount30Days": 966,
+        "lastUpdated": "2026-07-28T06:11:30.766746Z"
+      },
+      "github": {
+        "slug": "lwj1994/flutter_view_model",
+        "starCount": 22,
+        "forkCount": 2
       }
     },
     "view_model_divider": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 150,
+        "likeCount": 1,
+        "grantedPoints": 140,
+        "downloadCount30Days": 4,
         "lastUpdated": "2024-05-14T14:25:01.896446Z"
       },
       "github": {
         "slug": "dronn1k-org/view_model",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
+      }
+    },
+    "view_model_generator": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 702,
+        "lastUpdated": "2026-07-28T06:17:38.745634Z"
+      },
+      "github": {
+        "slug": "lwj1994/flutter_view_model",
+        "starCount": 22,
+        "forkCount": 2
       }
     },
     "view_model_kit": {
       "pub": {
         "likeCount": 2,
         "grantedPoints": 150,
+        "downloadCount30Days": 34,
         "lastUpdated": "2023-07-31T11:28:03.951354Z"
       },
       "github": {
         "slug": "note11g/view_model_kit",
-        "starCount": 5,
+        "starCount": 8,
+        "forkCount": 0
+      }
+    },
+    "view_model_macro": {
+      "pub": {
+        "likeCount": 3,
+        "grantedPoints": 50,
+        "downloadCount30Days": 7,
+        "lastUpdated": "2024-10-06T02:23:03.944933Z"
+      },
+      "github": {
+        "slug": "alvarobcprado/view_model_macro",
+        "starCount": 0,
         "forkCount": 0
       }
     },
@@ -772636,30 +773728,41 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 150,
+        "downloadCount30Days": 38,
         "lastUpdated": "2022-10-27T06:24:12.737645Z"
       },
       "github": {
         "slug": "wittyneko/view_model_provider",
-        "starCount": 27,
+        "starCount": 30,
         "forkCount": 6
+      }
+    },
+    "view_model_state": {
+      "pub": {
+        "likeCount": 3,
+        "grantedPoints": 155,
+        "downloadCount30Days": 6,
+        "lastUpdated": "2025-09-02T10:30:41.595245Z"
       }
     },
     "view_model_x": {
       "pub": {
-        "likeCount": 7,
+        "likeCount": 9,
         "grantedPoints": 160,
-        "lastUpdated": "2023-03-11T06:53:28.430659Z"
+        "downloadCount30Days": 69,
+        "lastUpdated": "2024-11-03T08:54:51.355184Z"
       },
       "github": {
         "slug": "shubham-gupta-16/view_model_x",
-        "starCount": 3,
+        "starCount": 5,
         "forkCount": 1
       }
     },
     "view_more": {
       "pub": {
-        "likeCount": 7,
-        "grantedPoints": 150,
+        "likeCount": 8,
+        "grantedPoints": 140,
+        "downloadCount30Days": 24,
         "lastUpdated": "2023-05-17T09:39:27.129218Z"
       },
       "github": {
@@ -772668,34 +773771,110 @@
         "forkCount": 0
       }
     },
+    "view_smart_image": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 140,
+        "downloadCount30Days": 4,
+        "lastUpdated": "2026-02-21T08:26:58.077497Z"
+      },
+      "github": {
+        "slug": "pavank0723/view_smart_image",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "view_state_widget": {
+      "pub": {
+        "likeCount": 5,
+        "grantedPoints": 160,
+        "downloadCount30Days": 3,
+        "lastUpdated": "2025-03-26T17:37:17.671385Z"
+      },
+      "github": {
+        "slug": "May-Hemade/state_view",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
     "view_tabbar": {
       "pub": {
-        "likeCount": 2,
-        "grantedPoints": 150,
-        "lastUpdated": "2024-06-06T06:40:13.426609Z"
+        "likeCount": 7,
+        "grantedPoints": 140,
+        "downloadCount30Days": 54,
+        "lastUpdated": "2025-01-22T04:39:47.363287Z"
       },
       "github": {
         "slug": "flutter-library-provider/ViewTabBar",
-        "starCount": 0,
-        "forkCount": 0
+        "starCount": 3,
+        "forkCount": 1
+      }
+    },
+    "view_ui_flutter": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 130,
+        "downloadCount30Days": 13,
+        "lastUpdated": "2025-11-26T17:45:13.394961Z"
       }
     },
     "viewer3d": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 120,
+        "grantedPoints": 110,
+        "downloadCount30Days": 12,
         "lastUpdated": "2022-03-21T14:55:05.956182Z"
       },
       "github": {
         "slug": "ZuYun/viewer3d",
-        "starCount": 1,
+        "starCount": 2,
+        "forkCount": 0
+      }
+    },
+    "viewfinder": {
+      "pub": {
+        "likeCount": 4,
+        "grantedPoints": 160,
+        "downloadCount30Days": 232,
+        "lastUpdated": "2026-06-08T01:36:31.243657Z"
+      },
+      "github": {
+        "slug": "koji-1009/viewfinder",
+        "starCount": 4,
+        "forkCount": 0
+      }
+    },
+    "viewmodel_flutter": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 160,
+        "downloadCount30Days": 12,
+        "lastUpdated": "2026-03-13T07:13:45.523113Z"
+      },
+      "github": {
+        "slug": "frhnfrq/viewmodel",
+        "starCount": 2,
+        "forkCount": 0
+      }
+    },
+    "viewpdf": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 11,
+        "lastUpdated": "2025-08-14T18:40:46.741558Z"
+      },
+      "github": {
+        "slug": "droidspec/ViewPdf",
+        "starCount": 0,
         "forkCount": 0
       }
     },
     "viewport": {
       "pub": {
         "likeCount": 4,
-        "grantedPoints": 150,
+        "grantedPoints": 160,
+        "downloadCount30Days": 53,
         "lastUpdated": "2021-03-09T17:59:39.352266Z"
       },
       "github": {
@@ -772707,40 +773886,45 @@
     "viewport_checker": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 20,
+        "grantedPoints": 30,
+        "downloadCount30Days": 7,
         "lastUpdated": "2016-06-17T11:18:19.820Z"
       }
     },
     "views_weebi": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 50,
+        "grantedPoints": 30,
+        "downloadCount30Days": 13,
         "lastUpdated": "2023-10-09T22:36:43.928821Z"
       }
     },
     "viewzo": {
       "pub": {
-        "likeCount": 2,
-        "grantedPoints": 160,
+        "likeCount": 3,
+        "grantedPoints": 150,
+        "downloadCount30Days": 19,
         "lastUpdated": "2024-07-04T09:26:02.199266Z"
       },
       "github": {
         "slug": "tkdtn2013/ViewZO",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
     "viggo_core_frontend": {
       "pub": {
-        "likeCount": 1,
-        "grantedPoints": 110,
-        "lastUpdated": "2024-06-14T12:23:00.769123Z"
+        "likeCount": 2,
+        "grantedPoints": 120,
+        "downloadCount30Days": 44,
+        "lastUpdated": "2025-09-09T13:24:18.171776Z"
       }
     },
     "vigil_reporter": {
       "pub": {
         "likeCount": 2,
         "grantedPoints": 150,
+        "downloadCount30Days": 16,
         "lastUpdated": "2021-07-19T00:20:15.666468Z"
       },
       "github": {
@@ -772749,22 +773933,74 @@
         "forkCount": 0
       }
     },
+    "vigil_sdk_flutter": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 90,
+        "downloadCount30Days": 9,
+        "lastUpdated": "2025-09-22T05:38:11.881266Z"
+      }
+    },
+    "vigilant": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 115,
+        "downloadCount30Days": 8,
+        "lastUpdated": "2025-01-28T22:32:47.700396Z"
+      },
+      "github": {
+        "slug": "vigilant-run/vigilant-dart",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "vihanti_analysis_presets": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 1183,
+        "lastUpdated": "2026-07-06T06:42:33.606211Z"
+      }
+    },
+    "vihaya_sdk_flutter": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 7,
+        "lastUpdated": "2026-04-11T18:00:10.450156Z"
+      },
+      "github": {
+        "slug": "Vishnu252005/vihaya-sdk-flutter",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "vikramaditya_video_player": {
       "pub": {
-        "likeCount": 2,
-        "grantedPoints": 130,
+        "likeCount": 3,
+        "grantedPoints": 120,
+        "downloadCount30Days": 10,
         "lastUpdated": "2022-12-26T12:46:17.462211Z"
       },
       "github": {
         "slug": "VikramadityaDev/FlutterVikramadityaVideoPlayer",
-        "starCount": 5,
+        "starCount": 6,
         "forkCount": 0
+      }
+    },
+    "vikum_buttons": {
+      "pub": {
+        "likeCount": 2,
+        "grantedPoints": 150,
+        "downloadCount30Days": 7,
+        "lastUpdated": "2025-12-02T23:09:24.956827Z"
       }
     },
     "vill_sdk": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 120,
+        "downloadCount30Days": 5,
         "lastUpdated": "2022-06-06T09:52:19.851149Z"
       },
       "github": {
@@ -772776,7 +774012,8 @@
     "vill_snackbar": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 120,
+        "grantedPoints": 110,
+        "downloadCount30Days": 0,
         "lastUpdated": "2022-11-05T08:33:18.187438Z"
       },
       "github": {
@@ -772789,13 +774026,62 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 25,
+        "downloadCount30Days": 3,
         "lastUpdated": "2015-03-25T14:30:54.589070Z"
+      }
+    },
+    "vimean_group_dart_libraries": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 30,
+        "downloadCount30Days": 0,
+        "lastUpdated": "2026-01-29T10:46:09.200892Z"
+      }
+    },
+    "vimeo_embed_player": {
+      "pub": {
+        "likeCount": 6,
+        "grantedPoints": 160,
+        "downloadCount30Days": 852,
+        "lastUpdated": "2024-09-04T14:13:52.757144Z"
+      },
+      "github": {
+        "slug": "Olosss/vimeo_embed_player",
+        "starCount": 0,
+        "forkCount": 2
+      }
+    },
+    "vimeo_embed_webview_player": {
+      "pub": {
+        "likeCount": 2,
+        "grantedPoints": 160,
+        "downloadCount30Days": 142,
+        "lastUpdated": "2025-06-25T22:30:17.687287Z"
+      },
+      "github": {
+        "slug": "5alafawyyy/vimeo_embed_webview_player",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "vimeo_enforce": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 150,
+        "downloadCount30Days": 4,
+        "lastUpdated": "2025-11-05T06:34:38.425608Z"
+      },
+      "github": {
+        "slug": "Ashutoshlivrn/vimeo_enforce",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "vimeo_media_player": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 140,
+        "grantedPoints": 130,
+        "downloadCount30Days": 6,
         "lastUpdated": "2022-11-29T06:35:54.722793Z"
       },
       "github": {
@@ -772804,22 +774090,37 @@
         "forkCount": 0
       }
     },
+    "vimeo_native_player": {
+      "pub": {
+        "likeCount": 4,
+        "grantedPoints": 150,
+        "downloadCount30Days": 166,
+        "lastUpdated": "2026-08-01T08:25:55.234458Z"
+      },
+      "github": {
+        "slug": "NIAnup/vimeo_native_player",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
     "vimeo_player_flutter": {
       "pub": {
-        "likeCount": 28,
+        "likeCount": 30,
         "grantedPoints": 160,
+        "downloadCount30Days": 1264,
         "lastUpdated": "2023-11-11T05:39:49.952444Z"
       },
       "github": {
         "slug": "prahack/vimeo_player",
-        "starCount": 10,
-        "forkCount": 15
+        "starCount": 11,
+        "forkCount": 21
       }
     },
     "vimeo_player_jfv": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 120,
+        "grantedPoints": 130,
+        "downloadCount30Days": 3,
         "lastUpdated": "2022-10-19T17:24:29.472973Z"
       },
       "github": {
@@ -772828,22 +774129,63 @@
         "forkCount": 0
       }
     },
+    "vimeo_player_kit": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 20,
+        "lastUpdated": "2026-06-11T04:58:31.710606Z"
+      },
+      "github": {
+        "slug": "shakilhossain38/vimeo_player_kit",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "vimeo_player_package": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 70,
+        "downloadCount30Days": 57,
+        "lastUpdated": "2025-10-02T18:49:35.345115Z"
+      },
+      "github": {
+        "slug": "RootHex200/vimeo_video_player",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "vimeo_video_metadata": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2025-08-04T09:28:05.447765Z"
+      },
+      "github": {
+        "slug": "Rohan-raftlabs/vimeo_video_metadata",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "vimeo_video_player": {
       "pub": {
-        "likeCount": 63,
-        "grantedPoints": 160,
-        "lastUpdated": "2024-06-26T06:48:34.805115Z"
+        "likeCount": 81,
+        "grantedPoints": 150,
+        "downloadCount30Days": 10600,
+        "lastUpdated": "2025-12-22T11:42:00.829582Z"
       },
       "github": {
         "slug": "Mindinventory/vimeo_video_player",
-        "starCount": 33,
-        "forkCount": 34
+        "starCount": 41,
+        "forkCount": 57
       }
     },
     "vimeo_video_player_custom": {
       "pub": {
         "likeCount": 3,
-        "grantedPoints": 90,
+        "grantedPoints": 70,
+        "downloadCount30Days": 4,
         "lastUpdated": "2023-06-25T04:38:03.992673Z"
       },
       "github": {
@@ -772856,87 +774198,109 @@
       "pub": {
         "likeCount": 49,
         "grantedPoints": 40,
+        "downloadCount30Days": 38,
         "lastUpdated": "2020-10-20T09:50:12.386132Z"
       },
       "github": {
         "slug": "prilogy/vimeo_player",
         "starCount": 20,
-        "forkCount": 65
+        "forkCount": 64
       }
     },
     "vimeoplayer_mam": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 60,
+        "grantedPoints": 35,
+        "downloadCount30Days": 5,
         "lastUpdated": "2022-05-09T20:24:12.802897Z"
       },
       "github": {
         "slug": "prilogy/vimeo_player",
         "starCount": 20,
-        "forkCount": 65
+        "forkCount": 64
       }
     },
     "vimeoplayer_mod": {
       "pub": {
         "likeCount": 1,
         "grantedPoints": 30,
+        "downloadCount30Days": 2,
         "lastUpdated": "2021-03-11T12:15:15.132287Z"
       },
       "github": {
         "slug": "blackgeneration/vimeo_player",
         "starCount": 6,
-        "forkCount": 17
+        "forkCount": 19
       }
     },
     "vimeoplayer_trinity": {
       "pub": {
-        "likeCount": 21,
-        "grantedPoints": 160,
+        "likeCount": 22,
+        "grantedPoints": 150,
+        "downloadCount30Days": 32,
         "lastUpdated": "2024-06-27T07:30:41.156195Z"
       },
       "github": {
         "slug": "blackgeneration/vimeo_player_trinity",
         "starCount": 6,
-        "forkCount": 17
+        "forkCount": 19
       }
     },
     "vimpdartutility": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 100,
+        "grantedPoints": 20,
+        "downloadCount30Days": 7,
         "lastUpdated": "2023-05-17T08:10:19.952595Z"
       }
     },
     "vimpflutterutility": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 100,
+        "grantedPoints": 15,
+        "downloadCount30Days": 7,
         "lastUpdated": "2023-05-17T08:09:05.206249Z"
       }
     },
     "vimputility": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 110,
+        "grantedPoints": 120,
+        "downloadCount30Days": 22,
         "lastUpdated": "2022-11-01T07:25:14.019382Z"
       }
     },
     "vin_decoder": {
       "pub": {
-        "likeCount": 13,
+        "likeCount": 14,
         "grantedPoints": 40,
+        "downloadCount30Days": 10582,
         "lastUpdated": "2021-05-29T18:43:27.634115Z"
       },
       "github": {
         "slug": "adaptant-labs/vin-decoder-dart",
-        "starCount": 31,
-        "forkCount": 12
+        "starCount": 37,
+        "forkCount": 13
+      }
+    },
+    "vin_scanner": {
+      "pub": {
+        "likeCount": 3,
+        "grantedPoints": 150,
+        "downloadCount30Days": 23,
+        "lastUpdated": "2025-11-20T07:28:37.703773Z"
+      },
+      "github": {
+        "slug": "flutter-devs/vin_scanner",
+        "starCount": 0,
+        "forkCount": 1
       }
     },
     "vinay_container": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 140,
+        "downloadCount30Days": 4,
         "lastUpdated": "2024-07-16T13:13:24.704199Z"
       },
       "github": {
@@ -772947,20 +774311,67 @@
     },
     "vincent_hello": {
       "pub": {
-        "likeCount": 0,
+        "likeCount": 1,
         "grantedPoints": 140,
+        "downloadCount30Days": 5,
         "lastUpdated": "2023-10-15T07:44:47.074183Z"
       },
       "github": {
         "slug": "yurenmatou/vincent_flutter_hello",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
+      }
+    },
+    "vinci_ai_support": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 120,
+        "downloadCount30Days": 40,
+        "lastUpdated": "2026-07-14T11:21:18.265713Z"
+      }
+    },
+    "vinculum_dart": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 120,
+        "downloadCount30Days": 4,
+        "lastUpdated": "2025-12-12T01:23:11.030092Z"
+      }
+    },
+    "vinculum_flutter": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 110,
+        "downloadCount30Days": 4,
+        "lastUpdated": "2025-12-12T01:36:11.336757Z"
+      }
+    },
+    "vine": {
+      "pub": {
+        "likeCount": 7,
+        "grantedPoints": 120,
+        "downloadCount30Days": 85,
+        "lastUpdated": "2026-02-21T01:01:00.665705Z"
+      },
+      "github": {
+        "slug": "LeadcodeDev/vine",
+        "starCount": 4,
+        "forkCount": 1
+      }
+    },
+    "vine_auto_screenshots": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 0,
+        "downloadCount30Days": 3,
+        "lastUpdated": "2025-10-22T10:58:54.951113Z"
       }
     },
     "vinidpay_sdk": {
       "pub": {
         "likeCount": 3,
         "grantedPoints": 40,
+        "downloadCount30Days": 6,
         "lastUpdated": "2020-02-20T03:34:03.309450Z"
       },
       "github": {
@@ -772971,39 +774382,51 @@
     },
     "vinra_belajar_dart_library": {
       "pub": {
-        "likeCount": 0,
+        "likeCount": 1,
         "grantedPoints": 120,
+        "downloadCount30Days": 4,
         "lastUpdated": "2024-01-24T14:44:56.421360Z"
       },
       "github": {
         "slug": "tarlusah/belajar_dart_library",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
     "vint": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 0,
+        "grantedPoints": 10,
+        "downloadCount30Days": 40,
         "lastUpdated": "2013-06-04T01:41:13.810400Z"
       }
     },
     "vinyl": {
       "pub": {
-        "likeCount": 0,
+        "likeCount": 2,
         "grantedPoints": 120,
+        "downloadCount30Days": 9,
         "lastUpdated": "2024-02-06T20:38:14.074864Z"
       },
       "github": {
         "slug": "RA341/vinyl",
-        "starCount": 0,
-        "forkCount": 0
+        "starCount": 3,
+        "forkCount": 1
+      }
+    },
+    "vio": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 226,
+        "lastUpdated": "2026-07-24T06:05:51.720801Z"
       }
     },
     "vip_model": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 110,
+        "grantedPoints": 115,
+        "downloadCount30Days": 22,
         "lastUpdated": "2023-05-24T21:47:54.943076Z"
       }
     },
@@ -773011,6 +774434,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 120,
+        "downloadCount30Days": 32,
         "lastUpdated": "2021-07-05T07:59:26.265275Z"
       },
       "github": {
@@ -773023,6 +774447,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 120,
+        "downloadCount30Days": 16,
         "lastUpdated": "2021-05-25T04:01:59.572174Z"
       },
       "github": {
@@ -773033,41 +774458,189 @@
     },
     "vips": {
       "pub": {
-        "likeCount": 0,
+        "likeCount": 1,
         "grantedPoints": 140,
+        "downloadCount30Days": 5,
         "lastUpdated": "2023-07-13T19:03:18.481347Z"
       }
     },
     "viqcore_flutter": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 140,
-        "lastUpdated": "2024-06-06T00:36:58.680955Z"
+        "likeCount": 1,
+        "grantedPoints": 125,
+        "downloadCount30Days": 83,
+        "lastUpdated": "2025-08-09T22:40:33.209953Z"
+      }
+    },
+    "virak": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 150,
+        "downloadCount30Days": 15,
+        "lastUpdated": "2025-08-15T05:14:32.280703Z"
+      },
+      "github": {
+        "slug": "VirakOum/Virak-CRUD-Full-access-Laravel-",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "virgil": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 30,
+        "grantedPoints": 40,
+        "downloadCount30Days": 3,
         "lastUpdated": "2018-11-04T01:48:57.518791Z"
       }
     },
     "virgil_e3kit": {
       "pub": {
         "likeCount": 5,
-        "grantedPoints": 30,
+        "grantedPoints": 25,
+        "downloadCount30Days": 8,
         "lastUpdated": "2022-05-01T09:38:31.048172Z"
       },
       "github": {
         "slug": "VirgilSecurity/virgil-e3kit-flutter",
-        "starCount": 8,
+        "starCount": 9,
         "forkCount": 10
+      }
+    },
+    "virnavi_ai_agent_compose": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 9,
+        "lastUpdated": "2026-03-11T07:50:24.738395Z"
+      },
+      "github": {
+        "slug": "virnavi/virnavi_ai_agent_compose",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "virnavi_ai_agent_mcp": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 12,
+        "lastUpdated": "2026-03-11T07:35:57.543293Z"
+      },
+      "github": {
+        "slug": "virnavi/virnavi_ai_agent_mcp",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "virnavi_ai_agent_mcp_generator": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 11,
+        "lastUpdated": "2026-03-11T07:47:06.969058Z"
+      },
+      "github": {
+        "slug": "virnavi/virnavi_ai_agent_mcp_generator",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "virnavi_common_sdk": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 160,
+        "downloadCount30Days": 11,
+        "lastUpdated": "2026-03-09T17:10:39.004936Z"
+      },
+      "github": {
+        "slug": "virnavi/virnavi_common_sdk",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "virnavi_isar_e2m": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 130,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2026-01-05T14:27:47.438012Z"
+      },
+      "github": {
+        "slug": "virnavi/virnavi_isar_e2m",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "virnavi_islamic_calculator": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 7,
+        "lastUpdated": "2026-03-12T15:17:02.646958Z"
+      },
+      "github": {
+        "slug": "virnavi/virnavi_islamic_calculator",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "virnavi_json_client": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 160,
+        "downloadCount30Days": 4,
+        "lastUpdated": "2026-02-09T16:57:55.815221Z"
+      },
+      "github": {
+        "slug": "virnavi/virnavi_json_client",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "virnavi_ui_bootstrap": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2026-03-04T17:55:21.067624Z"
+      },
+      "github": {
+        "slug": "virnavi/virnavi_ui_bootstrap",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "virtual_card_ui": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 120,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2026-01-30T21:24:44.284654Z"
+      },
+      "github": {
+        "slug": "hena-ndombele/package-virtual_card_ui-flutter",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "virtual_clock": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 23,
+        "lastUpdated": "2026-01-07T23:39:16.277946Z"
+      },
+      "github": {
+        "slug": "djoks/virtual_clock",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "virtual_device": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 140,
+        "downloadCount30Days": 25,
         "lastUpdated": "2021-09-17T18:29:51.786017Z"
       },
       "github": {
@@ -773079,7 +774652,8 @@
     "virtual_dom": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 160,
+        "grantedPoints": 150,
+        "downloadCount30Days": 40,
         "lastUpdated": "2022-10-01T08:27:04.949499Z"
       },
       "github": {
@@ -773088,58 +774662,84 @@
         "forkCount": 0
       }
     },
-    "virtual_keyboard": {
+    "virtual_gamepad": {
       "pub": {
-        "likeCount": 26,
-        "grantedPoints": 40,
-        "lastUpdated": "2019-04-02T12:39:09.829011Z"
-      },
-      "github": {
-        "slug": "gurgenDP/virtual_keyboard",
-        "starCount": 51,
-        "forkCount": 90
-      }
-    },
-    "virtual_keyboard_2": {
-      "pub": {
-        "likeCount": 13,
-        "grantedPoints": 150,
-        "lastUpdated": "2021-10-26T08:23:38.638542Z"
-      },
-      "github": {
-        "slug": "fedepaj/virtual_keyboard",
-        "starCount": 2,
-        "forkCount": 3
-      }
-    },
-    "virtual_keyboard_custom_layout": {
-      "pub": {
-        "likeCount": 11,
-        "grantedPoints": 150,
-        "lastUpdated": "2024-02-29T00:47:37.536381Z"
-      },
-      "github": {
-        "slug": "EliasDalvite/virtual_keyboard_custom_layout",
-        "starCount": 2,
-        "forkCount": 2
-      }
-    },
-    "virtual_keyboard_custom_layout_onex": {
-      "pub": {
-        "likeCount": 5,
+        "likeCount": 0,
         "grantedPoints": 140,
-        "lastUpdated": "2023-12-20T16:07:46.075001Z"
+        "downloadCount30Days": 5,
+        "lastUpdated": "2026-06-07T10:26:44.938611Z"
       },
       "github": {
-        "slug": "ysumiit005/virtual_keyboard_custom_layout_onex",
+        "slug": "haze0e/bluetooth_gamepad",
         "starCount": 0,
         "forkCount": 0
       }
     },
+    "virtual_gamepad_pro": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 160,
+        "downloadCount30Days": 85,
+        "lastUpdated": "2026-06-01T08:15:22.641992Z"
+      }
+    },
+    "virtual_keyboard": {
+      "pub": {
+        "likeCount": 27,
+        "grantedPoints": 35,
+        "downloadCount30Days": 43,
+        "lastUpdated": "2019-04-02T12:39:09.829011Z"
+      },
+      "github": {
+        "slug": "gurgenDP/virtual_keyboard",
+        "starCount": 55,
+        "forkCount": 111
+      }
+    },
+    "virtual_keyboard_2": {
+      "pub": {
+        "likeCount": 14,
+        "grantedPoints": 145,
+        "downloadCount30Days": 153,
+        "lastUpdated": "2021-10-26T08:23:38.638542Z"
+      },
+      "github": {
+        "slug": "fedepaj/virtual_keyboard",
+        "starCount": 3,
+        "forkCount": 4
+      }
+    },
+    "virtual_keyboard_custom_layout": {
+      "pub": {
+        "likeCount": 22,
+        "grantedPoints": 150,
+        "downloadCount30Days": 614,
+        "lastUpdated": "2025-01-03T20:01:29.935363Z"
+      },
+      "github": {
+        "slug": "EliasDalvite/virtual_keyboard_custom_layout",
+        "starCount": 7,
+        "forkCount": 7
+      }
+    },
+    "virtual_keyboard_custom_layout_onex": {
+      "pub": {
+        "likeCount": 6,
+        "grantedPoints": 140,
+        "downloadCount30Days": 77,
+        "lastUpdated": "2023-12-20T16:07:46.075001Z"
+      },
+      "github": {
+        "slug": "ysumiit005/virtual_keyboard_custom_layout_onex",
+        "starCount": 1,
+        "forkCount": 1
+      }
+    },
     "virtual_keyboard_custom_layout_onex_onex": {
       "pub": {
-        "likeCount": 0,
+        "likeCount": 1,
         "grantedPoints": 0,
+        "downloadCount30Days": 4,
         "lastUpdated": "2023-11-03T07:08:49.470783Z"
       }
     },
@@ -773147,49 +774747,93 @@
       "pub": {
         "likeCount": 15,
         "grantedPoints": 140,
+        "downloadCount30Days": 48,
         "lastUpdated": "2022-04-19T12:40:33.439720Z"
       },
       "github": {
         "slug": "ferdiangunawan/virtual_keyboard_flutter",
-        "starCount": 3,
+        "starCount": 4,
         "forkCount": 7
       }
     },
     "virtual_keyboard_multi_language": {
       "pub": {
-        "likeCount": 52,
-        "grantedPoints": 150,
-        "lastUpdated": "2024-07-07T06:56:53.914071Z"
+        "likeCount": 74,
+        "grantedPoints": 145,
+        "downloadCount30Days": 2221,
+        "lastUpdated": "2024-10-23T16:57:21.801477Z"
       },
       "github": {
         "slug": "ahmed-eg/virtual_keyboard_multi_language",
-        "starCount": 16,
-        "forkCount": 33
+        "starCount": 24,
+        "forkCount": 51
+      }
+    },
+    "virtual_keyboard_plus": {
+      "pub": {
+        "likeCount": 2,
+        "grantedPoints": 160,
+        "downloadCount30Days": 14,
+        "lastUpdated": "2025-04-14T16:22:14.338515Z"
+      },
+      "github": {
+        "slug": "Prameshbasnet/virtual_keyboard",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "virtual_keypad": {
+      "pub": {
+        "likeCount": 48,
+        "grantedPoints": 160,
+        "downloadCount30Days": 627,
+        "lastUpdated": "2026-08-15T23:07:00.794666Z"
+      },
+      "github": {
+        "slug": "almasumdev/virtual_keypad",
+        "starCount": 7,
+        "forkCount": 2
+      }
+    },
+    "virtual_mouse": {
+      "pub": {
+        "likeCount": 3,
+        "grantedPoints": 150,
+        "downloadCount30Days": 23,
+        "lastUpdated": "2025-03-09T02:53:46.057736Z"
+      },
+      "github": {
+        "slug": "ayusuke7/virtual_mouse",
+        "starCount": 1,
+        "forkCount": 1
       }
     },
     "virtual_phone": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 120,
-        "lastUpdated": "2024-07-06T11:38:58.071100Z"
+        "likeCount": 1,
+        "grantedPoints": 140,
+        "downloadCount30Days": 34,
+        "lastUpdated": "2026-06-04T06:35:14.041641Z"
       },
       "github": {
-        "slug": "rbdog/flutter_note_packages",
-        "starCount": 6,
-        "forkCount": 1
+        "slug": "rubydogjp/packages",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "virtual_platform": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 160,
+        "downloadCount30Days": 9,
         "lastUpdated": "2022-12-21T15:55:57.805666Z"
       }
     },
     "virtual_scroller": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 40,
+        "grantedPoints": 35,
+        "downloadCount30Days": 7,
         "lastUpdated": "2018-12-06T19:58:01.977213Z"
       },
       "github": {
@@ -773198,10 +774842,37 @@
         "forkCount": 1
       }
     },
+    "virtual_statics": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 4,
+        "lastUpdated": "2024-09-20T23:49:58.785807Z"
+      },
+      "github": {
+        "slug": "benthillerkus/virtual_statics",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "virtual_statics_builder": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 40,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2024-09-20T23:50:02.209232Z"
+      },
+      "github": {
+        "slug": "benthillerkus/virtual_statics",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
     "virtualcreditcard": {
       "pub": {
-        "likeCount": 11,
-        "grantedPoints": 130,
+        "likeCount": 12,
+        "grantedPoints": 115,
+        "downloadCount30Days": 10,
         "lastUpdated": "2021-05-25T19:48:21.130188Z"
       },
       "github": {
@@ -773210,39 +774881,95 @@
         "forkCount": 3
       }
     },
-    "virtusize_flutter_sdk": {
+    "virtualh5p": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 40,
-        "lastUpdated": "2021-08-04T09:08:08.066706Z"
+        "grantedPoints": 120,
+        "downloadCount30Days": 4,
+        "lastUpdated": "2025-11-02T15:05:39.076482Z"
       },
       "github": {
-        "slug": "virtusize/virtusize_flutter_sdk",
+        "slug": "musa195420/h5p",
         "starCount": 0,
         "forkCount": 0
       }
     },
+    "virtualized_tab_view": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 71,
+        "lastUpdated": "2026-08-10T14:43:50.734292Z"
+      }
+    },
+    "virtusize_flutter_sdk": {
+      "pub": {
+        "likeCount": 2,
+        "grantedPoints": 140,
+        "downloadCount30Days": 645,
+        "lastUpdated": "2026-07-08T22:30:11.285141Z"
+      },
+      "github": {
+        "slug": "virtusize/virtusize_flutter_sdk",
+        "starCount": 1,
+        "forkCount": 2
+      }
+    },
+    "virusis_api_client": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 50,
+        "downloadCount30Days": 4,
+        "lastUpdated": "2026-01-03T13:10:31.508210Z"
+      }
+    },
+    "virusis_api_client_ng": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 101,
+        "lastUpdated": "2026-07-23T17:29:49.389165Z"
+      }
+    },
     "visa": {
       "pub": {
-        "likeCount": 42,
+        "likeCount": 41,
         "grantedPoints": 30,
+        "downloadCount30Days": 26,
         "lastUpdated": "2021-08-09T05:13:20.138984Z"
       },
       "github": {
         "slug": "e-oj/visa",
-        "starCount": 141,
-        "forkCount": 21
+        "starCount": 138,
+        "forkCount": 22
+      }
+    },
+    "visa_nova_flutter": {
+      "pub": {
+        "likeCount": 8,
+        "grantedPoints": 50,
+        "downloadCount30Days": 35,
+        "lastUpdated": "2026-03-19T19:16:07.072333Z"
+      }
+    },
+    "visa_nova_icons_flutter": {
+      "pub": {
+        "likeCount": 2,
+        "grantedPoints": 130,
+        "downloadCount30Days": 21,
+        "lastUpdated": "2025-09-26T19:51:29.993593Z"
       }
     },
     "visenze_productsearch_sdk": {
       "pub": {
-        "likeCount": 0,
+        "likeCount": 1,
         "grantedPoints": 150,
-        "lastUpdated": "2023-06-05T03:26:15.468698Z"
+        "downloadCount30Days": 13,
+        "lastUpdated": "2024-08-13T08:10:03.932181Z"
       },
       "github": {
         "slug": "visenze/flutter-productsearch-sdk",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
@@ -773250,7 +774977,8 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 140,
-        "lastUpdated": "2024-01-03T08:59:27.249681Z"
+        "downloadCount30Days": 25,
+        "lastUpdated": "2024-08-26T03:22:23.041830Z"
       },
       "github": {
         "slug": "visenze/flutter-tracking-sdk",
@@ -773261,7 +774989,8 @@
     "vishnu": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 110,
+        "grantedPoints": 120,
+        "downloadCount30Days": 4,
         "lastUpdated": "2023-03-31T03:37:31.686858Z"
       }
     },
@@ -773269,6 +774998,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 40,
+        "downloadCount30Days": 4,
         "lastUpdated": "2021-04-05T12:56:39.577784Z"
       },
       "github": {
@@ -773281,6 +775011,7 @@
       "pub": {
         "likeCount": 34,
         "grantedPoints": 150,
+        "downloadCount30Days": 479,
         "lastUpdated": "2022-07-11T21:27:17.707455Z"
       },
       "github": {
@@ -773289,22 +775020,63 @@
         "forkCount": 4
       }
     },
+    "visibility_cached_image": {
+      "pub": {
+        "likeCount": 3,
+        "grantedPoints": 160,
+        "downloadCount30Days": 44,
+        "lastUpdated": "2026-05-25T23:12:40.737013Z"
+      },
+      "github": {
+        "slug": "mustafa-707/visibility_cached_image",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "visibility_detector": {
       "pub": {
-        "likeCount": 1040,
+        "likeCount": 1264,
         "grantedPoints": 140,
+        "downloadCount30Days": 132414,
         "lastUpdated": "2023-03-09T17:32:30.016683Z"
       },
       "github": {
         "slug": "google/flutter.widgets",
-        "starCount": 1352,
-        "forkCount": 461
+        "starCount": 1438,
+        "forkCount": 528
+      }
+    },
+    "visibility_detector_widget": {
+      "pub": {
+        "likeCount": 3,
+        "grantedPoints": 160,
+        "downloadCount30Days": 859,
+        "lastUpdated": "2025-11-24T10:55:07.747139Z"
+      },
+      "github": {
+        "slug": "AlistairLi/my_flutter_packages",
+        "starCount": 3,
+        "forkCount": 0
+      }
+    },
+    "visible_on_focus": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 150,
+        "downloadCount30Days": 10,
+        "lastUpdated": "2024-10-03T08:26:03.259453Z"
+      },
+      "github": {
+        "slug": "IshuPrabhakar/VisibleOnFocus",
+        "starCount": 1,
+        "forkCount": 0
       }
     },
     "visible_opacity": {
       "pub": {
         "likeCount": 3,
         "grantedPoints": 150,
+        "downloadCount30Days": 15,
         "lastUpdated": "2021-05-25T12:24:26.719595Z"
       },
       "github": {
@@ -773315,32 +775087,56 @@
     },
     "visiblity_data_manager": {
       "pub": {
-        "likeCount": 1,
+        "likeCount": 2,
         "grantedPoints": 130,
+        "downloadCount30Days": 4,
         "lastUpdated": "2023-11-24T19:55:37.352114Z"
       },
       "github": {
         "slug": "Alienjob/visiblity_data_manager",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
     "visicalc_engine": {
       "pub": {
-        "likeCount": 1,
-        "grantedPoints": 150,
+        "likeCount": 2,
+        "grantedPoints": 140,
+        "downloadCount30Days": 10,
         "lastUpdated": "2024-04-17T10:38:59.842843Z"
       },
       "github": {
         "slug": "sjhorn/visicalc_engine",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "visioglobe_flutter_plugin": {
+      "pub": {
+        "likeCount": 3,
+        "grantedPoints": 160,
+        "downloadCount30Days": 74,
+        "lastUpdated": "2026-08-09T17:58:33.513429Z"
+      },
+      "github": {
+        "slug": "m-punith/visioglobe_flutter_plugin",
         "starCount": 0,
         "forkCount": 0
+      }
+    },
+    "visiomoveessential_flutterbridge": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 120,
+        "downloadCount30Days": 11,
+        "lastUpdated": "2024-11-04T14:27:01.046216Z"
       }
     },
     "vision": {
       "pub": {
         "likeCount": 11,
         "grantedPoints": 130,
+        "downloadCount30Days": 10,
         "lastUpdated": "2022-10-26T15:57:01.890391Z"
       },
       "github": {
@@ -773349,24 +775145,155 @@
         "forkCount": 0
       }
     },
+    "vision_ai": {
+      "pub": {
+        "likeCount": 2,
+        "grantedPoints": 140,
+        "downloadCount30Days": 50,
+        "lastUpdated": "2026-05-31T20:25:25.378617Z"
+      },
+      "github": {
+        "slug": "OttomanDeveloper/vision_ai",
+        "starCount": 1,
+        "forkCount": 1
+      }
+    },
+    "vision_ai_animals": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 130,
+        "downloadCount30Days": 8,
+        "lastUpdated": "2026-05-31T20:27:10.324242Z"
+      },
+      "github": {
+        "slug": "OttomanDeveloper/vision_ai",
+        "starCount": 1,
+        "forkCount": 1
+      }
+    },
+    "vision_ai_flutter": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 19,
+        "lastUpdated": "2026-05-31T20:26:43.705050Z"
+      },
+      "github": {
+        "slug": "OttomanDeveloper/vision_ai",
+        "starCount": 1,
+        "forkCount": 1
+      }
+    },
+    "vision_ai_models": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 130,
+        "downloadCount30Days": 11,
+        "lastUpdated": "2026-05-31T20:26:36.861419Z"
+      },
+      "github": {
+        "slug": "OttomanDeveloper/vision_ai",
+        "starCount": 1,
+        "forkCount": 1
+      }
+    },
+    "vision_ai_pose": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 130,
+        "downloadCount30Days": 47,
+        "lastUpdated": "2026-05-31T20:27:29.659159Z"
+      },
+      "github": {
+        "slug": "OttomanDeveloper/vision_ai",
+        "starCount": 1,
+        "forkCount": 1
+      }
+    },
+    "vision_barcode_scanner": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 110,
+        "downloadCount30Days": 6,
+        "lastUpdated": "2025-10-23T15:24:37.686844Z"
+      }
+    },
+    "vision_flow": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 16,
+        "lastUpdated": "2026-06-20T18:14:49.603856Z"
+      }
+    },
+    "vision_gallery_saver": {
+      "pub": {
+        "likeCount": 7,
+        "grantedPoints": 145,
+        "downloadCount30Days": 1043,
+        "lastUpdated": "2025-08-07T16:12:39.777751Z"
+      },
+      "github": {
+        "slug": "EnsembleUI/vision_gallery_saver",
+        "starCount": 5,
+        "forkCount": 0
+      }
+    },
+    "vision_text_recognition": {
+      "pub": {
+        "likeCount": 4,
+        "grantedPoints": 125,
+        "downloadCount30Days": 1670,
+        "lastUpdated": "2025-05-30T12:11:45.672460Z"
+      },
+      "github": {
+        "slug": "MohammadKaso/vision_text_recognition",
+        "starCount": 3,
+        "forkCount": 0
+      }
+    },
+    "vision_wheel_menu": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 4,
+        "lastUpdated": "2025-04-02T10:16:38.444613Z"
+      },
+      "github": {
+        "slug": "kanakapalli/flutter-Vision-OS-style-radial-menu",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "visionsdkflutterpackage": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 150,
+        "downloadCount30Days": 2,
         "lastUpdated": "2023-08-29T19:08:12.466193Z"
+      }
+    },
+    "visit_flutter_sdk": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 40,
+        "downloadCount30Days": 105,
+        "lastUpdated": "2026-05-28T10:44:15.645206Z"
       }
     },
     "visitime_ui": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 90,
+        "likeCount": 1,
+        "grantedPoints": 85,
+        "downloadCount30Days": 34,
         "lastUpdated": "2024-05-17T09:10:53.642828Z"
       }
     },
     "visitor": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 130,
+        "grantedPoints": 140,
+        "downloadCount30Days": 4,
         "lastUpdated": "2022-04-02T19:45:24.360593Z"
       }
     },
@@ -773374,23 +775301,59 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 150,
-        "lastUpdated": "2024-01-28T21:03:18.665932Z"
+        "downloadCount30Days": 6,
+        "lastUpdated": "2026-06-06T20:32:04.650497Z"
       },
       "github": {
         "slug": "tamas-p/hisma",
-        "starCount": 4,
-        "forkCount": 1
+        "starCount": 13,
+        "forkCount": 4
+      }
+    },
+    "visprofiler": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 100,
+        "downloadCount30Days": 12,
+        "lastUpdated": "2025-08-15T12:41:19.850099Z"
+      },
+      "github": {
+        "slug": "auvgffle/visprofiler",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "vistalityui": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 140,
+        "downloadCount30Days": 45,
+        "lastUpdated": "2026-02-17T08:37:54.243918Z"
+      }
+    },
+    "visual_brief_lint": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 73,
+        "lastUpdated": "2026-07-29T13:21:49.021639Z"
+      },
+      "github": {
+        "slug": "FosterMartyn735/visual_brief_lint",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "visual_cache": {
       "pub": {
-        "likeCount": 4,
-        "grantedPoints": 160,
+        "likeCount": 5,
+        "grantedPoints": 150,
+        "downloadCount30Days": 32,
         "lastUpdated": "2023-12-23T22:17:52.544069Z"
       },
       "github": {
         "slug": "Smolla-ITc/visual_cache",
-        "starCount": 1,
+        "starCount": 2,
         "forkCount": 1
       }
     },
@@ -773398,6 +775361,7 @@
       "pub": {
         "likeCount": 4,
         "grantedPoints": 120,
+        "downloadCount30Days": 25,
         "lastUpdated": "2022-05-22T12:32:58.154167Z"
       },
       "github": {
@@ -773406,214 +775370,410 @@
         "forkCount": 0
       }
     },
+    "visual_detector_ai": {
+      "pub": {
+        "likeCount": 6,
+        "grantedPoints": 160,
+        "downloadCount30Days": 41,
+        "lastUpdated": "2024-08-29T09:41:34.033807Z"
+      }
+    },
     "visual_effect": {
       "pub": {
-        "likeCount": 54,
-        "grantedPoints": 150,
+        "likeCount": 70,
+        "grantedPoints": 140,
+        "downloadCount30Days": 24,
         "lastUpdated": "2023-08-15T14:53:25.049697Z"
       },
       "github": {
         "slug": "letsar/visual_effect",
-        "starCount": 70,
-        "forkCount": 3
+        "starCount": 75,
+        "forkCount": 2
+      }
+    },
+    "visual_effects_kit": {
+      "pub": {
+        "likeCount": 2,
+        "grantedPoints": 160,
+        "downloadCount30Days": 7,
+        "lastUpdated": "2026-04-26T22:47:50.260554Z"
+      },
+      "github": {
+        "slug": "mim-Armand/flutter_visual_effects_kit",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "visual_novel_maker": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 40,
+        "downloadCount30Days": 3,
+        "lastUpdated": "2025-01-24T08:47:47.735927Z"
+      }
+    },
+    "visual_reward": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 130,
+        "downloadCount30Days": 772,
+        "lastUpdated": "2026-08-13T00:21:12.088315Z"
+      },
+      "github": {
+        "slug": "tenqube/visual-reward-sdk-flutter",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "visualexact_flutter_plugin": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 115,
+        "downloadCount30Days": 4,
+        "lastUpdated": "2024-08-25T11:00:02.827710Z"
+      }
+    },
+    "visualpdf": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 130,
+        "downloadCount30Days": 621,
+        "lastUpdated": "2026-08-16T08:59:44.497344Z"
+      }
+    },
+    "visuals_calendar": {
+      "pub": {
+        "likeCount": 6,
+        "grantedPoints": 140,
+        "downloadCount30Days": 40,
+        "lastUpdated": "2025-04-22T14:54:55.645149Z"
+      },
+      "github": {
+        "slug": "williamskaug/visuals_calendar",
+        "starCount": 9,
+        "forkCount": 2
+      }
+    },
+    "vit_cache": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 160,
+        "downloadCount30Days": 27,
+        "lastUpdated": "2025-07-27T12:14:01.474480Z"
+      },
+      "github": {
+        "slug": "TimeLord2010/vit_cache",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "vit_clockify_sdk": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 90,
+        "downloadCount30Days": 22,
+        "lastUpdated": "2026-07-11T00:49:00.409310Z"
+      },
+      "github": {
+        "slug": "TimeLord2010/vit_clockify_sdk",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "vit_combo_box": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 140,
-        "lastUpdated": "2024-06-21T00:35:30.343766Z"
+        "likeCount": 1,
+        "grantedPoints": 150,
+        "downloadCount30Days": 52,
+        "lastUpdated": "2024-10-14T11:47:39.625725Z"
       },
       "github": {
         "slug": "TimeLord2010/vit_combo_box",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
     "vit_dart_extensions": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 150,
-        "lastUpdated": "2024-07-27T04:50:50.360919Z"
+        "likeCount": 2,
+        "grantedPoints": 160,
+        "downloadCount30Days": 125,
+        "lastUpdated": "2026-01-20T12:50:45.753627Z"
       },
       "github": {
         "slug": "TimeLord2010/vit_dart_extensions",
-        "starCount": 1,
+        "starCount": 3,
+        "forkCount": 0
+      }
+    },
+    "vit_design_system": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 4,
+        "lastUpdated": "2026-04-14T20:14:24.173397Z"
+      },
+      "github": {
+        "slug": "com-bianchetti/vit_design_system",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "vit_gpt_dart_api": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 140,
+        "downloadCount30Days": 73,
+        "lastUpdated": "2026-01-30T17:48:44.434319Z"
+      },
+      "github": {
+        "slug": "TimeLord2010/vit_gpt_dart_api",
+        "starCount": 3,
+        "forkCount": 0
+      }
+    },
+    "vit_gpt_flutter_api": {
+      "pub": {
+        "likeCount": 2,
+        "grantedPoints": 110,
+        "downloadCount30Days": 72,
+        "lastUpdated": "2026-02-02T19:25:37.799694Z"
+      },
+      "github": {
+        "slug": "TimeLord2010/vit_gpt_flutter_api",
+        "starCount": 2,
         "forkCount": 0
       }
     },
     "vit_logger": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 140,
-        "lastUpdated": "2024-04-16T16:03:31.187721Z"
+        "likeCount": 1,
+        "grantedPoints": 160,
+        "downloadCount30Days": 16,
+        "lastUpdated": "2025-01-14T14:53:36.421729Z"
       },
       "github": {
         "slug": "TimeLord2010/vit_logger",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "vit_soniox": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 4,
+        "lastUpdated": "2026-05-17T12:21:01.768173Z"
+      },
+      "github": {
+        "slug": "TimeLord2010/vit_soniox",
         "starCount": 0,
         "forkCount": 0
+      }
+    },
+    "vit_table": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 130,
+        "downloadCount30Days": 69,
+        "lastUpdated": "2026-05-13T23:25:27.800052Z"
+      },
+      "github": {
+        "slug": "TimeLord2010/vit_table",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "vit_vtop": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 150,
+        "downloadCount30Days": 14,
+        "lastUpdated": "2025-07-14T11:23:43.549225Z"
       }
     },
     "vital_core": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 120,
-        "lastUpdated": "2024-07-17T13:56:55.330654Z"
+        "grantedPoints": 100,
+        "downloadCount30Days": 1420,
+        "lastUpdated": "2026-04-29T21:32:21.072883Z"
       },
       "github": {
         "slug": "tryVital/vital-flutter",
-        "starCount": 5,
-        "forkCount": 2
+        "starCount": 11,
+        "forkCount": 9
       }
     },
     "vital_core_android": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 120,
-        "lastUpdated": "2024-07-17T13:56:51.165275Z"
+        "downloadCount30Days": 1317,
+        "lastUpdated": "2026-04-29T21:32:02.904281Z"
       },
       "github": {
         "slug": "tryVital/vital-flutter",
-        "starCount": 5,
-        "forkCount": 2
+        "starCount": 11,
+        "forkCount": 9
       }
     },
     "vital_core_ios": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 120,
-        "lastUpdated": "2024-07-17T13:56:48.138790Z"
+        "grantedPoints": 110,
+        "downloadCount30Days": 1311,
+        "lastUpdated": "2026-04-29T21:32:08.756875Z"
       },
       "github": {
         "slug": "tryVital/vital-flutter",
-        "starCount": 5,
-        "forkCount": 2
+        "starCount": 11,
+        "forkCount": 9
       }
     },
     "vital_core_platform_interface": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 110,
-        "lastUpdated": "2024-07-17T13:56:45.030290Z"
+        "downloadCount30Days": 1315,
+        "lastUpdated": "2026-04-29T21:32:13.876381Z"
       },
       "github": {
         "slug": "tryVital/vital-flutter",
-        "starCount": 5,
-        "forkCount": 2
+        "starCount": 11,
+        "forkCount": 9
       }
     },
     "vital_devices": {
       "pub": {
         "likeCount": 3,
-        "grantedPoints": 120,
-        "lastUpdated": "2024-07-17T13:57:21.507713Z"
+        "grantedPoints": 110,
+        "downloadCount30Days": 445,
+        "lastUpdated": "2026-04-29T21:33:04.583447Z"
       },
       "github": {
         "slug": "tryVital/vital-flutter",
-        "starCount": 5,
-        "forkCount": 2
+        "starCount": 11,
+        "forkCount": 9
       }
     },
     "vital_devices_android": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 120,
-        "lastUpdated": "2024-07-17T13:57:18.386543Z"
+        "downloadCount30Days": 450,
+        "lastUpdated": "2026-04-29T21:32:59.266069Z"
       },
       "github": {
         "slug": "tryVital/vital-flutter",
-        "starCount": 5,
-        "forkCount": 2
+        "starCount": 11,
+        "forkCount": 9
       }
     },
     "vital_devices_ios": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 120,
-        "lastUpdated": "2024-07-17T13:57:15.110860Z"
+        "grantedPoints": 110,
+        "downloadCount30Days": 451,
+        "lastUpdated": "2026-04-29T21:32:42.905687Z"
       },
       "github": {
         "slug": "tryVital/vital-flutter",
-        "starCount": 5,
-        "forkCount": 2
+        "starCount": 11,
+        "forkCount": 9
       }
     },
     "vital_devices_platform_interface": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 110,
-        "lastUpdated": "2024-07-17T13:57:12.065623Z"
+        "grantedPoints": 100,
+        "downloadCount30Days": 461,
+        "lastUpdated": "2026-04-29T21:32:37.951729Z"
       },
       "github": {
         "slug": "tryVital/vital-flutter",
-        "starCount": 5,
-        "forkCount": 2
+        "starCount": 11,
+        "forkCount": 9
       }
     },
     "vital_flutter": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 110,
+        "grantedPoints": 100,
+        "downloadCount30Days": 31,
         "lastUpdated": "2022-12-07T16:00:37.947567Z"
       },
       "github": {
         "slug": "tryVital/vital-flutter",
-        "starCount": 5,
-        "forkCount": 2
+        "starCount": 11,
+        "forkCount": 9
       }
     },
     "vital_health": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 120,
-        "lastUpdated": "2024-07-17T13:57:08.774872Z"
+        "grantedPoints": 110,
+        "downloadCount30Days": 1346,
+        "lastUpdated": "2026-04-29T21:32:53.818560Z"
       },
       "github": {
         "slug": "tryVital/vital-flutter",
-        "starCount": 5,
-        "forkCount": 2
+        "starCount": 11,
+        "forkCount": 9
       }
     },
     "vital_health_android": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 110,
-        "lastUpdated": "2024-07-17T13:57:05.396712Z"
+        "grantedPoints": 100,
+        "downloadCount30Days": 1317,
+        "lastUpdated": "2026-04-29T21:32:48.414770Z"
       },
       "github": {
         "slug": "tryVital/vital-flutter",
-        "starCount": 5,
-        "forkCount": 2
+        "starCount": 11,
+        "forkCount": 9
       }
     },
     "vital_health_ios": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 110,
-        "lastUpdated": "2024-07-17T13:57:02.126562Z"
+        "grantedPoints": 90,
+        "downloadCount30Days": 1405,
+        "lastUpdated": "2026-04-29T21:32:32.161613Z"
       },
       "github": {
         "slug": "tryVital/vital-flutter",
-        "starCount": 5,
-        "forkCount": 2
+        "starCount": 11,
+        "forkCount": 9
       }
     },
     "vital_health_platform_interface": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 120,
-        "lastUpdated": "2024-07-17T13:56:58.921718Z"
+        "downloadCount30Days": 1429,
+        "lastUpdated": "2026-04-29T21:32:26.668285Z"
       },
       "github": {
         "slug": "tryVital/vital-flutter",
-        "starCount": 5,
-        "forkCount": 2
+        "starCount": 11,
+        "forkCount": 9
+      }
+    },
+    "vital_solver": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 130,
+        "downloadCount30Days": 72,
+        "lastUpdated": "2026-05-31T14:53:32.436600Z"
       }
     },
     "vitality": {
       "pub": {
-        "likeCount": 59,
+        "likeCount": 70,
         "grantedPoints": 140,
+        "downloadCount30Days": 79,
         "lastUpdated": "2023-12-09T10:58:00.709716Z"
       },
       "github": {
@@ -773624,46 +775784,51 @@
     },
     "vitals_sdk_new": {
       "pub": {
-        "likeCount": 0,
+        "likeCount": 1,
         "grantedPoints": 105,
+        "downloadCount30Days": 5,
         "lastUpdated": "2023-12-11T12:40:40.910652Z"
       }
     },
     "vitat_pulso": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 110,
+        "grantedPoints": 120,
+        "downloadCount30Days": 19,
         "lastUpdated": "2021-07-23T12:24:28.268009Z"
       }
     },
     "vite": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 120,
+        "grantedPoints": 130,
+        "downloadCount30Days": 34,
         "lastUpdated": "2022-10-01T06:30:04.818905Z"
       },
       "github": {
         "slug": "viterium/vite_dart",
         "starCount": 3,
-        "forkCount": 1
+        "forkCount": 0
       }
     },
     "viteconnect": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 120,
+        "grantedPoints": 130,
+        "downloadCount30Days": 9,
         "lastUpdated": "2022-10-21T13:30:22.444868Z"
       },
       "github": {
         "slug": "viterium/viteconnect_dart",
         "starCount": 0,
-        "forkCount": 1
+        "forkCount": 0
       }
     },
     "vitor_myparser_nfce": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 20,
+        "downloadCount30Days": 10,
         "lastUpdated": "2019-09-21T19:50:01.351440Z"
       },
       "github": {
@@ -773672,17 +775837,40 @@
         "forkCount": 0
       }
     },
-    "vittude_app_utils": {
+    "vitreum": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 110,
+        "grantedPoints": 160,
+        "downloadCount30Days": 244,
+        "lastUpdated": "2026-08-05T06:49:07.041670Z"
+      },
+      "github": {
+        "slug": "DrRaspec/Vitreum",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "vitrum": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 77,
+        "lastUpdated": "2026-07-29T14:06:03.475106Z"
+      }
+    },
+    "vittude_app_utils": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 120,
+        "downloadCount30Days": 29,
         "lastUpdated": "2024-02-28T20:13:55.204838Z"
       }
     },
     "viumodel": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 110,
+        "grantedPoints": 105,
+        "downloadCount30Days": 29,
         "lastUpdated": "2023-02-23T15:57:11.719688Z"
       },
       "github": {
@@ -773691,48 +775879,66 @@
         "forkCount": 0
       }
     },
+    "viva_network_kit": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 140,
+        "downloadCount30Days": 15,
+        "lastUpdated": "2025-03-21T05:41:22.069219Z"
+      },
+      "github": {
+        "slug": "vivasoft-ltd/flutter-network-kit",
+        "starCount": 3,
+        "forkCount": 0
+      }
+    },
     "viva_wallet_pos": {
       "pub": {
-        "likeCount": 4,
-        "grantedPoints": 160,
-        "lastUpdated": "2024-02-17T19:32:49.917306Z"
+        "likeCount": 6,
+        "grantedPoints": 150,
+        "downloadCount30Days": 309,
+        "lastUpdated": "2026-07-17T07:51:25.520566Z"
       },
       "github": {
         "slug": "drigler/viva_wallet_pos",
-        "starCount": 3,
-        "forkCount": 2
+        "starCount": 6,
+        "forkCount": 8
       }
     },
     "vivace_core": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 120,
+        "downloadCount30Days": 5,
         "lastUpdated": "2023-01-20T01:19:43.302240Z"
       },
       "github": {
         "slug": "dnunez24/vivace",
-        "starCount": 1,
+        "starCount": 2,
         "forkCount": 0
       }
     },
     "vivanta_connect_flutter": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 80,
-        "lastUpdated": "2024-06-28T03:02:14.596471Z"
+        "likeCount": 2,
+        "grantedPoints": 40,
+        "downloadCount30Days": 239,
+        "lastUpdated": "2026-08-03T05:29:19.044328Z"
       }
     },
     "vivanta_health": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 140,
+        "likeCount": 1,
+        "grantedPoints": 130,
+        "downloadCount30Days": 9,
         "lastUpdated": "2024-01-26T01:19:33.986253Z"
       }
     },
     "vivid_text": {
       "pub": {
         "likeCount": 3,
-        "grantedPoints": 140,
+        "grantedPoints": 150,
+        "downloadCount30Days": 6,
         "lastUpdated": "2022-07-01T08:30:47.443356Z"
       },
       "github": {
@@ -773741,10 +775947,48 @@
         "forkCount": 0
       }
     },
+    "vivienda_sdk": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 125,
+        "downloadCount30Days": 111,
+        "lastUpdated": "2026-07-22T23:13:52.139760Z"
+      }
+    },
+    "vivienda_webview_sdk": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 7,
+        "lastUpdated": "2026-06-26T16:43:36.413522Z"
+      }
+    },
+    "vivla_data_grid": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 130,
+        "downloadCount30Days": 72,
+        "lastUpdated": "2025-01-16T17:17:13.988856Z"
+      }
+    },
+    "vivo_push": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 160,
+        "downloadCount30Days": 31,
+        "lastUpdated": "2025-11-11T13:01:13.775212Z"
+      },
+      "github": {
+        "slug": "meetleev/flutter_vivo_push",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "vivysub_utils": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 130,
+        "grantedPoints": 120,
+        "downloadCount30Days": 59,
         "lastUpdated": "2022-11-03T20:18:16.186081Z"
       },
       "github": {
@@ -773757,6 +776001,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 40,
+        "downloadCount30Days": 11,
         "lastUpdated": "2019-06-04T06:50:25.633735Z"
       },
       "github": {
@@ -773769,11 +776014,12 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 40,
+        "downloadCount30Days": 5,
         "lastUpdated": "2019-06-11T15:29:44.137863Z"
       },
       "github": {
         "slug": "VizTower/viz-transaction",
-        "starCount": 5,
+        "starCount": 4,
         "forkCount": 3
       }
     },
@@ -773781,6 +776027,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 20,
+        "downloadCount30Days": 9,
         "lastUpdated": "2019-10-30T23:41:27.913131Z"
       },
       "github": {
@@ -773789,22 +776036,37 @@
         "forkCount": 0
       }
     },
+    "vize": {
+      "pub": {
+        "likeCount": 3,
+        "grantedPoints": 160,
+        "downloadCount30Days": 29,
+        "lastUpdated": "2026-05-25T05:09:22.245575Z"
+      },
+      "github": {
+        "slug": "dilo-studios/vize",
+        "starCount": 4,
+        "forkCount": 1
+      }
+    },
     "vizor": {
       "pub": {
         "likeCount": 7,
         "grantedPoints": 20,
+        "downloadCount30Days": 6,
         "lastUpdated": "2020-10-08T12:59:48.025844Z"
       },
       "github": {
         "slug": "vizor-ui/vizor",
-        "starCount": 47,
+        "starCount": 54,
         "forkCount": 9
       }
     },
     "vizzie_dom": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 20,
+        "grantedPoints": 15,
+        "downloadCount30Days": 13,
         "lastUpdated": "2017-08-26T13:21:15.269986Z"
       }
     },
@@ -773812,18 +776074,20 @@
       "pub": {
         "likeCount": 18,
         "grantedPoints": 150,
+        "downloadCount30Days": 23,
         "lastUpdated": "2021-12-22T20:34:05.969967Z"
       },
       "github": {
         "slug": "Taha-Firoz/virtual.keyboard.dart",
-        "starCount": 18,
-        "forkCount": 7
+        "starCount": 21,
+        "forkCount": 8
       }
     },
     "vk_alert_dialog": {
       "pub": {
         "likeCount": 5,
         "grantedPoints": 40,
+        "downloadCount30Days": 21,
         "lastUpdated": "2020-10-30T10:41:15.322069Z"
       },
       "github": {
@@ -773834,20 +776098,43 @@
     },
     "vk_bridge": {
       "pub": {
-        "likeCount": 23,
+        "likeCount": 25,
         "grantedPoints": 130,
-        "lastUpdated": "2021-12-30T17:47:43.379826Z"
+        "downloadCount30Days": 1219,
+        "lastUpdated": "2024-08-05T12:49:57.886084Z"
       },
       "github": {
         "slug": "optimist-dev/vk_bridge",
         "starCount": 17,
-        "forkCount": 5
+        "forkCount": 8
+      }
+    },
+    "vk_custom_widgets": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 160,
+        "downloadCount30Days": 25,
+        "lastUpdated": "2026-01-29T01:50:24.936569Z"
+      }
+    },
+    "vk_id": {
+      "pub": {
+        "likeCount": 3,
+        "grantedPoints": 160,
+        "downloadCount30Days": 1736,
+        "lastUpdated": "2025-11-07T08:54:17.691185Z"
+      },
+      "github": {
+        "slug": "mIwr/vkid-dart-sdk",
+        "starCount": 2,
+        "forkCount": 0
       }
     },
     "vk_id_auth": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 150,
+        "grantedPoints": 140,
+        "downloadCount30Days": 11,
         "lastUpdated": "2024-04-14T12:37:40.425970Z"
       },
       "github": {
@@ -773856,10 +776143,24 @@
         "forkCount": 0
       }
     },
+    "vk_id_auth2": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 23,
+        "lastUpdated": "2024-12-14T12:40:33.178290Z"
+      },
+      "github": {
+        "slug": "L3odr0id/vk_id_auth2",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "vk_library": {
       "pub": {
         "likeCount": 3,
         "grantedPoints": 140,
+        "downloadCount30Days": 15,
         "lastUpdated": "2022-04-26T19:08:30.823290Z"
       },
       "github": {
@@ -773868,10 +776169,19 @@
         "forkCount": 0
       }
     },
+    "vk_location_sharing": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 17,
+        "lastUpdated": "2026-01-15T13:51:42.609215Z"
+      }
+    },
     "vk_login": {
       "pub": {
         "likeCount": 1,
         "grantedPoints": 140,
+        "downloadCount30Days": 13,
         "lastUpdated": "2021-08-13T12:54:30.540341Z"
       },
       "github": {
@@ -773883,19 +776193,34 @@
     "vk_native_client": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 130,
+        "grantedPoints": 50,
+        "downloadCount30Days": 19,
         "lastUpdated": "2023-06-25T16:04:30.508433Z"
       },
       "github": {
         "slug": "Code-Vedas/vk-native-client",
-        "starCount": 0,
+        "starCount": 2,
         "forkCount": 0
+      }
+    },
+    "vk_video": {
+      "pub": {
+        "likeCount": 6,
+        "grantedPoints": 145,
+        "downloadCount30Days": 170,
+        "lastUpdated": "2026-06-17T19:05:42.702928Z"
+      },
+      "github": {
+        "slug": "ultra-rony/vk_video",
+        "starCount": 10,
+        "forkCount": 3
       }
     },
     "vk_voice_kit": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 130,
+        "grantedPoints": 115,
+        "downloadCount30Days": 9,
         "lastUpdated": "2023-07-31T09:41:09.850263Z"
       }
     },
@@ -773903,6 +776228,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 5,
+        "downloadCount30Days": 14,
         "lastUpdated": "2014-11-29T16:35:45.250830Z"
       },
       "github": {
@@ -773913,25 +776239,27 @@
     },
     "vkaxlib": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 150,
+        "likeCount": 1,
+        "grantedPoints": 130,
+        "downloadCount30Days": 8,
         "lastUpdated": "2024-05-14T22:08:05.012287Z"
       },
       "github": {
         "slug": "michaelvkax/vkaxlib",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
     "vkaxlib_flutter": {
       "pub": {
-        "likeCount": 0,
+        "likeCount": 1,
         "grantedPoints": 150,
+        "downloadCount30Days": 8,
         "lastUpdated": "2024-05-14T22:27:48.790083Z"
       },
       "github": {
         "slug": "michaelvkax/vkaxlib",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
@@ -773939,37 +776267,57 @@
       "pub": {
         "likeCount": 6,
         "grantedPoints": 160,
+        "downloadCount30Days": 85,
         "lastUpdated": "2024-04-05T20:13:32.579029Z"
       },
       "github": {
         "slug": "swedesjs/vkdart",
-        "starCount": 5,
+        "starCount": 4,
         "forkCount": 0
       }
     },
     "vkeyboard": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 60,
+        "grantedPoints": 40,
+        "downloadCount30Days": 14,
         "lastUpdated": "2021-05-21T07:59:29.083196Z"
+      }
+    },
+    "vkgen": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2026-05-17T15:59:52.021050Z"
+      }
+    },
+    "vkid_flutter_sdk": {
+      "pub": {
+        "likeCount": 10,
+        "grantedPoints": 150,
+        "downloadCount30Days": 2300,
+        "lastUpdated": "2025-11-01T08:38:00.344904Z"
       }
     },
     "vkio": {
       "pub": {
         "likeCount": 13,
         "grantedPoints": 40,
+        "downloadCount30Days": 49,
         "lastUpdated": "2020-01-13T19:30:59.663335Z"
       },
       "github": {
         "slug": "nitreojs/dart-vkio",
         "starCount": 11,
-        "forkCount": 1
+        "forkCount": 2
       }
     },
     "vklib": {
       "pub": {
         "likeCount": 9,
         "grantedPoints": 130,
+        "downloadCount30Days": 30,
         "lastUpdated": "2021-10-10T14:24:05.912061Z"
       },
       "github": {
@@ -773980,20 +776328,22 @@
     },
     "vkusnoitochka_api": {
       "pub": {
-        "likeCount": 0,
+        "likeCount": 1,
         "grantedPoints": 160,
+        "downloadCount30Days": 10,
         "lastUpdated": "2024-05-11T21:39:40.713668Z"
       },
       "github": {
         "slug": "Iv2005an/vkusnoitochka_api",
-        "starCount": 1,
-        "forkCount": 0
+        "starCount": 2,
+        "forkCount": 1
       }
     },
     "vlads_buttercms_dart": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 0,
+        "downloadCount30Days": 11,
         "lastUpdated": "2023-10-13T07:56:46.264213Z"
       },
       "github": {
@@ -774005,31 +776355,34 @@
     "vlc_flutter": {
       "pub": {
         "likeCount": 9,
-        "grantedPoints": 130,
+        "grantedPoints": 120,
+        "downloadCount30Days": 14,
         "lastUpdated": "2022-01-19T19:57:09.813674Z"
       },
       "github": {
         "slug": "arcticfox1919/vlc-flutter",
-        "starCount": 22,
-        "forkCount": 7
+        "starCount": 23,
+        "forkCount": 6
       }
     },
     "vlc_flutter_compat": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 140,
+        "grantedPoints": 130,
+        "downloadCount30Days": 18,
         "lastUpdated": "2023-10-13T06:26:13.708269Z"
       },
       "github": {
         "slug": "arcticfox1919/vlc-flutter",
-        "starCount": 22,
-        "forkCount": 7
+        "starCount": 23,
+        "forkCount": 6
       }
     },
     "vlc_m_remote": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 100,
+        "grantedPoints": 95,
+        "downloadCount30Days": 47,
         "lastUpdated": "2023-07-18T11:34:47.695575Z"
       },
       "github": {
@@ -774038,15 +776391,71 @@
         "forkCount": 0
       }
     },
-    "vlsid": {
+    "vlc_player": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 157,
+        "lastUpdated": "2026-05-28T11:44:43.127149Z"
+      },
+      "github": {
+        "slug": "lingjhf/vlc_player",
+        "starCount": 2,
+        "forkCount": 5
+      }
+    },
+    "vlc_player_x": {
       "pub": {
         "likeCount": 1,
         "grantedPoints": 150,
+        "downloadCount30Days": 14,
+        "lastUpdated": "2025-03-11T23:20:55.783602Z"
+      },
+      "github": {
+        "slug": "ERICAntoine/vlc_player_x",
+        "starCount": 1,
+        "forkCount": 1
+      }
+    },
+    "vlens": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 120,
+        "downloadCount30Days": 467,
+        "lastUpdated": "2026-03-01T13:09:45.609307Z"
+      }
+    },
+    "vless_vpn_platform": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2025-06-23T17:37:49.546282Z"
+      }
+    },
+    "vlmrun": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 16,
+        "lastUpdated": "2026-06-23T12:20:35.988920Z"
+      },
+      "github": {
+        "slug": "vlm-run/vlmrun-dart-sdk",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "vlsid": {
+      "pub": {
+        "likeCount": 2,
+        "grantedPoints": 150,
+        "downloadCount30Days": 11,
         "lastUpdated": "2024-06-04T08:00:38.989278Z"
       },
       "github": {
         "slug": "fbede/vlsid",
-        "starCount": 1,
+        "starCount": 2,
         "forkCount": 0
       }
     },
@@ -774054,6 +776463,7 @@
       "pub": {
         "likeCount": 3,
         "grantedPoints": 160,
+        "downloadCount30Days": 89,
         "lastUpdated": "2022-10-23T20:02:16.861570Z"
       },
       "github": {
@@ -774066,6 +776476,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 20,
+        "downloadCount30Days": 5,
         "lastUpdated": "2021-06-04T11:17:01.412076Z"
       },
       "github": {
@@ -774074,22 +776485,82 @@
         "forkCount": 0
       }
     },
+    "vm_class": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 160,
+        "downloadCount30Days": 8,
+        "lastUpdated": "2025-04-12T07:41:27.080949Z"
+      }
+    },
+    "vm_class_annotation": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 140,
+        "downloadCount30Days": 10,
+        "lastUpdated": "2025-03-28T14:50:47.207649Z"
+      }
+    },
+    "vm_class_gen": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 120,
+        "downloadCount30Days": 12,
+        "lastUpdated": "2025-04-05T14:09:48.502008Z"
+      }
+    },
+    "vm_page_numbers": {
+      "pub": {
+        "likeCount": 2,
+        "grantedPoints": 160,
+        "downloadCount30Days": 3,
+        "lastUpdated": "2025-04-18T08:32:36.586476Z"
+      }
+    },
+    "vm_result": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 243,
+        "lastUpdated": "2026-07-18T08:09:12.277601Z"
+      },
+      "github": {
+        "slug": "kenjiz/vm_result",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "vm_result_harness": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 136,
+        "lastUpdated": "2026-07-16T06:33:55.272982Z"
+      },
+      "github": {
+        "slug": "kenjiz/vm_result",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "vm_service": {
       "pub": {
-        "likeCount": 49,
+        "likeCount": 61,
         "grantedPoints": 150,
-        "lastUpdated": "2024-06-14T13:52:18.895043Z"
+        "downloadCount30Days": 14262758,
+        "lastUpdated": "2026-04-28T14:53:01.192790Z"
       },
       "github": {
         "slug": "dart-lang/sdk",
-        "starCount": 9995,
-        "forkCount": 1538
+        "starCount": 11253,
+        "forkCount": 1851
       }
     },
     "vm_service_client": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 20,
+        "downloadCount30Days": 20330,
         "lastUpdated": "2019-08-01T14:28:16.352797Z"
       },
       "github": {
@@ -774100,20 +776571,22 @@
     },
     "vm_service_interface": {
       "pub": {
-        "likeCount": 1,
-        "grantedPoints": 130,
-        "lastUpdated": "2024-03-20T13:39:56.302961Z"
+        "likeCount": 3,
+        "grantedPoints": 150,
+        "downloadCount30Days": 6155933,
+        "lastUpdated": "2024-12-06T16:44:30.625115Z"
       },
       "github": {
         "slug": "dart-lang/sdk",
-        "starCount": 9995,
-        "forkCount": 1538
+        "starCount": 11253,
+        "forkCount": 1851
       }
     },
     "vm_service_lib": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 20,
+        "downloadCount30Days": 4548,
         "lastUpdated": "2019-07-25T19:32:49.843665Z"
       },
       "github": {
@@ -774124,46 +776597,77 @@
     },
     "vm_service_protos": {
       "pub": {
-        "likeCount": 1,
-        "grantedPoints": 150,
-        "lastUpdated": "2023-06-15T19:15:03.921783Z"
+        "likeCount": 2,
+        "grantedPoints": 140,
+        "downloadCount30Days": 15712,
+        "lastUpdated": "2025-12-01T21:13:52.118196Z"
       },
       "github": {
         "slug": "dart-lang/sdk",
-        "starCount": 9995,
-        "forkCount": 1538
+        "starCount": 11253,
+        "forkCount": 1851
       }
     },
     "vm_snapshot_analysis": {
       "pub": {
-        "likeCount": 7,
+        "likeCount": 10,
         "grantedPoints": 140,
+        "downloadCount30Days": 6156002,
         "lastUpdated": "2023-07-07T11:40:08.793055Z"
       },
       "github": {
         "slug": "dart-lang/sdk",
-        "starCount": 9995,
-        "forkCount": 1538
+        "starCount": 11253,
+        "forkCount": 1851
+      }
+    },
+    "vmate": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 13,
+        "lastUpdated": "2025-04-23T10:57:50.726653Z"
+      },
+      "github": {
+        "slug": "elliotkhd/vmate",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "vmax_flutter": {
       "pub": {
+        "likeCount": 1,
+        "grantedPoints": 110,
+        "downloadCount30Days": 159,
+        "lastUpdated": "2026-07-30T14:55:54.917654Z"
+      }
+    },
+    "vmf": {
+      "pub": {
         "likeCount": 0,
-        "grantedPoints": 130,
-        "lastUpdated": "2024-03-22T08:43:10.286354Z"
+        "grantedPoints": 160,
+        "downloadCount30Days": 19,
+        "lastUpdated": "2025-09-07T21:16:54.275595Z"
+      },
+      "github": {
+        "slug": "Facundo14/vmf",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "vmiso": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 20,
+        "grantedPoints": 30,
+        "downloadCount30Days": 15,
         "lastUpdated": "2019-10-30T21:43:55.847074Z"
       }
     },
     "vmlogger": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 10,
+        "grantedPoints": 5,
+        "downloadCount30Days": 13,
         "lastUpdated": "2020-04-12T08:22:11.010078Z"
       }
     },
@@ -774171,6 +776675,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 130,
+        "downloadCount30Days": 29,
         "lastUpdated": "2021-11-06T10:10:34.648611Z"
       },
       "github": {
@@ -774181,13 +776686,53 @@
     },
     "vn_badwords_filter": {
       "pub": {
-        "likeCount": 1,
+        "likeCount": 2,
         "grantedPoints": 160,
+        "downloadCount30Days": 14,
         "lastUpdated": "2023-09-24T00:29:54.395063Z"
       },
       "github": {
         "slug": "kreazyme/vn_badwords_filter",
-        "starCount": 6,
+        "starCount": 7,
+        "forkCount": 0
+      }
+    },
+    "vn_best_player": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 105,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2025-10-16T07:39:42.751607Z"
+      },
+      "github": {
+        "slug": "tiepdev9x/better_player",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "vn_date_formatter": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 140,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2026-03-27T07:20:37.936747Z"
+      },
+      "github": {
+        "slug": "quangtran2003/vn_date_formatter",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "vn_date_time_picker": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 23,
+        "lastUpdated": "2026-07-13T07:30:28.842683Z"
+      },
+      "github": {
+        "slug": "levangiac/-date-time-picker",
+        "starCount": 0,
         "forkCount": 0
       }
     },
@@ -774195,13 +776740,23 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 130,
+        "downloadCount30Days": 5,
         "lastUpdated": "2022-12-06T06:55:33.685448Z"
+      }
+    },
+    "vn_payment_gen": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 125,
+        "downloadCount30Days": 21,
+        "lastUpdated": "2025-04-27T17:00:49.587843Z"
       }
     },
     "vn_provinces": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 130,
+        "downloadCount30Days": 13,
         "lastUpdated": "2021-09-10T01:02:50.929727Z"
       },
       "github": {
@@ -774210,79 +776765,160 @@
         "forkCount": 1
       }
     },
+    "vn_provinces_api": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 160,
+        "downloadCount30Days": 18,
+        "lastUpdated": "2026-05-10T11:39:12.352958Z"
+      },
+      "github": {
+        "slug": "ankoi0310/vn_provinces_api",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "vn_unsign": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 30,
+        "downloadCount30Days": 7,
         "lastUpdated": "2019-04-23T05:53:15.971129Z"
       },
       "github": {
         "slug": "tvc12/vn-unsign",
-        "starCount": 22,
+        "starCount": 23,
         "forkCount": 1
+      }
+    },
+    "vnc_viewer": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 29,
+        "lastUpdated": "2026-03-25T08:28:04.961851Z"
+      },
+      "github": {
+        "slug": "Sarmay/vnc_viewer",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "vncitizens_setting_dev": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 30,
+        "grantedPoints": 25,
+        "downloadCount30Days": 9,
         "lastUpdated": "2021-12-12T07:17:19.102114Z"
       }
     },
     "vnd_ekyc": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 120,
+        "grantedPoints": 110,
+        "downloadCount30Days": 523,
         "lastUpdated": "2022-01-27T06:46:44.208630Z"
+      }
+    },
+    "vnid": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 125,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2025-01-13T09:41:35.178125Z"
       }
     },
     "vnlunar": {
       "pub": {
-        "likeCount": 4,
+        "likeCount": 9,
         "grantedPoints": 160,
-        "lastUpdated": "2023-11-01T09:33:39.461909Z"
+        "downloadCount30Days": 189,
+        "lastUpdated": "2024-08-12T18:11:09.210322Z"
       },
       "github": {
         "slug": "nguyen703/vnlunar",
-        "starCount": 7,
-        "forkCount": 2
+        "starCount": 8,
+        "forkCount": 1
       }
     },
     "vnpay": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 20,
+        "grantedPoints": 15,
+        "downloadCount30Days": 5,
         "lastUpdated": "2020-01-19T09:16:21.315854Z"
       }
     },
     "vnpay_client": {
       "pub": {
-        "likeCount": 0,
-        "grantedPoints": 150,
+        "likeCount": 1,
+        "grantedPoints": 145,
+        "downloadCount30Days": 14,
         "lastUpdated": "2023-10-27T03:51:57.391932Z"
       },
       "github": {
         "slug": "doannc2212/vnpay_client",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
     "vnpay_flutter": {
       "pub": {
-        "likeCount": 7,
-        "grantedPoints": 120,
-        "lastUpdated": "2024-07-07T04:01:52.983088Z"
+        "likeCount": 11,
+        "grantedPoints": 150,
+        "downloadCount30Days": 27,
+        "lastUpdated": "2025-04-05T05:51:40.377126Z"
       },
       "github": {
         "slug": "justaboy-dev/VNPay_Flutter",
-        "starCount": 3,
-        "forkCount": 4
+        "starCount": 5,
+        "forkCount": 12
+      }
+    },
+    "vnpay_payment_flutter": {
+      "pub": {
+        "likeCount": 6,
+        "grantedPoints": 140,
+        "downloadCount30Days": 9,
+        "lastUpdated": "2025-12-05T08:57:10.540098Z"
+      },
+      "github": {
+        "slug": "buiphukhuyen/vnpay_payment_flutter",
+        "starCount": 1,
+        "forkCount": 0
+      }
+    },
+    "vnpt_device_discovery": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 9,
+        "lastUpdated": "2026-04-16T09:21:33.819178Z"
+      },
+      "github": {
+        "slug": "duyhuy27/vnpt_device_discovery",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "vnpt_onvif": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 23,
+        "lastUpdated": "2026-06-03T04:02:30.250178Z"
+      },
+      "github": {
+        "slug": "tamdv/vnpt_onvif",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "vnpt_signature_pkg": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 20,
+        "grantedPoints": 15,
+        "downloadCount30Days": 128,
         "lastUpdated": "2022-06-10T04:16:40.878642Z"
       }
     },
@@ -774290,20 +776926,23 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 20,
+        "downloadCount30Days": 7,
         "lastUpdated": "2023-03-13T08:20:03.424332Z"
       }
     },
     "vnpttech_pkg": {
       "pub": {
         "likeCount": 3,
-        "grantedPoints": 120,
-        "lastUpdated": "2024-07-30T01:53:15.748043Z"
+        "grantedPoints": 40,
+        "downloadCount30Days": 1222,
+        "lastUpdated": "2026-07-31T02:38:36.376922Z"
       }
     },
     "vnum": {
       "pub": {
         "likeCount": 12,
         "grantedPoints": 40,
+        "downloadCount30Days": 46,
         "lastUpdated": "2020-05-08T06:46:40.972537Z"
       },
       "github": {
@@ -774312,11 +776951,28 @@
         "forkCount": 4
       }
     },
-    "voc": {
+    "vo": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 130,
-        "lastUpdated": "2021-08-05T04:19:00.770835Z"
+        "downloadCount30Days": 5,
+        "lastUpdated": "2025-04-02T21:24:10.541149Z"
+      }
+    },
+    "vobiz_webrtc": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 120,
+        "downloadCount30Days": 6,
+        "lastUpdated": "2026-05-04T07:35:43.653499Z"
+      }
+    },
+    "voc": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 17,
+        "lastUpdated": "2024-09-12T09:37:10.064820Z"
       },
       "github": {
         "slug": "Ampless/voc.dart",
@@ -774324,35 +776980,132 @@
         "forkCount": 0
       }
     },
+    "voca_youtube_player": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 145,
+        "downloadCount30Days": 31,
+        "lastUpdated": "2026-02-12T21:13:18.118395Z"
+      },
+      "github": {
+        "slug": "kkaradag2/voca_youtube_player",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "vocall_sdk": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 130,
+        "downloadCount30Days": 20,
+        "lastUpdated": "2026-03-21T20:16:33.667072Z"
+      }
+    },
+    "vocallabs_agent_sdk": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 130,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2025-09-24T11:27:51.934027Z"
+      }
+    },
+    "vocra_core": {
+      "pub": {
+        "likeCount": 2,
+        "grantedPoints": 160,
+        "downloadCount30Days": 258,
+        "lastUpdated": "2026-07-25T13:18:57.875707Z"
+      },
+      "github": {
+        "slug": "abdelrahman-shehata99/vocra",
+        "starCount": 2,
+        "forkCount": 1
+      }
+    },
+    "vocra_flutter": {
+      "pub": {
+        "likeCount": 8,
+        "grantedPoints": 160,
+        "downloadCount30Days": 262,
+        "lastUpdated": "2026-07-25T13:23:21.852141Z"
+      },
+      "github": {
+        "slug": "abdelrahman-shehata99/vocra",
+        "starCount": 2,
+        "forkCount": 1
+      }
+    },
     "vocsy_epub_viewer": {
       "pub": {
-        "likeCount": 83,
-        "grantedPoints": 150,
-        "lastUpdated": "2023-02-11T12:36:43.189428Z"
+        "likeCount": 98,
+        "grantedPoints": 140,
+        "downloadCount30Days": 133,
+        "lastUpdated": "2024-09-02T08:47:24.473922Z"
       },
       "github": {
         "slug": "kaushikgodhani/vocsy_epub_viewer",
-        "starCount": 30,
-        "forkCount": 60
+        "starCount": 41,
+        "forkCount": 95
       }
     },
     "vocsy_esys_flutter_share": {
       "pub": {
         "likeCount": 21,
         "grantedPoints": 140,
+        "downloadCount30Days": 19,
         "lastUpdated": "2022-11-15T06:46:41.516485Z"
       },
       "github": {
         "slug": "kaushikgodhani/vocsy_esys_flutter_share",
-        "starCount": 1,
-        "forkCount": 1
+        "starCount": 0,
+        "forkCount": 3
+      }
+    },
+    "vodozemac": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 150,
+        "downloadCount30Days": 22029,
+        "lastUpdated": "2026-08-04T11:24:04.962321Z"
+      },
+      "github": {
+        "slug": "famedly/dart-vodozemac",
+        "starCount": 4,
+        "forkCount": 6
+      }
+    },
+    "vodozemac_plus": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 10,
+        "lastUpdated": "2026-05-08T11:25:01.941669Z"
+      },
+      "github": {
+        "slug": "amd110/dart-vodozemac",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "voice": {
       "pub": {
-        "likeCount": 1,
-        "grantedPoints": 120,
+        "likeCount": 2,
+        "grantedPoints": 110,
+        "downloadCount30Days": 7,
         "lastUpdated": "2024-02-05T01:14:22.408051Z"
+      }
+    },
+    "voice_and_message_room": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 145,
+        "downloadCount30Days": 5,
+        "lastUpdated": "2025-12-16T17:25:39.140557Z"
+      },
+      "github": {
+        "slug": "mansur61/voice_and_message_room",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "voice_assistant": {
@@ -800265,7 +803018,7 @@
     }
   },
   "lastUpdate": {
-    "endIndex": 82515,
-    "date": "2026-08-16T16:12:40.866146Z"
+    "endIndex": 83015,
+    "date": "2026-08-16T18:13:18.423193Z"
   }
 }
