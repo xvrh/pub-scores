@@ -707532,19 +707532,6 @@
         "forkCount": 0
       }
     },
-    "native_in_app_purchase": {
-      "pub": {
-        "likeCount": 1,
-        "grantedPoints": 140,
-        "downloadCount30Days": 19,
-        "lastUpdated": "2026-04-15T10:14:44.301919Z"
-      },
-      "github": {
-        "slug": "Gurpyarpanwar/native_in_app_purchase",
-        "starCount": 0,
-        "forkCount": 0
-      }
-    },
     "native_ios_color_picker": {
       "pub": {
         "likeCount": 5,
@@ -825250,14 +825237,6 @@
         "forkCount": 0
       }
     },
-    "quick_popup_manager": {
-      "pub": {
-        "likeCount": 8,
-        "grantedPoints": 160,
-        "downloadCount30Days": 22,
-        "lastUpdated": "2026-07-08T13:41:31.261954Z"
-      }
-    },
     "quick_print": {
       "pub": {
         "likeCount": 43,
@@ -831585,24 +831564,37 @@
         "forkCount": 0
       }
     },
+    "ratex_dart": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 675,
+        "lastUpdated": "2026-10-29T22:09:41.777900Z"
+      },
+      "github": {
+        "slug": "ManyMath/ratex",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "ratex_flutter": {
       "pub": {
         "likeCount": 4,
-        "grantedPoints": 115,
-        "downloadCount30Days": 82,
-        "lastUpdated": "2026-07-28T08:52:20.815363Z"
+        "grantedPoints": 110,
+        "downloadCount30Days": 212,
+        "lastUpdated": "2026-11-16T09:46:19.803045Z"
       },
       "github": {
         "slug": "erweixin/RaTeX",
-        "starCount": 1512,
-        "forkCount": 74
+        "starCount": 1599,
+        "forkCount": 88
       }
     },
     "rating": {
       "pub": {
         "likeCount": 30,
         "grantedPoints": 40,
-        "downloadCount30Days": 5,
+        "downloadCount30Days": 31,
         "lastUpdated": "2021-12-29T14:40:42.928247Z"
       },
       "github": {
@@ -831614,8 +831606,8 @@
     "rating_and_feedback_collector": {
       "pub": {
         "likeCount": 37,
-        "grantedPoints": 160,
-        "downloadCount30Days": 93,
+        "grantedPoints": 140,
+        "downloadCount30Days": 72,
         "lastUpdated": "2026-07-02T06:54:55.479392Z"
       },
       "github": {
@@ -831627,12 +831619,12 @@
     "rating_bar": {
       "pub": {
         "likeCount": 28,
-        "grantedPoints": 40,
-        "downloadCount30Days": 188,
-        "lastUpdated": "2019-09-08T18:58:51.285706Z"
+        "grantedPoints": 150,
+        "downloadCount30Days": 389,
+        "lastUpdated": "2026-10-05T03:29:09.243576Z"
       },
       "github": {
-        "slug": "joshmatta/rating_bar",
+        "slug": "jajpa/rating_bar",
         "starCount": 10,
         "forkCount": 5
       }
@@ -831641,7 +831633,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 115,
-        "downloadCount30Days": 6,
+        "downloadCount30Days": 14,
         "lastUpdated": "2023-04-13T17:59:16.200974Z"
       },
       "github": {
@@ -831654,7 +831646,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 140,
-        "downloadCount30Days": 13,
+        "downloadCount30Days": 25,
         "lastUpdated": "2021-10-30T14:20:21.879494Z"
       },
       "github": {
@@ -831666,8 +831658,8 @@
     "rating_bar_swipe": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 145,
-        "downloadCount30Days": 7,
+        "grantedPoints": 135,
+        "downloadCount30Days": 15,
         "lastUpdated": "2023-03-06T21:06:49.678017Z"
       },
       "github": {
@@ -831680,7 +831672,7 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 110,
-        "downloadCount30Days": 9,
+        "downloadCount30Days": 8,
         "lastUpdated": "2024-11-26T14:04:11.308572Z"
       },
       "github": {
@@ -831693,7 +831685,7 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 40,
-        "downloadCount30Days": 3,
+        "downloadCount30Days": 7,
         "lastUpdated": "2023-07-17T09:11:01.507344Z"
       },
       "github": {
@@ -831705,8 +831697,8 @@
     "rating_dialog": {
       "pub": {
         "likeCount": 250,
-        "grantedPoints": 150,
-        "downloadCount30Days": 1597,
+        "grantedPoints": 140,
+        "downloadCount30Days": 3327,
         "lastUpdated": "2022-04-29T09:53:28.326756Z"
       },
       "github": {
@@ -831718,8 +831710,8 @@
     "rating_slider": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 150,
-        "downloadCount30Days": 8,
+        "grantedPoints": 140,
+        "downloadCount30Days": 11,
         "lastUpdated": "2025-04-07T10:38:31.103640Z"
       },
       "github": {
@@ -831731,8 +831723,8 @@
     "rating_summary": {
       "pub": {
         "likeCount": 54,
-        "grantedPoints": 160,
-        "downloadCount30Days": 261,
+        "grantedPoints": 150,
+        "downloadCount30Days": 296,
         "lastUpdated": "2025-02-03T20:20:16.538286Z"
       },
       "github": {
@@ -831745,7 +831737,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 115,
-        "downloadCount30Days": 8,
+        "downloadCount30Days": 16,
         "lastUpdated": "2021-08-13T15:20:18.022796Z"
       },
       "github": {
@@ -831758,7 +831750,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 20,
-        "downloadCount30Days": 5,
+        "downloadCount30Days": 6,
         "lastUpdated": "2021-05-24T10:15:01.342142Z"
       },
       "github": {
@@ -831770,8 +831762,8 @@
     "ratings_plus": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 160,
-        "downloadCount30Days": 21,
+        "grantedPoints": 150,
+        "downloadCount30Days": 15,
         "lastUpdated": "2026-01-01T06:09:28.281033Z"
       },
       "github": {
@@ -831783,8 +831775,8 @@
     "ratio_bar": {
       "pub": {
         "likeCount": 6,
-        "grantedPoints": 160,
-        "downloadCount30Days": 5,
+        "grantedPoints": 150,
+        "downloadCount30Days": 13,
         "lastUpdated": "2024-05-29T11:42:50.792956Z"
       },
       "github": {
@@ -831796,8 +831788,8 @@
     "ratio_flex": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 155,
-        "downloadCount30Days": 41,
+        "grantedPoints": 145,
+        "downloadCount30Days": 26,
         "lastUpdated": "2025-05-10T10:22:05.719657Z"
       },
       "github": {
@@ -831810,7 +831802,7 @@
       "pub": {
         "likeCount": 24,
         "grantedPoints": 160,
-        "downloadCount30Days": 729411,
+        "downloadCount30Days": 1120864,
         "lastUpdated": "2024-06-02T06:05:30.245525Z"
       },
       "github": {
@@ -831823,7 +831815,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 140,
-        "downloadCount30Days": 0,
+        "downloadCount30Days": 4,
         "lastUpdated": "2021-07-23T21:43:37.732167Z"
       },
       "github": {
@@ -831836,7 +831828,7 @@
       "pub": {
         "likeCount": 3,
         "grantedPoints": 100,
-        "downloadCount30Days": 13,
+        "downloadCount30Days": 19,
         "lastUpdated": "2025-04-11T08:15:56.323991Z"
       },
       "github": {
@@ -831849,7 +831841,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 30,
-        "downloadCount30Days": 10,
+        "downloadCount30Days": 24,
         "lastUpdated": "2013-05-29T23:16:41.634590Z"
       }
     },
@@ -831857,7 +831849,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 140,
-        "downloadCount30Days": 3,
+        "downloadCount30Days": 11,
         "lastUpdated": "2025-07-06T13:04:11.757941Z"
       },
       "github": {
@@ -831870,7 +831862,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 50,
-        "downloadCount30Days": 40,
+        "downloadCount30Days": 93,
         "lastUpdated": "2025-11-14T05:30:29.071108Z"
       }
     },
@@ -831878,7 +831870,7 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 150,
-        "downloadCount30Days": 11,
+        "downloadCount30Days": 40,
         "lastUpdated": "2023-12-07T07:14:07.780888Z"
       },
       "github": {
@@ -831891,7 +831883,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 35,
-        "downloadCount30Days": 12,
+        "downloadCount30Days": 23,
         "lastUpdated": "2019-06-10T18:53:50.739220Z"
       },
       "github": {
@@ -831904,20 +831896,20 @@
       "pub": {
         "likeCount": 39,
         "grantedPoints": 40,
-        "downloadCount30Days": 12,
+        "downloadCount30Days": 61,
         "lastUpdated": "2020-08-31T01:17:27.191181Z"
       },
       "github": {
         "slug": "wilburt/rave_flutter",
         "starCount": 31,
-        "forkCount": 58
+        "forkCount": 57
       }
     },
     "rave_payment": {
       "pub": {
         "likeCount": 1,
         "grantedPoints": 140,
-        "downloadCount30Days": 6,
+        "downloadCount30Days": 9,
         "lastUpdated": "2022-04-09T10:19:32.974546Z"
       },
       "github": {
@@ -831930,7 +831922,7 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 30,
-        "downloadCount30Days": 4,
+        "downloadCount30Days": 10,
         "lastUpdated": "2023-09-27T13:43:03.898241Z"
       },
       "github": {
@@ -831943,7 +831935,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 95,
-        "downloadCount30Days": 5,
+        "downloadCount30Days": 14,
         "lastUpdated": "2022-12-17T17:54:47.086236Z"
       },
       "github": {
@@ -831956,7 +831948,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 140,
-        "downloadCount30Days": 156,
+        "downloadCount30Days": 24,
         "lastUpdated": "2026-09-17T09:11:20.410756Z"
       },
       "github": {
@@ -831969,7 +831961,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 15,
-        "downloadCount30Days": 5,
+        "downloadCount30Days": 13,
         "lastUpdated": "2014-07-05T01:20:24.585060Z"
       },
       "github": {
@@ -831982,7 +831974,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 120,
-        "downloadCount30Days": 8,
+        "downloadCount30Days": 19,
         "lastUpdated": "2021-11-30T22:18:11.742474Z"
       }
     },
@@ -831990,7 +831982,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 120,
-        "downloadCount30Days": 14,
+        "downloadCount30Days": 35,
         "lastUpdated": "2021-08-25T15:05:18.688015Z"
       }
     },
@@ -832011,7 +832003,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 140,
-        "downloadCount30Days": 152,
+        "downloadCount30Days": 15,
         "lastUpdated": "2026-09-17T09:04:56.086187Z"
       },
       "github": {
@@ -832023,8 +832015,8 @@
     "raven_package_upload": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 140,
-        "downloadCount30Days": 8,
+        "grantedPoints": 130,
+        "downloadCount30Days": 9,
         "lastUpdated": "2024-12-31T09:51:26.117276Z"
       },
       "github": {
@@ -832036,8 +832028,8 @@
     "raven_rtc": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 150,
-        "downloadCount30Days": 514,
+        "grantedPoints": 140,
+        "downloadCount30Days": 65,
         "lastUpdated": "2026-09-18T10:32:08.948035Z"
       },
       "github": {
@@ -832050,7 +832042,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 95,
-        "downloadCount30Days": 117,
+        "downloadCount30Days": 137,
         "lastUpdated": "2026-03-31T14:55:49.232308Z"
       }
     },
@@ -832058,7 +832050,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 110,
-        "downloadCount30Days": 20,
+        "downloadCount30Days": 36,
         "lastUpdated": "2021-09-27T18:08:24.738505Z"
       }
     },
@@ -832066,7 +832058,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 100,
-        "downloadCount30Days": 17,
+        "downloadCount30Days": 26,
         "lastUpdated": "2021-11-30T22:17:48.731657Z"
       },
       "github": {
@@ -832079,7 +832071,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 25,
-        "downloadCount30Days": 0,
+        "downloadCount30Days": 1,
         "lastUpdated": "2021-03-04T09:45:20.113598Z"
       },
       "github": {
@@ -832092,13 +832084,13 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 140,
-        "downloadCount30Days": 35,
+        "downloadCount30Days": 11,
         "lastUpdated": "2026-08-28T05:10:56.900221Z"
       },
       "github": {
         "slug": "filipexyz/ravi",
-        "starCount": 9,
-        "forkCount": 4
+        "starCount": 11,
+        "forkCount": 5
       }
     },
     "ravy_testing": {
@@ -832113,7 +832105,7 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 35,
-        "downloadCount30Days": 8,
+        "downloadCount30Days": 34,
         "lastUpdated": "2019-02-17T23:30:17.155330Z"
       },
       "github": {
@@ -832126,7 +832118,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 160,
-        "downloadCount30Days": 12,
+        "downloadCount30Days": 33,
         "lastUpdated": "2022-08-02T18:59:18.117238Z"
       }
     },
@@ -832134,7 +832126,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 0,
-        "downloadCount30Days": 9,
+        "downloadCount30Days": 8,
         "lastUpdated": "2025-07-02T18:13:36.442049Z"
       },
       "github": {
@@ -832147,15 +832139,15 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 20,
-        "downloadCount30Days": 11,
+        "downloadCount30Days": 20,
         "lastUpdated": "2019-04-23T03:06:54.901183Z"
       }
     },
     "raw_context": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 125,
-        "downloadCount30Days": 2,
+        "grantedPoints": 115,
+        "downloadCount30Days": 0,
         "lastUpdated": "2021-10-05T15:06:26.962329Z"
       }
     },
@@ -832163,15 +832155,15 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 130,
-        "downloadCount30Days": 4,
+        "downloadCount30Days": 3,
         "lastUpdated": "2022-05-18T09:36:18.299600Z"
       }
     },
     "raw_gnss": {
       "pub": {
-        "likeCount": 19,
+        "likeCount": 20,
         "grantedPoints": 140,
-        "downloadCount30Days": 11,
+        "downloadCount30Days": 22,
         "lastUpdated": "2022-07-28T19:17:33.072635Z"
       }
     },
@@ -832179,8 +832171,8 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 150,
-        "downloadCount30Days": 13,
-        "lastUpdated": "2025-12-20T12:59:13.962289Z"
+        "downloadCount30Days": 72,
+        "lastUpdated": "2026-11-15T22:12:06.539015Z"
       }
     },
     "raw_gnss_flutter": {
@@ -832195,7 +832187,7 @@
       "pub": {
         "likeCount": 6,
         "grantedPoints": 70,
-        "downloadCount30Days": 58,
+        "downloadCount30Days": 76,
         "lastUpdated": "2021-07-09T06:52:58.531472Z"
       },
       "github": {
@@ -832204,11 +832196,19 @@
         "forkCount": 5
       }
     },
+    "raw_image_reader": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 125,
+        "downloadCount30Days": 107,
+        "lastUpdated": "2026-11-15T13:06:58.681462Z"
+      }
+    },
     "raw_magnifier_plus": {
       "pub": {
         "likeCount": 1,
         "grantedPoints": 160,
-        "downloadCount30Days": 13,
+        "downloadCount30Days": 187,
         "lastUpdated": "2026-07-01T12:20:10.225394Z"
       },
       "github": {
@@ -832234,7 +832234,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 100,
-        "downloadCount30Days": 2,
+        "downloadCount30Days": 0,
         "lastUpdated": "2023-09-19T01:03:18.715728Z"
       }
     },
@@ -832250,7 +832250,7 @@
       "pub": {
         "likeCount": 19,
         "grantedPoints": 130,
-        "downloadCount30Days": 8,
+        "downloadCount30Days": 19,
         "lastUpdated": "2021-04-15T00:47:33.508365Z"
       },
       "github": {
@@ -832263,7 +832263,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 130,
-        "downloadCount30Days": 5,
+        "downloadCount30Days": 8,
         "lastUpdated": "2024-04-12T23:15:34.802363Z"
       }
     },
@@ -832284,7 +832284,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 150,
-        "downloadCount30Days": 6,
+        "downloadCount30Days": 8,
         "lastUpdated": "2023-08-04T02:04:04.148837Z"
       }
     },
@@ -832292,7 +832292,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 160,
-        "downloadCount30Days": 10,
+        "downloadCount30Days": 40,
         "lastUpdated": "2024-02-01T22:57:06.159859Z"
       },
       "github": {
@@ -832305,7 +832305,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 40,
-        "downloadCount30Days": 7,
+        "downloadCount30Days": 15,
         "lastUpdated": "2020-11-03T19:03:14.362493Z"
       },
       "github": {
@@ -832318,8 +832318,8 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 160,
-        "downloadCount30Days": 149,
-        "lastUpdated": "2026-10-04T22:22:44.490215Z"
+        "downloadCount30Days": 284,
+        "lastUpdated": "2026-11-10T17:50:34.294877Z"
       },
       "github": {
         "slug": "focale-editor/rawkit",
@@ -832331,7 +832331,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 40,
-        "downloadCount30Days": 10,
+        "downloadCount30Days": 15,
         "lastUpdated": "2020-06-09T11:22:53.903952Z"
       },
       "github": {
@@ -832344,7 +832344,7 @@
       "pub": {
         "likeCount": 4,
         "grantedPoints": 30,
-        "downloadCount30Days": 5,
+        "downloadCount30Days": 9,
         "lastUpdated": "2021-04-12T12:50:29.131577Z"
       },
       "github": {
@@ -832357,15 +832357,15 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 140,
-        "downloadCount30Days": 8,
+        "downloadCount30Days": 7,
         "lastUpdated": "2026-05-14T02:24:01.074271Z"
       }
     },
     "ray_dart": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 160,
-        "downloadCount30Days": 9,
+        "grantedPoints": 150,
+        "downloadCount30Days": 14,
         "lastUpdated": "2026-02-12T20:41:57.270853Z"
       },
       "github": {
@@ -832378,16 +832378,16 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 150,
-        "downloadCount30Days": 10,
+        "downloadCount30Days": 12,
         "lastUpdated": "2026-07-30T08:52:51.391976Z"
       }
     },
     "ray_temp_blue": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 150,
-        "downloadCount30Days": 0,
-        "lastUpdated": "2026-02-08T15:57:15.781656Z"
+        "grantedPoints": 160,
+        "downloadCount30Days": 1065,
+        "lastUpdated": "2026-11-02T10:30:47.870711Z"
       },
       "github": {
         "slug": "alaindeseine/ray_temp_blue",
@@ -832399,7 +832399,7 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 20,
-        "downloadCount30Days": 12,
+        "downloadCount30Days": 17,
         "lastUpdated": "2021-08-06T12:08:54.750040Z"
       }
     },
@@ -832407,7 +832407,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 30,
-        "downloadCount30Days": 6,
+        "downloadCount30Days": 11,
         "lastUpdated": "2020-09-30T09:54:10.922799Z"
       },
       "github": {
@@ -832419,9 +832419,9 @@
     "raygun4flutter": {
       "pub": {
         "likeCount": 10,
-        "grantedPoints": 150,
-        "downloadCount30Days": 1204,
-        "lastUpdated": "2026-09-02T05:11:47.368960Z"
+        "grantedPoints": 160,
+        "downloadCount30Days": 2943,
+        "lastUpdated": "2026-10-06T23:16:05.133840Z"
       },
       "github": {
         "slug": "MindscapeHQ/Raygun4Flutter",
@@ -832433,8 +832433,8 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 160,
-        "downloadCount30Days": 115,
-        "lastUpdated": "2026-09-02T01:32:05.289317Z"
+        "downloadCount30Days": 54,
+        "lastUpdated": "2026-10-06T01:25:47.172480Z"
       },
       "github": {
         "slug": "MindscapeHQ/raygun-cli",
@@ -832444,22 +832444,22 @@
     },
     "raylib": {
       "pub": {
-        "likeCount": 28,
+        "likeCount": 29,
         "grantedPoints": 140,
-        "downloadCount30Days": 19,
+        "downloadCount30Days": 27,
         "lastUpdated": "2021-11-23T22:11:44.149466Z"
       }
     },
     "raylib_dart": {
       "pub": {
-        "likeCount": 2,
+        "likeCount": 3,
         "grantedPoints": 130,
-        "downloadCount30Days": 28,
+        "downloadCount30Days": 45,
         "lastUpdated": "2026-06-09T12:10:39.603341Z"
       },
       "github": {
         "slug": "dzylikecode/raylib",
-        "starCount": 6,
+        "starCount": 7,
         "forkCount": 0
       }
     },
@@ -832467,8 +832467,8 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 160,
-        "downloadCount30Days": 190,
-        "lastUpdated": "2026-10-03T13:30:22.905790Z"
+        "downloadCount30Days": 94,
+        "lastUpdated": "2026-11-16T22:01:35.100685Z"
       },
       "github": {
         "slug": "TheNoiselessNoise/raylib_dartified",
@@ -832480,12 +832480,12 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 160,
-        "downloadCount30Days": 195,
-        "lastUpdated": "2026-10-03T13:27:55.201729Z"
+        "downloadCount30Days": 89,
+        "lastUpdated": "2026-11-16T22:01:26.505920Z"
       },
       "github": {
-        "slug": "TheNoiselessNoise/raylib_dartified_base",
-        "starCount": 1,
+        "slug": "TheNoiselessNoise/raylib_dartified",
+        "starCount": 4,
         "forkCount": 0
       }
     },
@@ -832493,12 +832493,12 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 160,
-        "downloadCount30Days": 181,
-        "lastUpdated": "2026-10-03T13:41:53.083861Z"
+        "downloadCount30Days": 84,
+        "lastUpdated": "2026-11-16T22:01:44.308729Z"
       },
       "github": {
-        "slug": "TheNoiselessNoise/raylib_dartified_unhinged",
-        "starCount": 1,
+        "slug": "TheNoiselessNoise/raylib_dartified",
+        "starCount": 4,
         "forkCount": 0
       }
     },
@@ -832506,12 +832506,12 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 160,
-        "downloadCount30Days": 192,
-        "lastUpdated": "2026-10-03T13:37:39.739Z"
+        "downloadCount30Days": 88,
+        "lastUpdated": "2026-11-16T22:01:30.588130Z"
       },
       "github": {
-        "slug": "TheNoiselessNoise/raylib_dartified_web",
-        "starCount": 1,
+        "slug": "TheNoiselessNoise/raylib_dartified",
+        "starCount": 4,
         "forkCount": 0
       }
     },
@@ -832519,7 +832519,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 150,
-        "downloadCount30Days": 8,
+        "downloadCount30Days": 12,
         "lastUpdated": "2026-02-03T22:05:27.095046Z"
       },
       "github": {
@@ -832532,13 +832532,26 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 0,
-        "downloadCount30Days": 7,
+        "downloadCount30Days": 35,
         "lastUpdated": "2013-06-12T05:36:13.558380Z"
       },
       "github": {
         "slug": "dartist/raytracer",
         "starCount": 11,
         "forkCount": 1
+      }
+    },
+    "razcrypto_checkout": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 51,
+        "lastUpdated": "2026-10-19T02:14:12.034611Z"
+      },
+      "github": {
+        "slug": "WorldxGrowth/razcrypto-flutter-sdk",
+        "starCount": 1,
+        "forkCount": 0
       }
     },
     "razorpay": {
@@ -832553,7 +832566,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 30,
-        "downloadCount30Days": 7,
+        "downloadCount30Days": 6,
         "lastUpdated": "2018-12-19T21:38:43.274409Z"
       }
     },
@@ -832561,7 +832574,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 160,
-        "downloadCount30Days": 73,
+        "downloadCount30Days": 24,
         "lastUpdated": "2026-09-04T08:46:26.951942Z"
       },
       "github": {
@@ -832574,7 +832587,7 @@
       "pub": {
         "likeCount": 397,
         "grantedPoints": 150,
-        "downloadCount30Days": 90051,
+        "downloadCount30Days": 120629,
         "lastUpdated": "2026-09-21T14:53:37.774802Z"
       },
       "github": {
@@ -832587,7 +832600,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 115,
-        "downloadCount30Days": 22,
+        "downloadCount30Days": 36,
         "lastUpdated": "2022-01-12T16:22:58.065886Z"
       },
       "github": {
@@ -832600,7 +832613,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 150,
-        "downloadCount30Days": 12,
+        "downloadCount30Days": 11,
         "lastUpdated": "2026-02-26T18:10:42.625703Z"
       }
     },
@@ -832608,8 +832621,8 @@
       "pub": {
         "likeCount": 18,
         "grantedPoints": 120,
-        "downloadCount30Days": 1623,
-        "lastUpdated": "2026-09-02T06:38:35.748626Z"
+        "downloadCount30Days": 2270,
+        "lastUpdated": "2026-10-14T13:32:15.408129Z"
       },
       "github": {
         "slug": "razorpay/razorpay-flutter-customui",
@@ -832620,8 +832633,8 @@
     "razorpay_flutter_sdk": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 120,
-        "downloadCount30Days": 10,
+        "grantedPoints": 110,
+        "downloadCount30Days": 17,
         "lastUpdated": "2026-06-01T15:53:21.974398Z"
       }
     },
@@ -832629,7 +832642,7 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 115,
-        "downloadCount30Days": 16,
+        "downloadCount30Days": 19,
         "lastUpdated": "2023-11-01T17:10:49.934029Z"
       },
       "github": {
@@ -832642,28 +832655,28 @@
       "pub": {
         "likeCount": 3,
         "grantedPoints": 25,
-        "downloadCount30Days": 23,
+        "downloadCount30Days": 49,
         "lastUpdated": "2019-11-12T16:15:29.267478Z"
       },
       "github": {
         "slug": "dynamitechetan/razorpay_flutter",
         "starCount": 31,
-        "forkCount": 15
+        "forkCount": 14
       }
     },
     "razorpay_plus": {
       "pub": {
         "likeCount": 1,
         "grantedPoints": 120,
-        "downloadCount30Days": 12,
+        "downloadCount30Days": 18,
         "lastUpdated": "2024-03-28T10:26:03.156552Z"
       }
     },
     "razorpay_totalxsoftware": {
       "pub": {
         "likeCount": 5,
-        "grantedPoints": 120,
-        "downloadCount30Days": 18,
+        "grantedPoints": 110,
+        "downloadCount30Days": 41,
         "lastUpdated": "2025-04-21T08:12:40.265123Z"
       },
       "github": {
@@ -832676,7 +832689,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 110,
-        "downloadCount30Days": 11,
+        "downloadCount30Days": 8,
         "lastUpdated": "2024-08-13T14:09:46.210007Z"
       },
       "github": {
@@ -832689,7 +832702,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 100,
-        "downloadCount30Days": 15,
+        "downloadCount30Days": 12,
         "lastUpdated": "2025-07-16T16:04:03.122627Z"
       },
       "github": {
@@ -832701,21 +832714,21 @@
     "razorpay_web": {
       "pub": {
         "likeCount": 41,
-        "grantedPoints": 140,
-        "downloadCount30Days": 2138,
+        "grantedPoints": 130,
+        "downloadCount30Days": 2135,
         "lastUpdated": "2026-02-08T09:00:10.313512Z"
       },
       "github": {
         "slug": "gauravmehta13/razorpay_web",
         "starCount": 10,
-        "forkCount": 21
+        "forkCount": 20
       }
     },
     "razorpay_web_totalxsoftware": {
       "pub": {
         "likeCount": 15,
-        "grantedPoints": 110,
-        "downloadCount30Days": 20,
+        "grantedPoints": 100,
+        "downloadCount30Days": 29,
         "lastUpdated": "2024-10-25T09:52:20.317394Z"
       },
       "github": {
@@ -832728,7 +832741,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 30,
-        "downloadCount30Days": 4,
+        "downloadCount30Days": 11,
         "lastUpdated": "2014-08-04T21:59:15.442770Z"
       },
       "github": {
@@ -832741,7 +832754,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 135,
-        "downloadCount30Days": 5,
+        "downloadCount30Days": 14,
         "lastUpdated": "2023-10-12T09:57:47.832631Z"
       }
     },
@@ -832749,7 +832762,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 120,
-        "downloadCount30Days": 6,
+        "downloadCount30Days": 9,
         "lastUpdated": "2026-06-10T03:53:20.865826Z"
       },
       "github": {
@@ -832761,8 +832774,8 @@
     "rbac_flutter": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 160,
-        "downloadCount30Days": 14,
+        "grantedPoints": 140,
+        "downloadCount30Days": 18,
         "lastUpdated": "2026-03-19T10:24:35.540214Z"
       },
       "github": {
@@ -832774,8 +832787,8 @@
     "rbac_ui_engine": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 150,
-        "downloadCount30Days": 9,
+        "grantedPoints": 130,
+        "downloadCount30Days": 6,
         "lastUpdated": "2026-03-18T17:03:21.905114Z"
       },
       "github": {
@@ -832784,11 +832797,27 @@
         "forkCount": 0
       }
     },
+    "rblue_flutter": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 140,
+        "downloadCount30Days": 130,
+        "lastUpdated": "2026-11-09T14:01:52.796796Z"
+      }
+    },
+    "rbtechlab_push": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "downloadCount30Days": 15,
+        "lastUpdated": "2026-10-11T00:32:07.632979Z"
+      }
+    },
     "rbtree": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 30,
-        "downloadCount30Days": 7,
+        "downloadCount30Days": 11,
         "lastUpdated": "2019-06-20T22:08:11.643224Z"
       }
     },
@@ -832796,7 +832825,7 @@
       "pub": {
         "likeCount": 11,
         "grantedPoints": 140,
-        "downloadCount30Days": 140876,
+        "downloadCount30Days": 185875,
         "lastUpdated": "2023-09-25T06:13:21.258960Z"
       },
       "github": {
@@ -832809,7 +832838,7 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 140,
-        "downloadCount30Days": 30,
+        "downloadCount30Days": 46,
         "lastUpdated": "2025-12-05T16:11:44.304042Z"
       },
       "github": {
@@ -832822,7 +832851,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 140,
-        "downloadCount30Days": 522,
+        "downloadCount30Days": 1021,
         "lastUpdated": "2024-06-06T17:48:48.598688Z"
       },
       "github": {
@@ -832835,7 +832864,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 20,
-        "downloadCount30Days": 11,
+        "downloadCount30Days": 21,
         "lastUpdated": "2014-01-07T23:33:15.629550Z"
       }
     },
@@ -832843,15 +832872,15 @@
       "pub": {
         "likeCount": 3,
         "grantedPoints": 130,
-        "downloadCount30Days": 6,
+        "downloadCount30Days": 14,
         "lastUpdated": "2023-12-20T13:17:44.432590Z"
       }
     },
     "rc_barrage_widget": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 140,
-        "downloadCount30Days": 5,
+        "grantedPoints": 130,
+        "downloadCount30Days": 15,
         "lastUpdated": "2024-03-31T09:57:45.388557Z"
       }
     },
@@ -832859,7 +832888,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 15,
-        "downloadCount30Days": 8,
+        "downloadCount30Days": 10,
         "lastUpdated": "2020-01-19T03:54:15.802796Z"
       }
     },
@@ -832867,7 +832896,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 135,
-        "downloadCount30Days": 6,
+        "downloadCount30Days": 7,
         "lastUpdated": "2023-10-09T04:13:19.358287Z"
       }
     },
@@ -832875,7 +832904,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 110,
-        "downloadCount30Days": 13,
+        "downloadCount30Days": 14,
         "lastUpdated": "2024-01-18T08:53:52.511191Z"
       }
     },
@@ -832883,7 +832912,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 105,
-        "downloadCount30Days": 12,
+        "downloadCount30Days": 24,
         "lastUpdated": "2023-07-17T00:50:20.177778Z"
       }
     },
@@ -832891,7 +832920,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 140,
-        "downloadCount30Days": 7,
+        "downloadCount30Days": 6,
         "lastUpdated": "2022-09-23T07:03:19.610656Z"
       }
     },
@@ -832899,7 +832928,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 30,
-        "downloadCount30Days": 12,
+        "downloadCount30Days": 19,
         "lastUpdated": "2020-03-11T18:16:42.315444Z"
       }
     },
@@ -832907,7 +832936,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 120,
-        "downloadCount30Days": 14,
+        "downloadCount30Days": 31,
         "lastUpdated": "2023-05-29T14:48:16.947422Z"
       }
     },
@@ -832915,15 +832944,15 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 140,
-        "downloadCount30Days": 12,
+        "downloadCount30Days": 28,
         "lastUpdated": "2023-05-18T04:46:37.150789Z"
       }
     },
     "rc_spacio": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 160,
-        "downloadCount30Days": 14,
+        "grantedPoints": 150,
+        "downloadCount30Days": 15,
         "lastUpdated": "2024-12-30T07:14:06.251508Z"
       },
       "github": {
@@ -832936,7 +832965,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 110,
-        "downloadCount30Days": 80,
+        "downloadCount30Days": 53,
         "lastUpdated": "2024-05-26T12:38:41.113224Z"
       }
     },
@@ -832944,7 +832973,7 @@
       "pub": {
         "likeCount": 5,
         "grantedPoints": 125,
-        "downloadCount30Days": 16,
+        "downloadCount30Days": 30,
         "lastUpdated": "2025-09-07T04:30:35.568814Z"
       },
       "github": {
@@ -832956,8 +832985,8 @@
     "rcaferati_flutter_awesome_button": {
       "pub": {
         "likeCount": 4,
-        "grantedPoints": 160,
-        "downloadCount30Days": 20,
+        "grantedPoints": 150,
+        "downloadCount30Days": 16,
         "lastUpdated": "2026-08-31T15:42:33.244961Z"
       },
       "github": {
@@ -832970,7 +832999,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 150,
-        "downloadCount30Days": 4,
+        "downloadCount30Days": 8,
         "lastUpdated": "2022-06-16T00:49:08.524121Z"
       },
       "github": {
@@ -832983,7 +833012,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 120,
-        "downloadCount30Days": 26,
+        "downloadCount30Days": 39,
         "lastUpdated": "2025-03-03T08:41:02.644936Z"
       },
       "github": {
@@ -832996,7 +833025,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 115,
-        "downloadCount30Days": 62,
+        "downloadCount30Days": 121,
         "lastUpdated": "2026-02-28T20:51:30.211028Z"
       },
       "github": {
@@ -833009,7 +833038,7 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 160,
-        "downloadCount30Days": 20,
+        "downloadCount30Days": 26,
         "lastUpdated": "2025-09-24T15:00:53.693023Z"
       }
     },
@@ -833017,7 +833046,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 150,
-        "downloadCount30Days": 18,
+        "downloadCount30Days": 25,
         "lastUpdated": "2025-09-24T14:55:31.273809Z"
       }
     },
@@ -833025,14 +833054,14 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 150,
-        "downloadCount30Days": 13,
+        "downloadCount30Days": 23,
         "lastUpdated": "2024-02-10T17:38:16.124809Z"
       }
     },
     "rd_catalogue": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 140,
+        "grantedPoints": 130,
         "downloadCount30Days": 9,
         "lastUpdated": "2026-02-12T00:11:50.888538Z"
       }
@@ -833041,7 +833070,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 150,
-        "downloadCount30Days": 9,
+        "downloadCount30Days": 8,
         "lastUpdated": "2026-03-13T20:36:36.286528Z"
       }
     },
@@ -833049,7 +833078,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 150,
-        "downloadCount30Days": 16,
+        "downloadCount30Days": 32,
         "lastUpdated": "2026-02-08T13:22:19.382491Z"
       }
     },
@@ -833057,8 +833086,8 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 160,
-        "downloadCount30Days": 83,
-        "lastUpdated": "2026-09-15T07:22:06.021369Z"
+        "downloadCount30Days": 96,
+        "lastUpdated": "2026-10-20T17:06:26.045449Z"
       },
       "github": {
         "slug": "Seungpyo1007/rdap",
@@ -833070,7 +833099,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 110,
-        "downloadCount30Days": 75,
+        "downloadCount30Days": 128,
         "lastUpdated": "2024-09-20T11:23:09.005244Z"
       }
     },
@@ -833078,15 +833107,15 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 95,
-        "downloadCount30Days": 38,
+        "downloadCount30Days": 32,
         "lastUpdated": "2023-07-19T03:23:50.213281Z"
       }
     },
     "rdesign_flutter": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 155,
-        "downloadCount30Days": 14,
+        "grantedPoints": 135,
+        "downloadCount30Days": 10,
         "lastUpdated": "2026-03-05T10:12:23.225455Z"
       }
     },
@@ -833094,15 +833123,15 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 150,
-        "downloadCount30Days": 28,
+        "downloadCount30Days": 61,
         "lastUpdated": "2026-03-20T11:42:06.150675Z"
       }
     },
     "rdev_errors_logging": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 120,
-        "downloadCount30Days": 72,
+        "grantedPoints": 110,
+        "downloadCount30Days": 68,
         "lastUpdated": "2026-01-02T01:17:08.682517Z"
       }
     },
@@ -833110,7 +833139,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 120,
-        "downloadCount30Days": 31,
+        "downloadCount30Days": 80,
         "lastUpdated": "2026-03-20T11:41:46.575802Z"
       }
     },
@@ -833118,7 +833147,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 130,
-        "downloadCount30Days": 78,
+        "downloadCount30Days": 53,
         "lastUpdated": "2026-01-03T19:15:23.977854Z"
       }
     },
@@ -833126,15 +833155,15 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 130,
-        "downloadCount30Days": 79,
+        "downloadCount30Days": 117,
         "lastUpdated": "2026-03-20T11:12:19.441238Z"
       }
     },
     "rdev_riverpod_firebase_analytics": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 0,
-        "downloadCount30Days": 31,
+        "grantedPoints": 90,
+        "downloadCount30Days": 80,
         "lastUpdated": "2026-03-20T11:41:51.126928Z"
       }
     },
@@ -833142,15 +833171,15 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 100,
-        "downloadCount30Days": 52,
+        "downloadCount30Days": 189,
         "lastUpdated": "2026-03-20T11:41:31.122291Z"
       }
     },
     "rdev_riverpod_firebase_auth_user": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 130,
-        "downloadCount30Days": 64,
+        "grantedPoints": 120,
+        "downloadCount30Days": 100,
         "lastUpdated": "2026-03-20T11:42:00.888558Z"
       }
     },
@@ -833158,7 +833187,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 110,
-        "downloadCount30Days": 89,
+        "downloadCount30Days": 129,
         "lastUpdated": "2026-03-20T11:41:36.297142Z"
       }
     },
@@ -833166,7 +833195,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 120,
-        "downloadCount30Days": 51,
+        "downloadCount30Days": 92,
         "lastUpdated": "2026-03-20T11:41:55.962713Z"
       }
     },
@@ -833174,7 +833203,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 110,
-        "downloadCount30Days": 27,
+        "downloadCount30Days": 96,
         "lastUpdated": "2026-03-20T11:41:41.659599Z"
       }
     },
@@ -833182,7 +833211,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 90,
-        "downloadCount30Days": 56,
+        "downloadCount30Days": 66,
         "lastUpdated": "2026-03-20T11:41:20.492867Z"
       }
     },
@@ -833190,7 +833219,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 100,
-        "downloadCount30Days": 27,
+        "downloadCount30Days": 104,
         "lastUpdated": "2026-03-20T11:12:29.503998Z"
       }
     },
@@ -833198,7 +833227,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 120,
-        "downloadCount30Days": 37,
+        "downloadCount30Days": 190,
         "lastUpdated": "2026-03-20T11:41:25.901843Z"
       }
     },
@@ -833206,7 +833235,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 150,
-        "downloadCount30Days": 3899,
+        "downloadCount30Days": 2488,
         "lastUpdated": "2026-09-03T09:43:53.728633Z"
       },
       "github": {
@@ -833219,7 +833248,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 150,
-        "downloadCount30Days": 9,
+        "downloadCount30Days": 18,
         "lastUpdated": "2026-01-19T08:55:04.656554Z"
       },
       "github": {
@@ -833232,7 +833261,7 @@
       "pub": {
         "likeCount": 5,
         "grantedPoints": 160,
-        "downloadCount30Days": 49,
+        "downloadCount30Days": 137,
         "lastUpdated": "2026-01-19T08:11:16.023280Z"
       },
       "github": {
@@ -833245,7 +833274,7 @@
       "pub": {
         "likeCount": 4,
         "grantedPoints": 150,
-        "downloadCount30Days": 63,
+        "downloadCount30Days": 99,
         "lastUpdated": "2026-01-19T08:11:44.775608Z"
       },
       "github": {
@@ -833258,7 +833287,7 @@
       "pub": {
         "likeCount": 3,
         "grantedPoints": 150,
-        "downloadCount30Days": 31,
+        "downloadCount30Days": 60,
         "lastUpdated": "2026-01-19T08:11:37.247611Z"
       },
       "github": {
@@ -833271,7 +833300,7 @@
       "pub": {
         "likeCount": 3,
         "grantedPoints": 140,
-        "downloadCount30Days": 9,
+        "downloadCount30Days": 45,
         "lastUpdated": "2026-01-19T08:11:51.586663Z"
       },
       "github": {
@@ -833284,7 +833313,7 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 150,
-        "downloadCount30Days": 54,
+        "downloadCount30Days": 32,
         "lastUpdated": "2026-01-19T08:15:14.179502Z"
       },
       "github": {
@@ -833297,7 +833326,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 150,
-        "downloadCount30Days": 43,
+        "downloadCount30Days": 59,
         "lastUpdated": "2026-01-19T08:11:58.882259Z"
       },
       "github": {
@@ -833310,7 +833339,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 150,
-        "downloadCount30Days": 45,
+        "downloadCount30Days": 46,
         "lastUpdated": "2026-01-19T08:14:28.677637Z"
       },
       "github": {
@@ -833323,7 +833352,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 150,
-        "downloadCount30Days": 42,
+        "downloadCount30Days": 33,
         "lastUpdated": "2026-01-19T08:14:54.072492Z"
       },
       "github": {
@@ -833336,7 +833365,7 @@
       "pub": {
         "likeCount": 4,
         "grantedPoints": 120,
-        "downloadCount30Days": 6,
+        "downloadCount30Days": 30,
         "lastUpdated": "2026-01-19T08:11:30.888839Z"
       },
       "github": {
@@ -833349,7 +833378,7 @@
       "pub": {
         "likeCount": 4,
         "grantedPoints": 130,
-        "downloadCount30Days": 83,
+        "downloadCount30Days": 73,
         "lastUpdated": "2026-01-19T08:11:24.294902Z"
       },
       "github": {
@@ -833362,7 +833391,7 @@
       "pub": {
         "likeCount": 3,
         "grantedPoints": 130,
-        "downloadCount30Days": 3,
+        "downloadCount30Days": 21,
         "lastUpdated": "2022-09-21T02:30:59.751540Z"
       },
       "github": {
@@ -833375,7 +833404,7 @@
       "pub": {
         "likeCount": 6,
         "grantedPoints": 130,
-        "downloadCount30Days": 236,
+        "downloadCount30Days": 164,
         "lastUpdated": "2025-04-14T02:54:27.066992Z"
       },
       "github": {
@@ -833388,7 +833417,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 120,
-        "downloadCount30Days": 15,
+        "downloadCount30Days": 22,
         "lastUpdated": "2023-05-23T09:25:26.821670Z"
       },
       "github": {
@@ -833401,7 +833430,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 20,
-        "downloadCount30Days": 3,
+        "downloadCount30Days": 7,
         "lastUpdated": "2020-07-23T13:18:12.419522Z"
       },
       "github": {
@@ -833414,8 +833443,8 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 130,
-        "downloadCount30Days": 10,
-        "lastUpdated": "2026-07-30T12:19:26.026981Z"
+        "downloadCount30Days": 96,
+        "lastUpdated": "2026-11-10T12:49:23.543484Z"
       }
     },
     "rdservice": {
@@ -833435,7 +833464,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 10,
-        "downloadCount30Days": 10,
+        "downloadCount30Days": 8,
         "lastUpdated": "2025-09-27T10:18:04.776039Z"
       }
     },
@@ -833443,8 +833472,8 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 160,
-        "downloadCount30Days": 241,
-        "lastUpdated": "2026-09-23T01:06:51.679152Z"
+        "downloadCount30Days": 351,
+        "lastUpdated": "2026-11-17T08:59:05.552675Z"
       },
       "github": {
         "slug": "Yusufihsangorgel/re2",
@@ -833456,7 +833485,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 50,
-        "downloadCount30Days": 8,
+        "downloadCount30Days": 9,
         "lastUpdated": "2025-10-01T04:04:30.785974Z"
       },
       "github": {
@@ -833469,7 +833498,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 30,
-        "downloadCount30Days": 160,
+        "downloadCount30Days": 140,
         "lastUpdated": "2025-01-29T12:49:28.964655Z"
       },
       "github": {
@@ -833481,47 +833510,47 @@
     "re_download": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 0,
-        "downloadCount30Days": 10,
+        "grantedPoints": 125,
+        "downloadCount30Days": 11,
         "lastUpdated": "2023-12-31T03:10:15.942170Z"
       }
     },
     "re_editor": {
       "pub": {
-        "likeCount": 138,
+        "likeCount": 140,
         "grantedPoints": 130,
-        "downloadCount30Days": 33107,
+        "downloadCount30Days": 55848,
         "lastUpdated": "2026-07-01T12:44:46.858098Z"
       },
       "github": {
         "slug": "reqable/re-editor",
-        "starCount": 764,
-        "forkCount": 104
+        "starCount": 761,
+        "forkCount": 106
       }
     },
     "re_highlight": {
       "pub": {
         "likeCount": 24,
         "grantedPoints": 140,
-        "downloadCount30Days": 73505,
+        "downloadCount30Days": 169647,
         "lastUpdated": "2024-02-05T13:15:47.321245Z"
       },
       "github": {
         "slug": "reqable/re-highlight",
-        "starCount": 84,
-        "forkCount": 16
+        "starCount": 83,
+        "forkCount": 18
       }
     },
     "re_markdown": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 140,
-        "downloadCount30Days": 10,
+        "downloadCount30Days": 20,
         "lastUpdated": "2026-06-02T03:31:31.175998Z"
       },
       "github": {
         "slug": "reqable/re-markdown",
-        "starCount": 10,
+        "starCount": 11,
         "forkCount": 1
       }
     },
@@ -833529,7 +833558,7 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 140,
-        "downloadCount30Days": 15,
+        "downloadCount30Days": 58,
         "lastUpdated": "2021-04-07T14:36:34.121280Z"
       },
       "github": {
@@ -833542,7 +833571,7 @@
       "pub": {
         "likeCount": 5,
         "grantedPoints": 150,
-        "downloadCount30Days": 19,
+        "downloadCount30Days": 46,
         "lastUpdated": "2024-07-03T03:06:42.500046Z"
       },
       "github": {
@@ -833554,8 +833583,8 @@
     "re_state_action_test": {
       "pub": {
         "likeCount": 3,
-        "grantedPoints": 150,
-        "downloadCount30Days": 7,
+        "grantedPoints": 140,
+        "downloadCount30Days": 22,
         "lastUpdated": "2023-05-23T01:37:25.489169Z"
       },
       "github": {
@@ -833567,8 +833596,8 @@
     "re_svg": {
       "pub": {
         "likeCount": 18,
-        "grantedPoints": 150,
-        "downloadCount30Days": 20,
+        "grantedPoints": 140,
+        "downloadCount30Days": 26,
         "lastUpdated": "2024-08-07T22:29:16.776566Z"
       },
       "github": {
@@ -833580,8 +833609,8 @@
     "re_svg_new": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 120,
-        "downloadCount30Days": 17,
+        "grantedPoints": 110,
+        "downloadCount30Days": 26,
         "lastUpdated": "2026-06-08T02:59:39.444700Z"
       },
       "github": {
@@ -833594,15 +833623,28 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 115,
-        "downloadCount30Days": 8,
+        "downloadCount30Days": 13,
         "lastUpdated": "2024-03-06T18:23:38.432966Z"
+      }
+    },
+    "rea_flight_recorder": {
+      "pub": {
+        "likeCount": 3,
+        "grantedPoints": 160,
+        "downloadCount30Days": 736,
+        "lastUpdated": "2026-11-20T13:49:12.764789Z"
+      },
+      "github": {
+        "slug": "Churtech/rea-flight-recorder",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "reach": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 160,
-        "downloadCount30Days": 0,
+        "downloadCount30Days": 10,
         "lastUpdated": "2026-10-03T18:56:39.912798Z"
       },
       "github": {
@@ -833615,7 +833657,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 140,
-        "downloadCount30Days": 1245,
+        "downloadCount30Days": 704,
         "lastUpdated": "2026-06-24T12:19:10.819524Z"
       },
       "github": {
@@ -833624,11 +833666,23 @@
         "forkCount": 0
       }
     },
+    "reachbell": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 150,
+        "lastUpdated": "2026-11-20T21:11:23.407814Z"
+      },
+      "github": {
+        "slug": "reachbell/reachbell-flutter",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "reachu_flutter_sdk": {
       "pub": {
         "likeCount": 1,
         "grantedPoints": 140,
-        "downloadCount30Days": 14,
+        "downloadCount30Days": 25,
         "lastUpdated": "2025-09-01T04:28:23.379399Z"
       }
     },
@@ -833636,7 +833690,7 @@
       "pub": {
         "likeCount": 73,
         "grantedPoints": 130,
-        "downloadCount30Days": 27912,
+        "downloadCount30Days": 26913,
         "lastUpdated": "2026-03-12T12:23:04.384996Z"
       },
       "github": {
@@ -833649,7 +833703,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 130,
-        "downloadCount30Days": 9,
+        "downloadCount30Days": 7,
         "lastUpdated": "2025-12-08T15:32:05.654916Z"
       },
       "github": {
@@ -833662,7 +833716,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 150,
-        "downloadCount30Days": 50,
+        "downloadCount30Days": 20,
         "lastUpdated": "2026-08-27T19:07:36.511101Z"
       },
       "github": {
@@ -833675,7 +833729,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 150,
-        "downloadCount30Days": 31,
+        "downloadCount30Days": 14,
         "lastUpdated": "2026-08-26T22:44:07.495425Z"
       },
       "github": {
@@ -833701,7 +833755,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 35,
-        "downloadCount30Days": 4,
+        "downloadCount30Days": 10,
         "lastUpdated": "2018-10-22T16:39:13.205822Z"
       },
       "github": {
@@ -833714,7 +833768,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 150,
-        "downloadCount30Days": 21,
+        "downloadCount30Days": 14,
         "lastUpdated": "2026-08-27T19:07:25.780395Z"
       },
       "github": {
@@ -833726,8 +833780,8 @@
     "react_codegen": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 150,
-        "downloadCount30Days": 16,
+        "grantedPoints": 140,
+        "downloadCount30Days": 9,
         "lastUpdated": "2026-08-28T12:59:19.280978Z"
       },
       "github": {
@@ -833740,7 +833794,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 150,
-        "downloadCount30Days": 32,
+        "downloadCount30Days": 10,
         "lastUpdated": "2026-08-26T21:24:04.837141Z"
       },
       "github": {
@@ -833753,7 +833807,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 140,
-        "downloadCount30Days": 14,
+        "downloadCount30Days": 18,
         "lastUpdated": "2026-08-26T21:26:17.069758Z"
       },
       "github": {
@@ -833766,7 +833820,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 30,
-        "downloadCount30Days": 4,
+        "downloadCount30Days": 7,
         "lastUpdated": "2020-05-15T17:56:42.415925Z"
       },
       "github": {
@@ -833779,7 +833833,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 145,
-        "downloadCount30Days": 15,
+        "downloadCount30Days": 19,
         "lastUpdated": "2025-09-27T03:10:32.585836Z"
       },
       "github": {
@@ -833792,7 +833846,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 150,
-        "downloadCount30Days": 143,
+        "downloadCount30Days": 12,
         "lastUpdated": "2026-09-06T13:17:43.125414Z"
       },
       "github": {
@@ -833804,8 +833858,8 @@
     "react_popup": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 150,
-        "downloadCount30Days": 3,
+        "grantedPoints": 140,
+        "downloadCount30Days": 6,
         "lastUpdated": "2023-07-29T20:20:33.983749Z"
       },
       "github": {
@@ -833818,7 +833872,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 25,
-        "downloadCount30Days": 4,
+        "downloadCount30Days": 9,
         "lastUpdated": "2018-07-28T04:47:38.180874Z"
       },
       "github": {
@@ -833831,7 +833885,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 150,
-        "downloadCount30Days": 16,
+        "downloadCount30Days": 14,
         "lastUpdated": "2026-08-27T19:07:45.195595Z"
       },
       "github": {
@@ -833844,7 +833898,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 5,
-        "downloadCount30Days": 7,
+        "downloadCount30Days": 10,
         "lastUpdated": "2021-05-23T22:13:07.888983Z"
       },
       "github": {
@@ -833857,7 +833911,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 150,
-        "downloadCount30Days": 44,
+        "downloadCount30Days": 12,
         "lastUpdated": "2026-08-27T21:03:37.494326Z"
       },
       "github": {
@@ -833870,7 +833924,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 140,
-        "downloadCount30Days": 18,
+        "downloadCount30Days": 12,
         "lastUpdated": "2026-08-29T06:25:48.447662Z"
       },
       "github": {
@@ -833883,7 +833937,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 130,
-        "downloadCount30Days": 19,
+        "downloadCount30Days": 14,
         "lastUpdated": "2026-08-27T19:07:27.804758Z"
       },
       "github": {
@@ -833896,7 +833950,7 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 10,
-        "downloadCount30Days": 5,
+        "downloadCount30Days": 11,
         "lastUpdated": "2020-07-01T10:11:21.983755Z"
       },
       "github": {
@@ -833909,7 +833963,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 40,
-        "downloadCount30Days": 14,
+        "downloadCount30Days": 9,
         "lastUpdated": "2026-08-28T12:59:29.535700Z"
       },
       "github": {
@@ -833922,7 +833976,7 @@
       "pub": {
         "likeCount": 4,
         "grantedPoints": 120,
-        "downloadCount30Days": 22382,
+        "downloadCount30Days": 16892,
         "lastUpdated": "2026-04-30T14:26:03.614874Z"
       },
       "github": {
@@ -833935,7 +833989,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 140,
-        "downloadCount30Days": 168,
+        "downloadCount30Days": 35,
         "lastUpdated": "2026-09-06T13:17:51.630824Z"
       },
       "github": {
@@ -833948,7 +834002,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 120,
-        "downloadCount30Days": 37,
+        "downloadCount30Days": 22,
         "lastUpdated": "2026-08-27T19:07:43.809524Z"
       },
       "github": {
@@ -833961,7 +834015,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 150,
-        "downloadCount30Days": 15,
+        "downloadCount30Days": 10,
         "lastUpdated": "2026-08-28T13:01:16.174006Z"
       },
       "github": {
@@ -833974,7 +834028,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 150,
-        "downloadCount30Days": 13,
+        "downloadCount30Days": 9,
         "lastUpdated": "2026-08-28T13:01:23.552590Z"
       },
       "github": {
@@ -833987,7 +834041,7 @@
       "pub": {
         "likeCount": 10,
         "grantedPoints": 150,
-        "downloadCount30Days": 55,
+        "downloadCount30Days": 75,
         "lastUpdated": "2024-07-10T12:59:19.814313Z"
       },
       "github": {
@@ -833999,13 +834053,13 @@
     "reactbits_text_animations": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 150,
-        "downloadCount30Days": 6,
+        "grantedPoints": 140,
+        "downloadCount30Days": 9,
         "lastUpdated": "2026-02-20T08:26:11.148672Z"
       },
       "github": {
         "slug": "NexivaServices/reactbits_text_animations",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
@@ -834013,7 +834067,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 40,
-        "downloadCount30Days": 16,
+        "downloadCount30Days": 24,
         "lastUpdated": "2019-06-03T03:27:32.670231Z"
       },
       "github": {
@@ -834026,7 +834080,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 15,
-        "downloadCount30Days": 12,
+        "downloadCount30Days": 36,
         "lastUpdated": "2019-03-16T12:45:41.693765Z"
       },
       "github": {
@@ -834039,7 +834093,7 @@
       "pub": {
         "likeCount": 72,
         "grantedPoints": 140,
-        "downloadCount30Days": 42,
+        "downloadCount30Days": 102,
         "lastUpdated": "2023-08-12T15:04:53.083955Z"
       },
       "github": {
@@ -834051,8 +834105,8 @@
     "reaction_button": {
       "pub": {
         "likeCount": 10,
-        "grantedPoints": 150,
-        "downloadCount30Days": 28,
+        "grantedPoints": 140,
+        "downloadCount30Days": 35,
         "lastUpdated": "2024-08-12T10:47:06.340066Z"
       },
       "github": {
@@ -834064,8 +834118,8 @@
     "reaction_overlay": {
       "pub": {
         "likeCount": 4,
-        "grantedPoints": 160,
-        "downloadCount30Days": 16,
+        "grantedPoints": 150,
+        "downloadCount30Days": 22,
         "lastUpdated": "2026-08-23T15:26:53.636626Z"
       },
       "github": {
@@ -834077,8 +834131,8 @@
     "reactiv": {
       "pub": {
         "likeCount": 7,
-        "grantedPoints": 160,
-        "downloadCount30Days": 57,
+        "grantedPoints": 150,
+        "downloadCount30Days": 205,
         "lastUpdated": "2026-05-29T22:14:52.086692Z"
       },
       "github": {
@@ -834091,7 +834145,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 5,
-        "downloadCount30Days": 9,
+        "downloadCount30Days": 26,
         "lastUpdated": "2012-12-10T23:01:58.475650Z"
       }
     },
@@ -834099,91 +834153,91 @@
       "pub": {
         "likeCount": 5,
         "grantedPoints": 90,
-        "downloadCount30Days": 463,
+        "downloadCount30Days": 680,
         "lastUpdated": "2025-05-27T12:08:59.300931Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_animated_toggle_switch": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 160,
-        "downloadCount30Days": 12,
+        "grantedPoints": 150,
+        "downloadCount30Days": 19,
         "lastUpdated": "2025-05-27T12:09:03.158016Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_awesome_select": {
       "pub": {
         "likeCount": 5,
-        "grantedPoints": 160,
-        "downloadCount30Days": 19,
+        "grantedPoints": 150,
+        "downloadCount30Days": 53,
         "lastUpdated": "2025-05-27T12:09:24.750463Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_ble_mobile": {
       "pub": {
         "likeCount": 2,
         "grantedPoints": 150,
-        "downloadCount30Days": 59475,
+        "downloadCount30Days": 89121,
         "lastUpdated": "2026-09-23T12:11:44.388548Z"
       },
       "github": {
         "slug": "PhilipsHue/flutter_reactive_ble",
-        "starCount": 737,
-        "forkCount": 400
+        "starCount": 742,
+        "forkCount": 402
       }
     },
     "reactive_ble_mobile_iosa": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 105,
-        "downloadCount30Days": 4,
+        "downloadCount30Days": 6,
         "lastUpdated": "2023-02-06T13:31:28.068766Z"
       },
       "github": {
         "slug": "PhilipsHue/flutter_reactive_ble",
-        "starCount": 737,
-        "forkCount": 400
+        "starCount": 742,
+        "forkCount": 402
       }
     },
     "reactive_ble_platform_interface": {
       "pub": {
         "likeCount": 3,
         "grantedPoints": 140,
-        "downloadCount30Days": 63529,
+        "downloadCount30Days": 98757,
         "lastUpdated": "2026-09-23T12:11:38.724081Z"
       },
       "github": {
         "slug": "PhilipsHue/flutter_reactive_ble",
-        "starCount": 737,
-        "forkCount": 400
+        "starCount": 742,
+        "forkCount": 402
       }
     },
     "reactive_ble_platform_interface_iosa": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 115,
-        "downloadCount30Days": 2,
+        "downloadCount30Days": 7,
         "lastUpdated": "2023-02-06T13:28:43.059145Z"
       },
       "github": {
         "slug": "PhilipsHue/flutter_reactive_ble",
-        "starCount": 737,
-        "forkCount": 400
+        "starCount": 742,
+        "forkCount": 402
       }
     },
     "reactive_bloc": {
@@ -834201,22 +834255,22 @@
     },
     "reactive_bloub": {
       "pub": {
-        "likeCount": 10,
-        "grantedPoints": 160,
-        "downloadCount30Days": 127,
+        "likeCount": 13,
+        "grantedPoints": 150,
+        "downloadCount30Days": 67,
         "lastUpdated": "2026-09-18T19:28:22.103213Z"
       },
       "github": {
         "slug": "arinagrawal05/reactive_bloub_flutter",
-        "starCount": 9,
+        "starCount": 13,
         "forkCount": 2
       }
     },
     "reactive_button": {
       "pub": {
         "likeCount": 4,
-        "grantedPoints": 130,
-        "downloadCount30Days": 137,
+        "grantedPoints": 120,
+        "downloadCount30Days": 100,
         "lastUpdated": "2024-10-10T07:21:36.606889Z"
       },
       "github": {
@@ -834228,21 +834282,21 @@
     "reactive_cart_stepper": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 160,
-        "downloadCount30Days": 22,
+        "grantedPoints": 150,
+        "downloadCount30Days": 49,
         "lastUpdated": "2025-05-27T12:08:55.472577Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_checbox_group": {
       "pub": {
         "likeCount": 2,
         "grantedPoints": 140,
-        "downloadCount30Days": 6,
+        "downloadCount30Days": 28,
         "lastUpdated": "2023-12-30T11:23:34.790230Z"
       },
       "github": {
@@ -834254,60 +834308,60 @@
     "reactive_checkbox": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 160,
-        "downloadCount30Days": 83,
+        "grantedPoints": 150,
+        "downloadCount30Days": 114,
         "lastUpdated": "2025-05-27T12:08:50.694370Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_checkbox_list_tile": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 150,
-        "downloadCount30Days": 42,
+        "grantedPoints": 140,
+        "downloadCount30Days": 53,
         "lastUpdated": "2025-08-19T08:25:29.244820Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_code_text_field": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 160,
-        "downloadCount30Days": 212,
+        "grantedPoints": 150,
+        "downloadCount30Days": 202,
         "lastUpdated": "2025-05-27T12:09:07.007492Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_color_picker": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 160,
-        "downloadCount30Days": 889,
+        "grantedPoints": 150,
+        "downloadCount30Days": 585,
         "lastUpdated": "2025-05-27T12:09:42.030706Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_component": {
       "pub": {
         "likeCount": 1,
         "grantedPoints": 40,
-        "downloadCount30Days": 15,
+        "downloadCount30Days": 30,
         "lastUpdated": "2020-09-22T15:49:54.180208Z"
       },
       "github": {
@@ -834319,21 +834373,21 @@
     "reactive_contact_picker": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 150,
-        "downloadCount30Days": 21,
+        "grantedPoints": 140,
+        "downloadCount30Days": 43,
         "lastUpdated": "2025-05-27T12:09:15.982794Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_controller": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 130,
-        "downloadCount30Days": 3,
+        "downloadCount30Days": 9,
         "lastUpdated": "2022-09-16T21:04:56.473923Z"
       },
       "github": {
@@ -834345,8 +834399,8 @@
     "reactive_cubit": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 145,
-        "downloadCount30Days": 36,
+        "grantedPoints": 135,
+        "downloadCount30Days": 26,
         "lastUpdated": "2024-11-17T23:30:13.619907Z"
       },
       "github": {
@@ -834358,60 +834412,60 @@
     "reactive_cup_slide_segmented": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 160,
-        "downloadCount30Days": 165,
+        "grantedPoints": 150,
+        "downloadCount30Days": 94,
         "lastUpdated": "2025-05-27T12:06:02.080381Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_cupertino_slider": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 160,
-        "downloadCount30Days": 23,
+        "grantedPoints": 150,
+        "downloadCount30Days": 64,
         "lastUpdated": "2025-05-27T12:08:47.002625Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_cupertino_switch": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 160,
-        "downloadCount30Days": 377,
+        "grantedPoints": 150,
+        "downloadCount30Days": 774,
         "lastUpdated": "2025-07-17T17:42:29.416529Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_cupertino_text_field": {
       "pub": {
         "likeCount": 4,
         "grantedPoints": 150,
-        "downloadCount30Days": 64,
+        "downloadCount30Days": 360,
         "lastUpdated": "2025-05-27T12:08:39.063995Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_dart": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 30,
-        "downloadCount30Days": 4,
+        "downloadCount30Days": 7,
         "lastUpdated": "2020-08-12T22:31:12.204766Z"
       }
     },
@@ -834419,8 +834473,8 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 150,
-        "downloadCount30Days": 18,
-        "lastUpdated": "2026-09-01T18:01:58.039640Z"
+        "downloadCount30Days": 91,
+        "lastUpdated": "2026-10-13T08:46:44.834198Z"
       },
       "github": {
         "slug": "Nazarovv676/reactive-data-manager",
@@ -834432,7 +834486,7 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 160,
-        "downloadCount30Days": 18,
+        "downloadCount30Days": 28,
         "lastUpdated": "2025-09-09T19:29:59.011475Z"
       },
       "github": {
@@ -834445,163 +834499,163 @@
       "pub": {
         "likeCount": 5,
         "grantedPoints": 140,
-        "downloadCount30Days": 704,
+        "downloadCount30Days": 2576,
         "lastUpdated": "2025-03-08T15:46:58.031238Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_date_time_picker": {
       "pub": {
         "likeCount": 13,
-        "grantedPoints": 160,
-        "downloadCount30Days": 8169,
+        "grantedPoints": 150,
+        "downloadCount30Days": 10152,
         "lastUpdated": "2025-05-27T12:07:59.738281Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_direct_select": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 150,
-        "downloadCount30Days": 348,
+        "grantedPoints": 140,
+        "downloadCount30Days": 491,
         "lastUpdated": "2024-04-27T15:58:33.351550Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_dropdown_button2": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 140,
-        "downloadCount30Days": 152,
+        "grantedPoints": 130,
+        "downloadCount30Days": 110,
         "lastUpdated": "2023-09-26T17:55:24.590981Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_dropdown_field": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 160,
-        "downloadCount30Days": 22,
+        "grantedPoints": 150,
+        "downloadCount30Days": 61,
         "lastUpdated": "2025-05-27T12:08:43.224058Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_dropdown_menu": {
       "pub": {
         "likeCount": 1,
         "grantedPoints": 150,
-        "downloadCount30Days": 221,
+        "downloadCount30Days": 561,
         "lastUpdated": "2025-05-27T12:08:31.266372Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_dropdown_search": {
       "pub": {
         "likeCount": 11,
-        "grantedPoints": 150,
-        "downloadCount30Days": 5913,
+        "grantedPoints": 140,
+        "downloadCount30Days": 8464,
         "lastUpdated": "2025-03-28T21:00:32.127530Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_extended_text_field": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 150,
-        "downloadCount30Days": 22,
+        "grantedPoints": 140,
+        "downloadCount30Days": 69,
         "lastUpdated": "2025-05-27T12:08:27.524634Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_fancy_password_field": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 150,
-        "downloadCount30Days": 31,
+        "grantedPoints": 140,
+        "downloadCount30Days": 42,
         "lastUpdated": "2025-05-27T12:08:15.531312Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_file_picker": {
       "pub": {
         "likeCount": 5,
-        "grantedPoints": 140,
-        "downloadCount30Days": 871,
+        "grantedPoints": 130,
+        "downloadCount30Days": 1422,
         "lastUpdated": "2025-05-27T12:08:19.699814Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_file_selector": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 160,
-        "downloadCount30Days": 61,
+        "grantedPoints": 150,
+        "downloadCount30Days": 1359,
         "lastUpdated": "2025-05-27T12:08:11.671345Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_fluent_ui": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 90,
-        "downloadCount30Days": 16,
+        "downloadCount30Days": 24,
         "lastUpdated": "2025-05-27T12:08:23.816959Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_flutter": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 160,
-        "downloadCount30Days": 117,
+        "grantedPoints": 150,
+        "downloadCount30Days": 26,
         "lastUpdated": "2026-09-06T16:24:02.052022Z"
       },
       "github": {
@@ -834613,47 +834667,47 @@
     "reactive_flutter_native_text_input": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 160,
-        "downloadCount30Days": 17,
+        "grantedPoints": 150,
+        "downloadCount30Days": 24,
         "lastUpdated": "2025-05-27T12:08:07.618784Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_flutter_rating_bar": {
       "pub": {
         "likeCount": 3,
-        "grantedPoints": 160,
-        "downloadCount30Days": 190,
+        "grantedPoints": 150,
+        "downloadCount30Days": 294,
         "lastUpdated": "2025-05-27T12:07:42.598332Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_flutter_typeahead": {
       "pub": {
         "likeCount": 6,
-        "grantedPoints": 150,
-        "downloadCount30Days": 298,
+        "grantedPoints": 140,
+        "downloadCount30Days": 397,
         "lastUpdated": "2025-05-27T12:07:55.518324Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_flutter_typeahead_plus": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 150,
-        "downloadCount30Days": 4,
+        "grantedPoints": 140,
+        "downloadCount30Days": 17,
         "lastUpdated": "2023-12-30T09:02:37.238681Z"
       },
       "github": {
@@ -834664,35 +834718,35 @@
     },
     "reactive_forms": {
       "pub": {
-        "likeCount": 951,
+        "likeCount": 952,
         "grantedPoints": 150,
-        "downloadCount30Days": 88117,
+        "downloadCount30Days": 104188,
         "lastUpdated": "2025-12-22T19:45:36.677869Z"
       },
       "github": {
         "slug": "joanpablo/reactive_forms",
-        "starCount": 504,
-        "forkCount": 111
+        "starCount": 507,
+        "forkCount": 114
       }
     },
     "reactive_forms_annotations": {
       "pub": {
         "likeCount": 10,
         "grantedPoints": 130,
-        "downloadCount30Days": 12329,
+        "downloadCount30Days": 11038,
         "lastUpdated": "2026-08-28T14:59:24.273273Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_generator",
-        "starCount": 100,
-        "forkCount": 36
+        "starCount": 99,
+        "forkCount": 35
       }
     },
     "reactive_forms_fields": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 30,
-        "downloadCount30Days": 3,
+        "downloadCount30Days": 7,
         "lastUpdated": "2020-12-30T22:48:14.696415Z"
       },
       "github": {
@@ -834703,113 +834757,113 @@
     },
     "reactive_forms_generator": {
       "pub": {
-        "likeCount": 70,
+        "likeCount": 71,
         "grantedPoints": 140,
-        "downloadCount30Days": 10635,
+        "downloadCount30Days": 8654,
         "lastUpdated": "2026-08-28T14:59:36.511524Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_generator",
-        "starCount": 100,
-        "forkCount": 36
+        "starCount": 99,
+        "forkCount": 35
       }
     },
     "reactive_forms_lbc": {
       "pub": {
         "likeCount": 3,
         "grantedPoints": 160,
-        "downloadCount30Days": 128,
+        "downloadCount30Days": 215,
         "lastUpdated": "2026-04-28T18:59:40.168404Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_forms_widgets": {
       "pub": {
         "likeCount": 8,
         "grantedPoints": 30,
-        "downloadCount30Days": 25,
+        "downloadCount30Days": 59,
         "lastUpdated": "2021-03-11T20:21:24.017669Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_getwidget": {
       "pub": {
         "likeCount": 1,
         "grantedPoints": 140,
-        "downloadCount30Days": 13,
+        "downloadCount30Days": 28,
         "lastUpdated": "2025-05-27T12:07:37.566221Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_image_picker": {
       "pub": {
         "likeCount": 14,
-        "grantedPoints": 150,
-        "downloadCount30Days": 683,
+        "grantedPoints": 140,
+        "downloadCount30Days": 781,
         "lastUpdated": "2025-05-27T12:07:47.635405Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_input_decorator": {
       "pub": {
         "likeCount": 1,
         "grantedPoints": 150,
-        "downloadCount30Days": 51,
+        "downloadCount30Days": 70,
         "lastUpdated": "2025-07-05T19:09:32.024169Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_language_picker": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 160,
-        "downloadCount30Days": 13,
+        "grantedPoints": 150,
+        "downloadCount30Days": 22,
         "lastUpdated": "2025-05-27T12:07:30.152746Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_languagetool_textfield": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 70,
-        "downloadCount30Days": 43,
+        "downloadCount30Days": 58,
         "lastUpdated": "2026-04-03T18:16:38.354194Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_live_stream": {
       "pub": {
         "likeCount": 2,
         "grantedPoints": 125,
-        "downloadCount30Days": 5,
+        "downloadCount30Days": 11,
         "lastUpdated": "2022-12-15T10:28:27.602289Z"
       },
       "github": {
@@ -834821,34 +834875,34 @@
     "reactive_macos_ui": {
       "pub": {
         "likeCount": 7,
-        "grantedPoints": 160,
-        "downloadCount30Days": 82,
+        "grantedPoints": 150,
+        "downloadCount30Days": 88,
         "lastUpdated": "2025-05-27T12:07:24.440249Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_md_editable_textinput": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 160,
-        "downloadCount30Days": 18,
+        "grantedPoints": 150,
+        "downloadCount30Days": 59,
         "lastUpdated": "2025-05-27T12:07:20.553406Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_mind_map": {
       "pub": {
         "likeCount": 19,
-        "grantedPoints": 150,
-        "downloadCount30Days": 86,
+        "grantedPoints": 140,
+        "downloadCount30Days": 124,
         "lastUpdated": "2025-07-16T07:28:17.610644Z"
       },
       "github": {
@@ -834860,47 +834914,47 @@
     "reactive_month_picker_dialog": {
       "pub": {
         "likeCount": 3,
-        "grantedPoints": 150,
-        "downloadCount30Days": 62,
+        "grantedPoints": 140,
+        "downloadCount30Days": 83,
         "lastUpdated": "2025-05-27T12:07:12.842455Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_multi_image_picker": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 140,
-        "downloadCount30Days": 18,
+        "grantedPoints": 130,
+        "downloadCount30Days": 49,
         "lastUpdated": "2023-01-30T12:34:08.737761Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_multi_select_flutter": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 160,
-        "downloadCount30Days": 831,
+        "grantedPoints": 150,
+        "downloadCount30Days": 559,
         "lastUpdated": "2025-05-27T12:07:16.484599Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_mvvm": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 140,
-        "downloadCount30Days": 25,
+        "downloadCount30Days": 81,
         "lastUpdated": "2022-11-11T16:07:30.811430Z"
       },
       "github": {
@@ -834912,8 +834966,8 @@
     "reactive_notifier": {
       "pub": {
         "likeCount": 5,
-        "grantedPoints": 160,
-        "downloadCount30Days": 445,
+        "grantedPoints": 150,
+        "downloadCount30Days": 639,
         "lastUpdated": "2026-07-20T23:53:02.940305Z"
       },
       "github": {
@@ -834926,7 +834980,7 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 150,
-        "downloadCount30Days": 20,
+        "downloadCount30Days": 15,
         "lastUpdated": "2025-12-18T00:09:36.094042Z"
       },
       "github": {
@@ -834952,7 +835006,7 @@
       "pub": {
         "likeCount": 3,
         "grantedPoints": 150,
-        "downloadCount30Days": 37,
+        "downloadCount30Days": 38,
         "lastUpdated": "2024-11-21T00:38:46.085713Z"
       },
       "github": {
@@ -834964,8 +835018,8 @@
     "reactive_orm": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 160,
-        "downloadCount30Days": 6,
+        "grantedPoints": 150,
+        "downloadCount30Days": 39,
         "lastUpdated": "2026-01-20T05:18:48.806200Z"
       },
       "github": {
@@ -834977,8 +835031,8 @@
     "reactive_orm_forms": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 150,
-        "downloadCount30Days": 5,
+        "grantedPoints": 140,
+        "downloadCount30Days": 18,
         "lastUpdated": "2026-01-20T08:00:05.390803Z"
       },
       "github": {
@@ -834990,8 +835044,8 @@
     "reactive_parralax": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 150,
-        "downloadCount30Days": 79,
+        "grantedPoints": 140,
+        "downloadCount30Days": 8,
         "lastUpdated": "2026-09-18T16:01:07.948510Z"
       },
       "github": {
@@ -835003,60 +835057,60 @@
     "reactive_phone_form_field": {
       "pub": {
         "likeCount": 11,
-        "grantedPoints": 150,
-        "downloadCount30Days": 4047,
+        "grantedPoints": 140,
+        "downloadCount30Days": 5342,
         "lastUpdated": "2025-05-27T12:07:08.762218Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_pin_code_fields": {
       "pub": {
         "likeCount": 5,
-        "grantedPoints": 140,
-        "downloadCount30Days": 41,
+        "grantedPoints": 130,
+        "downloadCount30Days": 60,
         "lastUpdated": "2025-05-27T12:07:04.454352Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_pin_input_text_field": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 160,
-        "downloadCount30Days": 35,
+        "grantedPoints": 150,
+        "downloadCount30Days": 57,
         "lastUpdated": "2025-05-27T12:06:56.803868Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_pinput": {
       "pub": {
         "likeCount": 4,
-        "grantedPoints": 140,
-        "downloadCount30Days": 1924,
+        "grantedPoints": 130,
+        "downloadCount30Days": 1755,
         "lastUpdated": "2025-05-27T12:07:00.688052Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_preferences": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 40,
-        "downloadCount30Days": 5,
+        "downloadCount30Days": 22,
         "lastUpdated": "2021-02-01T09:22:57.604070Z"
       },
       "github": {
@@ -835069,114 +835123,114 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 30,
-        "downloadCount30Days": 5,
+        "downloadCount30Days": 7,
         "lastUpdated": "2020-08-13T00:12:51.172256Z"
       }
     },
     "reactive_range_slider": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 160,
-        "downloadCount30Days": 770,
+        "grantedPoints": 150,
+        "downloadCount30Days": 258,
         "lastUpdated": "2025-05-27T12:06:53.022600Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_raw_autocomplete": {
       "pub": {
         "likeCount": 6,
         "grantedPoints": 150,
-        "downloadCount30Days": 555,
+        "downloadCount30Days": 417,
         "lastUpdated": "2025-05-27T12:06:49.072511Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_segmented_control": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 160,
-        "downloadCount30Days": 1046,
+        "grantedPoints": 150,
+        "downloadCount30Days": 1087,
         "lastUpdated": "2025-05-27T12:06:45.237537Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_sf_signaturepad": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 150,
-        "downloadCount30Days": 58,
+        "grantedPoints": 140,
+        "downloadCount30Days": 57,
         "lastUpdated": "2025-05-27T12:06:35.152853Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_shared_prefs": {
       "pub": {
         "likeCount": 1,
         "grantedPoints": 150,
-        "downloadCount30Days": 11,
+        "downloadCount30Days": 17,
         "lastUpdated": "2025-11-10T08:18:06.115548Z"
       }
     },
     "reactive_signature": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 150,
-        "downloadCount30Days": 301,
+        "grantedPoints": 140,
+        "downloadCount30Days": 263,
         "lastUpdated": "2025-05-27T12:06:39.312673Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_sleek_circular_slider": {
       "pub": {
         "likeCount": 5,
-        "grantedPoints": 150,
-        "downloadCount30Days": 31,
+        "grantedPoints": 140,
+        "downloadCount30Days": 82,
         "lastUpdated": "2025-05-27T12:06:19.818528Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_sliding_segmented": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 160,
-        "downloadCount30Days": 222,
+        "grantedPoints": 150,
+        "downloadCount30Days": 486,
         "lastUpdated": "2025-05-27T12:06:31.340466Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_sqflite": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 30,
-        "downloadCount30Days": 9,
+        "downloadCount30Days": 7,
         "lastUpdated": "2019-01-27T08:01:17.750196Z"
       },
       "github": {
@@ -835189,7 +835243,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 110,
-        "downloadCount30Days": 23,
+        "downloadCount30Days": 64,
         "lastUpdated": "2026-02-01T13:06:52.952271Z"
       },
       "github": {
@@ -835202,7 +835256,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 40,
-        "downloadCount30Days": 5,
+        "downloadCount30Days": 11,
         "lastUpdated": "2020-02-06T12:40:46.255466Z"
       },
       "github": {
@@ -835215,7 +835269,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 130,
-        "downloadCount30Days": 4,
+        "downloadCount30Days": 6,
         "lastUpdated": "2023-07-05T18:42:49.000425Z"
       }
     },
@@ -835223,7 +835277,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 130,
-        "downloadCount30Days": 3,
+        "downloadCount30Days": 10,
         "lastUpdated": "2023-10-30T11:25:51.834810Z"
       },
       "github": {
@@ -835236,20 +835290,20 @@
       "pub": {
         "likeCount": 4,
         "grantedPoints": 150,
-        "downloadCount30Days": 59,
+        "downloadCount30Days": 112,
         "lastUpdated": "2025-05-27T12:06:23.733738Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_text_form": {
       "pub": {
         "likeCount": 2,
         "grantedPoints": 120,
-        "downloadCount30Days": 11,
+        "downloadCount30Days": 16,
         "lastUpdated": "2023-05-08T14:50:45.113630Z"
       },
       "github": {
@@ -835262,20 +835316,20 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 80,
-        "downloadCount30Days": 9,
+        "downloadCount30Days": 15,
         "lastUpdated": "2025-05-27T12:06:27.587688Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_theme": {
       "pub": {
         "likeCount": 8,
         "grantedPoints": 150,
-        "downloadCount30Days": 65,
+        "downloadCount30Days": 317,
         "lastUpdated": "2023-08-16T09:30:30.710800Z"
       },
       "github": {
@@ -835287,34 +835341,34 @@
     "reactive_toggle_switch": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 160,
-        "downloadCount30Days": 58,
+        "grantedPoints": 150,
+        "downloadCount30Days": 63,
         "lastUpdated": "2025-05-27T12:06:15.077949Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_touch_spin": {
       "pub": {
         "likeCount": 4,
-        "grantedPoints": 140,
-        "downloadCount30Days": 40,
+        "grantedPoints": 130,
+        "downloadCount30Days": 113,
         "lastUpdated": "2023-01-30T12:36:32.164108Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_validator": {
       "pub": {
         "likeCount": 8,
         "grantedPoints": 160,
-        "downloadCount30Days": 119,
+        "downloadCount30Days": 341,
         "lastUpdated": "2024-09-06T07:47:30.859898Z"
       },
       "github": {
@@ -835326,47 +835380,47 @@
     "reactive_variables": {
       "pub": {
         "likeCount": 8,
-        "grantedPoints": 160,
-        "downloadCount30Days": 10,
+        "grantedPoints": 150,
+        "downloadCount30Days": 29,
         "lastUpdated": "2024-03-20T13:42:00.731666Z"
       },
       "github": {
         "slug": "dronn1k-org/reactive_variables",
         "starCount": 1,
-        "forkCount": 0
+        "forkCount": 1
       }
     },
     "reactive_wechat_assets_picker": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 150,
-        "downloadCount30Days": 17,
+        "grantedPoints": 140,
+        "downloadCount30Days": 32,
         "lastUpdated": "2025-05-27T12:06:10.963387Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_wechat_camera_picker": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 160,
-        "downloadCount30Days": 19,
+        "grantedPoints": 150,
+        "downloadCount30Days": 37,
         "lastUpdated": "2025-05-27T12:06:06.127187Z"
       },
       "github": {
         "slug": "artflutter/reactive_forms_widgets",
         "starCount": 147,
-        "forkCount": 85
+        "forkCount": 86
       }
     },
     "reactive_widgets": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 30,
-        "downloadCount30Days": 7,
+        "downloadCount30Days": 15,
         "lastUpdated": "2019-10-01T15:21:11.843253Z"
       },
       "github": {
@@ -835379,7 +835433,7 @@
       "pub": {
         "likeCount": 44,
         "grantedPoints": 140,
-        "downloadCount30Days": 26,
+        "downloadCount30Days": 90,
         "lastUpdated": "2021-07-18T10:49:41.256642Z"
       },
       "github": {
@@ -835392,7 +835446,7 @@
       "pub": {
         "likeCount": 4,
         "grantedPoints": 40,
-        "downloadCount30Days": 5,
+        "downloadCount30Days": 11,
         "lastUpdated": "2020-08-17T08:39:20.580446Z"
       },
       "github": {
@@ -835405,7 +835459,7 @@
       "pub": {
         "likeCount": 3,
         "grantedPoints": 120,
-        "downloadCount30Days": 344,
+        "downloadCount30Days": 325,
         "lastUpdated": "2025-06-26T04:48:22.108164Z"
       },
       "github": {
@@ -835418,7 +835472,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 140,
-        "downloadCount30Days": 148,
+        "downloadCount30Days": 174,
         "lastUpdated": "2024-12-22T17:37:31.850949Z"
       },
       "github": {
@@ -835431,7 +835485,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 150,
-        "downloadCount30Days": 24,
+        "downloadCount30Days": 26,
         "lastUpdated": "2026-04-23T08:55:40.884097Z"
       },
       "github": {
@@ -835444,7 +835498,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 160,
-        "downloadCount30Days": 19,
+        "downloadCount30Days": 17,
         "lastUpdated": "2026-04-23T08:59:05.113894Z"
       },
       "github": {
@@ -835456,8 +835510,8 @@
     "reacton_devtools": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 160,
-        "downloadCount30Days": 17,
+        "grantedPoints": 150,
+        "downloadCount30Days": 20,
         "lastUpdated": "2026-04-23T09:00:04.517261Z"
       },
       "github": {
@@ -835470,7 +835524,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 150,
-        "downloadCount30Days": 13,
+        "downloadCount30Days": 20,
         "lastUpdated": "2026-04-23T08:59:43.922343Z"
       },
       "github": {
@@ -835483,7 +835537,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 150,
-        "downloadCount30Days": 15,
+        "downloadCount30Days": 19,
         "lastUpdated": "2026-04-23T08:57:58.992557Z"
       },
       "github": {
@@ -835495,8 +835549,8 @@
     "reacton_test": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 160,
-        "downloadCount30Days": 14,
+        "grantedPoints": 150,
+        "downloadCount30Days": 18,
         "lastUpdated": "2026-04-23T09:00:32.234489Z"
       },
       "github": {
@@ -835509,7 +835563,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 15,
-        "downloadCount30Days": 6,
+        "downloadCount30Days": 13,
         "lastUpdated": "2020-04-08T16:44:43.818110Z"
       },
       "github": {
@@ -835522,7 +835576,7 @@
       "pub": {
         "likeCount": 6,
         "grantedPoints": 140,
-        "downloadCount30Days": 14,
+        "downloadCount30Days": 22,
         "lastUpdated": "2025-08-28T09:59:21.653678Z"
       },
       "github": {
@@ -835535,7 +835589,7 @@
       "pub": {
         "likeCount": 60,
         "grantedPoints": 140,
-        "downloadCount30Days": 450,
+        "downloadCount30Days": 560,
         "lastUpdated": "2025-02-25T22:42:53.658922Z"
       },
       "github": {
@@ -835548,7 +835602,7 @@
       "pub": {
         "likeCount": 3,
         "grantedPoints": 130,
-        "downloadCount30Days": 37,
+        "downloadCount30Days": 39,
         "lastUpdated": "2024-08-02T00:23:28.994887Z"
       },
       "github": {
@@ -835561,7 +835615,7 @@
       "pub": {
         "likeCount": 9,
         "grantedPoints": 140,
-        "downloadCount30Days": 13,
+        "downloadCount30Days": 25,
         "lastUpdated": "2021-09-11T11:29:24.700544Z"
       },
       "github": {
@@ -835573,7 +835627,7 @@
     "read_map_matches": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 150,
+        "grantedPoints": 140,
         "downloadCount30Days": 7,
         "lastUpdated": "2026-05-27T01:13:09.212002Z"
       },
@@ -835587,7 +835641,7 @@
       "pub": {
         "likeCount": 11,
         "grantedPoints": 140,
-        "downloadCount30Days": 28,
+        "downloadCount30Days": 70,
         "lastUpdated": "2025-05-28T20:16:07.584408Z"
       },
       "github": {
@@ -835599,8 +835653,8 @@
     "read_more_html": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 160,
-        "downloadCount30Days": 35,
+        "grantedPoints": 150,
+        "downloadCount30Days": 30,
         "lastUpdated": "2026-06-16T11:02:44.193581Z"
       },
       "github": {
@@ -835612,8 +835666,8 @@
     "read_more_less": {
       "pub": {
         "likeCount": 4,
-        "grantedPoints": 160,
-        "downloadCount30Days": 118,
+        "grantedPoints": 150,
+        "downloadCount30Days": 69,
         "lastUpdated": "2024-08-16T10:08:55.149709Z"
       },
       "github": {
@@ -835625,8 +835679,8 @@
     "read_more_plus": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 155,
-        "downloadCount30Days": 6,
+        "grantedPoints": 145,
+        "downloadCount30Days": 20,
         "lastUpdated": "2023-10-14T13:30:43.494469Z"
       },
       "github": {
@@ -835639,7 +835693,7 @@
       "pub": {
         "likeCount": 18,
         "grantedPoints": 150,
-        "downloadCount30Days": 185,
+        "downloadCount30Days": 219,
         "lastUpdated": "2022-11-21T10:24:30.308902Z"
       },
       "github": {
@@ -835651,8 +835705,8 @@
     "read_more_text_plus": {
       "pub": {
         "likeCount": 3,
-        "grantedPoints": 130,
-        "downloadCount30Days": 11,
+        "grantedPoints": 120,
+        "downloadCount30Days": 13,
         "lastUpdated": "2025-06-30T10:54:13.514230Z"
       }
     },
@@ -835660,7 +835714,7 @@
       "pub": {
         "likeCount": 5,
         "grantedPoints": 140,
-        "downloadCount30Days": 16,
+        "downloadCount30Days": 14,
         "lastUpdated": "2025-01-21T07:31:03.368430Z"
       },
       "github": {
@@ -835673,7 +835727,7 @@
       "pub": {
         "likeCount": 10,
         "grantedPoints": 155,
-        "downloadCount30Days": 16,
+        "downloadCount30Days": 53,
         "lastUpdated": "2024-07-13T13:06:34.029896Z"
       },
       "github": {
@@ -835686,7 +835740,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 30,
-        "downloadCount30Days": 11,
+        "downloadCount30Days": 8,
         "lastUpdated": "2020-08-31T04:13:05.387502Z"
       }
     },
@@ -835694,7 +835748,7 @@
       "pub": {
         "likeCount": 5,
         "grantedPoints": 40,
-        "downloadCount30Days": 14,
+        "downloadCount30Days": 27,
         "lastUpdated": "2020-10-28T07:47:42.284580Z"
       },
       "github": {
@@ -835707,7 +835761,7 @@
       "pub": {
         "likeCount": 52,
         "grantedPoints": 140,
-        "downloadCount30Days": 6901,
+        "downloadCount30Days": 6593,
         "lastUpdated": "2025-04-27T12:51:36.536022Z"
       },
       "github": {
@@ -835718,9 +835772,9 @@
     },
     "read_plist": {
       "pub": {
-        "likeCount": 1,
+        "likeCount": 0,
         "grantedPoints": 140,
-        "downloadCount30Days": 7,
+        "downloadCount30Days": 12,
         "lastUpdated": "2024-10-22T04:34:44.292640Z"
       },
       "github": {
@@ -835733,7 +835787,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 15,
-        "downloadCount30Days": 9,
+        "downloadCount30Days": 13,
         "lastUpdated": "2019-02-04T16:53:35.789317Z"
       },
       "github": {
@@ -835746,7 +835800,7 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 130,
-        "downloadCount30Days": 5,
+        "downloadCount30Days": 9,
         "lastUpdated": "2022-11-10T22:04:31.067188Z"
       },
       "github": {
@@ -835759,7 +835813,7 @@
       "pub": {
         "likeCount": 6,
         "grantedPoints": 160,
-        "downloadCount30Days": 35,
+        "downloadCount30Days": 50,
         "lastUpdated": "2024-07-18T00:38:19.776473Z"
       }
     },
@@ -835767,7 +835821,7 @@
       "pub": {
         "likeCount": 13,
         "grantedPoints": 160,
-        "downloadCount30Days": 115,
+        "downloadCount30Days": 169,
         "lastUpdated": "2024-03-04T17:36:51.835546Z"
       },
       "github": {
@@ -835788,7 +835842,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 40,
-        "downloadCount30Days": 9,
+        "downloadCount30Days": 8,
         "lastUpdated": "2020-08-09T15:44:34.536523Z"
       },
       "github": {
@@ -835801,7 +835855,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 130,
-        "downloadCount30Days": 9,
+        "downloadCount30Days": 7,
         "lastUpdated": "2023-11-15T06:51:58.353444Z"
       }
     },
@@ -835809,7 +835863,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 160,
-        "downloadCount30Days": 419,
+        "downloadCount30Days": 1011,
         "lastUpdated": "2026-08-31T23:28:44.451827Z"
       },
       "github": {
@@ -835822,7 +835876,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 110,
-        "downloadCount30Days": 37,
+        "downloadCount30Days": 65,
         "lastUpdated": "2025-09-18T23:20:43.624749Z"
       }
     },
@@ -835830,7 +835884,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 30,
-        "downloadCount30Days": 13,
+        "downloadCount30Days": 28,
         "lastUpdated": "2020-02-27T15:01:17.239665Z"
       },
       "github": {
@@ -835843,15 +835897,15 @@
       "pub": {
         "likeCount": 7,
         "grantedPoints": 135,
-        "downloadCount30Days": 344,
-        "lastUpdated": "2026-09-16T14:12:43.773702Z"
+        "downloadCount30Days": 997,
+        "lastUpdated": "2026-11-09T15:43:41.900518Z"
       }
     },
     "reading_progress": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 160,
-        "downloadCount30Days": 10,
+        "grantedPoints": 150,
+        "downloadCount30Days": 16,
         "lastUpdated": "2026-07-20T05:18:19.846265Z"
       },
       "github": {
@@ -835864,7 +835918,7 @@
       "pub": {
         "likeCount": 27,
         "grantedPoints": 130,
-        "downloadCount30Days": 216,
+        "downloadCount30Days": 271,
         "lastUpdated": "2021-07-29T02:52:46.211258Z"
       },
       "github": {
@@ -835877,7 +835931,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 15,
-        "downloadCount30Days": 4,
+        "downloadCount30Days": 6,
         "lastUpdated": "2020-04-18T16:43:56.494914Z"
       },
       "github": {
@@ -835890,7 +835944,7 @@
       "pub": {
         "likeCount": 6,
         "grantedPoints": 140,
-        "downloadCount30Days": 33,
+        "downloadCount30Days": 43,
         "lastUpdated": "2025-05-03T14:11:54.967185Z"
       },
       "github": {
@@ -835903,33 +835957,33 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 150,
-        "downloadCount30Days": 1503,
+        "downloadCount30Days": 2008,
         "lastUpdated": "2026-07-14T05:23:27.959866Z"
       },
       "github": {
         "slug": "artob/readmer",
-        "starCount": 14,
+        "starCount": 13,
         "forkCount": 2
       }
     },
     "readmore": {
       "pub": {
         "likeCount": 1148,
-        "grantedPoints": 160,
-        "downloadCount30Days": 83445,
+        "grantedPoints": 150,
+        "downloadCount30Days": 137986,
         "lastUpdated": "2024-03-27T23:46:43.720438Z"
       },
       "github": {
         "slug": "jonataslaw/loadmore",
         "starCount": 271,
-        "forkCount": 93
+        "forkCount": 92
       }
     },
     "readmore_expandable_text": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 160,
-        "downloadCount30Days": 10,
+        "grantedPoints": 150,
+        "downloadCount30Days": 14,
         "lastUpdated": "2025-05-19T12:55:11.170026Z"
       },
       "github": {
@@ -835941,8 +835995,8 @@
     "readmore_flutter": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 140,
-        "downloadCount30Days": 101,
+        "grantedPoints": 130,
+        "downloadCount30Days": 57,
         "lastUpdated": "2025-03-01T06:22:55.936779Z"
       },
       "github": {
@@ -835955,7 +836009,7 @@
       "pub": {
         "likeCount": 5,
         "grantedPoints": 160,
-        "downloadCount30Days": 1,
+        "downloadCount30Days": 3,
         "lastUpdated": "2025-07-24T08:21:32.056416Z"
       },
       "github": {
@@ -835968,7 +836022,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 150,
-        "downloadCount30Days": 10,
+        "downloadCount30Days": 14,
         "lastUpdated": "2023-11-16T13:23:45.399049Z"
       }
     },
@@ -835976,7 +836030,7 @@
       "pub": {
         "likeCount": 51,
         "grantedPoints": 150,
-        "downloadCount30Days": 9,
+        "downloadCount30Days": 12,
         "lastUpdated": "2024-09-08T07:35:15.541776Z"
       },
       "github": {
@@ -835989,7 +836043,7 @@
       "pub": {
         "likeCount": 114,
         "grantedPoints": 45,
-        "downloadCount30Days": 379,
+        "downloadCount30Days": 437,
         "lastUpdated": "2024-06-02T20:10:56.163272Z"
       },
       "github": {
@@ -836002,7 +836056,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 45,
-        "downloadCount30Days": 22,
+        "downloadCount30Days": 92,
         "lastUpdated": "2024-06-02T20:15:01.808739Z"
       },
       "github": {
@@ -836015,7 +836069,7 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 135,
-        "downloadCount30Days": 25,
+        "downloadCount30Days": 71,
         "lastUpdated": "2024-06-02T20:14:06.702508Z"
       },
       "github": {
@@ -836028,7 +836082,7 @@
       "pub": {
         "likeCount": 5,
         "grantedPoints": 140,
-        "downloadCount30Days": 45,
+        "downloadCount30Days": 275,
         "lastUpdated": "2023-10-20T19:12:12.365704Z"
       },
       "github": {
@@ -836040,8 +836094,8 @@
     "ready_image": {
       "pub": {
         "likeCount": 5,
-        "grantedPoints": 140,
-        "downloadCount30Days": 24,
+        "grantedPoints": 130,
+        "downloadCount30Days": 60,
         "lastUpdated": "2023-02-09T07:24:32.586518Z"
       },
       "github": {
@@ -836053,8 +836107,8 @@
     "ready_made_calculator": {
       "pub": {
         "likeCount": 4,
-        "grantedPoints": 160,
-        "downloadCount30Days": 11,
+        "grantedPoints": 150,
+        "downloadCount30Days": 50,
         "lastUpdated": "2026-03-23T13:09:36.929544Z"
       },
       "github": {
@@ -836067,7 +836121,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 125,
-        "downloadCount30Days": 11,
+        "downloadCount30Days": 16,
         "lastUpdated": "2025-09-06T15:00:48.588661Z"
       },
       "github": {
@@ -836080,7 +836134,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 150,
-        "downloadCount30Days": 5,
+        "downloadCount30Days": 11,
         "lastUpdated": "2023-05-26T09:04:07.192401Z"
       },
       "github": {
@@ -836093,7 +836147,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 25,
-        "downloadCount30Days": 58,
+        "downloadCount30Days": 210,
         "lastUpdated": "2024-06-02T20:19:02.231334Z"
       },
       "github": {
@@ -836106,7 +836160,7 @@
       "pub": {
         "likeCount": 14,
         "grantedPoints": 45,
-        "downloadCount30Days": 39,
+        "downloadCount30Days": 172,
         "lastUpdated": "2024-06-02T20:17:54.798021Z"
       },
       "github": {
@@ -836118,8 +836172,8 @@
     "ready_view": {
       "pub": {
         "likeCount": 4,
-        "grantedPoints": 145,
-        "downloadCount30Days": 3,
+        "grantedPoints": 135,
+        "downloadCount30Days": 7,
         "lastUpdated": "2024-05-17T13:05:13.553589Z"
       },
       "github": {
@@ -836132,7 +836186,7 @@
       "pub": {
         "likeCount": 4,
         "grantedPoints": 150,
-        "downloadCount30Days": 9,
+        "downloadCount30Days": 14,
         "lastUpdated": "2025-08-24T14:42:13.220239Z"
       },
       "github": {
@@ -836145,7 +836199,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 150,
-        "downloadCount30Days": 60,
+        "downloadCount30Days": 70,
         "lastUpdated": "2026-03-05T06:26:46.859845Z"
       },
       "github": {
@@ -836158,15 +836212,15 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 160,
-        "downloadCount30Days": 10,
+        "downloadCount30Days": 7,
         "lastUpdated": "2025-12-01T05:46:20.886186Z"
       }
     },
     "real_liquid_glass": {
       "pub": {
-        "likeCount": 10,
-        "grantedPoints": 150,
-        "downloadCount30Days": 998,
+        "likeCount": 11,
+        "grantedPoints": 140,
+        "downloadCount30Days": 1666,
         "lastUpdated": "2026-07-11T21:45:17.011132Z"
       },
       "github": {
@@ -836177,22 +836231,22 @@
     },
     "real_page_flip": {
       "pub": {
-        "likeCount": 13,
+        "likeCount": 15,
         "grantedPoints": 150,
-        "downloadCount30Days": 495,
-        "lastUpdated": "2026-08-28T13:52:49.395486Z"
+        "downloadCount30Days": 1680,
+        "lastUpdated": "2026-11-11T10:57:16.918348Z"
       },
       "github": {
         "slug": "ChaPDCha/flutter_real_page_flip",
-        "starCount": 2,
+        "starCount": 4,
         "forkCount": 0
       }
     },
     "real_path_file_selector": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 120,
-        "downloadCount30Days": 13,
+        "grantedPoints": 110,
+        "downloadCount30Days": 25,
         "lastUpdated": "2025-05-14T05:16:11.046898Z"
       },
       "github": {
@@ -836205,7 +836259,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 140,
-        "downloadCount30Days": 24,
+        "downloadCount30Days": 22,
         "lastUpdated": "2026-03-24T06:55:22.859063Z"
       },
       "github": {
@@ -836218,7 +836272,7 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 50,
-        "downloadCount30Days": 9,
+        "downloadCount30Days": 13,
         "lastUpdated": "2023-04-23T15:54:17.974952Z"
       },
       "github": {
@@ -836230,8 +836284,8 @@
     "real_sized_box": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 140,
-        "downloadCount30Days": 11,
+        "grantedPoints": 130,
+        "downloadCount30Days": 22,
         "lastUpdated": "2023-09-23T12:49:43.324262Z"
       }
     },
@@ -836239,7 +836293,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 10,
-        "downloadCount30Days": 8,
+        "downloadCount30Days": 6,
         "lastUpdated": "2019-06-18T02:31:32.643070Z"
       }
     },
@@ -836247,7 +836301,7 @@
       "pub": {
         "likeCount": 19,
         "grantedPoints": 140,
-        "downloadCount30Days": 4,
+        "downloadCount30Days": 30,
         "lastUpdated": "2023-02-11T09:59:45.914505Z"
       },
       "github": {
@@ -836260,7 +836314,7 @@
       "pub": {
         "likeCount": 18,
         "grantedPoints": 150,
-        "downloadCount30Days": 6661,
+        "downloadCount30Days": 6418,
         "lastUpdated": "2024-09-04T10:56:32.041583Z"
       },
       "github": {
@@ -836273,7 +836327,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 40,
-        "downloadCount30Days": 6,
+        "downloadCount30Days": 19,
         "lastUpdated": "2018-12-19T03:30:00.340343Z"
       },
       "github": {
@@ -836286,15 +836340,15 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 150,
-        "downloadCount30Days": 24,
+        "downloadCount30Days": 51,
         "lastUpdated": "2025-07-21T11:19:22.258896Z"
       }
     },
     "realistic_button": {
       "pub": {
         "likeCount": 3,
-        "grantedPoints": 145,
-        "downloadCount30Days": 22,
+        "grantedPoints": 135,
+        "downloadCount30Days": 23,
         "lastUpdated": "2025-04-05T21:06:28.030119Z"
       },
       "github": {
@@ -836307,7 +836361,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 150,
-        "downloadCount30Days": 1,
+        "downloadCount30Days": 6,
         "lastUpdated": "2022-11-02T01:50:41.175271Z"
       },
       "github": {
@@ -836320,12 +836374,12 @@
       "pub": {
         "likeCount": 719,
         "grantedPoints": 150,
-        "downloadCount30Days": 16458,
+        "downloadCount30Days": 17527,
         "lastUpdated": "2025-09-24T14:54:07.342888Z"
       },
       "github": {
         "slug": "realm/realm-dart",
-        "starCount": 792,
+        "starCount": 791,
         "forkCount": 124
       }
     },
@@ -836333,12 +836387,12 @@
       "pub": {
         "likeCount": 3,
         "grantedPoints": 150,
-        "downloadCount30Days": 16983,
+        "downloadCount30Days": 17903,
         "lastUpdated": "2025-09-24T14:54:07.214668Z"
       },
       "github": {
         "slug": "realm/realm-dart",
-        "starCount": 792,
+        "starCount": 791,
         "forkCount": 124
       }
     },
@@ -836346,12 +836400,12 @@
       "pub": {
         "likeCount": 43,
         "grantedPoints": 130,
-        "downloadCount30Days": 16672,
+        "downloadCount30Days": 17584,
         "lastUpdated": "2025-09-24T14:54:07.350090Z"
       },
       "github": {
         "slug": "realm/realm-dart",
-        "starCount": 792,
+        "starCount": 791,
         "forkCount": 124
       }
     },
@@ -836359,7 +836413,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 130,
-        "downloadCount30Days": 14,
+        "downloadCount30Days": 39,
         "lastUpdated": "2025-11-29T13:25:23.351840Z"
       },
       "github": {
@@ -836372,7 +836426,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 95,
-        "downloadCount30Days": 4,
+        "downloadCount30Days": 11,
         "lastUpdated": "2023-06-12T06:03:18.350447Z"
       },
       "github": {
@@ -836385,7 +836439,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 145,
-        "downloadCount30Days": 18,
+        "downloadCount30Days": 41,
         "lastUpdated": "2025-11-29T13:43:11.184057Z"
       },
       "github": {
@@ -836398,12 +836452,12 @@
       "pub": {
         "likeCount": 4,
         "grantedPoints": 130,
-        "downloadCount30Days": 15257,
+        "downloadCount30Days": 15141,
         "lastUpdated": "2025-09-24T14:54:07.298666Z"
       },
       "github": {
         "slug": "realm/realm-dart",
-        "starCount": 792,
+        "starCount": 791,
         "forkCount": 124
       }
     },
@@ -836416,7 +836470,7 @@
       },
       "github": {
         "slug": "ladaninandan/react-native-realm-live-debugger",
-        "starCount": 0,
+        "starCount": 1,
         "forkCount": 0
       }
     },
@@ -836424,7 +836478,7 @@
       "pub": {
         "likeCount": 3,
         "grantedPoints": 130,
-        "downloadCount30Days": 7,
+        "downloadCount30Days": 23,
         "lastUpdated": "2023-04-18T05:58:52.156776Z"
       },
       "github": {
@@ -836450,7 +836504,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 95,
-        "downloadCount30Days": 13,
+        "downloadCount30Days": 12,
         "lastUpdated": "2025-11-06T11:42:59.057158Z"
       }
     },
@@ -836458,12 +836512,12 @@
       "pub": {
         "likeCount": 12,
         "grantedPoints": 150,
-        "downloadCount30Days": 435,
+        "downloadCount30Days": 833,
         "lastUpdated": "2025-11-07T10:37:15.191829Z"
       },
       "github": {
         "slug": "volskaya/realtime_audio.flutter",
-        "starCount": 12,
+        "starCount": 13,
         "forkCount": 8
       }
     },
@@ -836471,7 +836525,7 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 20,
-        "downloadCount30Days": 24,
+        "downloadCount30Days": 30,
         "lastUpdated": "2020-03-06T04:21:23.834970Z"
       },
       "github": {
@@ -836483,8 +836537,8 @@
     "realtime_battery_indicator": {
       "pub": {
         "likeCount": 3,
-        "grantedPoints": 140,
-        "downloadCount30Days": 116,
+        "grantedPoints": 130,
+        "downloadCount30Days": 234,
         "lastUpdated": "2023-10-24T18:17:10.597260Z"
       },
       "github": {
@@ -836497,7 +836551,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 120,
-        "downloadCount30Days": 4,
+        "downloadCount30Days": 9,
         "lastUpdated": "2022-08-17T21:49:36.899239Z"
       }
     },
@@ -836505,20 +836559,20 @@
       "pub": {
         "likeCount": 76,
         "grantedPoints": 140,
-        "downloadCount30Days": 1154995,
-        "lastUpdated": "2026-08-05T08:47:31.985422Z"
+        "downloadCount30Days": 1342956,
+        "lastUpdated": "2026-10-12T09:37:35.060139Z"
       },
       "github": {
         "slug": "supabase/supabase-flutter",
-        "starCount": 1031,
-        "forkCount": 311
+        "starCount": 1050,
+        "forkCount": 312
       }
     },
     "realtime_data_model": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 15,
-        "downloadCount30Days": 25,
+        "downloadCount30Days": 68,
         "lastUpdated": "2016-02-24T21:27:53.228Z"
       },
       "github": {
@@ -836531,7 +836585,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 130,
-        "downloadCount30Days": 15,
+        "downloadCount30Days": 9,
         "lastUpdated": "2025-05-01T18:29:36.292077Z"
       },
       "github": {
@@ -836544,7 +836598,7 @@
       "pub": {
         "likeCount": 4,
         "grantedPoints": 140,
-        "downloadCount30Days": 7,
+        "downloadCount30Days": 9,
         "lastUpdated": "2025-10-17T22:40:19.914078Z"
       },
       "github": {
@@ -836557,7 +836611,7 @@
       "pub": {
         "likeCount": 15,
         "grantedPoints": 125,
-        "downloadCount30Days": 13,
+        "downloadCount30Days": 32,
         "lastUpdated": "2021-04-10T13:18:37.617879Z"
       },
       "github": {
@@ -836570,7 +836624,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 50,
-        "downloadCount30Days": 7,
+        "downloadCount30Days": 8,
         "lastUpdated": "2022-03-23T16:50:20.175600Z"
       },
       "github": {
@@ -836583,7 +836637,7 @@
       "pub": {
         "likeCount": 4,
         "grantedPoints": 40,
-        "downloadCount30Days": 9,
+        "downloadCount30Days": 20,
         "lastUpdated": "2021-03-24T23:15:48.663101Z"
       },
       "github": {
@@ -836596,7 +836650,7 @@
       "pub": {
         "likeCount": 11,
         "grantedPoints": 120,
-        "downloadCount30Days": 7,
+        "downloadCount30Days": 19,
         "lastUpdated": "2022-01-26T05:26:52.584267Z"
       },
       "github": {
@@ -836608,8 +836662,8 @@
     "realtime_whiteboard": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 0,
-        "downloadCount30Days": 8,
+        "grantedPoints": 20,
+        "downloadCount30Days": 21,
         "lastUpdated": "2021-07-16T11:51:39.545336Z"
       }
     },
@@ -836617,7 +836671,7 @@
       "pub": {
         "likeCount": 6,
         "grantedPoints": 120,
-        "downloadCount30Days": 481,
+        "downloadCount30Days": 485,
         "lastUpdated": "2026-04-24T05:43:06.475424Z"
       }
     },
@@ -836625,7 +836679,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 130,
-        "downloadCount30Days": 281,
+        "downloadCount30Days": 340,
         "lastUpdated": "2026-04-24T05:43:01.339070Z"
       }
     },
@@ -836633,7 +836687,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 120,
-        "downloadCount30Days": 223,
+        "downloadCount30Days": 101,
         "lastUpdated": "2026-04-24T05:42:56.235824Z"
       }
     },
@@ -836641,7 +836695,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 120,
-        "downloadCount30Days": 583,
+        "downloadCount30Days": 573,
         "lastUpdated": "2026-04-24T05:42:51.280444Z"
       }
     },
@@ -836649,7 +836703,7 @@
       "pub": {
         "likeCount": 4,
         "grantedPoints": 120,
-        "downloadCount30Days": 184,
+        "downloadCount30Days": 288,
         "lastUpdated": "2026-04-24T09:41:56.008509Z"
       }
     },
@@ -836657,7 +836711,7 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 130,
-        "downloadCount30Days": 25,
+        "downloadCount30Days": 30,
         "lastUpdated": "2025-09-26T04:59:21.878443Z"
       }
     },
@@ -836665,7 +836719,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 120,
-        "downloadCount30Days": 24,
+        "downloadCount30Days": 32,
         "lastUpdated": "2025-09-26T05:01:11.095764Z"
       }
     },
@@ -836673,7 +836727,7 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 130,
-        "downloadCount30Days": 17,
+        "downloadCount30Days": 23,
         "lastUpdated": "2025-09-26T05:03:11.324787Z"
       }
     },
@@ -836681,15 +836735,15 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 120,
-        "downloadCount30Days": 24,
+        "downloadCount30Days": 31,
         "lastUpdated": "2025-09-26T04:56:43.501635Z"
       }
     },
     "realworld_core": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 120,
-        "downloadCount30Days": 4,
+        "grantedPoints": 110,
+        "downloadCount30Days": 7,
         "lastUpdated": "2023-10-17T05:37:33.764061Z"
       }
     },
@@ -836697,7 +836751,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 120,
-        "downloadCount30Days": 22,
+        "downloadCount30Days": 44,
         "lastUpdated": "2022-04-02T09:44:43.339984Z"
       }
     },
@@ -836705,41 +836759,66 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 120,
-        "downloadCount30Days": 76,
+        "downloadCount30Days": 54,
         "lastUpdated": "2025-01-07T06:03:24.556374Z"
       }
     },
     "rearch": {
       "pub": {
-        "likeCount": 65,
+        "likeCount": 66,
         "grantedPoints": 150,
-        "downloadCount30Days": 319,
+        "downloadCount30Days": 713,
         "lastUpdated": "2025-04-22T23:57:24.555895Z"
       },
       "github": {
         "slug": "GregoryConrad/rearch-dart",
         "starCount": 148,
-        "forkCount": 7
+        "forkCount": 8
       }
     },
     "reaxdb_dart": {
       "pub": {
         "likeCount": 48,
-        "grantedPoints": 70,
-        "downloadCount30Days": 54,
-        "lastUpdated": "2026-08-05T15:03:25.251334Z"
+        "grantedPoints": 160,
+        "downloadCount30Days": 133,
+        "lastUpdated": "2026-11-20T17:28:28.026116Z"
       },
       "github": {
-        "slug": "dvillegastech/Reax-BD",
+        "slug": "dvxlabs520/Reax-BD",
         "starCount": 7,
         "forkCount": 1
+      }
+    },
+    "reaxdb_flutter": {
+      "pub": {
+        "likeCount": 1,
+        "grantedPoints": 160,
+        "downloadCount30Days": 28,
+        "lastUpdated": "2026-11-20T17:34:49.174421Z"
+      },
+      "github": {
+        "slug": "dvxlabs520/reaxdb_flutter",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
+    "reaxdb_migrate": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "lastUpdated": "2026-11-20T17:34:43.082625Z"
+      },
+      "github": {
+        "slug": "dvxlabs520/reaxdb_migrate",
+        "starCount": 0,
+        "forkCount": 0
       }
     },
     "rebellion": {
       "pub": {
         "likeCount": 8,
         "grantedPoints": 140,
-        "downloadCount30Days": 757,
+        "downloadCount30Days": 677,
         "lastUpdated": "2025-03-18T11:53:42.568196Z"
       },
       "github": {
@@ -836751,8 +836830,8 @@
     "rebi_google_maps_webservice": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 45,
-        "downloadCount30Days": 6,
+        "grantedPoints": 115,
+        "downloadCount30Days": 20,
         "lastUpdated": "2024-06-20T14:05:41.617919Z"
       },
       "github": {
@@ -836764,8 +836843,8 @@
     "rebi_tools": {
       "pub": {
         "likeCount": 1,
-        "grantedPoints": 130,
-        "downloadCount30Days": 9,
+        "grantedPoints": 120,
+        "downloadCount30Days": 13,
         "lastUpdated": "2021-12-21T08:56:46.876590Z"
       }
     },
@@ -836773,15 +836852,15 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 125,
-        "downloadCount30Days": 451,
+        "downloadCount30Days": 720,
         "lastUpdated": "2024-06-12T02:27:21.822189Z"
       }
     },
     "rebirth": {
       "pub": {
         "likeCount": 12,
-        "grantedPoints": 150,
-        "downloadCount30Days": 182,
+        "grantedPoints": 140,
+        "downloadCount30Days": 173,
         "lastUpdated": "2022-07-30T08:13:57.265245Z"
       },
       "github": {
@@ -836794,7 +836873,7 @@
       "pub": {
         "likeCount": 16,
         "grantedPoints": 140,
-        "downloadCount30Days": 234,
+        "downloadCount30Days": 320,
         "lastUpdated": "2021-03-07T01:30:42.028081Z"
       },
       "github": {
@@ -836807,7 +836886,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 10,
-        "downloadCount30Days": 5,
+        "downloadCount30Days": 10,
         "lastUpdated": "2014-07-07T20:23:17.784760Z"
       },
       "github": {
@@ -836820,7 +836899,7 @@
       "pub": {
         "likeCount": 4,
         "grantedPoints": 140,
-        "downloadCount30Days": 4,
+        "downloadCount30Days": 14,
         "lastUpdated": "2022-01-27T05:36:35.525640Z"
       },
       "github": {
@@ -836833,7 +836912,7 @@
       "pub": {
         "likeCount": 4,
         "grantedPoints": 160,
-        "downloadCount30Days": 264,
+        "downloadCount30Days": 192,
         "lastUpdated": "2026-07-08T03:05:53.105135Z"
       },
       "github": {
@@ -836846,7 +836925,7 @@
       "pub": {
         "likeCount": 4,
         "grantedPoints": 140,
-        "downloadCount30Days": 25,
+        "downloadCount30Days": 95,
         "lastUpdated": "2026-01-05T12:41:38.650801Z"
       },
       "github": {
@@ -836855,11 +836934,24 @@
         "forkCount": 0
       }
     },
+    "rebuildcop": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 681,
+        "lastUpdated": "2026-11-01T16:15:43.508689Z"
+      },
+      "github": {
+        "slug": "saimskywalker/rebuildcop",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "rebuilder": {
       "pub": {
         "likeCount": 3,
         "grantedPoints": 40,
-        "downloadCount30Days": 7,
+        "downloadCount30Days": 24,
         "lastUpdated": "2019-06-08T16:32:11.306481Z"
       },
       "github": {
@@ -836872,7 +836964,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 110,
-        "downloadCount30Days": 75,
+        "downloadCount30Days": 467,
         "lastUpdated": "2023-11-06T10:14:22.998583Z"
       }
     },
@@ -836880,7 +836972,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 20,
-        "downloadCount30Days": 5,
+        "downloadCount30Days": 7,
         "lastUpdated": "2014-08-31T14:08:59.199060Z"
       },
       "github": {
@@ -836893,20 +836985,20 @@
       "pub": {
         "likeCount": 55,
         "grantedPoints": 150,
-        "downloadCount30Days": 131870,
-        "lastUpdated": "2026-09-09T20:19:12.395449Z"
+        "downloadCount30Days": 154734,
+        "lastUpdated": "2026-11-06T15:49:01.918406Z"
       },
       "github": {
         "slug": "GoogleCloudPlatform/recaptcha-enterprise-flutter",
         "starCount": 32,
-        "forkCount": 18
+        "forkCount": 21
       }
     },
     "recaptcha_facade": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 30,
-        "downloadCount30Days": 3,
+        "downloadCount30Days": 7,
         "lastUpdated": "2018-01-14T21:51:43.952587Z"
       },
       "github": {
@@ -836918,8 +837010,8 @@
     "recaptcha_v3": {
       "pub": {
         "likeCount": 4,
-        "grantedPoints": 160,
-        "downloadCount30Days": 2733,
+        "grantedPoints": 150,
+        "downloadCount30Days": 1765,
         "lastUpdated": "2026-01-15T17:00:58.450703Z"
       },
       "github": {
@@ -836931,8 +837023,8 @@
     "recaptcha_v3_flutter": {
       "pub": {
         "likeCount": 0,
-        "grantedPoints": 150,
-        "downloadCount30Days": 24,
+        "grantedPoints": 140,
+        "downloadCount30Days": 13,
         "lastUpdated": "2025-10-06T18:43:08.079424Z"
       },
       "github": {
@@ -836945,7 +837037,7 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 40,
-        "downloadCount30Days": 8,
+        "downloadCount30Days": 14,
         "lastUpdated": "2019-09-10T19:00:13.941677Z"
       },
       "github": {
@@ -836956,22 +837048,22 @@
     },
     "recase": {
       "pub": {
-        "likeCount": 371,
+        "likeCount": 370,
         "grantedPoints": 150,
-        "downloadCount30Days": 2386010,
+        "downloadCount30Days": 2953130,
         "lastUpdated": "2022-09-26T18:51:03.275187Z"
       },
       "github": {
         "slug": "techniboogie-dart/recase",
         "starCount": 104,
-        "forkCount": 15
+        "forkCount": 16
       }
     },
     "recase_string_extension": {
       "pub": {
         "likeCount": 0,
         "grantedPoints": 15,
-        "downloadCount30Days": 5,
+        "downloadCount30Days": 7,
         "lastUpdated": "2020-01-01T08:46:09.351815Z"
       },
       "github": {
@@ -836984,7 +837076,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 140,
-        "downloadCount30Days": 22,
+        "downloadCount30Days": 17,
         "lastUpdated": "2026-02-26T23:27:15.838385Z"
       },
       "github": {
@@ -836997,7 +837089,7 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 120,
-        "downloadCount30Days": 17,
+        "downloadCount30Days": 42,
         "lastUpdated": "2024-03-12T14:35:39.480543Z"
       },
       "github": {
@@ -837010,7 +837102,7 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 120,
-        "downloadCount30Days": 30,
+        "downloadCount30Days": 33,
         "lastUpdated": "2022-04-10T09:39:04.474894Z"
       },
       "github": {
@@ -837023,7 +837115,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 160,
-        "downloadCount30Days": 425,
+        "downloadCount30Days": 56,
         "lastUpdated": "2026-09-13T17:11:12.377179Z"
       },
       "github": {
@@ -837036,7 +837128,7 @@
       "pub": {
         "likeCount": 4,
         "grantedPoints": 130,
-        "downloadCount30Days": 71,
+        "downloadCount30Days": 420,
         "lastUpdated": "2024-09-03T10:48:51.619749Z"
       },
       "github": {
@@ -837047,14 +837139,14 @@
     },
     "receipt_printer": {
       "pub": {
-        "likeCount": 4,
-        "grantedPoints": 160,
-        "downloadCount30Days": 49,
+        "likeCount": 7,
+        "grantedPoints": 150,
+        "downloadCount30Days": 37,
         "lastUpdated": "2026-08-29T17:21:12.374275Z"
       },
       "github": {
         "slug": "ariaramin/receipt_printer",
-        "starCount": 2,
+        "starCount": 3,
         "forkCount": 1
       }
     },
@@ -837062,7 +837154,7 @@
       "pub": {
         "likeCount": 6,
         "grantedPoints": 130,
-        "downloadCount30Days": 40,
+        "downloadCount30Days": 47,
         "lastUpdated": "2024-12-06T08:07:47.086622Z"
       },
       "github": {
@@ -837073,9 +837165,9 @@
     },
     "receipt_recognition": {
       "pub": {
-        "likeCount": 5,
+        "likeCount": 6,
         "grantedPoints": 150,
-        "downloadCount30Days": 176,
+        "downloadCount30Days": 446,
         "lastUpdated": "2026-06-02T06:38:09.531955Z"
       },
       "github": {
@@ -837088,7 +837180,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 140,
-        "downloadCount30Days": 8,
+        "downloadCount30Days": 10,
         "lastUpdated": "2026-07-16T00:15:37.975473Z"
       }
     },
@@ -837096,7 +837188,7 @@
       "pub": {
         "likeCount": 6,
         "grantedPoints": 40,
-        "downloadCount30Days": 3,
+        "downloadCount30Days": 8,
         "lastUpdated": "2019-02-19T03:41:11.110525Z"
       },
       "github": {
@@ -837109,7 +837201,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 140,
-        "downloadCount30Days": 8,
+        "downloadCount30Days": 21,
         "lastUpdated": "2026-07-16T15:30:36.790098Z"
       },
       "github": {
@@ -837122,46 +837214,46 @@
       "pub": {
         "likeCount": 67,
         "grantedPoints": 150,
-        "downloadCount30Days": 16237,
+        "downloadCount30Days": 20383,
         "lastUpdated": "2026-08-19T09:38:08.321213Z"
       },
       "github": {
         "slug": "daadu/receive_intent",
         "starCount": 17,
-        "forkCount": 36
+        "forkCount": 35
       }
     },
     "receive_multi_sharing_intent": {
       "pub": {
         "likeCount": 7,
         "grantedPoints": 130,
-        "downloadCount30Days": 10,
+        "downloadCount30Days": 13,
         "lastUpdated": "2021-07-22T05:51:57.312239Z"
       },
       "github": {
         "slug": "KasemJaffer/receive_sharing_intent",
-        "starCount": 378,
-        "forkCount": 565
+        "starCount": 377,
+        "forkCount": 570
       }
     },
     "receive_sharing_intent": {
       "pub": {
-        "likeCount": 805,
+        "likeCount": 810,
         "grantedPoints": 150,
-        "downloadCount30Days": 150743,
+        "downloadCount30Days": 171057,
         "lastUpdated": "2026-06-24T22:10:16.281163Z"
       },
       "github": {
         "slug": "KasemJaffer/receive_sharing_intent",
-        "starCount": 378,
-        "forkCount": 565
+        "starCount": 377,
+        "forkCount": 570
       }
     },
     "receive_sharing_intent_ohos": {
       "pub": {
         "likeCount": 1,
         "grantedPoints": 110,
-        "downloadCount30Days": 12,
+        "downloadCount30Days": 10,
         "lastUpdated": "2024-12-03T12:15:34.485483Z"
       }
     },
@@ -837169,7 +837261,7 @@
       "pub": {
         "likeCount": 13,
         "grantedPoints": 150,
-        "downloadCount30Days": 79,
+        "downloadCount30Days": 57,
         "lastUpdated": "2023-12-10T19:53:30.073156Z"
       },
       "github": {
@@ -837182,7 +837274,7 @@
       "pub": {
         "likeCount": 1,
         "grantedPoints": 140,
-        "downloadCount30Days": 4,
+        "downloadCount30Days": 9,
         "lastUpdated": "2024-02-05T14:41:51.322773Z"
       },
       "github": {
@@ -837195,7 +837287,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 150,
-        "downloadCount30Days": 28,
+        "downloadCount30Days": 79,
         "lastUpdated": "2026-06-28T10:44:38.953565Z"
       },
       "github": {
@@ -837207,8 +837299,8 @@
     "receive_whatsapp_chat": {
       "pub": {
         "likeCount": 35,
-        "grantedPoints": 160,
-        "downloadCount30Days": 126,
+        "grantedPoints": 150,
+        "downloadCount30Days": 130,
         "lastUpdated": "2026-09-26T13:57:50.399913Z"
       },
       "github": {
@@ -837220,8 +837312,8 @@
     "recent_roll_drawer": {
       "pub": {
         "likeCount": 2,
-        "grantedPoints": 150,
-        "downloadCount30Days": 7,
+        "grantedPoints": 140,
+        "downloadCount30Days": 8,
         "lastUpdated": "2026-02-12T11:51:20.753253Z"
       },
       "github": {
@@ -837230,11 +837322,24 @@
         "forkCount": 0
       }
     },
+    "reception_flutter": {
+      "pub": {
+        "likeCount": 0,
+        "grantedPoints": 160,
+        "downloadCount30Days": 879,
+        "lastUpdated": "2026-11-12T17:05:15.325531Z"
+      },
+      "github": {
+        "slug": "reception-sh/reception-flutter",
+        "starCount": 0,
+        "forkCount": 0
+      }
+    },
     "recharge": {
       "pub": {
         "likeCount": 6,
         "grantedPoints": 110,
-        "downloadCount30Days": 7,
+        "downloadCount30Days": 19,
         "lastUpdated": "2022-04-21T03:46:54.918520Z"
       },
       "github": {
@@ -837247,7 +837352,7 @@
       "pub": {
         "likeCount": 0,
         "grantedPoints": 150,
-        "downloadCount30Days": 54,
+        "downloadCount30Days": 13,
         "lastUpdated": "2026-09-30T14:26:43.068197Z"
       },
       "github": {
@@ -837260,26 +837365,26 @@
       "pub": {
         "likeCount": 2,
         "grantedPoints": 130,
-        "downloadCount30Days": 46,
+        "downloadCount30Days": 55,
         "lastUpdated": "2022-09-20T13:15:22.320907Z"
       },
       "github": {
         "slug": "mensch272/rechron",
         "starCount": 6,
-        "forkCount": 0
+        "forkCount": 1
       }
     },
     "rechron_core": {
       "pub": {
         "likeCount": 1,
         "grantedPoints": 130,
-        "downloadCount30Days": 47,
+        "downloadCount30Days": 41,
         "lastUpdated": "2022-09-20T13:14:02.467586Z"
       },
       "github": {
         "slug": "mensch272/rechron",
         "starCount": 6,
-        "forkCount": 0
+        "forkCount": 1
       }
     },
     "recipe_card_stack": {
@@ -938290,14 +938395,6 @@
         "slug": "variantxx/spectrum-seekbar",
         "starCount": 1,
         "forkCount": 0
-      }
-    },
-    "spectus_in_app_purchase": {
-      "pub": {
-        "likeCount": 0,
-        "grantedPoints": 120,
-        "downloadCount30Days": 181,
-        "lastUpdated": "2024-02-16T13:00:11.474503Z"
       }
     },
     "spectus_paykun": {
@@ -1103799,7 +1103896,7 @@
     }
   },
   "lastUpdate": {
-    "endIndex": 71922,
-    "date": "2026-11-20T22:26:00.826769Z"
+    "endIndex": 72422,
+    "date": "2026-11-21T04:42:33.967316Z"
   }
 }
